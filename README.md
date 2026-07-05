@@ -1,8 +1,14 @@
 # 📡 2027 SWE Radar
 
 Automated daily scanner for **2027 new-grad software engineering** openings.
-Last scan: **2026-07-05** · Tracking **10** matching postings · 🆕 **0** new today
+Last scan: **2026-07-05** · Tracking **11** matching postings · 🆕 **1** new today
 Only showing **US** postings from **2026-07-01** onward, newest first.
+
+## 🆕 New today
+
+| Company | Role | Location | Posted | Apply |
+|---|---|---|---|---|
+| **Notion** | Technical Recruiter, Early Career | New York, New York | 2026-07-01 | [Link](https://jobs.ashbyhq.com/notion/e3e0c9e9-4c9a-4390-b713-27d465bce2f1) |
 
 ## 🎯 Explicit 2027 openings
 
@@ -22,7 +28,8 @@ _No postings explicitly mentioning 2027 yet._
 | IXL Learning | Software Engineer New Grad | Raleigh, NC | 2026-07-02 | [Link](https://www.ixl.com/company/jobs?gh_jid=8615717002) |
 | Samsara | Software Engineer II, AI Platform | Remote - CA | 2026-07-02 | [Link](https://www.samsara.com/company/careers/roles/7619925?gh_jid=7619925) |
 | Confido | Software Engineer New Grad | NYC | 2026-07-01 | [Link](https://jobs.ashbyhq.com/confido/69c0e572-b2f4-442f-beb8-1240155c629e/application) |
+| Notion | Technical Recruiter, Early Career | New York, New York | 2026-07-01 | [Link](https://jobs.ashbyhq.com/notion/e3e0c9e9-4c9a-4390-b713-27d465bce2f1) |
 
 ---
-_Sources: SimplifyJobs New-Grad-Positions, Greenhouse boards._
-_Built with a daily GitHub Actions workflow._
+_Sources: SimplifyJobs New-Grad-Positions, Greenhouse/Lever/Ashby boards, Adzuna aggregator._
+_Scanned ~10× daily by a GitHub Actions workflow._

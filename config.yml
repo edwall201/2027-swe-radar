@@ -34,3 +34,15 @@ greenhouse_boards:
   - duolingo
   - samsara
   - cloudflare
+
+# Companies with public Lever boards: jobs.lever.co/<slug>
+lever_boards:
+  - palantir
+  - plaid
+
+# Companies with public Ashby boards: jobs.ashbyhq.com/<slug>
+ashby_boards:
+  - openai
+  - ramp
+  - linear
+  - notion

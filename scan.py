@@ -5,6 +5,10 @@
 Sources:
   1. SimplifyJobs New-Grad-Positions (community-maintained JSON)
   2. Greenhouse public job boards for a configurable company watchlist
+  3. Lever public job boards (same watchlist pattern)
+  4. Ashby public job boards (same watchlist pattern)
+  5. Adzuna aggregator (optional — needs ADZUNA_APP_ID/ADZUNA_APP_KEY env vars;
+     free key at https://developer.adzuna.com)
 
 Each run:
   - fetches + filters listings by keywords in config.yml
@@ -14,8 +18,10 @@ Each run:
 """
 
 import json
+import os
 import re
 import sys
+import urllib.parse
 import urllib.request
 from datetime import date, datetime, timezone
 from pathlib import Path
@@ -31,6 +37,13 @@ SIMPLIFY_URL = (
     "New-Grad-Positions/dev/.github/scripts/listings.json"
 )
 GREENHOUSE_URL = "https://boards-api.greenhouse.io/v1/boards/{board}/jobs"
+LEVER_URL = "https://api.lever.co/v0/postings/{board}?mode=json"
+ASHBY_URL = "https://api.ashbyhq.com/posting-api/job-board/{board}"
+ADZUNA_URL = (
+    "https://api.adzuna.com/v1/api/jobs/us/search/1"
+    "?app_id={app_id}&app_key={app_key}&results_per_page=50"
+    "&max_days_old=30&what={what}&what_or={what_or}"
+)
 
 
 def fetch_json(url):
@@ -114,6 +127,52 @@ def normalize_greenhouse(job, company):
     }
 
 
+def normalize_lever(job, company):
+    loc = job.get("categories", {}).get("location", "")
+    posted_ms = job.get("createdAt", 0)
+    return {
+        "id": f"lever-{company}-{job['id']}",
+        "company": company.title(),
+        "title": job.get("text", ""),
+        "locations": [loc] if loc else [],
+        "url": job.get("hostedUrl", ""),
+        "sponsorship": "",
+        "posted": datetime.fromtimestamp(
+            posted_ms / 1000, tz=timezone.utc
+        ).strftime("%Y-%m-%d"),
+        "source": "Lever",
+    }
+
+
+def normalize_ashby(job, company):
+    locs = [job.get("location", "")]
+    locs += [s.get("location", "") for s in job.get("secondaryLocations", [])]
+    return {
+        "id": f"ashby-{company}-{job['id']}",
+        "company": company.title(),
+        "title": job.get("title", ""),
+        "locations": [loc for loc in locs if loc],
+        "url": job.get("jobUrl", ""),
+        "sponsorship": "",
+        "posted": (job.get("publishedAt") or "")[:10],
+        "source": "Ashby",
+    }
+
+
+def normalize_adzuna(item):
+    loc = item.get("location", {}).get("display_name", "")
+    return {
+        "id": f"adzuna-{item['id']}",
+        "company": item.get("company", {}).get("display_name", ""),
+        "title": item.get("title", ""),
+        "locations": [loc] if loc else [],
+        "url": item.get("redirect_url", ""),
+        "sponsorship": "",
+        "posted": (item.get("created") or "")[:10],
+        "source": "Adzuna",
+    }
+
+
 def scan_simplify(cfg):
     kw = cfg["keywords"]
     results = []
@@ -143,6 +202,64 @@ def scan_greenhouse(cfg):
         for job in payload.get("jobs", []):
             if matches(job.get("title", ""), kw["include"], kw.get("exclude", [])):
                 results.append(normalize_greenhouse(job, board))
+    return results
+
+
+def scan_lever(cfg):
+    kw = cfg["keywords"]
+    results = []
+    for board in cfg.get("lever_boards", []):
+        try:
+            postings = fetch_json(LEVER_URL.format(board=board))
+        except Exception as e:
+            print(f"[warn] Lever '{board}' failed: {e}", file=sys.stderr)
+            continue
+        for job in postings:
+            if matches(job.get("text", ""), kw["include"], kw.get("exclude", [])):
+                results.append(normalize_lever(job, board))
+    return results
+
+
+def scan_ashby(cfg):
+    kw = cfg["keywords"]
+    results = []
+    for board in cfg.get("ashby_boards", []):
+        try:
+            payload = fetch_json(ASHBY_URL.format(board=board))
+        except Exception as e:
+            print(f"[warn] Ashby '{board}' failed: {e}", file=sys.stderr)
+            continue
+        for job in payload.get("jobs", []):
+            if not job.get("isListed", True):
+                continue
+            if matches(job.get("title", ""), kw["include"], kw.get("exclude", [])):
+                results.append(normalize_ashby(job, board))
+    return results
+
+
+def scan_adzuna(cfg):
+    app_id = os.environ.get("ADZUNA_APP_ID")
+    app_key = os.environ.get("ADZUNA_APP_KEY")
+    if not app_id or not app_key:
+        print("[info] Adzuna skipped — ADZUNA_APP_ID/ADZUNA_APP_KEY not set",
+              file=sys.stderr)
+        return []
+    kw = cfg["keywords"]
+    url = ADZUNA_URL.format(
+        app_id=app_id,
+        app_key=app_key,
+        what=urllib.parse.quote("software engineer"),
+        what_or=urllib.parse.quote("2027 grad graduate entry junior"),
+    )
+    results = []
+    try:
+        payload = fetch_json(url)
+    except Exception as e:
+        print(f"[warn] Adzuna fetch failed: {e}", file=sys.stderr)
+        return results
+    for item in payload.get("results", []):
+        if matches(item.get("title", ""), kw["include"], kw.get("exclude", [])):
+            results.append(normalize_adzuna(item))
     return results
 
 
@@ -184,8 +301,10 @@ def build_readme(all_jobs, new_jobs, today, min_posted):
     lines.append("")
     lines += ["## All tracked postings (most recent 50)", ""]
     lines += table(newest_first(all_jobs)[:50])
-    lines += ["", "---", "_Sources: SimplifyJobs New-Grad-Positions, Greenhouse boards._",
-              "_Built with a daily GitHub Actions workflow._"]
+    lines += ["", "---",
+              "_Sources: SimplifyJobs New-Grad-Positions, Greenhouse/Lever/Ashby"
+              " boards, Adzuna aggregator._",
+              "_Scanned ~10× daily by a GitHub Actions workflow._"]
     (ROOT / "README.md").write_text("\n".join(lines))
 
 
@@ -195,7 +314,8 @@ def main():
     DATA_DIR.mkdir(exist_ok=True)
 
     min_posted = str(cfg.get("min_posted", "2026-07-01"))
-    jobs = scan_simplify(cfg) + scan_greenhouse(cfg)
+    jobs = (scan_simplify(cfg) + scan_greenhouse(cfg) + scan_lever(cfg)
+            + scan_ashby(cfg) + scan_adzuna(cfg))
     jobs = [j for j in jobs if j["posted"] >= min_posted]
     if cfg.get("us_only", True):
         jobs = filter_us(jobs)

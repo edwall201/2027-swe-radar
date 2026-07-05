@@ -1,12 +1,18 @@
-name: Daily 2027 SWE scan
+name: 2027 SWE scan
 
 on:
   schedule:
-    - cron: '30 23 * * *'   # 23:30 UTC = 07:30 Taiwan time
+    # 10 runs/day, roughly every 2.5h. Minute :17 avoids GitHub's
+    # congested top-of-hour cron slots.
+    - cron: '17 0,2,5,7,10,12,14,17,19,22 * * *'
   workflow_dispatch:         # manual trigger button
 
 permissions:
   contents: write
+
+concurrency:
+  group: swe-scan
+  cancel-in-progress: false
 
 jobs:
   scan:
@@ -28,6 +34,11 @@ jobs:
 
       - name: Run scanner
         id: scan
+        env:
+          # Optional: enables the Adzuna aggregator source.
+          # Free key at https://developer.adzuna.com — save both as repo secrets.
+          ADZUNA_APP_ID: ${{ secrets.ADZUNA_APP_ID }}
+          ADZUNA_APP_KEY: ${{ secrets.ADZUNA_APP_KEY }}
         run: |
           MSG=$(python scan.py)
           echo "msg=$MSG" >> "$GITHUB_OUTPUT"
