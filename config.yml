@@ -8,6 +8,13 @@ min_posted: "2026-07-01"
 us_only: true
 
 keywords:
+  # Title must contain at least one of these — keeps recruiter/sales/etc.
+  # roles from full company boards out of the radar.
+  require:
+    - "software"
+    - "engineer"
+    - "developer"
+    - "swe"
   include:
     - "2027"
     - "new grad"

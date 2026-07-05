@@ -91,11 +91,14 @@ def filter_us(jobs):
     return kept
 
 
-def matches(text, includes, excludes):
+def matches(text, kw):
     t = text.lower()
-    if excludes and any(x.lower() in t for x in excludes):
+    if any(x.lower() in t for x in kw.get("exclude", [])):
         return False
-    return any(k.lower() in t for k in includes)
+    require = kw.get("require", [])
+    if require and not any(r.lower() in t for r in require):
+        return False
+    return any(k.lower() in t for k in kw["include"])
 
 
 def normalize_simplify(item):
@@ -185,7 +188,7 @@ def scan_simplify(cfg):
         if not item.get("active") or not item.get("is_visible"):
             continue
         text = item.get("title", "")
-        if matches(text, kw["include"], kw.get("exclude", [])):
+        if matches(text, kw):
             results.append(normalize_simplify(item))
     return results
 
@@ -200,7 +203,7 @@ def scan_greenhouse(cfg):
             print(f"[warn] Greenhouse '{board}' failed: {e}", file=sys.stderr)
             continue
         for job in payload.get("jobs", []):
-            if matches(job.get("title", ""), kw["include"], kw.get("exclude", [])):
+            if matches(job.get("title", ""), kw):
                 results.append(normalize_greenhouse(job, board))
     return results
 
@@ -215,7 +218,7 @@ def scan_lever(cfg):
             print(f"[warn] Lever '{board}' failed: {e}", file=sys.stderr)
             continue
         for job in postings:
-            if matches(job.get("text", ""), kw["include"], kw.get("exclude", [])):
+            if matches(job.get("text", ""), kw):
                 results.append(normalize_lever(job, board))
     return results
 
@@ -232,7 +235,7 @@ def scan_ashby(cfg):
         for job in payload.get("jobs", []):
             if not job.get("isListed", True):
                 continue
-            if matches(job.get("title", ""), kw["include"], kw.get("exclude", [])):
+            if matches(job.get("title", ""), kw):
                 results.append(normalize_ashby(job, board))
     return results
 
@@ -258,7 +261,7 @@ def scan_adzuna(cfg):
         print(f"[warn] Adzuna fetch failed: {e}", file=sys.stderr)
         return results
     for item in payload.get("results", []):
-        if matches(item.get("title", ""), kw["include"], kw.get("exclude", [])):
+        if matches(item.get("title", ""), kw):
             results.append(normalize_adzuna(item))
     return results
 

@@ -49,18 +49,6 @@
     "source": "SimplifyJobs"
   },
   {
-    "id": "simplify-7664cd86-6c33-4b8e-9a6b-09632c6b3cfa",
-    "company": "WSP",
-    "title": "Early Career GIS Analyst",
-    "locations": [
-      "Phoenix, AZ"
-    ],
-    "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/88977",
-    "sponsorship": "Other",
-    "posted": "2026-07-02",
-    "source": "SimplifyJobs"
-  },
-  {
     "id": "simplify-f371f88f-bf02-4587-b06e-dac064ec3ffd",
     "company": "Bot Auto",
     "title": "Machine Learning/Deep Learning Engineer New Grad",
@@ -120,17 +108,5 @@
     "sponsorship": "Other",
     "posted": "2026-07-01",
     "source": "SimplifyJobs"
-  },
-  {
-    "id": "ashby-notion-e3e0c9e9-4c9a-4390-b713-27d465bce2f1",
-    "company": "Notion",
-    "title": "Technical Recruiter, Early Career",
-    "locations": [
-      "New York, New York"
-    ],
-    "url": "https://jobs.ashbyhq.com/notion/e3e0c9e9-4c9a-4390-b713-27d465bce2f1",
-    "sponsorship": "",
-    "posted": "2026-07-01",
-    "source": "Ashby"
   }
 ]
