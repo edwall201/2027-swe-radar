@@ -1,0 +1,42 @@
+name: Daily 2027 SWE scan
+
+on:
+  schedule:
+    - cron: '30 23 * * *'   # 23:30 UTC = 07:30 Taiwan time
+  workflow_dispatch:         # manual trigger button
+
+permissions:
+  contents: write
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          # Use a PAT so the commit counts toward your contribution graph.
+          # Create a fine-grained token (repo: contents read/write) and save
+          # it as a repository secret named RADAR_PAT.
+          token: ${{ secrets.RADAR_PAT }}
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install pyyaml
+
+      - name: Run scanner
+        id: scan
+        run: |
+          MSG=$(python scan.py)
+          echo "msg=$MSG" >> "$GITHUB_OUTPUT"
+
+      - name: Commit and push
+        run: |
+          git config user.name "YuKai Edward Huang"
+          git config user.email "${{ secrets.GIT_EMAIL }}"
+          git add data/ README.md
+          git diff --cached --quiet && echo "Nothing to commit" && exit 0
+          git commit -m "${{ steps.scan.outputs.msg }}"
+          git push

@@ -1,0 +1,30 @@
+# 2027-swe-radar configuration
+# Edit keywords and the Greenhouse watchlist freely — the scanner reads this on every run.
+
+keywords:
+  include:
+    - "2027"
+    - "new grad"
+    - "new graduate"
+    - "university grad"
+    - "early career"
+    - "junior software"
+    - "entry level software"
+    - "software engineer i"
+  exclude:
+    - "senior"
+    - "staff"
+    - "principal"
+    - "manager"
+    - "intern"        # remove this line if you also want internships
+    - "phd"
+
+# Companies with public Greenhouse boards to watch directly.
+# Board slug = the name in the URL: boards.greenhouse.io/<slug>
+greenhouse_boards:
+  - stripe
+  - databricks
+  - figma
+  - duolingo
+  - samsara
+  - cloudflare
