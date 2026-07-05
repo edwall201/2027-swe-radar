@@ -112,33 +112,44 @@ def scan_greenhouse(cfg):
     return results
 
 
-def build_readme(all_jobs, new_jobs, today):
+def newest_first(jobs):
+    return sorted(jobs, key=lambda j: j["posted"], reverse=True)
+
+
+def table(jobs, bold_company=False):
+    lines = ["| Company | Role | Location | Posted | Apply |", "|---|---|---|---|---|"]
+    for j in jobs:
+        loc = "; ".join(j["locations"][:2]) or "—"
+        company = f"**{j['company']}**" if bold_company else j["company"]
+        lines.append(
+            f"| {company} | {j['title']} | {loc} | {j['posted']} | [Link]({j['url']}) |"
+        )
+    return lines
+
+
+def build_readme(all_jobs, new_jobs, today, min_posted):
+    jobs_2027 = [j for j in all_jobs if "2027" in j["title"]]
     lines = [
         "# 📡 2027 SWE Radar",
         "",
         "Automated daily scanner for **2027 new-grad software engineering** openings.",
         f"Last scan: **{today}** · Tracking **{len(all_jobs)}** matching postings"
         f" · 🆕 **{len(new_jobs)}** new today",
+        f"Only showing postings from **{min_posted}** onward, newest first.",
         "",
     ]
     if new_jobs:
-        lines += ["## 🆕 New today", "", "| Company | Role | Location | Posted | Apply |",
-                  "|---|---|---|---|---|"]
-        for j in new_jobs:
-            loc = "; ".join(j["locations"][:2]) or "—"
-            lines.append(
-                f"| **{j['company']}** | {j['title']} | {loc} | {j['posted']} "
-                f"| [Link]({j['url']}) |"
-            )
+        lines += ["## 🆕 New today", ""]
+        lines += table(newest_first(new_jobs), bold_company=True)
         lines.append("")
-    lines += ["## All tracked postings (most recent 50)", "",
-              "| Company | Role | Location | Posted | Apply |", "|---|---|---|---|---|"]
-    recent = sorted(all_jobs, key=lambda j: j["posted"], reverse=True)[:50]
-    for j in recent:
-        loc = "; ".join(j["locations"][:2]) or "—"
-        lines.append(
-            f"| {j['company']} | {j['title']} | {loc} | {j['posted']} | [Link]({j['url']}) |"
-        )
+    lines += ["## 🎯 Explicit 2027 openings", ""]
+    if jobs_2027:
+        lines += table(newest_first(jobs_2027))
+    else:
+        lines.append("_No postings explicitly mentioning 2027 yet._")
+    lines.append("")
+    lines += ["## All tracked postings (most recent 50)", ""]
+    lines += table(newest_first(all_jobs)[:50])
     lines += ["", "---", "_Sources: SimplifyJobs New-Grad-Positions, Greenhouse boards._",
               "_Built with a daily GitHub Actions workflow._"]
     (ROOT / "README.md").write_text("\n".join(lines))
@@ -149,20 +160,28 @@ def main():
     today = date.today().isoformat()
     DATA_DIR.mkdir(exist_ok=True)
 
+    min_posted = str(cfg.get("min_posted", "2026-07-01"))
     jobs = scan_simplify(cfg) + scan_greenhouse(cfg)
+    jobs = [j for j in jobs if j["posted"] >= min_posted]
     jobs_by_id = {j["id"]: j for j in jobs}
 
     previous_ids = set()
     if LATEST.exists():
         previous_ids = {j["id"] for j in json.loads(LATEST.read_text())}
 
+    if not jobs_by_id and previous_ids:
+        # Every source came back empty while we previously had data — almost
+        # certainly a fetch outage, not a real market wipe. Keep old data.
+        print("chore: scan aborted — all sources returned no data")
+        return
+
     new_jobs = [j for jid, j in jobs_by_id.items() if jid not in previous_ids]
 
-    snapshot = sorted(jobs_by_id.values(), key=lambda j: j["posted"], reverse=True)
+    snapshot = newest_first(jobs_by_id.values())
     (DATA_DIR / f"{today}.json").write_text(json.dumps(snapshot, indent=2))
     LATEST.write_text(json.dumps(snapshot, indent=2))
 
-    build_readme(snapshot, new_jobs, today)
+    build_readme(snapshot, new_jobs, today, min_posted)
 
     if new_jobs:
         companies = ", ".join(sorted({j["company"] for j in new_jobs})[:4])
