@@ -44,6 +44,40 @@ def load_config():
         return yaml.safe_load(f)
 
 
+US_STATE_CODES = {
+    "AL", "AK", "AZ", "AR", "CA", "CO", "CT", "DE", "FL", "GA", "HI", "ID",
+    "IL", "IN", "IA", "KS", "KY", "LA", "ME", "MD", "MA", "MI", "MN", "MS",
+    "MO", "MT", "NE", "NV", "NH", "NJ", "NM", "NY", "NC", "ND", "OH", "OK",
+    "OR", "PA", "RI", "SC", "SD", "TN", "TX", "UT", "VT", "VA", "WA", "WV",
+    "WI", "WY", "DC",
+}
+US_HINTS = ("united states", "usa", "u.s.", "nyc", "new york",
+            "remote - us", "us remote", "remote, us")
+
+
+def is_us(location):
+    low = location.lower()
+    if low.strip() == "remote":  # bare "Remote" on US-centric boards
+        return True
+    if any(h in low for h in US_HINTS):
+        return True
+    # Case-sensitive so state codes match "Chicago, IL" but not "Berlin"/"London"
+    return any(code in US_STATE_CODES for code in re.findall(r"\b[A-Z]{2}\b", location))
+
+
+def filter_us(jobs):
+    kept = []
+    for j in jobs:
+        if not j["locations"]:  # unknown location — keep rather than miss a US role
+            kept.append(j)
+            continue
+        us_locs = [loc for loc in j["locations"] if is_us(loc)]
+        if us_locs:
+            j["locations"] = us_locs
+            kept.append(j)
+    return kept
+
+
 def matches(text, includes, excludes):
     t = text.lower()
     if excludes and any(x.lower() in t for x in excludes):
@@ -135,7 +169,7 @@ def build_readme(all_jobs, new_jobs, today, min_posted):
         "Automated daily scanner for **2027 new-grad software engineering** openings.",
         f"Last scan: **{today}** · Tracking **{len(all_jobs)}** matching postings"
         f" · 🆕 **{len(new_jobs)}** new today",
-        f"Only showing postings from **{min_posted}** onward, newest first.",
+        f"Only showing **US** postings from **{min_posted}** onward, newest first.",
         "",
     ]
     if new_jobs:
@@ -163,6 +197,8 @@ def main():
     min_posted = str(cfg.get("min_posted", "2026-07-01"))
     jobs = scan_simplify(cfg) + scan_greenhouse(cfg)
     jobs = [j for j in jobs if j["posted"] >= min_posted]
+    if cfg.get("us_only", True):
+        jobs = filter_us(jobs)
     jobs_by_id = {j["id"]: j for j in jobs}
 
     previous_ids = set()
