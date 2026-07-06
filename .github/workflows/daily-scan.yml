@@ -18,12 +18,12 @@ jobs:
   scan:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
         with:
-          # Use a PAT so the commit counts toward your contribution graph.
-          # Create a fine-grained token (repo: contents read/write) and save
-          # it as a repository secret named RADAR_PAT.
-          token: ${{ secrets.RADAR_PAT }}
+          # Optional: a fine-grained PAT (repo contents read/write) saved as
+          # the RADAR_PAT secret makes commits count toward your contribution
+          # graph. Without it, the default Actions token is used.
+          token: ${{ secrets.RADAR_PAT || github.token }}
 
       - uses: actions/setup-python@v5
         with:
@@ -46,7 +46,7 @@ jobs:
       - name: Commit and push
         run: |
           git config user.name "YuKai Edward Huang"
-          git config user.email "${{ secrets.GIT_EMAIL }}"
+          git config user.email "${{ secrets.GIT_EMAIL || 'edwall201@users.noreply.github.com' }}"
           git add data/ README.md
           git diff --cached --quiet && echo "Nothing to commit" && exit 0
           git commit -m "${{ steps.scan.outputs.msg }}"
