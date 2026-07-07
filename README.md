@@ -1,15 +1,8 @@
 # 📡 2027 SWE Radar
 
 Automated daily scanner for **2027 new-grad software engineering** openings.
-Last scan: **2026-07-07** · Tracking **16** matching postings · 🆕 **2** new today
+Last scan: **2026-07-07** · Tracking **16** matching postings · 🆕 **0** new today
 Only showing **US** postings from **2026-07-01** onward, newest first.
-
-## 🆕 New today
-
-| Company | Role | Location | Posted | Apply |
-|---|---|---|---|---|
-| **Cerebras** | Software Engineer New Grad | Sunnyvale, CA | 2026-07-07 | [Link](https://jobs.ashbyhq.com/cerebras/987d7f64-c957-4c8f-b89d-2f9d64738507/application) |
-| **Cerebras** | Software Engineer New Grad | Sunnyvale, CA | 2026-07-07 | [Link](https://jobs.ashbyhq.com/cerebras/99c289fa-8fc6-49f7-b7e8-78ac4e9d99ac/application) |
 
 ## 🎯 Explicit 2027 openings
 
