@@ -1,14 +1,8 @@
 # 📡 2027 SWE Radar
 
 Automated daily scanner for **2027 new-grad software engineering** openings.
-Last scan: **2026-07-07** · Tracking **14** matching postings · 🆕 **1** new today
+Last scan: **2026-07-07** · Tracking **14** matching postings · 🆕 **0** new today
 Only showing **US** postings from **2026-07-01** onward, newest first.
-
-## 🆕 New today
-
-| Company | Role | Location | Posted | Apply |
-|---|---|---|---|---|
-| **NewsBreak** | Newsbreak Venture New Grad - AI Growth Intelligence Engineer | Mountain View, CA | 2026-07-07 | [Link](https://job-boards.greenhouse.io/newsbreak/jobs/4694899006) |
 
 ## 🎯 Explicit 2027 openings
 
