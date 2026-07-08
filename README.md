@@ -1,16 +1,8 @@
 # 📡 2027 SWE Radar
 
 Automated daily scanner for **2027 new-grad software engineering** openings.
-Last scan: **2026-07-08** · Tracking **17** matching postings · 🆕 **3** new today
+Last scan: **2026-07-08** · Tracking **17** matching postings · 🆕 **0** new today
 Only showing **US** postings from **2026-07-01** onward, newest first.
-
-## 🆕 New today
-
-| Company | Role | Location | Posted | Apply |
-|---|---|---|---|---|
-| **NVIDIA** | ASIC Verification Engineer New Grad | Santa Clara, CA | 2026-07-08 | [Link](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Verification-Engineer---New-College-Grad-2026_JR2020640) |
-| **Comcast** | Junior Software Developer - CDN Operations Engineering | Cherry Hills Village, CO | 2026-07-08 | [Link](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/CO---Englewood-183-Inverness-Dr-West/Junior-Software-Development-Engineer---CDN-OpsEng_R440501-1) |
-| **Otter.ai** | Software Engineer New Grad - Backend | Mountain View, CA | 2026-07-08 | [Link](https://otter.ai/careers?gh_jid=7798264003) |
 
 ## 🎯 Explicit 2027 openings
 
