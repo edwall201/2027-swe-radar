@@ -1,17 +1,8 @@
 # 📡 2027 SWE Radar
 
 Automated daily scanner for **2027 new-grad software engineering** openings.
-Last scan: **2026-07-09** · Tracking **32** matching postings · 🆕 **4** new today
+Last scan: **2026-07-09** · Tracking **28** matching postings · 🆕 **0** new today
 Only showing **US** postings from **2026-07-01** onward, newest first.
-
-## 🆕 New today
-
-| Company | Role | Location | Posted | Apply |
-|---|---|---|---|---|
-| **Google** | Software Engineer II, Early Career, Google Cloud AI Career Catalyst Program | Sunnyvale, CA | 2026-07-09 | [Link](https://www.linkedin.com/jobs/view/4437556937) |
-| **StubHub** | Software Engineer I - Core Compute Platform | New York, NY | 2026-07-07 | [Link](https://www.linkedin.com/jobs/view/4437865303) |
-| **Palantir Technologies** | Forward Deployed Software Engineer, New Grad - Commercial | New York, NY | 2026-07-07 | [Link](https://www.linkedin.com/jobs/view/4434156057) |
-| **Notion** | Software Engineer, Early Career (AI) | San Francisco, CA | 2026-07-06 | [Link](https://www.linkedin.com/jobs/view/4437472369) |
 
 ## 🎯 Explicit 2027 openings
 
@@ -23,9 +14,7 @@ _No postings explicitly mentioning 2027 yet._
 |---|---|---|---|---|
 | Quora | Machine Learning Engineer New Grad | Remote in USA | 2026-07-09 | [Link](https://jobs.ashbyhq.com/quora/3eb7e80e-6a0d-41b6-8ee4-f62421c486e4/application) |
 | EvenUp | Software Engineer (New Grad), Cases Product | San Francisco, CA | 2026-07-09 | [Link](https://www.linkedin.com/jobs/view/4437343249) |
-| Google | Software Engineer II, Early Career, Google Cloud AI Career Catalyst Program | Sunnyvale, CA | 2026-07-09 | [Link](https://www.linkedin.com/jobs/view/4437556937) |
 | NVIDIA | ASIC Verification Engineer New Grad | Santa Clara, CA | 2026-07-08 | [Link](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Verification-Engineer---New-College-Grad-2026_JR2020640) |
-| Comcast | Junior Software Developer - CDN Operations Engineering | Cherry Hills Village, CO | 2026-07-08 | [Link](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/CO---Englewood-183-Inverness-Dr-West/Junior-Software-Development-Engineer---CDN-OpsEng_R440501-1) |
 | Nuro | Software Engineer, AI Platform - New Grad | Mountain View, CA | 2026-07-08 | [Link](https://www.linkedin.com/jobs/view/4317707969) |
 | Confido | New Grad Software Engineer | New York, NY | 2026-07-08 | [Link](https://www.linkedin.com/jobs/view/4438292999) |
 | NewsBreak | Newsbreak Venture New Grad - AI Growth Intelligence Engineer | Mountain View, CA | 2026-07-07 | [Link](https://job-boards.greenhouse.io/newsbreak/jobs/4694899006) |
@@ -37,8 +26,6 @@ _No postings explicitly mentioning 2027 yet._
 | Palantir Technologies | Software Engineer, New Grad | Denver, CO | 2026-07-07 | [Link](https://www.linkedin.com/jobs/view/4434136634) |
 | Palantir Technologies | Software Engineer, New Grad - Infrastructure | Palo Alto, CA | 2026-07-07 | [Link](https://www.linkedin.com/jobs/view/4434149314) |
 | StubHub | Software Engineer I - Core Compute Platform | New York, NY | 2026-07-07 | [Link](https://www.linkedin.com/jobs/view/4437865303) |
-| Palantir Technologies | Forward Deployed Software Engineer, New Grad - Commercial | New York, NY | 2026-07-07 | [Link](https://www.linkedin.com/jobs/view/4434156057) |
-| Palantir Technologies | Forward Deployed Software Engineer, New Grad - Commercial | Chicago, IL | 2026-07-07 | [Link](https://www.linkedin.com/jobs/view/4434143447) |
 | Citadel | Software Engineer – University Graduate | Greenwich, CT; Houston, TX | 2026-07-06 | [Link](https://www.citadel.com/careers/details/software-engineer-university-graduate-us/) |
 | Sandisk | Field Application Engineer New Grad | Milpitas, CA | 2026-07-06 | [Link](https://jobs.smartrecruiters.com/Sandisk/744000136097669) |
 | Amentum | Entry Level Software Engineer | Fredericksburg, VA; Dahlgren, VA | 2026-07-06 | [Link](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0165144) |
