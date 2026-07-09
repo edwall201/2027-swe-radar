@@ -1,8 +1,23 @@
 # 📡 2027 SWE Radar
 
 Automated daily scanner for **2027 new-grad software engineering** openings.
-Last scan: **2026-07-09** · Tracking **28** matching postings · 🆕 **0** new today
+Last scan: **2026-07-09** · Tracking **36** matching postings · 🆕 **10** new today
 Only showing **US** postings from **2026-07-01** onward, newest first.
+
+## 🆕 New today
+
+| Company | Role | Location | Posted | Apply |
+|---|---|---|---|---|
+| **Anduril** | Early Career Firmware Engineer | Newport Beach, CA | 2026-07-09 | [Link](https://boards.greenhouse.io/andurilindustries/jobs/5167865007) |
+| **NVIDIA** | ASIC Design Engineer New Grad | Santa Clara, CA | 2026-07-09 | [Link](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Design-Engineer---New-College-Grad-2026_JR2020309) |
+| **Micron Technology** | Design Engineer New Grad - Design Engineer - DRAM Technology and Products | Boise, ID | 2026-07-09 | [Link](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Design-Engineer--DRAM-Technology-and-Products_JR105519) |
+| **Leidos** | Entry Level Software Developer | St. Louis, MO | 2026-07-09 | [Link](https://leidos.wd5.myworkdayjobs.com/External/job/St-Louis-MO/Entry-Level-Software-Developer_R-00186923) |
+| **Cadence Design Systems** | Software Engineer New Grad - Undergrads | Burlington, MA | 2026-07-09 | [Link](https://cadence.wd1.myworkdayjobs.com/University_Talent/job/Burlington-MA/Software-Engineer--New-College-Grad-2026--Undergrads-_R54894) |
+| **Cadence Design Systems** | Software Engineer New Grad - Undergrads | Burlington, MA | 2026-07-09 | [Link](https://cadence.wd1.myworkdayjobs.com/University_Talent_NCG/job/Burlington-MA/Software-Engineer--New-College-Grad-2026--Undergrads-_R54894-3) |
+| **Cadence Design Systems** | Software Engineer New Grad - Undergrads | Burlington, MA | 2026-07-09 | [Link](https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/Burlington-MA/Software-Engineer--New-College-Grad-2026--Undergrads-_R54894-1) |
+| **Pylon** | Software Engineer, New Grad | San Francisco, CA | 2026-07-09 | [Link](https://www.linkedin.com/jobs/view/4438850428) |
+| **Google** | Software Engineer II, Early Career, Google Cloud AI Career Catalyst Program | Sunnyvale, CA | 2026-07-09 | [Link](https://www.linkedin.com/jobs/view/4437556937) |
+| **Palantir Technologies** | Forward Deployed Software Engineer, New Grad - Commercial | Chicago, IL | 2026-07-07 | [Link](https://www.linkedin.com/jobs/view/4434143447) |
 
 ## 🎯 Explicit 2027 openings
 
@@ -13,7 +28,16 @@ _No postings explicitly mentioning 2027 yet._
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
 | Quora | Machine Learning Engineer New Grad | Remote in USA | 2026-07-09 | [Link](https://jobs.ashbyhq.com/quora/3eb7e80e-6a0d-41b6-8ee4-f62421c486e4/application) |
+| Anduril | Early Career Firmware Engineer | Newport Beach, CA | 2026-07-09 | [Link](https://boards.greenhouse.io/andurilindustries/jobs/5167865007) |
+| NVIDIA | ASIC Design Engineer New Grad | Santa Clara, CA | 2026-07-09 | [Link](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Design-Engineer---New-College-Grad-2026_JR2020309) |
+| Micron Technology | Design Engineer New Grad - Design Engineer - DRAM Technology and Products | Boise, ID | 2026-07-09 | [Link](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Design-Engineer--DRAM-Technology-and-Products_JR105519) |
+| Leidos | Entry Level Software Developer | St. Louis, MO | 2026-07-09 | [Link](https://leidos.wd5.myworkdayjobs.com/External/job/St-Louis-MO/Entry-Level-Software-Developer_R-00186923) |
+| Cadence Design Systems | Software Engineer New Grad - Undergrads | Burlington, MA | 2026-07-09 | [Link](https://cadence.wd1.myworkdayjobs.com/University_Talent/job/Burlington-MA/Software-Engineer--New-College-Grad-2026--Undergrads-_R54894) |
+| Cadence Design Systems | Software Engineer New Grad - Undergrads | Burlington, MA | 2026-07-09 | [Link](https://cadence.wd1.myworkdayjobs.com/University_Talent_NCG/job/Burlington-MA/Software-Engineer--New-College-Grad-2026--Undergrads-_R54894-3) |
+| Cadence Design Systems | Software Engineer New Grad - Undergrads | Burlington, MA | 2026-07-09 | [Link](https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/Burlington-MA/Software-Engineer--New-College-Grad-2026--Undergrads-_R54894-1) |
+| Pylon | Software Engineer, New Grad | San Francisco, CA | 2026-07-09 | [Link](https://www.linkedin.com/jobs/view/4438850428) |
 | EvenUp | Software Engineer (New Grad), Cases Product | San Francisco, CA | 2026-07-09 | [Link](https://www.linkedin.com/jobs/view/4437343249) |
+| Google | Software Engineer II, Early Career, Google Cloud AI Career Catalyst Program | Sunnyvale, CA | 2026-07-09 | [Link](https://www.linkedin.com/jobs/view/4437556937) |
 | NVIDIA | ASIC Verification Engineer New Grad | Santa Clara, CA | 2026-07-08 | [Link](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Verification-Engineer---New-College-Grad-2026_JR2020640) |
 | Nuro | Software Engineer, AI Platform - New Grad | Mountain View, CA | 2026-07-08 | [Link](https://www.linkedin.com/jobs/view/4317707969) |
 | Confido | New Grad Software Engineer | New York, NY | 2026-07-08 | [Link](https://www.linkedin.com/jobs/view/4438292999) |
@@ -25,11 +49,10 @@ _No postings explicitly mentioning 2027 yet._
 | WHOOP | Software Engineer II (Backend, Platform) | Boston, MA | 2026-07-07 | [Link](https://www.linkedin.com/jobs/view/4307235811) |
 | Palantir Technologies | Software Engineer, New Grad | Denver, CO | 2026-07-07 | [Link](https://www.linkedin.com/jobs/view/4434136634) |
 | Palantir Technologies | Software Engineer, New Grad - Infrastructure | Palo Alto, CA | 2026-07-07 | [Link](https://www.linkedin.com/jobs/view/4434149314) |
-| StubHub | Software Engineer I - Core Compute Platform | New York, NY | 2026-07-07 | [Link](https://www.linkedin.com/jobs/view/4437865303) |
+| Palantir Technologies | Forward Deployed Software Engineer, New Grad - Commercial | Chicago, IL | 2026-07-07 | [Link](https://www.linkedin.com/jobs/view/4434143447) |
 | Citadel | Software Engineer – University Graduate | Greenwich, CT; Houston, TX | 2026-07-06 | [Link](https://www.citadel.com/careers/details/software-engineer-university-graduate-us/) |
 | Sandisk | Field Application Engineer New Grad | Milpitas, CA | 2026-07-06 | [Link](https://jobs.smartrecruiters.com/Sandisk/744000136097669) |
 | Amentum | Entry Level Software Engineer | Fredericksburg, VA; Dahlgren, VA | 2026-07-06 | [Link](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0165144) |
-| Notion | Software Engineer, Early Career (AI) | San Francisco, CA | 2026-07-06 | [Link](https://www.linkedin.com/jobs/view/4437472369) |
 | Headlands Tech Holdings | Research Developer New Grad | Chicago, IL; NYC | 2026-07-05 | [Link](https://job-boards.greenhouse.io/headlandstechnologiesllc/jobs/4227566009) |
 | Ciena | Digital Verification Engineer New Grad | Rochester, NY | 2026-07-04 | [Link](https://ciena.wd5.myworkdayjobs.com/Careers/job/US--NY--Pittsford--1250-Pittsford-Victor-Road-Rochester/Digital-Verification-Engineer_R029443) |
 | NVIDIA | ASIC Physical Design and Timing Engineer New Grad | Santa Clara, CA | 2026-07-02 | [Link](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Physical-Design-and-Timing-Engineer---New-College-Grad-2026_JR2019810) |
