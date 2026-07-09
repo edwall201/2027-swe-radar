@@ -1,15 +1,8 @@
 # 📡 2027 SWE Radar
 
 Automated daily scanner for **2027 new-grad software engineering** openings.
-Last scan: **2026-07-09** · Tracking **18** matching postings · 🆕 **2** new today
+Last scan: **2026-07-09** · Tracking **18** matching postings · 🆕 **0** new today
 Only showing **US** postings from **2026-07-01** onward, newest first.
-
-## 🆕 New today
-
-| Company | Role | Location | Posted | Apply |
-|---|---|---|---|---|
-| **Quora** | Machine Learning Engineer New Grad | Remote in USA | 2026-07-09 | [Link](https://jobs.ashbyhq.com/quora/3eb7e80e-6a0d-41b6-8ee4-f62421c486e4/application) |
-| **Ciena** | Digital Verification Engineer New Grad | Rochester, NY | 2026-07-04 | [Link](https://ciena.wd5.myworkdayjobs.com/Careers/job/US--NY--Pittsford--1250-Pittsford-Victor-Road-Rochester/Digital-Verification-Engineer_R029443) |
 
 ## 🎯 Explicit 2027 openings
 
