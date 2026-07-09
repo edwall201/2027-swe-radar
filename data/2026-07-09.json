@@ -12,6 +12,18 @@
     "source": "SimplifyJobs"
   },
   {
+    "id": "linkedin-4437343249",
+    "company": "EvenUp",
+    "title": "Software Engineer (New Grad), Cases Product",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4437343249",
+    "sponsorship": "",
+    "posted": "2026-07-09",
+    "source": "LinkedIn"
+  },
+  {
     "id": "simplify-f5893e69-dd4b-4dc3-a8ff-6cd0a24bde9f",
     "company": "NVIDIA",
     "title": "ASIC Verification Engineer New Grad",
@@ -34,6 +46,30 @@
     "sponsorship": "Other",
     "posted": "2026-07-08",
     "source": "SimplifyJobs"
+  },
+  {
+    "id": "linkedin-4317707969",
+    "company": "Nuro",
+    "title": "Software Engineer, AI Platform - New Grad",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4317707969",
+    "sponsorship": "",
+    "posted": "2026-07-08",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4438292999",
+    "company": "Confido",
+    "title": "New Grad Software Engineer",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4438292999",
+    "sponsorship": "",
+    "posted": "2026-07-08",
+    "source": "LinkedIn"
   },
   {
     "id": "simplify-6219210e-e390-4c2e-a436-58559bdccd22",
@@ -70,6 +106,78 @@
     "sponsorship": "Other",
     "posted": "2026-07-07",
     "source": "SimplifyJobs"
+  },
+  {
+    "id": "linkedin-4434138603",
+    "company": "Palantir Technologies",
+    "title": "Software Engineer, New Grad",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4434138603",
+    "sponsorship": "",
+    "posted": "2026-07-07",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4435299070",
+    "company": "IXL Learning",
+    "title": "Software Engineer, New Grad",
+    "locations": [
+      "Raleigh, NC"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4435299070",
+    "sponsorship": "",
+    "posted": "2026-07-07",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4307235811",
+    "company": "WHOOP",
+    "title": "Software Engineer II (Backend, Platform)",
+    "locations": [
+      "Boston, MA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4307235811",
+    "sponsorship": "",
+    "posted": "2026-07-07",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4434136634",
+    "company": "Palantir Technologies",
+    "title": "Software Engineer, New Grad",
+    "locations": [
+      "Denver, CO"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4434136634",
+    "sponsorship": "",
+    "posted": "2026-07-07",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4434149314",
+    "company": "Palantir Technologies",
+    "title": "Software Engineer, New Grad - Infrastructure",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4434149314",
+    "sponsorship": "",
+    "posted": "2026-07-07",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4434143447",
+    "company": "Palantir Technologies",
+    "title": "Forward Deployed Software Engineer, New Grad - Commercial",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4434143447",
+    "sponsorship": "",
+    "posted": "2026-07-07",
+    "source": "LinkedIn"
   },
   {
     "id": "simplify-410b28b6-b357-4b72-9480-bad83701b4cb",
@@ -193,6 +301,21 @@
       "Raleigh, NC"
     ],
     "url": "https://www.ixl.com/company/jobs?gh_jid=8615717002",
+    "sponsorship": "Other",
+    "posted": "2026-07-02",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-9c4f6e91-a5cc-482a-ad58-1870f54b7c91",
+    "company": "CACI",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "Springfield, VA",
+      "St. Louis, MO",
+      "Denver, CO",
+      "Dulles, VA"
+    ],
+    "url": "https://caci.wd1.myworkdayjobs.com/external/job/Denver-CO-US/Junior-Software-Engineer_327867",
     "sponsorship": "Other",
     "posted": "2026-07-02",
     "source": "SimplifyJobs"
