@@ -7,7 +7,8 @@ Sources:
   2. Greenhouse public job boards for a configurable company watchlist
   3. Lever public job boards (same watchlist pattern)
   4. Ashby public job boards (same watchlist pattern)
-  5. Adzuna aggregator (optional — needs ADZUNA_APP_ID/ADZUNA_APP_KEY env vars;
+  5. LinkedIn guest job search (no login/key; parses the public HTML cards)
+  6. Adzuna aggregator (optional — needs ADZUNA_APP_ID/ADZUNA_APP_KEY env vars;
      free key at https://developer.adzuna.com)
 
 Each run:
@@ -26,6 +27,8 @@ import urllib.request
 from datetime import date, datetime, timezone
 from pathlib import Path
 
+from html import unescape
+
 import yaml
 
 ROOT = Path(__file__).parent
@@ -39,6 +42,10 @@ SIMPLIFY_URL = (
 GREENHOUSE_URL = "https://boards-api.greenhouse.io/v1/boards/{board}/jobs"
 LEVER_URL = "https://api.lever.co/v0/postings/{board}?mode=json"
 ASHBY_URL = "https://api.ashbyhq.com/posting-api/job-board/{board}"
+LINKEDIN_URL = (
+    "https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search"
+    "?keywords={query}&location=United%20States&f_TPR=r259200&sortBy=DD&start={start}"
+)
 ADZUNA_URL = (
     "https://api.adzuna.com/v1/api/jobs/us/search/1"
     "?app_id={app_id}&app_key={app_key}&results_per_page=50"
@@ -50,6 +57,22 @@ def fetch_json(url):
     req = urllib.request.Request(url, headers={"User-Agent": "2027-swe-radar/1.0"})
     with urllib.request.urlopen(req, timeout=30) as resp:
         return json.loads(resp.read().decode())
+
+
+def fetch_text(url):
+    # LinkedIn's guest endpoint rejects non-browser user agents.
+    req = urllib.request.Request(url, headers={
+        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+                      "AppleWebKit/537.36 (KHTML, like Gecko) "
+                      "Chrome/126.0.0.0 Safari/537.36"
+    })
+    with urllib.request.urlopen(req, timeout=30) as resp:
+        return resp.read().decode("utf-8", "replace")
+
+
+def strip_tags(fragment):
+    text = re.sub(r"<[^>]+>", " ", fragment)
+    return re.sub(r"\s+", " ", unescape(text)).strip()
 
 
 def load_config():
@@ -162,6 +185,27 @@ def normalize_ashby(job, company):
     }
 
 
+def normalize_linkedin(card):
+    jid = re.search(r"urn:li:jobPosting:(\d+)", card)
+    title = re.search(r"base-search-card__title[^>]*>(.*?)</h3>", card, re.S)
+    if not (jid and title):
+        return None
+    company = re.search(r"base-search-card__subtitle[^>]*>(.*?)</h4>", card, re.S)
+    loc = re.search(r"job-search-card__location[^>]*>(.*?)</span>", card, re.S)
+    posted = re.search(r'datetime="(\d{4}-\d{2}-\d{2})"', card)
+    location = strip_tags(loc.group(1)) if loc else ""
+    return {
+        "id": f"linkedin-{jid.group(1)}",
+        "company": strip_tags(company.group(1)) if company else "",
+        "title": strip_tags(title.group(1)),
+        "locations": [location] if location else [],
+        "url": f"https://www.linkedin.com/jobs/view/{jid.group(1)}",
+        "sponsorship": "",
+        "posted": posted.group(1) if posted else date.today().isoformat(),
+        "source": "LinkedIn",
+    }
+
+
 def normalize_adzuna(item):
     loc = item.get("location", {}).get("display_name", "")
     return {
@@ -240,6 +284,25 @@ def scan_ashby(cfg):
     return results
 
 
+def scan_linkedin(cfg):
+    kw = cfg["keywords"]
+    results = []
+    for query in cfg.get("linkedin_searches", []):
+        for start in (0, 25):  # two pages per query stays under the rate limit
+            url = LINKEDIN_URL.format(query=urllib.parse.quote(query), start=start)
+            try:
+                page = fetch_text(url)
+            except Exception as e:
+                print(f"[warn] LinkedIn '{query}' failed: {e}", file=sys.stderr)
+                break
+            jobs = [j for c in re.split(r"<li[^>]*>", page)
+                    if (j := normalize_linkedin(c))]
+            if not jobs:  # past the last page of results
+                break
+            results += [j for j in jobs if matches(j["title"], kw)]
+    return results
+
+
 def scan_adzuna(cfg):
     app_id = os.environ.get("ADZUNA_APP_ID")
     app_key = os.environ.get("ADZUNA_APP_KEY")
@@ -306,7 +369,7 @@ def build_readme(all_jobs, new_jobs, today, min_posted):
     lines += table(newest_first(all_jobs)[:50])
     lines += ["", "---",
               "_Sources: SimplifyJobs New-Grad-Positions, Greenhouse/Lever/Ashby"
-              " boards, Adzuna aggregator._",
+              " boards, LinkedIn search, Adzuna aggregator._",
               "_Scanned ~10× daily by a GitHub Actions workflow._"]
     (ROOT / "README.md").write_text("\n".join(lines))
 
@@ -318,7 +381,7 @@ def main():
 
     min_posted = str(cfg.get("min_posted", "2026-07-01"))
     jobs = (scan_simplify(cfg) + scan_greenhouse(cfg) + scan_lever(cfg)
-            + scan_ashby(cfg) + scan_adzuna(cfg))
+            + scan_ashby(cfg) + scan_linkedin(cfg) + scan_adzuna(cfg))
     jobs = [j for j in jobs if j["posted"] >= min_posted]
     if cfg.get("us_only", True):
         jobs = filter_us(jobs)

@@ -53,3 +53,10 @@ ashby_boards:
   - ramp
   - linear
   - notion
+
+# LinkedIn public job searches (guest endpoint — no login or API key needed).
+# Each query scans US postings from the last 3 days, newest first; titles
+# still have to pass the keyword filters above.
+linkedin_searches:
+  - "software engineer new grad"
+  - "software engineer 2027"
