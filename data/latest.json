@@ -1,5 +1,65 @@
 [
   {
+    "id": "simplify-67fa641a-072c-4739-8ce6-46b35fd111a5",
+    "company": "Kustomer",
+    "title": "Software Engineer \u2013 Early Career - Full Stack",
+    "locations": [
+      "NYC"
+    ],
+    "url": "https://jobs.ashbyhq.com/kustomer/4037272a-7fd3-4040-906b-47fde875a817/application",
+    "sponsorship": "Other",
+    "posted": "2026-07-10",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-d8018db8-f18e-4ea7-bfb9-b0e3b70fad76",
+    "company": "Micron Technology",
+    "title": "Design Engineer New Grad - Design Engineer - Non-Volatile Engineering Group",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Principal-Design-Engineer--NVEG_JR88223",
+    "sponsorship": "Other",
+    "posted": "2026-07-10",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-67328505-6889-494a-b5d1-c22b5cbef2ff",
+    "company": "Sandisk",
+    "title": "SSD Firmware Engineer New Grad - SSD Firmware Engineer",
+    "locations": [
+      "Milpitas, CA"
+    ],
+    "url": "https://jobs.smartrecruiters.com/Sandisk/744000137191590",
+    "sponsorship": "Other",
+    "posted": "2026-07-10",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-f649268a-a699-41a6-9900-66818886f2ab",
+    "company": "Parsons",
+    "title": "Junior Software Developer",
+    "locations": [
+      "Remote in USA"
+    ],
+    "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---Remote-Any-Location/Junior-Software-Developer_R183217",
+    "sponsorship": "Other",
+    "posted": "2026-07-10",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-f641296a-d046-402e-a13c-6df6218f537f",
+    "company": "NVIDIA",
+    "title": "Systems Software Engineer New Grad - Autonomous Systems Mapping",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Engineer--Autonomous-Systems-Mapping---New-College-Graduate-2026_JR2020838",
+    "sponsorship": "Other",
+    "posted": "2026-07-10",
+    "source": "SimplifyJobs"
+  },
+  {
     "id": "gh-duolingo-8628670002",
     "company": "Duolingo",
     "title": "Software Engineer II, Android",
@@ -67,6 +127,18 @@
       "Boston, MA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4362234435",
+    "sponsorship": "",
+    "posted": "2026-07-10",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4439359921",
+    "company": "Northrop Grumman",
+    "title": "2027 Associate Software Engineer / Software Engineer",
+    "locations": [
+      "Melbourne, FL"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4439359921",
     "sponsorship": "",
     "posted": "2026-07-10",
     "source": "LinkedIn"
