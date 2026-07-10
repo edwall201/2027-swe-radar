@@ -1,12 +1,24 @@
 [
   {
-    "id": "gh-duolingo-8628276002",
+    "id": "gh-duolingo-8628670002",
     "company": "Duolingo",
-    "title": "Software Engineer II, Backend",
+    "title": "Software Engineer II, Android",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://careers.duolingo.com/jobs/8628670002?gh_jid=8628670002",
+    "sponsorship": "",
+    "posted": "2026-07-10",
+    "source": "Greenhouse"
+  },
+  {
+    "id": "gh-duolingo-8628658002",
+    "company": "Duolingo",
+    "title": "Software Engineer II, Android",
     "locations": [
       "Pittsburgh, PA"
     ],
-    "url": "https://careers.duolingo.com/jobs/8628276002?gh_jid=8628276002",
+    "url": "https://careers.duolingo.com/jobs/8628658002?gh_jid=8628658002",
     "sponsorship": "",
     "posted": "2026-07-10",
     "source": "Greenhouse"
@@ -19,6 +31,18 @@
       "New York, NY"
     ],
     "url": "https://careers.duolingo.com/jobs/8628275002?gh_jid=8628275002",
+    "sponsorship": "",
+    "posted": "2026-07-10",
+    "source": "Greenhouse"
+  },
+  {
+    "id": "gh-duolingo-8628276002",
+    "company": "Duolingo",
+    "title": "Software Engineer II, Backend",
+    "locations": [
+      "Pittsburgh, PA"
+    ],
+    "url": "https://careers.duolingo.com/jobs/8628276002?gh_jid=8628276002",
     "sponsorship": "",
     "posted": "2026-07-10",
     "source": "Greenhouse"
@@ -163,18 +187,6 @@
       "San Francisco, CA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4437343249",
-    "sponsorship": "",
-    "posted": "2026-07-09",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4434870453",
-    "company": "Applied Materials",
-    "title": "Software Engineer II (New College Grad - Santa Clara, CA)",
-    "locations": [
-      "Santa Clara, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4434870453",
     "sponsorship": "",
     "posted": "2026-07-09",
     "source": "LinkedIn"
