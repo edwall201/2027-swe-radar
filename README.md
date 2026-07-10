@@ -1,15 +1,22 @@
 # 📡 2027 SWE Radar
 
 Automated daily scanner for **2027 new-grad software engineering** openings.
-Last scan: **2026-07-10** · Tracking **29** matching postings · 🆕 **2** new today
+Last scan: **2026-07-10** · Tracking **36** matching postings · 🆕 **9** new today
 Only showing **US** postings from **2026-07-01** onward, newest first.
 
 ## 🆕 New today
 
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
-| **Google** | Software Engineer II, Early Career, Google Cloud AI Career Catalyst Program | Sunnyvale, CA | 2026-07-09 | [Link](https://www.linkedin.com/jobs/view/4437556937) |
-| **StubHub** | Software Engineer I - Core Platform - Streaming & Storage | New York, NY | 2026-07-07 | [Link](https://www.linkedin.com/jobs/view/4437851702) |
+| **Duolingo** | Software Engineer II, Backend | Pittsburgh, PA | 2026-07-10 | [Link](https://careers.duolingo.com/jobs/8628276002?gh_jid=8628276002) |
+| **Duolingo** | Software Engineer II, Backend | New York, NY | 2026-07-10 | [Link](https://careers.duolingo.com/jobs/8628275002?gh_jid=8628275002) |
+| **Hadrian** | Fullstack Software Engineer, New Grad | Los Angeles, CA | 2026-07-10 | [Link](https://www.linkedin.com/jobs/view/4427890981) |
+| **WHOOP** | Software Engineer II (Backend, Business Systems) | Boston, MA | 2026-07-10 | [Link](https://www.linkedin.com/jobs/view/4362234435) |
+| **EvenUp** | Software Engineer (New Grad), Cases Product | San Francisco, CA | 2026-07-09 | [Link](https://www.linkedin.com/jobs/view/4437343249) |
+| **Applied Materials** | Software Engineer II (New College Grad - Santa Clara, CA) | Santa Clara, CA | 2026-07-09 | [Link](https://www.linkedin.com/jobs/view/4434870453) |
+| **Nuro** | Software Engineer, AI Platform - New Grad | Mountain View, CA | 2026-07-08 | [Link](https://www.linkedin.com/jobs/view/4317707969) |
+| **TD** | Software Developer / Software Engineer II (US) | Mount Laurel, NJ | 2026-07-08 | [Link](https://www.linkedin.com/jobs/view/4438103985) |
+| **IXL Learning** | Software Engineer, New Grad | Raleigh, NC | 2026-07-07 | [Link](https://www.linkedin.com/jobs/view/4435299070) |
 
 ## 🎯 Explicit 2027 openings
 
@@ -19,6 +26,10 @@ _No postings explicitly mentioning 2027 yet._
 
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
+| Duolingo | Software Engineer II, Backend | Pittsburgh, PA | 2026-07-10 | [Link](https://careers.duolingo.com/jobs/8628276002?gh_jid=8628276002) |
+| Duolingo | Software Engineer II, Backend | New York, NY | 2026-07-10 | [Link](https://careers.duolingo.com/jobs/8628275002?gh_jid=8628275002) |
+| Hadrian | Fullstack Software Engineer, New Grad | Los Angeles, CA | 2026-07-10 | [Link](https://www.linkedin.com/jobs/view/4427890981) |
+| WHOOP | Software Engineer II (Backend, Business Systems) | Boston, MA | 2026-07-10 | [Link](https://www.linkedin.com/jobs/view/4362234435) |
 | Quora | Machine Learning Engineer New Grad | Remote in USA | 2026-07-09 | [Link](https://jobs.ashbyhq.com/quora/3eb7e80e-6a0d-41b6-8ee4-f62421c486e4/application) |
 | Anduril | Early Career Firmware Engineer | Newport Beach, CA | 2026-07-09 | [Link](https://boards.greenhouse.io/andurilindustries/jobs/5167865007) |
 | NVIDIA | ASIC Design Engineer New Grad | Santa Clara, CA | 2026-07-09 | [Link](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Design-Engineer---New-College-Grad-2026_JR2020309) |
@@ -28,13 +39,16 @@ _No postings explicitly mentioning 2027 yet._
 | Cadence Design Systems | Software Engineer New Grad - Undergrads | Burlington, MA | 2026-07-09 | [Link](https://cadence.wd1.myworkdayjobs.com/University_Talent_NCG/job/Burlington-MA/Software-Engineer--New-College-Grad-2026--Undergrads-_R54894-3) |
 | Cadence Design Systems | Software Engineer New Grad - Undergrads | Burlington, MA | 2026-07-09 | [Link](https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/Burlington-MA/Software-Engineer--New-College-Grad-2026--Undergrads-_R54894-1) |
 | Pylon | Software Engineer, New Grad | San Francisco, CA | 2026-07-09 | [Link](https://www.linkedin.com/jobs/view/4438850428) |
-| Google | Software Engineer II, Early Career, Google Cloud AI Career Catalyst Program | Sunnyvale, CA | 2026-07-09 | [Link](https://www.linkedin.com/jobs/view/4437556937) |
+| EvenUp | Software Engineer (New Grad), Cases Product | San Francisco, CA | 2026-07-09 | [Link](https://www.linkedin.com/jobs/view/4437343249) |
+| Applied Materials | Software Engineer II (New College Grad - Santa Clara, CA) | Santa Clara, CA | 2026-07-09 | [Link](https://www.linkedin.com/jobs/view/4434870453) |
 | NVIDIA | ASIC Verification Engineer New Grad | Santa Clara, CA | 2026-07-08 | [Link](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Verification-Engineer---New-College-Grad-2026_JR2020640) |
+| Nuro | Software Engineer, AI Platform - New Grad | Mountain View, CA | 2026-07-08 | [Link](https://www.linkedin.com/jobs/view/4317707969) |
 | Confido | New Grad Software Engineer | New York, NY | 2026-07-08 | [Link](https://www.linkedin.com/jobs/view/4438292999) |
+| TD | Software Developer / Software Engineer II (US) | Mount Laurel, NJ | 2026-07-08 | [Link](https://www.linkedin.com/jobs/view/4438103985) |
 | NewsBreak | Newsbreak Venture New Grad - AI Growth Intelligence Engineer | Mountain View, CA | 2026-07-07 | [Link](https://job-boards.greenhouse.io/newsbreak/jobs/4694899006) |
 | Cerebras | Software Engineer New Grad | Sunnyvale, CA | 2026-07-07 | [Link](https://jobs.ashbyhq.com/cerebras/987d7f64-c957-4c8f-b89d-2f9d64738507/application) |
 | Cerebras | Software Engineer New Grad | Sunnyvale, CA | 2026-07-07 | [Link](https://jobs.ashbyhq.com/cerebras/99c289fa-8fc6-49f7-b7e8-78ac4e9d99ac/application) |
-| StubHub | Software Engineer I - Core Platform - Streaming & Storage | New York, NY | 2026-07-07 | [Link](https://www.linkedin.com/jobs/view/4437851702) |
+| IXL Learning | Software Engineer, New Grad | Raleigh, NC | 2026-07-07 | [Link](https://www.linkedin.com/jobs/view/4435299070) |
 | Citadel | Software Engineer – University Graduate | Greenwich, CT; Houston, TX | 2026-07-06 | [Link](https://www.citadel.com/careers/details/software-engineer-university-graduate-us/) |
 | Sandisk | Field Application Engineer New Grad | Milpitas, CA | 2026-07-06 | [Link](https://jobs.smartrecruiters.com/Sandisk/744000136097669) |
 | Amentum | Entry Level Software Engineer | Fredericksburg, VA; Dahlgren, VA | 2026-07-06 | [Link](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0165144) |
