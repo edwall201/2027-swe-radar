@@ -1,18 +1,22 @@
 # 📡 2027 SWE Radar
 
 Automated daily scanner for **2027 new-grad software engineering** openings.
-Last scan: **2026-07-11** · Tracking **37** matching postings · 🆕 **1** new today
+Last scan: **2026-07-11** · Tracking **38** matching postings · 🆕 **3** new today
 Only showing **US** postings from **2026-07-01** onward, newest first.
 
 ## 🆕 New today
 
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
-| **York Space Systems** | Software Engineer I - Ground Software | Austin, TX | 2026-07-11 | [Link](https://www.linkedin.com/jobs/view/4428293134) |
+| **Autonomous Solutions, Inc. (ASI)** | AI Software Engineer I | Logan, UT | 2026-07-10 | [Link](https://www.linkedin.com/jobs/view/4439374515) |
+| **Northrop Grumman** | 2027 Associate Software Engineer / Software Engineer | Melbourne, FL | 2026-07-10 | [Link](https://www.linkedin.com/jobs/view/4439359921) |
+| **Google** | Software Engineer II, Early Career, Google Cloud AI Career Catalyst Program | Sunnyvale, CA | 2026-07-09 | [Link](https://www.linkedin.com/jobs/view/4437556937) |
 
 ## 🎯 Explicit 2027 openings
 
-_No postings explicitly mentioning 2027 yet._
+| Company | Role | Location | Posted | Apply |
+|---|---|---|---|---|
+| Northrop Grumman | 2027 Associate Software Engineer / Software Engineer | Melbourne, FL | 2026-07-10 | [Link](https://www.linkedin.com/jobs/view/4439359921) |
 
 ## All tracked postings (most recent 50)
 
@@ -20,7 +24,6 @@ _No postings explicitly mentioning 2027 yet._
 |---|---|---|---|---|
 | Fixed Frames | Software Engineer, New Grad | San Francisco, CA | 2026-07-11 | [Link](https://www.linkedin.com/jobs/view/4438903130) |
 | Fixed Frames | Software Engineer, New Grad (AI) | San Francisco, CA | 2026-07-11 | [Link](https://www.linkedin.com/jobs/view/4438392779) |
-| York Space Systems | Software Engineer I - Ground Software | Austin, TX | 2026-07-11 | [Link](https://www.linkedin.com/jobs/view/4428293134) |
 | Kustomer | Software Engineer – Early Career - Full Stack | NYC | 2026-07-10 | [Link](https://jobs.ashbyhq.com/kustomer/4037272a-7fd3-4040-906b-47fde875a817/application) |
 | Sandisk | SSD Firmware Engineer New Grad - SSD Firmware Engineer | Milpitas, CA | 2026-07-10 | [Link](https://jobs.smartrecruiters.com/Sandisk/744000137191590) |
 | Leidos | Junior Software Engineer - AI/ML Applications | Huntsville, AL | 2026-07-10 | [Link](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Junior-Software-Engineer---AI-ML-Applications_R-00187033) |
@@ -31,6 +34,8 @@ _No postings explicitly mentioning 2027 yet._
 | Duolingo | Software Engineer II, Backend | Pittsburgh, PA | 2026-07-10 | [Link](https://careers.duolingo.com/jobs/8628276002?gh_jid=8628276002) |
 | Hadrian | Fullstack Software Engineer, New Grad | Los Angeles, CA | 2026-07-10 | [Link](https://www.linkedin.com/jobs/view/4427890981) |
 | WHOOP | Software Engineer II (Backend, Business Systems) | Boston, MA | 2026-07-10 | [Link](https://www.linkedin.com/jobs/view/4362234435) |
+| Autonomous Solutions, Inc. (ASI) | AI Software Engineer I | Logan, UT | 2026-07-10 | [Link](https://www.linkedin.com/jobs/view/4439374515) |
+| Northrop Grumman | 2027 Associate Software Engineer / Software Engineer | Melbourne, FL | 2026-07-10 | [Link](https://www.linkedin.com/jobs/view/4439359921) |
 | Quora | Machine Learning Engineer New Grad | Remote in USA | 2026-07-09 | [Link](https://jobs.ashbyhq.com/quora/3eb7e80e-6a0d-41b6-8ee4-f62421c486e4/application) |
 | Anduril | Early Career Firmware Engineer | Newport Beach, CA | 2026-07-09 | [Link](https://boards.greenhouse.io/andurilindustries/jobs/5167865007) |
 | NVIDIA | ASIC Design Engineer New Grad | Santa Clara, CA | 2026-07-09 | [Link](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Design-Engineer---New-College-Grad-2026_JR2020309) |
@@ -39,7 +44,7 @@ _No postings explicitly mentioning 2027 yet._
 | Cadence Design Systems | Software Engineer New Grad - Undergrads | Burlington, MA | 2026-07-09 | [Link](https://cadence.wd1.myworkdayjobs.com/University_Talent_NCG/job/Burlington-MA/Software-Engineer--New-College-Grad-2026--Undergrads-_R54894-3) |
 | Pylon | Software Engineer, New Grad | San Francisco, CA | 2026-07-09 | [Link](https://www.linkedin.com/jobs/view/4438850428) |
 | EvenUp | Software Engineer (New Grad), Cases Product | San Francisco, CA | 2026-07-09 | [Link](https://www.linkedin.com/jobs/view/4437343249) |
-| Confido | New Grad Software Engineer | New York, NY | 2026-07-08 | [Link](https://www.linkedin.com/jobs/view/4438292999) |
+| Google | Software Engineer II, Early Career, Google Cloud AI Career Catalyst Program | Sunnyvale, CA | 2026-07-09 | [Link](https://www.linkedin.com/jobs/view/4437556937) |
 | NewsBreak | Newsbreak Venture New Grad - AI Growth Intelligence Engineer | Mountain View, CA | 2026-07-07 | [Link](https://job-boards.greenhouse.io/newsbreak/jobs/4694899006) |
 | Cerebras | Software Engineer New Grad | Sunnyvale, CA | 2026-07-07 | [Link](https://jobs.ashbyhq.com/cerebras/987d7f64-c957-4c8f-b89d-2f9d64738507/application) |
 | Cerebras | Software Engineer New Grad | Sunnyvale, CA | 2026-07-07 | [Link](https://jobs.ashbyhq.com/cerebras/99c289fa-8fc6-49f7-b7e8-78ac4e9d99ac/application) |
