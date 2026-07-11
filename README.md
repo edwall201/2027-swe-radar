@@ -1,19 +1,8 @@
 # 📡 2027 SWE Radar
 
 Automated daily scanner for **2027 new-grad software engineering** openings.
-Last scan: **2026-07-11** · Tracking **35** matching postings · 🆕 **6** new today
+Last scan: **2026-07-11** · Tracking **33** matching postings · 🆕 **0** new today
 Only showing **US** postings from **2026-07-01** onward, newest first.
-
-## 🆕 New today
-
-| Company | Role | Location | Posted | Apply |
-|---|---|---|---|---|
-| **Fixed Frames** | Software Engineer, New Grad | San Francisco, CA | 2026-07-11 | [Link](https://www.linkedin.com/jobs/view/4438903130) |
-| **Fixed Frames** | Software Engineer, New Grad (AI) | San Francisco, CA | 2026-07-11 | [Link](https://www.linkedin.com/jobs/view/4438392779) |
-| **WHOOP** | Software Engineer II (Backend, Business Systems) | Boston, MA | 2026-07-10 | [Link](https://www.linkedin.com/jobs/view/4362234435) |
-| **Pylon** | Software Engineer, New Grad | San Francisco, CA | 2026-07-09 | [Link](https://www.linkedin.com/jobs/view/4438850428) |
-| **EvenUp** | Software Engineer (New Grad), Cases Product | San Francisco, CA | 2026-07-09 | [Link](https://www.linkedin.com/jobs/view/4437343249) |
-| **Confido** | New Grad Software Engineer | New York, NY | 2026-07-08 | [Link](https://www.linkedin.com/jobs/view/4438292999) |
 
 ## 🎯 Explicit 2027 openings
 
@@ -23,8 +12,6 @@ _No postings explicitly mentioning 2027 yet._
 
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
-| Fixed Frames | Software Engineer, New Grad | San Francisco, CA | 2026-07-11 | [Link](https://www.linkedin.com/jobs/view/4438903130) |
-| Fixed Frames | Software Engineer, New Grad (AI) | San Francisco, CA | 2026-07-11 | [Link](https://www.linkedin.com/jobs/view/4438392779) |
 | Palantir Technologies | Forward Deployed Software Engineer, New Grad - Commercial | Chicago, IL | 2026-07-11 | [Link](https://www.linkedin.com/jobs/view/4434143447) |
 | Kustomer | Software Engineer – Early Career - Full Stack | NYC | 2026-07-10 | [Link](https://jobs.ashbyhq.com/kustomer/4037272a-7fd3-4040-906b-47fde875a817/application) |
 | Sandisk | SSD Firmware Engineer New Grad - SSD Firmware Engineer | Milpitas, CA | 2026-07-10 | [Link](https://jobs.smartrecruiters.com/Sandisk/744000137191590) |
