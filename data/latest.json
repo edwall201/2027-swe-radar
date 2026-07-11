@@ -1,5 +1,17 @@
 [
   {
+    "id": "linkedin-4438907035",
+    "company": "Fixed Frames",
+    "title": "Software Engineer, Early Career",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4438907035",
+    "sponsorship": "",
+    "posted": "2026-07-11",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4434143447",
     "company": "Palantir Technologies",
     "title": "Forward Deployed Software Engineer, New Grad - Commercial",
@@ -120,18 +132,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4362234435",
-    "company": "WHOOP",
-    "title": "Software Engineer II (Backend, Business Systems)",
-    "locations": [
-      "Boston, MA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4362234435",
-    "sponsorship": "",
-    "posted": "2026-07-10",
-    "source": "LinkedIn"
-  },
-  {
     "id": "simplify-b2a451e2-c73b-4273-ba1e-8a91e3c9b407",
     "company": "Quora",
     "title": "Machine Learning Engineer New Grad",
@@ -180,6 +180,18 @@
     "source": "SimplifyJobs"
   },
   {
+    "id": "simplify-ce9250e1-36be-4c4c-aeff-ee1b9d5881c6",
+    "company": "Leidos",
+    "title": "Entry Level Software Developer",
+    "locations": [
+      "St. Louis, MO"
+    ],
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/St-Louis-MO/Entry-Level-Software-Developer_R-00186923",
+    "sponsorship": "Other",
+    "posted": "2026-07-09",
+    "source": "SimplifyJobs"
+  },
+  {
     "id": "simplify-13834a5f-488b-4fc4-bdd9-d3bff5044f25",
     "company": "Cadence Design Systems",
     "title": "Software Engineer New Grad - Undergrads",
@@ -192,25 +204,13 @@
     "source": "SimplifyJobs"
   },
   {
-    "id": "linkedin-4438850428",
-    "company": "Pylon",
-    "title": "Software Engineer, New Grad",
+    "id": "linkedin-4438829700",
+    "company": "Bain & Company",
+    "title": "Software Engineer I, Private Equity Innovation",
     "locations": [
-      "San Francisco, CA"
+      "Dallas, TX"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4438850428",
-    "sponsorship": "",
-    "posted": "2026-07-09",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4437343249",
-    "company": "EvenUp",
-    "title": "Software Engineer (New Grad), Cases Product",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4437343249",
+    "url": "https://www.linkedin.com/jobs/view/4438829700",
     "sponsorship": "",
     "posted": "2026-07-09",
     "source": "LinkedIn"
@@ -301,6 +301,18 @@
     "url": "https://job-boards.greenhouse.io/headlandstechnologiesllc/jobs/4227566009",
     "sponsorship": "Other",
     "posted": "2026-07-05",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-d26ce57a-9f65-4a82-af45-1e1f59ea6111",
+    "company": "Ciena",
+    "title": "Digital Verification Engineer New Grad",
+    "locations": [
+      "Rochester, NY"
+    ],
+    "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/US--NY--Pittsford--1250-Pittsford-Victor-Road-Rochester/Digital-Verification-Engineer_R029443",
+    "sponsorship": "Other",
+    "posted": "2026-07-04",
     "source": "SimplifyJobs"
   },
   {
