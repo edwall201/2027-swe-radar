@@ -1,21 +1,20 @@
 # 📡 2027 SWE Radar
 
 Automated daily scanner for **2027 new-grad software engineering** openings.
-Last scan: **2026-07-12** · Tracking **37** matching postings · 🆕 **4** new today
+Last scan: **2026-07-12** · Tracking **38** matching postings · 🆕 **1** new today
 Only showing **US** postings from **2026-07-01** onward, newest first.
 
 ## 🆕 New today
 
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
-| **Fixed Frames** | Software Engineer, New Grad (AI) | San Francisco, CA | 2026-07-11 | [Link](https://www.linkedin.com/jobs/view/4438392779) |
-| **TetraMem - Accelerate The World** | Software Engineer I – Compiler & Runtime | San Jose, CA | 2026-07-11 | [Link](https://www.linkedin.com/jobs/view/4433234577) |
-| **WHOOP** | Software Engineer II (Backend, Business Systems) | Boston, MA | 2026-07-10 | [Link](https://www.linkedin.com/jobs/view/4362234435) |
-| **Pylon** | Software Engineer, New Grad | San Francisco, CA | 2026-07-09 | [Link](https://www.linkedin.com/jobs/view/4438850428) |
+| **Northrop Grumman** | 2027 Associate Software Engineer / Software Engineer | Melbourne, FL | 2026-07-10 | [Link](https://www.linkedin.com/jobs/view/4439359921) |
 
 ## 🎯 Explicit 2027 openings
 
-_No postings explicitly mentioning 2027 yet._
+| Company | Role | Location | Posted | Apply |
+|---|---|---|---|---|
+| Northrop Grumman | 2027 Associate Software Engineer / Software Engineer | Melbourne, FL | 2026-07-10 | [Link](https://www.linkedin.com/jobs/view/4439359921) |
 
 ## All tracked postings (most recent 50)
 
@@ -35,6 +34,7 @@ _No postings explicitly mentioning 2027 yet._
 | Hadrian | Fullstack Software Engineer, New Grad | Los Angeles, CA | 2026-07-10 | [Link](https://www.linkedin.com/jobs/view/4427890981) |
 | WHOOP | Software Engineer II (Backend, Business Systems) | Boston, MA | 2026-07-10 | [Link](https://www.linkedin.com/jobs/view/4362234435) |
 | Autonomous Solutions, Inc. (ASI) | AI Software Engineer I | Logan, UT | 2026-07-10 | [Link](https://www.linkedin.com/jobs/view/4439374515) |
+| Northrop Grumman | 2027 Associate Software Engineer / Software Engineer | Melbourne, FL | 2026-07-10 | [Link](https://www.linkedin.com/jobs/view/4439359921) |
 | Quora | Machine Learning Engineer New Grad | Remote in USA | 2026-07-09 | [Link](https://jobs.ashbyhq.com/quora/3eb7e80e-6a0d-41b6-8ee4-f62421c486e4/application) |
 | Anduril | Early Career Firmware Engineer | Newport Beach, CA | 2026-07-09 | [Link](https://boards.greenhouse.io/andurilindustries/jobs/5167865007) |
 | NVIDIA | ASIC Design Engineer New Grad | Santa Clara, CA | 2026-07-09 | [Link](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Design-Engineer---New-College-Grad-2026_JR2020309) |
