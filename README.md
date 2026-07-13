@@ -1,15 +1,16 @@
 # 📡 2027 SWE Radar
 
 Automated daily scanner for **2027 new-grad software engineering** openings.
-Last scan: **2026-07-13** · Tracking **32** matching postings · 🆕 **2** new today
+Last scan: **2026-07-13** · Tracking **33** matching postings · 🆕 **3** new today
 Only showing **US** postings from **2026-07-01** onward, newest first.
 
 ## 🆕 New today
 
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
-| **Northrop Grumman** | 2027 Associate Software Engineer / Software Engineer | Melbourne, FL | 2026-07-10 | [Link](https://www.linkedin.com/jobs/view/4439359921) |
-| **Delta Air Lines** | Co-op, Simulator Engineering (Spring 2027) | Atlanta, GA | 2026-07-10 | [Link](https://www.linkedin.com/jobs/view/4438341706) |
+| **Micron Technology** | New Grad Electrical Engineer - Computer Engineer - Engineering Automation | Richardson, TX | 2026-07-13 | [Link](https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/New-College-Grad---Computer-Engineer--Engineering-Automation_JR103691) |
+| **TetraMem - Accelerate The World** | Software Engineer I – Compiler & Runtime | San Jose, CA | 2026-07-12 | [Link](https://www.linkedin.com/jobs/view/4438989859) |
+| **Twitch** | Software Engineer I, Commerce Engineering | San Francisco, CA | 2026-07-11 | [Link](https://www.linkedin.com/jobs/view/4390703326) |
 
 ## 🎯 Explicit 2027 openings
 
@@ -22,10 +23,11 @@ Only showing **US** postings from **2026-07-01** onward, newest first.
 
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
+| Micron Technology | New Grad Electrical Engineer - Computer Engineer - Engineering Automation | Richardson, TX | 2026-07-13 | [Link](https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/New-College-Grad---Computer-Engineer--Engineering-Automation_JR103691) |
+| TetraMem - Accelerate The World | Software Engineer I – Compiler & Runtime | San Jose, CA | 2026-07-12 | [Link](https://www.linkedin.com/jobs/view/4438989859) |
+| Twitch | Software Engineer I, Commerce Engineering | San Francisco, CA | 2026-07-11 | [Link](https://www.linkedin.com/jobs/view/4390703326) |
 | Kustomer | Software Engineer – Early Career - Full Stack | NYC | 2026-07-10 | [Link](https://jobs.ashbyhq.com/kustomer/4037272a-7fd3-4040-906b-47fde875a817/application) |
 | Sandisk | SSD Firmware Engineer New Grad - SSD Firmware Engineer | Milpitas, CA | 2026-07-10 | [Link](https://jobs.smartrecruiters.com/Sandisk/744000137191590) |
-| Leidos | Junior Software Engineer - AI/ML Applications | Huntsville, AL | 2026-07-10 | [Link](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Junior-Software-Engineer---AI-ML-Applications_R-00187033) |
-| Leidos | Junior Software Engineer | Huntsville, AL | 2026-07-10 | [Link](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Junior-Software-Engineer_R-00187032) |
 | Duolingo | Software Engineer II, Android | New York, NY | 2026-07-10 | [Link](https://careers.duolingo.com/jobs/8628670002?gh_jid=8628670002) |
 | Duolingo | Software Engineer II, Android | Pittsburgh, PA | 2026-07-10 | [Link](https://careers.duolingo.com/jobs/8628658002?gh_jid=8628658002) |
 | Duolingo | Software Engineer II, Backend | New York, NY | 2026-07-10 | [Link](https://careers.duolingo.com/jobs/8628275002?gh_jid=8628275002) |
