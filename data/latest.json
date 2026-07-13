@@ -24,6 +24,42 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4418712191",
+    "company": "Blue Origin",
+    "title": "Software Engineer III",
+    "locations": [
+      "Huntsville, AL"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4418712191",
+    "sponsorship": "",
+    "posted": "2026-07-13",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4418726099",
+    "company": "Blue Origin",
+    "title": "Software Engineer III",
+    "locations": [
+      "Denver, CO"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4418726099",
+    "sponsorship": "",
+    "posted": "2026-07-13",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4439433262",
+    "company": "Capgemini",
+    "title": "Junior Software Developer",
+    "locations": [
+      "Nashville, TN"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4439433262",
+    "sponsorship": "",
+    "posted": "2026-07-13",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4439411005",
     "company": "Revature",
     "title": "Entry Level Software Developer",
@@ -48,13 +84,49 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4402165922",
-    "company": "Rokt",
+    "id": "linkedin-4437257052",
+    "company": "Haystack",
     "title": "Junior Software Engineer",
     "locations": [
-      "New York, NY"
+      "Washington, DC"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4402165922",
+    "url": "https://www.linkedin.com/jobs/view/4437257052",
+    "sponsorship": "",
+    "posted": "2026-07-13",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4439197700",
+    "company": "Revature",
+    "title": "Entry Level Software Developer",
+    "locations": [
+      "Hartford, CT"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4439197700",
+    "sponsorship": "",
+    "posted": "2026-07-13",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4440031505",
+    "company": "Helic & Co",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "United States"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4440031505",
+    "sponsorship": "",
+    "posted": "2026-07-13",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4438989859",
+    "company": "TetraMem - Accelerate The World",
+    "title": "Software Engineer I \u2013 Compiler & Runtime",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4438989859",
     "sponsorship": "",
     "posted": "2026-07-12",
     "source": "LinkedIn"
@@ -72,13 +144,37 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4438983651",
-    "company": "WGU Product Design",
-    "title": "Software Engineer II - Career Services",
+    "id": "linkedin-4402165922",
+    "company": "Rokt",
+    "title": "Junior Software Engineer",
     "locations": [
-      "Salt Lake City, UT"
+      "New York, NY"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4438983651",
+    "url": "https://www.linkedin.com/jobs/view/4402165922",
+    "sponsorship": "",
+    "posted": "2026-07-12",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4439115095",
+    "company": "SynergisticIT",
+    "title": "junior software developer/Bi analyst",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4439115095",
+    "sponsorship": "",
+    "posted": "2026-07-12",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4382331501",
+    "company": "SpaceX",
+    "title": "New Graduate Engineer, Software (Starlink)",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4382331501",
     "sponsorship": "",
     "posted": "2026-07-12",
     "source": "LinkedIn"
@@ -96,73 +192,49 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4379614164",
-    "company": "Garner Health",
-    "title": "Software Engineer III",
+    "id": "linkedin-4436647694",
+    "company": "Walmart",
+    "title": "(USA) Software Engineer III",
     "locations": [
-      "New York, NY"
+      "Bentonville, AR"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4379614164",
+    "url": "https://www.linkedin.com/jobs/view/4436647694",
     "sponsorship": "",
     "posted": "2026-07-11",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4390703326",
+    "id": "linkedin-4420653816",
+    "company": "Epic for Kids",
+    "title": "Junior Software Engineer, Full-Stack",
+    "locations": [
+      "United States"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4420653816",
+    "sponsorship": "",
+    "posted": "2026-07-11",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4390488405",
     "company": "Twitch",
     "title": "Software Engineer I, Commerce Engineering",
     "locations": [
-      "San Francisco, CA"
+      "Seattle, WA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4390703326",
+    "url": "https://www.linkedin.com/jobs/view/4390488405",
     "sponsorship": "",
     "posted": "2026-07-11",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4428293134",
-    "company": "York Space Systems",
-    "title": "Software Engineer I - Ground Software",
+    "id": "linkedin-4439394341",
+    "company": "Kustomer",
+    "title": "Software Engineer, Full Stack (Early Career)",
     "locations": [
-      "Austin, TX"
+      "New York, NY"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4428293134",
-    "sponsorship": "",
-    "posted": "2026-07-11",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4420974725",
-    "company": "DAT Freight & Analytics",
-    "title": "Software Engineer I",
-    "locations": [
-      "Denver, CO"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4420974725",
-    "sponsorship": "",
-    "posted": "2026-07-11",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4436653532",
-    "company": "Leidos",
-    "title": "Junior Software Engineer",
-    "locations": [
-      "Huntsville, AL"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4436653532",
-    "sponsorship": "",
-    "posted": "2026-07-11",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4438900959",
-    "company": "Jack Henry",
-    "title": "Software Engineer II",
-    "locations": [
-      "Birmingham, AL"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4438900959",
+    "url": "https://www.linkedin.com/jobs/view/4439394341",
     "sponsorship": "",
     "posted": "2026-07-11",
     "source": "LinkedIn"
@@ -240,13 +312,49 @@
     "source": "Greenhouse"
   },
   {
-    "id": "linkedin-4427890981",
-    "company": "Hadrian",
-    "title": "Fullstack Software Engineer, New Grad",
+    "id": "linkedin-4439374515",
+    "company": "Autonomous Solutions, Inc. (ASI)",
+    "title": "AI Software Engineer I",
     "locations": [
-      "Los Angeles, CA"
+      "Logan, UT"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4427890981",
+    "url": "https://www.linkedin.com/jobs/view/4439374515",
+    "sponsorship": "",
+    "posted": "2026-07-10",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4439359921",
+    "company": "Northrop Grumman",
+    "title": "2027 Associate Software Engineer / Software Engineer",
+    "locations": [
+      "Melbourne, FL"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4439359921",
+    "sponsorship": "",
+    "posted": "2026-07-10",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4438341706",
+    "company": "Delta Air Lines",
+    "title": "Co-op, Simulator Engineering (Spring 2027)",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4438341706",
+    "sponsorship": "",
+    "posted": "2026-07-10",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4438378171",
+    "company": "Vertex Inc.",
+    "title": "Software Engineer III",
+    "locations": [
+      "King of Prussia, PA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4438378171",
     "sponsorship": "",
     "posted": "2026-07-10",
     "source": "LinkedIn"
@@ -276,37 +384,37 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4439359921",
-    "company": "Northrop Grumman",
-    "title": "2027 Associate Software Engineer / Software Engineer",
+    "id": "linkedin-4439383402",
+    "company": "Softvize",
+    "title": "Junior Software Engineer",
     "locations": [
-      "Melbourne, FL"
+      "Indiana, United States"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4439359921",
+    "url": "https://www.linkedin.com/jobs/view/4439383402",
     "sponsorship": "",
     "posted": "2026-07-10",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4439355629",
-    "company": "Engagement Solutions by Maritz",
-    "title": "Software Engineer I",
+    "id": "linkedin-4439367903",
+    "company": "Parsons Corporation",
+    "title": "Junior Software Developer",
     "locations": [
-      "Fenton, MO"
+      "Virginia, United States"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4439355629",
+    "url": "https://www.linkedin.com/jobs/view/4439367903",
     "sponsorship": "",
     "posted": "2026-07-10",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4439374515",
-    "company": "Autonomous Solutions, Inc. (ASI)",
-    "title": "AI Software Engineer I",
+    "id": "linkedin-4438352608",
+    "company": "MeritFirst",
+    "title": "Software Engineer (New Graduates)",
     "locations": [
-      "Logan, UT"
+      "United States"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4439374515",
+    "url": "https://www.linkedin.com/jobs/view/4438352608",
     "sponsorship": "",
     "posted": "2026-07-10",
     "source": "LinkedIn"
