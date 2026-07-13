@@ -12,16 +12,85 @@
     "source": "SimplifyJobs"
   },
   {
-    "id": "linkedin-4439777275",
-    "company": "PointOne",
-    "title": "New Grad Software Engineer",
+    "id": "simplify-c368c0a9-db8e-455c-b06c-c18575c7b04d",
+    "company": "Northslope Technologies",
+    "title": "Forward Deployed Software Engineer New Grad",
     "locations": [
-      "New York, NY"
+      "NYC"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4439777275",
-    "sponsorship": "",
+    "url": "https://jobs.ashbyhq.com/northslope-technologies/80b82167-7101-4f78-9006-7755dd2ca01e/application",
+    "sponsorship": "Other",
     "posted": "2026-07-13",
-    "source": "LinkedIn"
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-38cca989-4499-494a-9df9-4b012d5d184a",
+    "company": "WhatNot",
+    "title": "Software Engineer New Grad",
+    "locations": [
+      "NYC"
+    ],
+    "url": "https://jobs.ashbyhq.com/whatnot/bc8f8c7f-2c4c-4f43-a238-953568c101b8/application",
+    "sponsorship": "Other",
+    "posted": "2026-07-13",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-ba5a942e-be3c-493b-9ef4-bf0dbc07a0ce",
+    "company": "Akuna Capital University",
+    "title": "Entry Level Software Engineer - C++",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "url": "https://www.akunacapital.com/careers/job/8013085/?gh_jid=8013085",
+    "sponsorship": "Other",
+    "posted": "2026-07-13",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-053e56c0-3d9e-4d1c-83c7-b891671a652c",
+    "company": "Hudson River Trading",
+    "title": "Algorithm Developer New Grad - Quant Researcher",
+    "locations": [
+      "NYC"
+    ],
+    "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052050",
+    "sponsorship": "Other",
+    "posted": "2026-07-13",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-3280f6de-005d-4216-bc5c-c1052e58d650",
+    "company": "NVIDIA",
+    "title": "Compiler Engineer AI Inference New Grad",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Compiler-Engineer--AI-Inference--New-College-Grad-2026_JR2021230",
+    "sponsorship": "Other",
+    "posted": "2026-07-13",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-51598177-f2b0-404c-90d3-ca02d0bd665e",
+    "company": "Humana",
+    "title": "Junior Software Engineer Cloud Cost Optimization",
+    "locations": [
+      "Boston, MA",
+      "Louisville, KY",
+      "Nashville, TN",
+      "Tampa, FL",
+      "Dallas, TX",
+      "Chicago, IL",
+      "Charlotte, NC",
+      "Fort Lauderdale, FL",
+      "NYC",
+      "Atlanta, GA"
+    ],
+    "url": "https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Louisville-KY/Junior-Software-Engineer--Cloud-Cost-Optimization_R-413873-1",
+    "sponsorship": "Other",
+    "posted": "2026-07-13",
+    "source": "SimplifyJobs"
   },
   {
     "id": "linkedin-4440094661",
@@ -31,6 +100,30 @@
       "New York, United States"
     ],
     "url": "https://www.linkedin.com/jobs/view/4440094661",
+    "sponsorship": "",
+    "posted": "2026-07-13",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4440089600",
+    "company": "Abridge",
+    "title": "Software Engineer- Early Careers",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4440089600",
+    "sponsorship": "",
+    "posted": "2026-07-13",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4440084829",
+    "company": "Abridge",
+    "title": "Software Engineer- Early Careers",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4440084829",
     "sponsorship": "",
     "posted": "2026-07-13",
     "source": "LinkedIn"
@@ -48,51 +141,15 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4439433262",
-    "company": "Capgemini",
+    "id": "linkedin-4439122054",
+    "company": "Cruit Group",
     "title": "Junior Software Developer",
     "locations": [
-      "Nashville, TN"
+      "Miami, FL"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4439433262",
+    "url": "https://www.linkedin.com/jobs/view/4439122054",
     "sponsorship": "",
-    "posted": "2026-07-13",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4439411005",
-    "company": "Revature",
-    "title": "Entry Level Software Developer",
-    "locations": [
-      "Chicago, IL"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4439411005",
-    "sponsorship": "",
-    "posted": "2026-07-13",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4439183972",
-    "company": "Revature",
-    "title": "Entry Level Software Developer",
-    "locations": [
-      "Dallas, TX"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4439183972",
-    "sponsorship": "",
-    "posted": "2026-07-13",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4440031505",
-    "company": "Helic & Co",
-    "title": "Junior Software Engineer",
-    "locations": [
-      "United States"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4440031505",
-    "sponsorship": "",
-    "posted": "2026-07-13",
+    "posted": "2026-07-12",
     "source": "LinkedIn"
   },
   {
@@ -108,15 +165,27 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4438983651",
-    "company": "WGU Product Design",
-    "title": "Software Engineer II - Career Services",
+    "id": "linkedin-4420653816",
+    "company": "Epic for Kids",
+    "title": "Junior Software Engineer, Full-Stack",
     "locations": [
-      "Salt Lake City, UT"
+      "United States"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4438983651",
+    "url": "https://www.linkedin.com/jobs/view/4420653816",
     "sponsorship": "",
-    "posted": "2026-07-12",
+    "posted": "2026-07-11",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4438900959",
+    "company": "Jack Henry",
+    "title": "Software Engineer II",
+    "locations": [
+      "Birmingham, AL"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4438900959",
+    "sponsorship": "",
+    "posted": "2026-07-11",
     "source": "LinkedIn"
   },
   {
@@ -144,37 +213,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4420974725",
-    "company": "DAT Freight & Analytics",
-    "title": "Software Engineer I",
+    "id": "linkedin-4390488405",
+    "company": "Twitch",
+    "title": "Software Engineer I, Commerce Engineering",
     "locations": [
-      "Denver, CO"
+      "Seattle, WA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4420974725",
-    "sponsorship": "",
-    "posted": "2026-07-11",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4436653532",
-    "company": "Leidos",
-    "title": "Junior Software Engineer",
-    "locations": [
-      "Huntsville, AL"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4436653532",
-    "sponsorship": "",
-    "posted": "2026-07-11",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4420653816",
-    "company": "Epic for Kids",
-    "title": "Junior Software Engineer, Full-Stack",
-    "locations": [
-      "United States"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4420653816",
+    "url": "https://www.linkedin.com/jobs/view/4390488405",
     "sponsorship": "",
     "posted": "2026-07-11",
     "source": "LinkedIn"
@@ -199,6 +244,30 @@
       "Milpitas, CA"
     ],
     "url": "https://jobs.smartrecruiters.com/Sandisk/744000137191590",
+    "sponsorship": "Other",
+    "posted": "2026-07-10",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-842d796a-d789-46c6-b40f-ee55dd5d2367",
+    "company": "Leidos",
+    "title": "Junior Software Engineer - AI/ML Applications",
+    "locations": [
+      "Huntsville, AL"
+    ],
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Junior-Software-Engineer---AI-ML-Applications_R-00187033",
+    "sponsorship": "Other",
+    "posted": "2026-07-10",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-73e95483-23f7-498e-83cf-df008b007d83",
+    "company": "Leidos",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "Huntsville, AL"
+    ],
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Junior-Software-Engineer_R-00187032",
     "sponsorship": "Other",
     "posted": "2026-07-10",
     "source": "SimplifyJobs"
@@ -250,42 +319,6 @@
     "sponsorship": "",
     "posted": "2026-07-10",
     "source": "Greenhouse"
-  },
-  {
-    "id": "linkedin-4439374515",
-    "company": "Autonomous Solutions, Inc. (ASI)",
-    "title": "AI Software Engineer I",
-    "locations": [
-      "Logan, UT"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4439374515",
-    "sponsorship": "",
-    "posted": "2026-07-10",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4439359921",
-    "company": "Northrop Grumman",
-    "title": "2027 Associate Software Engineer / Software Engineer",
-    "locations": [
-      "Melbourne, FL"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4439359921",
-    "sponsorship": "",
-    "posted": "2026-07-10",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4439355629",
-    "company": "Engagement Solutions by Maritz",
-    "title": "Software Engineer I",
-    "locations": [
-      "Fenton, MO"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4439355629",
-    "sponsorship": "",
-    "posted": "2026-07-10",
-    "source": "LinkedIn"
   },
   {
     "id": "linkedin-4439383402",
