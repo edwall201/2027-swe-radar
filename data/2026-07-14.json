@@ -12,25 +12,13 @@
     "source": "SimplifyJobs"
   },
   {
-    "id": "linkedin-4439820128",
+    "id": "linkedin-4439805508",
     "company": "Fresh Ventures",
-    "title": "Software Engineer, New Grad",
+    "title": "Software Engineer, Early Career",
     "locations": [
       "San Francisco, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4439820128",
-    "sponsorship": "",
-    "posted": "2026-07-14",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4439802757",
-    "company": "Fresh Ventures",
-    "title": "Software Engineer, New Grad (AI)",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4439802757",
+    "url": "https://www.linkedin.com/jobs/view/4439805508",
     "sponsorship": "",
     "posted": "2026-07-14",
     "source": "LinkedIn"
@@ -48,6 +36,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4437647077",
+    "company": "DoorDash",
+    "title": "Software Engineer I, Entry-Level (Graduation Date: Fall 2025-Summer 2026)",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4437647077",
+    "sponsorship": "",
+    "posted": "2026-07-14",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4440373341",
     "company": "Old Mission",
     "title": "Software Engineer \u2013 2027 Graduate Program (August Start)",
@@ -60,37 +60,25 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4439844867",
-    "company": "Revature",
-    "title": "Entry Level Software Developer",
+    "id": "linkedin-4439820128",
+    "company": "Fresh Ventures",
+    "title": "Software Engineer, New Grad",
     "locations": [
-      "Chicago, IL"
+      "San Francisco, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4439844867",
+    "url": "https://www.linkedin.com/jobs/view/4439820128",
     "sponsorship": "",
     "posted": "2026-07-14",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4439865920",
-    "company": "Microsoft Learn Student Community BSIOTR",
-    "title": "Junior Software Engineer",
+    "id": "linkedin-4440359519",
+    "company": "Vast",
+    "title": "Software Engineer I, Mission Software",
     "locations": [
-      "New York, United States"
+      "Long Beach, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4439865920",
-    "sponsorship": "",
-    "posted": "2026-07-14",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4439840880",
-    "company": "Revature",
-    "title": "Entry Level Software Developer",
-    "locations": [
-      "Dallas, TX"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4439840880",
+    "url": "https://www.linkedin.com/jobs/view/4440359519",
     "sponsorship": "",
     "posted": "2026-07-14",
     "source": "LinkedIn"
@@ -108,13 +96,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4440570136",
-    "company": "Helic & Co",
-    "title": "Junior Software Engineer",
+    "id": "linkedin-4437643167",
+    "company": "DoorDash",
+    "title": "Software Engineer I, Entry-Level (Graduation Date: Fall 2025-Summer 2026)",
     "locations": [
-      "United States"
+      "San Francisco, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4440570136",
+    "url": "https://www.linkedin.com/jobs/view/4437643167",
     "sponsorship": "",
     "posted": "2026-07-14",
     "source": "LinkedIn"
@@ -132,13 +120,37 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4437636614",
-    "company": "Humana",
-    "title": "Junior Software Engineer- Cloud Cost Optimization",
+    "id": "linkedin-4439802757",
+    "company": "Fresh Ventures",
+    "title": "Software Engineer, New Grad (AI)",
     "locations": [
-      "New York, NY"
+      "San Francisco, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4437636614",
+    "url": "https://www.linkedin.com/jobs/view/4439802757",
+    "sponsorship": "",
+    "posted": "2026-07-14",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4439823038",
+    "company": "Fresh Ventures",
+    "title": "Software Engineer, Early Career (AI)",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4439823038",
+    "sponsorship": "",
+    "posted": "2026-07-14",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4440570136",
+    "company": "Helic & Co",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "United States"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4440570136",
     "sponsorship": "",
     "posted": "2026-07-14",
     "source": "LinkedIn"
@@ -262,13 +274,13 @@
     "source": "SimplifyJobs"
   },
   {
-    "id": "linkedin-4439777275",
-    "company": "PointOne",
-    "title": "New Grad Software Engineer",
+    "id": "linkedin-4440319364",
+    "company": "Quantiq",
+    "title": "Software Developer- New Graduate",
     "locations": [
-      "New York, NY"
+      "Austin, TX"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4439777275",
+    "url": "https://www.linkedin.com/jobs/view/4440319364",
     "sponsorship": "",
     "posted": "2026-07-13",
     "source": "LinkedIn"
@@ -298,27 +310,15 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4440319364",
-    "company": "Quantiq",
-    "title": "Software Developer- New Graduate",
+    "id": "linkedin-4439777275",
+    "company": "PointOne",
+    "title": "New Grad Software Engineer",
     "locations": [
-      "Austin, TX"
+      "New York, NY"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4440319364",
+    "url": "https://www.linkedin.com/jobs/view/4439777275",
     "sponsorship": "",
     "posted": "2026-07-13",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4439122054",
-    "company": "Cruit Group",
-    "title": "Junior Software Developer",
-    "locations": [
-      "Miami, FL"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4439122054",
-    "sponsorship": "",
-    "posted": "2026-07-12",
     "source": "LinkedIn"
   },
   {
@@ -329,6 +329,18 @@
       "New York, NY"
     ],
     "url": "https://www.linkedin.com/jobs/view/4402165922",
+    "sponsorship": "",
+    "posted": "2026-07-12",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4439122054",
+    "company": "Cruit Group",
+    "title": "Junior Software Developer",
+    "locations": [
+      "Miami, FL"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4439122054",
     "sponsorship": "",
     "posted": "2026-07-12",
     "source": "LinkedIn"
