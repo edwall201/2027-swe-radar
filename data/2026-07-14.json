@@ -12,37 +12,13 @@
     "source": "SimplifyJobs"
   },
   {
-    "id": "linkedin-4439805508",
+    "id": "linkedin-4439820128",
     "company": "Fresh Ventures",
-    "title": "Software Engineer, Early Career",
+    "title": "Software Engineer, New Grad",
     "locations": [
       "San Francisco, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4439805508",
-    "sponsorship": "",
-    "posted": "2026-07-14",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4439498336",
-    "company": "Whatnot",
-    "title": "Software Engineer, New Grad",
-    "locations": [
-      "New York, NY"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4439498336",
-    "sponsorship": "",
-    "posted": "2026-07-14",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4437647077",
-    "company": "DoorDash",
-    "title": "Software Engineer I, Entry-Level (Graduation Date: Fall 2025-Summer 2026)",
-    "locations": [
-      "Seattle, WA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4437647077",
+    "url": "https://www.linkedin.com/jobs/view/4439820128",
     "sponsorship": "",
     "posted": "2026-07-14",
     "source": "LinkedIn"
@@ -60,13 +36,25 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4439820128",
-    "company": "Fresh Ventures",
+    "id": "linkedin-4439498336",
+    "company": "Whatnot",
     "title": "Software Engineer, New Grad",
     "locations": [
-      "San Francisco, CA"
+      "New York, NY"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4439820128",
+    "url": "https://www.linkedin.com/jobs/view/4439498336",
+    "sponsorship": "",
+    "posted": "2026-07-14",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4440373341",
+    "company": "Old Mission",
+    "title": "Software Engineer \u2013 2027 Graduate Program (August Start)",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4440373341",
     "sponsorship": "",
     "posted": "2026-07-14",
     "source": "LinkedIn"
@@ -84,13 +72,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4437698086",
+    "id": "linkedin-4439865920",
     "company": "Microsoft Learn Student Community BSIOTR",
     "title": "Junior Software Engineer",
     "locations": [
       "New York, United States"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4437698086",
+    "url": "https://www.linkedin.com/jobs/view/4439865920",
     "sponsorship": "",
     "posted": "2026-07-14",
     "source": "LinkedIn"
@@ -108,6 +96,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4437642177",
+    "company": "DoorDash",
+    "title": "Software Engineer I, Entry-Level (Graduation Date: Fall 2025-Summer 2026)",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4437642177",
+    "sponsorship": "",
+    "posted": "2026-07-14",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4440570136",
     "company": "Helic & Co",
     "title": "Junior Software Engineer",
@@ -120,37 +120,25 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4173823940",
-    "company": "AppLovin",
-    "title": "Backend Engineer, New Grad",
+    "id": "linkedin-4437642176",
+    "company": "DoorDash",
+    "title": "Software Engineer I, Entry-Level (Graduation Date: Fall 2025-Summer 2026)",
     "locations": [
-      "Palo Alto, CA"
+      "Los Angeles, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4173823940",
+    "url": "https://www.linkedin.com/jobs/view/4437642176",
     "sponsorship": "",
     "posted": "2026-07-14",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4432040192",
-    "company": "DAT Freight & Analytics",
-    "title": "Software Engineer I",
+    "id": "linkedin-4437636614",
+    "company": "Humana",
+    "title": "Junior Software Engineer- Cloud Cost Optimization",
     "locations": [
-      "Seattle, WA"
+      "New York, NY"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4432040192",
-    "sponsorship": "",
-    "posted": "2026-07-14",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4439853251",
-    "company": "Revature",
-    "title": "Entry Level Software Developer",
-    "locations": [
-      "Hartford, CT"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4439853251",
+    "url": "https://www.linkedin.com/jobs/view/4437636614",
     "sponsorship": "",
     "posted": "2026-07-14",
     "source": "LinkedIn"
@@ -274,18 +262,6 @@
     "source": "SimplifyJobs"
   },
   {
-    "id": "linkedin-4440319364",
-    "company": "Quantiq",
-    "title": "Software Developer- New Graduate",
-    "locations": [
-      "Austin, TX"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4440319364",
-    "sponsorship": "",
-    "posted": "2026-07-13",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4439777275",
     "company": "PointOne",
     "title": "New Grad Software Engineer",
@@ -322,25 +298,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4440089600",
-    "company": "Abridge",
-    "title": "Software Engineer- Early Careers",
+    "id": "linkedin-4440319364",
+    "company": "Quantiq",
+    "title": "Software Developer- New Graduate",
     "locations": [
-      "New York, NY"
+      "Austin, TX"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4440089600",
-    "sponsorship": "",
-    "posted": "2026-07-13",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4440084829",
-    "company": "Abridge",
-    "title": "Software Engineer- Early Careers",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4440084829",
+    "url": "https://www.linkedin.com/jobs/view/4440319364",
     "sponsorship": "",
     "posted": "2026-07-13",
     "source": "LinkedIn"
@@ -367,18 +331,6 @@
     "url": "https://www.linkedin.com/jobs/view/4402165922",
     "sponsorship": "",
     "posted": "2026-07-12",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4390703326",
-    "company": "Twitch",
-    "title": "Software Engineer I, Commerce Engineering",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4390703326",
-    "sponsorship": "",
-    "posted": "2026-07-11",
     "source": "LinkedIn"
   },
   {
@@ -526,18 +478,6 @@
     "source": "SimplifyJobs"
   },
   {
-    "id": "simplify-ce9250e1-36be-4c4c-aeff-ee1b9d5881c6",
-    "company": "Leidos",
-    "title": "Entry Level Software Developer",
-    "locations": [
-      "St. Louis, MO"
-    ],
-    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/St-Louis-MO/Entry-Level-Software-Developer_R-00186923",
-    "sponsorship": "Other",
-    "posted": "2026-07-09",
-    "source": "SimplifyJobs"
-  },
-  {
     "id": "simplify-13834a5f-488b-4fc4-bdd9-d3bff5044f25",
     "company": "Cadence Design Systems",
     "title": "Software Engineer New Grad - Undergrads",
@@ -608,6 +548,19 @@
       "Milpitas, CA"
     ],
     "url": "https://jobs.smartrecruiters.com/Sandisk/744000136097669",
+    "sponsorship": "Other",
+    "posted": "2026-07-06",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-bcbeaa17-8b2a-4a48-bc56-ae7f245fa7f0",
+    "company": "Amentum",
+    "title": "Entry Level Software Engineer",
+    "locations": [
+      "Fredericksburg, VA",
+      "Dahlgren, VA"
+    ],
+    "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0165144",
     "sponsorship": "Other",
     "posted": "2026-07-06",
     "source": "SimplifyJobs"
