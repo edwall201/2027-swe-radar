@@ -12,6 +12,18 @@
     "source": "SimplifyJobs"
   },
   {
+    "id": "simplify-0e014b55-7295-4b7b-817a-ee4f8de89e5f",
+    "company": "Cerebras",
+    "title": "Simulation Engineer New Grad",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "url": "https://jobs.ashbyhq.com/cerebras/bf6f81b2-f079-483a-9238-295a184b3f0f/application",
+    "sponsorship": "Other",
+    "posted": "2026-07-14",
+    "source": "SimplifyJobs"
+  },
+  {
     "id": "gh-duolingo-8628275002",
     "company": "Duolingo",
     "title": "Software Engineer II, Backend",
@@ -36,13 +48,49 @@
     "source": "Greenhouse"
   },
   {
-    "id": "linkedin-4439820128",
+    "id": "linkedin-4439805508",
     "company": "Fresh Ventures",
-    "title": "Software Engineer, New Grad",
+    "title": "Software Engineer, Early Career",
     "locations": [
       "San Francisco, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4439820128",
+    "url": "https://www.linkedin.com/jobs/view/4439805508",
+    "sponsorship": "",
+    "posted": "2026-07-14",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4439498336",
+    "company": "Whatnot",
+    "title": "Software Engineer, New Grad",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4439498336",
+    "sponsorship": "",
+    "posted": "2026-07-14",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4173823940",
+    "company": "AppLovin",
+    "title": "Backend Engineer, New Grad",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4173823940",
+    "sponsorship": "",
+    "posted": "2026-07-14",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4437647077",
+    "company": "DoorDash",
+    "title": "Software Engineer I, Entry-Level (Graduation Date: Fall 2025-Summer 2026)",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4437647077",
     "sponsorship": "",
     "posted": "2026-07-14",
     "source": "LinkedIn"
@@ -60,13 +108,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4439498336",
-    "company": "Whatnot",
+    "id": "linkedin-4439820128",
+    "company": "Fresh Ventures",
     "title": "Software Engineer, New Grad",
     "locations": [
-      "New York, NY"
+      "San Francisco, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4439498336",
+    "url": "https://www.linkedin.com/jobs/view/4439820128",
     "sponsorship": "",
     "posted": "2026-07-14",
     "source": "LinkedIn"
@@ -132,30 +180,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4440570136",
-    "company": "Helic & Co",
-    "title": "Junior Software Engineer",
-    "locations": [
-      "United States"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4440570136",
-    "sponsorship": "",
-    "posted": "2026-07-14",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4173823940",
-    "company": "AppLovin",
-    "title": "Backend Engineer, New Grad",
-    "locations": [
-      "Palo Alto, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4173823940",
-    "sponsorship": "",
-    "posted": "2026-07-14",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4440811429",
     "company": "Leidos",
     "title": "Junior Software Specialist/Engineer",
@@ -175,6 +199,18 @@
       "Whippany, NJ"
     ],
     "url": "https://www.linkedin.com/jobs/view/4438818396",
+    "sponsorship": "",
+    "posted": "2026-07-14",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4437643167",
+    "company": "DoorDash",
+    "title": "Software Engineer I, Entry-Level (Graduation Date: Fall 2025-Summer 2026)",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4437643167",
     "sponsorship": "",
     "posted": "2026-07-14",
     "source": "LinkedIn"
@@ -204,25 +240,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4439847705",
-    "company": "Revature",
-    "title": "Entry Level Software Developer",
+    "id": "linkedin-4440373341",
+    "company": "Old Mission",
+    "title": "Software Engineer \u2013 2027 Graduate Program (August Start)",
     "locations": [
-      "Teaneck, NJ"
+      "Chicago, IL"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4439847705",
-    "sponsorship": "",
-    "posted": "2026-07-14",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4439853251",
-    "company": "Revature",
-    "title": "Entry Level Software Developer",
-    "locations": [
-      "Hartford, CT"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4439853251",
+    "url": "https://www.linkedin.com/jobs/view/4440373341",
     "sponsorship": "",
     "posted": "2026-07-14",
     "source": "LinkedIn"
@@ -358,6 +382,18 @@
     "source": "SimplifyJobs"
   },
   {
+    "id": "linkedin-4440319364",
+    "company": "Quantiq",
+    "title": "Software Developer- New Graduate",
+    "locations": [
+      "Austin, TX"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4440319364",
+    "sponsorship": "",
+    "posted": "2026-07-13",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4439777275",
     "company": "PointOne",
     "title": "New Grad Software Engineer",
@@ -389,18 +425,6 @@
       "Nashville, TN"
     ],
     "url": "https://www.linkedin.com/jobs/view/4439433262",
-    "sponsorship": "",
-    "posted": "2026-07-13",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4440319364",
-    "company": "Quantiq",
-    "title": "Software Developer- New Graduate",
-    "locations": [
-      "Austin, TX"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4440319364",
     "sponsorship": "",
     "posted": "2026-07-13",
     "source": "LinkedIn"
@@ -670,18 +694,6 @@
       "Santa Clara, CA"
     ],
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Physical-Design-and-Timing-Engineer---New-College-Grad-2026_JR2019810",
-    "sponsorship": "Other",
-    "posted": "2026-07-02",
-    "source": "SimplifyJobs"
-  },
-  {
-    "id": "simplify-5da6cb6c-5d67-4819-ad52-80be74042612",
-    "company": "NVIDIA",
-    "title": "Compiler Engineer New Grad",
-    "locations": [
-      "Santa Clara, CA"
-    ],
-    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Compiler-Engineer---Smart-Network-Devices--New-College-Grad-2026_JR2020535",
     "sponsorship": "Other",
     "posted": "2026-07-02",
     "source": "SimplifyJobs"
