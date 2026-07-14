@@ -12,6 +12,54 @@
     "source": "SimplifyJobs"
   },
   {
+    "id": "linkedin-4439805508",
+    "company": "Fresh Ventures",
+    "title": "Software Engineer, Early Career",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4439805508",
+    "sponsorship": "",
+    "posted": "2026-07-14",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4439498336",
+    "company": "Whatnot",
+    "title": "Software Engineer, New Grad",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4439498336",
+    "sponsorship": "",
+    "posted": "2026-07-14",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4437647077",
+    "company": "DoorDash",
+    "title": "Software Engineer I, Entry-Level (Graduation Date: Fall 2025-Summer 2026)",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4437647077",
+    "sponsorship": "",
+    "posted": "2026-07-14",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4440373341",
+    "company": "Old Mission",
+    "title": "Software Engineer \u2013 2027 Graduate Program (August Start)",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4440373341",
+    "sponsorship": "",
+    "posted": "2026-07-14",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4439820128",
     "company": "Fresh Ventures",
     "title": "Software Engineer, New Grad",
@@ -36,30 +84,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4439498336",
-    "company": "Whatnot",
-    "title": "Software Engineer, New Grad",
-    "locations": [
-      "New York, NY"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4439498336",
-    "sponsorship": "",
-    "posted": "2026-07-14",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4440373341",
-    "company": "Old Mission",
-    "title": "Software Engineer \u2013 2027 Graduate Program (August Start)",
-    "locations": [
-      "Chicago, IL"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4440373341",
-    "sponsorship": "",
-    "posted": "2026-07-14",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4437642177",
     "company": "DoorDash",
     "title": "Software Engineer I, Entry-Level (Graduation Date: Fall 2025-Summer 2026)",
@@ -72,37 +96,25 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4437647077",
-    "company": "DoorDash",
-    "title": "Software Engineer I, Entry-Level (Graduation Date: Fall 2025-Summer 2026)",
+    "id": "linkedin-4437632801",
+    "company": "Humana",
+    "title": "Junior Software Engineer- Cloud Cost Optimization",
     "locations": [
-      "Seattle, WA"
+      "New York, United States"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4437647077",
+    "url": "https://www.linkedin.com/jobs/view/4437632801",
     "sponsorship": "",
     "posted": "2026-07-14",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4439805508",
-    "company": "Fresh Ventures",
-    "title": "Software Engineer, Early Career",
+    "id": "linkedin-4437636614",
+    "company": "Humana",
+    "title": "Junior Software Engineer- Cloud Cost Optimization",
     "locations": [
-      "San Francisco, CA"
+      "New York, NY"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4439805508",
-    "sponsorship": "",
-    "posted": "2026-07-14",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4439823038",
-    "company": "Fresh Ventures",
-    "title": "Software Engineer, Early Career (AI)",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4439823038",
+    "url": "https://www.linkedin.com/jobs/view/4437636614",
     "sponsorship": "",
     "posted": "2026-07-14",
     "source": "LinkedIn"
@@ -226,13 +238,13 @@
     "source": "SimplifyJobs"
   },
   {
-    "id": "linkedin-4439777275",
-    "company": "PointOne",
-    "title": "New Grad Software Engineer",
+    "id": "linkedin-4440319364",
+    "company": "Quantiq",
+    "title": "Software Developer- New Graduate",
     "locations": [
-      "New York, NY"
+      "Austin, TX"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4439777275",
+    "url": "https://www.linkedin.com/jobs/view/4440319364",
     "sponsorship": "",
     "posted": "2026-07-13",
     "source": "LinkedIn"
@@ -250,13 +262,25 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4440319364",
-    "company": "Quantiq",
-    "title": "Software Developer- New Graduate",
+    "id": "linkedin-4439777275",
+    "company": "PointOne",
+    "title": "New Grad Software Engineer",
     "locations": [
-      "Austin, TX"
+      "New York, NY"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4440319364",
+    "url": "https://www.linkedin.com/jobs/view/4439777275",
+    "sponsorship": "",
+    "posted": "2026-07-13",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4439433262",
+    "company": "Capgemini",
+    "title": "Junior Software Developer",
+    "locations": [
+      "Nashville, TN"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4439433262",
     "sponsorship": "",
     "posted": "2026-07-13",
     "source": "LinkedIn"
@@ -281,30 +305,6 @@
       "United States"
     ],
     "url": "https://www.linkedin.com/jobs/view/4420653816",
-    "sponsorship": "",
-    "posted": "2026-07-11",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4420974725",
-    "company": "DAT Freight & Analytics",
-    "title": "Software Engineer I",
-    "locations": [
-      "Denver, CO"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4420974725",
-    "sponsorship": "",
-    "posted": "2026-07-11",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4390703326",
-    "company": "Twitch",
-    "title": "Software Engineer I, Commerce Engineering",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4390703326",
     "sponsorship": "",
     "posted": "2026-07-11",
     "source": "LinkedIn"
