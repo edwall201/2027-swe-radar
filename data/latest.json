@@ -12,6 +12,18 @@
     "source": "SimplifyJobs"
   },
   {
+    "id": "gh-samsara-8036387",
+    "company": "Samsara",
+    "title": "Sr Software Engineer I",
+    "locations": [
+      "Remote - US"
+    ],
+    "url": "https://www.samsara.com/company/careers/roles/8036387?gh_jid=8036387",
+    "sponsorship": "",
+    "posted": "2026-07-15",
+    "source": "Greenhouse"
+  },
+  {
     "id": "linkedin-4439959402",
     "company": "Twitch",
     "title": "Software Engineer I, Discovery",
@@ -36,13 +48,85 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4440210703",
+    "id": "linkedin-4440224181",
     "company": "Revature",
     "title": "Entry Level Software Developer",
     "locations": [
-      "Teaneck, NJ"
+      "Chicago, IL"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4440210703",
+    "url": "https://www.linkedin.com/jobs/view/4440224181",
+    "sponsorship": "",
+    "posted": "2026-07-15",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4440237901",
+    "company": "Coilcraft, Inc.",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "Cary, IL"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4440237901",
+    "sponsorship": "",
+    "posted": "2026-07-15",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4438420300",
+    "company": "Simple Consulting Hub",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "New York, United States"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4438420300",
+    "sponsorship": "",
+    "posted": "2026-07-15",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4440211700",
+    "company": "Revature",
+    "title": "Entry Level Software Developer",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4440211700",
+    "sponsorship": "",
+    "posted": "2026-07-15",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4438097750",
+    "company": "Leidos",
+    "title": "Junior Software Specialist/Engineer",
+    "locations": [
+      "Ridgecrest, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4438097750",
+    "sponsorship": "",
+    "posted": "2026-07-15",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4440988585",
+    "company": "Helic & Co",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "United States"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4440988585",
+    "sponsorship": "",
+    "posted": "2026-07-15",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4440218698",
+    "company": "Green Key Resources",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "Greenwich, CT"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4440218698",
     "sponsorship": "",
     "posted": "2026-07-15",
     "source": "LinkedIn"
@@ -96,28 +180,16 @@
     "source": "SimplifyJobs"
   },
   {
-    "id": "gh-duolingo-8628275002",
-    "company": "Duolingo",
-    "title": "Software Engineer II, Backend",
+    "id": "linkedin-4439805508",
+    "company": "Fresh Ventures",
+    "title": "Software Engineer, Early Career",
     "locations": [
-      "New York, NY"
+      "San Francisco, CA"
     ],
-    "url": "https://careers.duolingo.com/jobs/8628275002?gh_jid=8628275002",
+    "url": "https://www.linkedin.com/jobs/view/4439805508",
     "sponsorship": "",
     "posted": "2026-07-14",
-    "source": "Greenhouse"
-  },
-  {
-    "id": "gh-duolingo-8628276002",
-    "company": "Duolingo",
-    "title": "Software Engineer II, Backend",
-    "locations": [
-      "Pittsburgh, PA"
-    ],
-    "url": "https://careers.duolingo.com/jobs/8628276002?gh_jid=8628276002",
-    "sponsorship": "",
-    "posted": "2026-07-14",
-    "source": "Greenhouse"
+    "source": "LinkedIn"
   },
   {
     "id": "linkedin-4439498336",
@@ -132,37 +204,25 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4173823940",
-    "company": "AppLovin",
-    "title": "Backend Engineer, New Grad",
+    "id": "linkedin-4440373341",
+    "company": "Old Mission",
+    "title": "Software Engineer \u2013 2027 Graduate Program (August Start)",
     "locations": [
-      "Palo Alto, CA"
+      "Chicago, IL"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4173823940",
+    "url": "https://www.linkedin.com/jobs/view/4440373341",
     "sponsorship": "",
     "posted": "2026-07-14",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4437647077",
-    "company": "DoorDash",
-    "title": "Software Engineer I, Entry-Level (Graduation Date: Fall 2025-Summer 2026)",
+    "id": "linkedin-4369169021",
+    "company": "Midmark Corporation",
+    "title": "Firmware Engineering Co-op - Spring 2027",
     "locations": [
-      "Seattle, WA"
+      "Versailles, OH"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4437647077",
-    "sponsorship": "",
-    "posted": "2026-07-14",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4439802757",
-    "company": "Fresh Ventures",
-    "title": "Software Engineer, New Grad (AI)",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4439802757",
+    "url": "https://www.linkedin.com/jobs/view/4369169021",
     "sponsorship": "",
     "posted": "2026-07-14",
     "source": "LinkedIn"
@@ -180,61 +240,37 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4439908140",
-    "company": "Nuro",
-    "title": "Software Engineer, Performance - New Grad",
+    "id": "linkedin-4440359519",
+    "company": "Vast",
+    "title": "Software Engineer I, Mission Software",
     "locations": [
-      "Mountain View, CA"
+      "Long Beach, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4439908140",
+    "url": "https://www.linkedin.com/jobs/view/4440359519",
     "sponsorship": "",
     "posted": "2026-07-14",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4437642177",
-    "company": "DoorDash",
-    "title": "Software Engineer I, Entry-Level (Graduation Date: Fall 2025-Summer 2026)",
+    "id": "linkedin-4440832341",
+    "company": "MetLife",
+    "title": "Junior Software Engineer",
     "locations": [
-      "New York, NY"
+      "Whippany, NJ"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4437642177",
+    "url": "https://www.linkedin.com/jobs/view/4440832341",
     "sponsorship": "",
     "posted": "2026-07-14",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4437642176",
-    "company": "DoorDash",
-    "title": "Software Engineer I, Entry-Level (Graduation Date: Fall 2025-Summer 2026)",
+    "id": "linkedin-4438140058",
+    "company": "MetLife",
+    "title": "Junior Software Engineer",
     "locations": [
-      "Los Angeles, CA"
+      "Tampa, FL"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4437642176",
-    "sponsorship": "",
-    "posted": "2026-07-14",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4437643167",
-    "company": "DoorDash",
-    "title": "Software Engineer I, Entry-Level (Graduation Date: Fall 2025-Summer 2026)",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4437643167",
-    "sponsorship": "",
-    "posted": "2026-07-14",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4437636303",
-    "company": "DoorDash",
-    "title": "Software Engineer I, Entry-Level (Graduation Date: Fall 2025-Summer 2026)",
-    "locations": [
-      "Sunnyvale, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4437636303",
+    "url": "https://www.linkedin.com/jobs/view/4438140058",
     "sponsorship": "",
     "posted": "2026-07-14",
     "source": "LinkedIn"
@@ -252,13 +288,61 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4439805508",
-    "company": "Fresh Ventures",
-    "title": "Software Engineer, Early Career",
+    "id": "linkedin-4438818396",
+    "company": "MetLife",
+    "title": "Junior Software Engineer",
     "locations": [
-      "San Francisco, CA"
+      "Whippany, NJ"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4439805508",
+    "url": "https://www.linkedin.com/jobs/view/4438818396",
+    "sponsorship": "",
+    "posted": "2026-07-14",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4437636303",
+    "company": "DoorDash",
+    "title": "Software Engineer I, Entry-Level (Graduation Date: Fall 2025-Summer 2026)",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4437636303",
+    "sponsorship": "",
+    "posted": "2026-07-14",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4437642176",
+    "company": "DoorDash",
+    "title": "Software Engineer I, Entry-Level (Graduation Date: Fall 2025-Summer 2026)",
+    "locations": [
+      "Los Angeles, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4437642176",
+    "sponsorship": "",
+    "posted": "2026-07-14",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4437647077",
+    "company": "DoorDash",
+    "title": "Software Engineer I, Entry-Level (Graduation Date: Fall 2025-Summer 2026)",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4437647077",
+    "sponsorship": "",
+    "posted": "2026-07-14",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4437642177",
+    "company": "DoorDash",
+    "title": "Software Engineer I, Entry-Level (Graduation Date: Fall 2025-Summer 2026)",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4437642177",
     "sponsorship": "",
     "posted": "2026-07-14",
     "source": "LinkedIn"
@@ -276,13 +360,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4438818396",
+    "id": "linkedin-4438814481",
     "company": "MetLife",
     "title": "Junior Software Engineer",
     "locations": [
-      "Whippany, NJ"
+      "Cary, NC"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4438818396",
+    "url": "https://www.linkedin.com/jobs/view/4438814481",
     "sponsorship": "",
     "posted": "2026-07-14",
     "source": "LinkedIn"
@@ -409,18 +493,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4439777275",
-    "company": "PointOne",
-    "title": "New Grad Software Engineer",
-    "locations": [
-      "New York, NY"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4439777275",
-    "sponsorship": "",
-    "posted": "2026-07-13",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4440094661",
     "company": "Northslope Technologies",
     "title": "Forward Deployed Software Engineer, New Grad",
@@ -442,6 +514,30 @@
     "url": "https://www.linkedin.com/jobs/view/4440089600",
     "sponsorship": "",
     "posted": "2026-07-13",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4440084829",
+    "company": "Abridge",
+    "title": "Software Engineer - Early Career",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4440084829",
+    "sponsorship": "",
+    "posted": "2026-07-13",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4439122054",
+    "company": "Cruit Group",
+    "title": "Junior Software Developer",
+    "locations": [
+      "Miami, FL"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4439122054",
+    "sponsorship": "",
+    "posted": "2026-07-12",
     "source": "LinkedIn"
   },
   {
@@ -493,18 +589,6 @@
     "source": "SimplifyJobs"
   },
   {
-    "id": "gh-duolingo-8628670002",
-    "company": "Duolingo",
-    "title": "Software Engineer II, Android",
-    "locations": [
-      "New York, NY"
-    ],
-    "url": "https://careers.duolingo.com/jobs/8628670002?gh_jid=8628670002",
-    "sponsorship": "",
-    "posted": "2026-07-10",
-    "source": "Greenhouse"
-  },
-  {
     "id": "gh-duolingo-8628658002",
     "company": "Duolingo",
     "title": "Software Engineer II, Android",
@@ -512,6 +596,18 @@
       "Pittsburgh, PA"
     ],
     "url": "https://careers.duolingo.com/jobs/8628658002?gh_jid=8628658002",
+    "sponsorship": "",
+    "posted": "2026-07-10",
+    "source": "Greenhouse"
+  },
+  {
+    "id": "gh-duolingo-8628670002",
+    "company": "Duolingo",
+    "title": "Software Engineer II, Android",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://careers.duolingo.com/jobs/8628670002?gh_jid=8628670002",
     "sponsorship": "",
     "posted": "2026-07-10",
     "source": "Greenhouse"
