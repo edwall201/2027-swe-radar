@@ -1,51 +1,55 @@
 # 📡 2027 SWE Radar
 
 Automated daily scanner for **2027 new-grad software engineering** openings.
-Last scan: **2026-07-14** · Tracking **63** matching postings · 🆕 **5** new today
+Last scan: **2026-07-15** · Tracking **63** matching postings · 🆕 **8** new today
 Only showing **US** postings from **2026-07-01** onward, newest first.
 
 ## 🆕 New today
 
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
-| **Cerebras** | Simulation Engineer New Grad | Sunnyvale, CA | 2026-07-14 | [Link](https://jobs.ashbyhq.com/cerebras/bf6f81b2-f079-483a-9238-295a184b3f0f/application) |
-| **Fresh Ventures** | Software Engineer, Early Career | San Francisco, CA | 2026-07-14 | [Link](https://www.linkedin.com/jobs/view/4439805508) |
-| **DoorDash** | Software Engineer I, Entry-Level (Graduation Date: Fall 2025-Summer 2026) | Seattle, WA | 2026-07-14 | [Link](https://www.linkedin.com/jobs/view/4437647077) |
-| **DoorDash** | Software Engineer I, Entry-Level (Graduation Date: Fall 2025-Summer 2026) | San Francisco, CA | 2026-07-14 | [Link](https://www.linkedin.com/jobs/view/4437643167) |
-| **Old Mission** | Software Engineer – 2027 Graduate Program (August Start) | Chicago, IL | 2026-07-14 | [Link](https://www.linkedin.com/jobs/view/4440373341) |
+| **Twitch** | Software Engineer I, Discovery | San Francisco, CA | 2026-07-15 | [Link](https://www.linkedin.com/jobs/view/4439959402) |
+| **Nuro** | Software Engineer New Grad - Performance | Mountain View, CA | 2026-07-14 | [Link](https://nuro.ai/careersitem?gh_jid=8064655) |
+| **Midmark Corporation** | Firmware Engineering Co-op - Spring 2027 | Versailles, OH | 2026-07-14 | [Link](https://www.linkedin.com/jobs/view/4369169021) |
+| **DoorDash** | Software Engineer I, Entry-Level (Graduation Date: Fall 2025-Summer 2026) | Sunnyvale, CA | 2026-07-14 | [Link](https://www.linkedin.com/jobs/view/4437636303) |
+| **Helic & Co** | Junior Software Engineer | United States | 2026-07-14 | [Link](https://www.linkedin.com/jobs/view/4440570136) |
+| **Fresh Ventures** | Software Engineer, Early Career (AI) | San Francisco, CA | 2026-07-14 | [Link](https://www.linkedin.com/jobs/view/4439823038) |
+| **Revature** | Entry Level Software Developer | Teaneck, NJ | 2026-07-14 | [Link](https://www.linkedin.com/jobs/view/4439852367) |
+| **Abridge** | Software Engineer - Early Career | New York, NY | 2026-07-13 | [Link](https://www.linkedin.com/jobs/view/4440089600) |
 
 ## 🎯 Explicit 2027 openings
 
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
 | Old Mission | Software Engineer – 2027 Graduate Program (August Start) | Chicago, IL | 2026-07-14 | [Link](https://www.linkedin.com/jobs/view/4440373341) |
+| Midmark Corporation | Firmware Engineering Co-op - Spring 2027 | Versailles, OH | 2026-07-14 | [Link](https://www.linkedin.com/jobs/view/4369169021) |
 
 ## All tracked postings (most recent 50)
 
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
+| Twitch | Software Engineer I, Discovery | San Francisco, CA | 2026-07-15 | [Link](https://www.linkedin.com/jobs/view/4439959402) |
 | SambaNova Systems | AI Systems Performance Engineer New Grad | San Jose, CA | 2026-07-14 | [Link](https://sambanova.ai/sambanova-available-positions/?gh_jid=6115124004) |
 | Cerebras | Simulation Engineer New Grad | Sunnyvale, CA | 2026-07-14 | [Link](https://jobs.ashbyhq.com/cerebras/bf6f81b2-f079-483a-9238-295a184b3f0f/application) |
+| Nuro | Software Engineer New Grad - Performance | Mountain View, CA | 2026-07-14 | [Link](https://nuro.ai/careersitem?gh_jid=8064655) |
 | Duolingo | Software Engineer II, Backend | New York, NY | 2026-07-14 | [Link](https://careers.duolingo.com/jobs/8628275002?gh_jid=8628275002) |
 | Duolingo | Software Engineer II, Backend | Pittsburgh, PA | 2026-07-14 | [Link](https://careers.duolingo.com/jobs/8628276002?gh_jid=8628276002) |
 | Fresh Ventures | Software Engineer, Early Career | San Francisco, CA | 2026-07-14 | [Link](https://www.linkedin.com/jobs/view/4439805508) |
 | Whatnot | Software Engineer, New Grad | New York, NY | 2026-07-14 | [Link](https://www.linkedin.com/jobs/view/4439498336) |
-| AppLovin | Backend Engineer, New Grad | Palo Alto, CA | 2026-07-14 | [Link](https://www.linkedin.com/jobs/view/4173823940) |
 | DoorDash | Software Engineer I, Entry-Level (Graduation Date: Fall 2025-Summer 2026) | Seattle, WA | 2026-07-14 | [Link](https://www.linkedin.com/jobs/view/4437647077) |
+| Old Mission | Software Engineer – 2027 Graduate Program (August Start) | Chicago, IL | 2026-07-14 | [Link](https://www.linkedin.com/jobs/view/4440373341) |
+| Midmark Corporation | Firmware Engineering Co-op - Spring 2027 | Versailles, OH | 2026-07-14 | [Link](https://www.linkedin.com/jobs/view/4369169021) |
 | Fresh Ventures | Software Engineer, New Grad (AI) | San Francisco, CA | 2026-07-14 | [Link](https://www.linkedin.com/jobs/view/4439802757) |
 | Fresh Ventures | Software Engineer, New Grad | San Francisco, CA | 2026-07-14 | [Link](https://www.linkedin.com/jobs/view/4439820128) |
 | Nuro | Software Engineer, Performance - New Grad | Mountain View, CA | 2026-07-14 | [Link](https://www.linkedin.com/jobs/view/4439908140) |
-| MetLife | Junior Software Engineer | Whippany, NJ | 2026-07-14 | [Link](https://www.linkedin.com/jobs/view/4440832341) |
-| MetLife | Junior Software Engineer | Tampa, FL | 2026-07-14 | [Link](https://www.linkedin.com/jobs/view/4438140058) |
-| Revature | Entry Level Software Developer | Chicago, IL | 2026-07-14 | [Link](https://www.linkedin.com/jobs/view/4439844867) |
-| Revature | Entry Level Software Developer | Dallas, TX | 2026-07-14 | [Link](https://www.linkedin.com/jobs/view/4439840880) |
-| Leidos | Junior Software Specialist/Engineer | Ridgecrest, CA | 2026-07-14 | [Link](https://www.linkedin.com/jobs/view/4440811429) |
-| MetLife | Junior Software Engineer | Whippany, NJ | 2026-07-14 | [Link](https://www.linkedin.com/jobs/view/4438818396) |
-| DoorDash | Software Engineer I, Entry-Level (Graduation Date: Fall 2025-Summer 2026) | San Francisco, CA | 2026-07-14 | [Link](https://www.linkedin.com/jobs/view/4437643167) |
 | DoorDash | Software Engineer I, Entry-Level (Graduation Date: Fall 2025-Summer 2026) | New York, NY | 2026-07-14 | [Link](https://www.linkedin.com/jobs/view/4437642177) |
 | DoorDash | Software Engineer I, Entry-Level (Graduation Date: Fall 2025-Summer 2026) | Los Angeles, CA | 2026-07-14 | [Link](https://www.linkedin.com/jobs/view/4437642176) |
-| Old Mission | Software Engineer – 2027 Graduate Program (August Start) | Chicago, IL | 2026-07-14 | [Link](https://www.linkedin.com/jobs/view/4440373341) |
-| Box | Software Engineer III, Kubernetes | Redwood City, CA | 2026-07-14 | [Link](https://www.linkedin.com/jobs/view/4440584384) |
+| DoorDash | Software Engineer I, Entry-Level (Graduation Date: Fall 2025-Summer 2026) | San Francisco, CA | 2026-07-14 | [Link](https://www.linkedin.com/jobs/view/4437643167) |
+| DoorDash | Software Engineer I, Entry-Level (Graduation Date: Fall 2025-Summer 2026) | Sunnyvale, CA | 2026-07-14 | [Link](https://www.linkedin.com/jobs/view/4437636303) |
+| Helic & Co | Junior Software Engineer | United States | 2026-07-14 | [Link](https://www.linkedin.com/jobs/view/4440570136) |
+| AppLovin | Backend Engineer, New Grad | Palo Alto, CA | 2026-07-14 | [Link](https://www.linkedin.com/jobs/view/4173823940) |
+| Fresh Ventures | Software Engineer, Early Career (AI) | San Francisco, CA | 2026-07-14 | [Link](https://www.linkedin.com/jobs/view/4439823038) |
+| Revature | Entry Level Software Developer | Teaneck, NJ | 2026-07-14 | [Link](https://www.linkedin.com/jobs/view/4439852367) |
 | Micron Technology | New Grad Electrical Engineer - Computer Engineer - Engineering Automation | Richardson, TX | 2026-07-13 | [Link](https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/New-College-Grad---Computer-Engineer--Engineering-Automation_JR103691) |
 | Northslope Technologies | Forward Deployed Software Engineer New Grad | NYC | 2026-07-13 | [Link](https://jobs.ashbyhq.com/northslope-technologies/80b82167-7101-4f78-9006-7755dd2ca01e/application) |
 | WhatNot | Software Engineer New Grad | NYC | 2026-07-13 | [Link](https://jobs.ashbyhq.com/whatnot/bc8f8c7f-2c4c-4f43-a238-953568c101b8/application) |
@@ -59,7 +63,7 @@ Only showing **US** postings from **2026-07-01** onward, newest first.
 | PointOne | New Grad Software Engineer | New York, NY | 2026-07-13 | [Link](https://www.linkedin.com/jobs/view/4439777275) |
 | Northslope Technologies | Forward Deployed Software Engineer, New Grad | New York, United States | 2026-07-13 | [Link](https://www.linkedin.com/jobs/view/4440094661) |
 | Capgemini | Junior Software Developer | Nashville, TN | 2026-07-13 | [Link](https://www.linkedin.com/jobs/view/4439433262) |
-| Cruit Group | Junior Software Developer | Miami, FL | 2026-07-12 | [Link](https://www.linkedin.com/jobs/view/4439122054) |
+| Abridge | Software Engineer - Early Career | New York, NY | 2026-07-13 | [Link](https://www.linkedin.com/jobs/view/4440089600) |
 | Rokt | Junior Software Engineer | New York, NY | 2026-07-12 | [Link](https://www.linkedin.com/jobs/view/4402165922) |
 | Kustomer | Software Engineer – Early Career - Full Stack | NYC | 2026-07-10 | [Link](https://jobs.ashbyhq.com/kustomer/4037272a-7fd3-4040-906b-47fde875a817/application) |
 | Sandisk | SSD Firmware Engineer New Grad - SSD Firmware Engineer | Milpitas, CA | 2026-07-10 | [Link](https://jobs.smartrecruiters.com/Sandisk/744000137191590) |
