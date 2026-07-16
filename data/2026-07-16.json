@@ -1,53 +1,5 @@
 [
   {
-    "id": "linkedin-4441412841",
-    "company": "action.",
-    "title": "Software Engineer, New Grad",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4441412841",
-    "sponsorship": "",
-    "posted": "2026-07-16",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4438447346",
-    "company": "Sail Lore",
-    "title": "Software Engineer, New Grad",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4438447346",
-    "sponsorship": "",
-    "posted": "2026-07-16",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4438453155",
-    "company": "Sail Lore",
-    "title": "Software Engineer, New Grad (AI)",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4438453155",
-    "sponsorship": "",
-    "posted": "2026-07-16",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4441409937",
-    "company": "action.",
-    "title": "Software Engineer, New Grad (AI)",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4441409937",
-    "sponsorship": "",
-    "posted": "2026-07-16",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4441406776",
     "company": "Lightfield",
     "title": "Software Engineer, Applied AI, New Grad",
@@ -55,6 +7,42 @@
       "San Francisco, CA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4441406776",
+    "sponsorship": "",
+    "posted": "2026-07-16",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4438463495",
+    "company": "Netic",
+    "title": "Full-Stack Software Engineer (Product) - New Grad - 2026-2027",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4438463495",
+    "sponsorship": "",
+    "posted": "2026-07-16",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4438446984",
+    "company": "Netic",
+    "title": "Software Engineer (Agent Platform) - New Grad - 2026-2027",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4438446984",
+    "sponsorship": "",
+    "posted": "2026-07-16",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4440622946",
+    "company": "Pat Kelly Engineering",
+    "title": "Software Engineer, New Grad",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4440622946",
     "sponsorship": "",
     "posted": "2026-07-16",
     "source": "LinkedIn"
@@ -106,6 +94,18 @@
     "sponsorship": "",
     "posted": "2026-07-15",
     "source": "Greenhouse"
+  },
+  {
+    "id": "linkedin-4421337442",
+    "company": "Deloitte",
+    "title": "Agentic Software Engineer III",
+    "locations": [
+      "Fresno, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4421337442",
+    "sponsorship": "",
+    "posted": "2026-07-15",
+    "source": "LinkedIn"
   },
   {
     "id": "linkedin-4440224181",
@@ -168,13 +168,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4438421362",
-    "company": "SMC\u00b3",
+    "id": "linkedin-4441283126",
+    "company": "Fuse Integration",
     "title": "Software Engineer I",
     "locations": [
-      "Peachtree City, GA"
+      "San Diego, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4438421362",
+    "url": "https://www.linkedin.com/jobs/view/4441283126",
     "sponsorship": "",
     "posted": "2026-07-15",
     "source": "LinkedIn"
@@ -252,30 +252,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4439820128",
-    "company": "Fresh Ventures",
-    "title": "Software Engineer, New Grad",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4439820128",
-    "sponsorship": "",
-    "posted": "2026-07-14",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4439802757",
-    "company": "Fresh Ventures",
-    "title": "Software Engineer, New Grad (AI)",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4439802757",
-    "sponsorship": "",
-    "posted": "2026-07-14",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4439908140",
     "company": "Nuro",
     "title": "Software Engineer, Performance - New Grad",
@@ -283,18 +259,6 @@
       "Mountain View, CA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4439908140",
-    "sponsorship": "",
-    "posted": "2026-07-14",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4440359519",
-    "company": "Vast",
-    "title": "Software Engineer I, Mission Software",
-    "locations": [
-      "Long Beach, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4440359519",
     "sponsorship": "",
     "posted": "2026-07-14",
     "source": "LinkedIn"
@@ -372,13 +336,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4437642177",
-    "company": "DoorDash",
-    "title": "Software Engineer I, Entry-Level (Graduation Date: Fall 2025-Summer 2026)",
+    "id": "linkedin-4438814481",
+    "company": "MetLife",
+    "title": "Junior Software Engineer",
     "locations": [
-      "New York, NY"
+      "Cary, NC"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4437642177",
+    "url": "https://www.linkedin.com/jobs/view/4438814481",
     "sponsorship": "",
     "posted": "2026-07-14",
     "source": "LinkedIn"
@@ -479,6 +443,42 @@
     "sponsorship": "Other",
     "posted": "2026-07-13",
     "source": "SimplifyJobs"
+  },
+  {
+    "id": "linkedin-4440094661",
+    "company": "Northslope Technologies",
+    "title": "Forward Deployed Software Engineer, New Grad",
+    "locations": [
+      "New York, United States"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4440094661",
+    "sponsorship": "",
+    "posted": "2026-07-13",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4440089600",
+    "company": "Abridge",
+    "title": "Software Engineer - Early Career",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4440089600",
+    "sponsorship": "",
+    "posted": "2026-07-13",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4440084829",
+    "company": "Abridge",
+    "title": "Software Engineer - Early Career",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4440084829",
+    "sponsorship": "",
+    "posted": "2026-07-13",
+    "source": "LinkedIn"
   },
   {
     "id": "simplify-67fa641a-072c-4739-8ce6-46b35fd111a5",
