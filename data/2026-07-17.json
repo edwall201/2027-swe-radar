@@ -1,5 +1,53 @@
 [
   {
+    "id": "linkedin-4441946844",
+    "company": "Acrisure",
+    "title": "Software Engineer I",
+    "locations": [
+      "Austin, TX"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4441946844",
+    "sponsorship": "",
+    "posted": "2026-07-17",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4441962253",
+    "company": "Acrisure",
+    "title": "Software Engineer I",
+    "locations": [
+      "Uniondale, NY"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4441962253",
+    "sponsorship": "",
+    "posted": "2026-07-17",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4441944930",
+    "company": "Acrisure",
+    "title": "Software Engineer I",
+    "locations": [
+      "Grand Rapids, MI"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4441944930",
+    "sponsorship": "",
+    "posted": "2026-07-17",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4439230185",
+    "company": "Mr. Capital\u00ae - Learn 'On The Go'",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "New York, United States"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4439230185",
+    "sponsorship": "",
+    "posted": "2026-07-17",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4438771240",
     "company": "Sail Lore",
     "title": "Software Engineer, Early Career (AI)",
@@ -72,54 +120,6 @@
     "source": "Greenhouse"
   },
   {
-    "id": "linkedin-4441412841",
-    "company": "action.",
-    "title": "Software Engineer, New Grad",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4441412841",
-    "sponsorship": "",
-    "posted": "2026-07-16",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4440777174",
-    "company": "Emonics LLC",
-    "title": "Entry Level Software Engineer",
-    "locations": [
-      "Tampa, FL"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4440777174",
-    "sponsorship": "",
-    "posted": "2026-07-16",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4391631798",
-    "company": "hackajob",
-    "title": "Junior Software Engineer",
-    "locations": [
-      "United States"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4391631798",
-    "sponsorship": "",
-    "posted": "2026-07-16",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4441409937",
-    "company": "action.",
-    "title": "Software Engineer, New Grad (AI)",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4441409937",
-    "sponsorship": "",
-    "posted": "2026-07-16",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4423002169",
     "company": "Pinterest",
     "title": "Software Engineer I, Backend",
@@ -127,6 +127,114 @@
       "Seattle, WA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4423002169",
+    "sponsorship": "",
+    "posted": "2026-07-16",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4441406776",
+    "company": "Lightfield",
+    "title": "Software Engineer, Applied AI, New Grad",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4441406776",
+    "sponsorship": "",
+    "posted": "2026-07-16",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4440793229",
+    "company": "Nuro",
+    "title": "Software Engineer, Performance - New Grad",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4440793229",
+    "sponsorship": "",
+    "posted": "2026-07-16",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4438463495",
+    "company": "Netic",
+    "title": "Full-Stack Software Engineer (Product) - New Grad - 2026-2027",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4438463495",
+    "sponsorship": "",
+    "posted": "2026-07-16",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4438446984",
+    "company": "Netic",
+    "title": "Software Engineer (Agent Platform) - New Grad - 2026-2027",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4438446984",
+    "sponsorship": "",
+    "posted": "2026-07-16",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4441492370",
+    "company": "GE Appliances, a Haier company",
+    "title": "Edison Engineering Development Program (EEDP) - Software - January 2027",
+    "locations": [
+      "Louisville, KY"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4441492370",
+    "sponsorship": "",
+    "posted": "2026-07-16",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4441624820",
+    "company": "7-Eleven",
+    "title": "Software Engineer II - Python and Java",
+    "locations": [
+      "Irving, TX"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4441624820",
+    "sponsorship": "",
+    "posted": "2026-07-16",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4432153677",
+    "company": "Vertafore",
+    "title": "Software Engineer I",
+    "locations": [
+      "East Lansing, MI"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4432153677",
+    "sponsorship": "",
+    "posted": "2026-07-16",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4438706996",
+    "company": "Revature",
+    "title": "Entry Level Software Developer",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4438706996",
+    "sponsorship": "",
+    "posted": "2026-07-16",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4440785263",
+    "company": "Bankers Insurance Group",
+    "title": "Software Engineer I",
+    "locations": [
+      "St. Petersburg, FL"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4440785263",
     "sponsorship": "",
     "posted": "2026-07-16",
     "source": "LinkedIn"
@@ -144,13 +252,25 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4432153677",
-    "company": "Vertafore",
+    "id": "linkedin-4441482658",
+    "company": "GE Appliances, a Haier company",
+    "title": "Edison Engineering Development Program (EEDP) - Software \u2013 July 2027",
+    "locations": [
+      "Louisville, KY"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4441482658",
+    "sponsorship": "",
+    "posted": "2026-07-16",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4438731693",
+    "company": "Bankers Financial Corporation",
     "title": "Software Engineer I",
     "locations": [
-      "East Lansing, MI"
+      "St. Petersburg, FL"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4432153677",
+    "url": "https://www.linkedin.com/jobs/view/4438731693",
     "sponsorship": "",
     "posted": "2026-07-16",
     "source": "LinkedIn"
@@ -192,37 +312,25 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4438046906",
-    "company": "Walmart",
-    "title": "(USA) Software Engineer III",
+    "id": "linkedin-4421337442",
+    "company": "Deloitte",
+    "title": "Agentic Software Engineer III",
     "locations": [
-      "Bentonville, AR"
+      "Fresno, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4438046906",
+    "url": "https://www.linkedin.com/jobs/view/4421337442",
     "sponsorship": "",
     "posted": "2026-07-15",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4431251369",
-    "company": "Cox Automotive Inc.",
-    "title": "Entry Level Software Engineer (Burlington, VT)",
+    "id": "linkedin-4440237901",
+    "company": "Coilcraft, Inc.",
+    "title": "Junior Software Engineer",
     "locations": [
-      "Burlington, VT"
+      "Cary, IL"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4431251369",
-    "sponsorship": "",
-    "posted": "2026-07-15",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4438421362",
-    "company": "SMC\u00b3",
-    "title": "Software Engineer I",
-    "locations": [
-      "Peachtree City, GA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4438421362",
+    "url": "https://www.linkedin.com/jobs/view/4440237901",
     "sponsorship": "",
     "posted": "2026-07-15",
     "source": "LinkedIn"
@@ -240,6 +348,30 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4440218698",
+    "company": "Green Key Resources",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "Greenwich, CT"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4440218698",
+    "sponsorship": "",
+    "posted": "2026-07-15",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4431251369",
+    "company": "Cox Automotive Inc.",
+    "title": "Entry Level Software Engineer (Burlington, VT)",
+    "locations": [
+      "Burlington, VT"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4431251369",
+    "sponsorship": "",
+    "posted": "2026-07-15",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4441283126",
     "company": "Fuse Integration",
     "title": "Software Engineer I",
@@ -247,6 +379,18 @@
       "San Diego, CA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4441283126",
+    "sponsorship": "",
+    "posted": "2026-07-15",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4438421362",
+    "company": "SMC\u00b3",
+    "title": "Software Engineer I",
+    "locations": [
+      "Peachtree City, GA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4438421362",
     "sponsorship": "",
     "posted": "2026-07-15",
     "source": "LinkedIn"
@@ -276,25 +420,25 @@
     "source": "SimplifyJobs"
   },
   {
-    "id": "linkedin-4432040192",
-    "company": "DAT Freight & Analytics",
-    "title": "Software Engineer I",
+    "id": "linkedin-4369169021",
+    "company": "Midmark Corporation",
+    "title": "Firmware Engineering Co-op - Spring 2027",
     "locations": [
-      "Seattle, WA"
+      "Versailles, OH"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4432040192",
+    "url": "https://www.linkedin.com/jobs/view/4369169021",
     "sponsorship": "",
     "posted": "2026-07-14",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4438818396",
+    "id": "linkedin-4440832341",
     "company": "MetLife",
     "title": "Junior Software Engineer",
     "locations": [
       "Whippany, NJ"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4438818396",
+    "url": "https://www.linkedin.com/jobs/view/4440832341",
     "sponsorship": "",
     "posted": "2026-07-14",
     "source": "LinkedIn"
@@ -312,25 +456,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4438814481",
-    "company": "MetLife",
-    "title": "Junior Software Engineer",
-    "locations": [
-      "Cary, NC"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4438814481",
-    "sponsorship": "",
-    "posted": "2026-07-14",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4440832341",
+    "id": "linkedin-4438818396",
     "company": "MetLife",
     "title": "Junior Software Engineer",
     "locations": [
       "Whippany, NJ"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4440832341",
+    "url": "https://www.linkedin.com/jobs/view/4438818396",
     "sponsorship": "",
     "posted": "2026-07-14",
     "source": "LinkedIn"
