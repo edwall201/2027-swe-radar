@@ -72,13 +72,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4442472630",
-    "company": "OSSUMS",
-    "title": "Software Engineer, Early Career (AI)",
+    "id": "linkedin-4442467762",
+    "company": "Basis Set",
+    "title": "Software Engineer (Early Career)",
     "locations": [
       "San Francisco, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4442472630",
+    "url": "https://www.linkedin.com/jobs/view/4442467762",
     "sponsorship": "",
     "posted": "2026-07-18",
     "source": "LinkedIn"
@@ -216,18 +216,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4431761451",
-    "company": "SkillStorm",
-    "title": "Entry Level Software Developer",
-    "locations": [
-      "Houston, TX"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4431761451",
-    "sponsorship": "",
-    "posted": "2026-07-17",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4437198331",
     "company": "SkillStorm",
     "title": "Entry Level Software Developer",
@@ -300,18 +288,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4437628089",
-    "company": "BeaconFire Inc.",
-    "title": "Entry-Level / Junior Software Developer Opportunity",
-    "locations": [
-      "New Jersey, United States"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4437628089",
-    "sponsorship": "",
-    "posted": "2026-07-17",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4441944930",
     "company": "Acrisure",
     "title": "Software Engineer I",
@@ -336,25 +312,49 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4432812870",
-    "company": "Showpad",
-    "title": "Junior Software Engineer",
+    "id": "linkedin-4439205310",
+    "company": "Haystack",
+    "title": "Junior Software Developer",
     "locations": [
-      "Minneapolis, MN"
+      "San Antonio, TX"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4432812870",
+    "url": "https://www.linkedin.com/jobs/view/4439205310",
     "sponsorship": "",
     "posted": "2026-07-17",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4431771271",
-    "company": "SkillStorm",
-    "title": "Entry Level Software Developer",
+    "id": "linkedin-4442168886",
+    "company": "Northrop Grumman",
+    "title": "2027 Associate Software Engineer/Software Engineer",
     "locations": [
-      "Richmond, VA"
+      "Oklahoma City, OK"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4431771271",
+    "url": "https://www.linkedin.com/jobs/view/4442168886",
+    "sponsorship": "",
+    "posted": "2026-07-17",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4414684566",
+    "company": "PTC",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "San Mateo County, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4414684566",
+    "sponsorship": "",
+    "posted": "2026-07-17",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4439267809",
+    "company": "Brivo",
+    "title": "Software Engineer, Early Career - AI Platform",
+    "locations": [
+      "Bethesda, MD"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4439267809",
     "sponsorship": "",
     "posted": "2026-07-17",
     "source": "LinkedIn"
@@ -391,6 +391,30 @@
       "Baltimore, MD"
     ],
     "url": "https://www.linkedin.com/jobs/view/4431770253",
+    "sponsorship": "",
+    "posted": "2026-07-17",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4431757433",
+    "company": "SkillStorm",
+    "title": "Entry Level Software Developer",
+    "locations": [
+      "Boston, MA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4431757433",
+    "sponsorship": "",
+    "posted": "2026-07-17",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4431774193",
+    "company": "SkillStorm",
+    "title": "Entry Level Software Developer",
+    "locations": [
+      "Cleveland, OH"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4431774193",
     "sponsorship": "",
     "posted": "2026-07-17",
     "source": "LinkedIn"
@@ -528,30 +552,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4423002169",
-    "company": "Pinterest",
-    "title": "Software Engineer I, Backend",
-    "locations": [
-      "Seattle, WA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4423002169",
-    "sponsorship": "",
-    "posted": "2026-07-16",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4440688562",
-    "company": "Neural Solutions",
-    "title": "Junior Software Engineer (Frontend Focused)",
-    "locations": [
-      "Columbia, MD"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4440688562",
-    "sponsorship": "",
-    "posted": "2026-07-16",
-    "source": "LinkedIn"
-  },
-  {
     "id": "simplify-b638e646-a8c7-484b-9b2b-51e2b939e5c6",
     "company": "Faros AI",
     "title": "Software Engineer New Grad",
@@ -562,18 +562,6 @@
     "sponsorship": "Other",
     "posted": "2026-07-15",
     "source": "SimplifyJobs"
-  },
-  {
-    "id": "linkedin-4441264401",
-    "company": "Open Core Holdings LLC",
-    "title": "Junior Software Developer",
-    "locations": [
-      "Miami, FL"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4441264401",
-    "sponsorship": "",
-    "posted": "2026-07-15",
-    "source": "LinkedIn"
   },
   {
     "id": "simplify-94b5c207-eda9-41bc-b43a-082ff957f285",
