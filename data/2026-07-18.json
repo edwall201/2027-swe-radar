@@ -1,5 +1,17 @@
 [
   {
+    "id": "linkedin-4406118990",
+    "company": "Notion",
+    "title": "Software Engineer, New Grad",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4406118990",
+    "sponsorship": "",
+    "posted": "2026-07-18",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4434020203",
     "company": "StubHub",
     "title": "Software Engineer I - Open Distribution (New Grad)",
@@ -24,63 +36,15 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4442435250",
-    "company": "CareersElite.com",
-    "title": "Software Engineer (Early Career)",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4442435250",
-    "sponsorship": "",
-    "posted": "2026-07-18",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4442459775",
-    "company": "Helic & Co",
+    "id": "linkedin-4441735224",
+    "company": "AI Insights & Innovations",
     "title": "Junior Software Engineer",
     "locations": [
-      "United States"
+      "New York, United States"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4442459775",
+    "url": "https://www.linkedin.com/jobs/view/4441735224",
     "sponsorship": "",
     "posted": "2026-07-18",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4404214958",
-    "company": "Westinghouse Electric Company",
-    "title": "System Test Engineer - New Grad",
-    "locations": [
-      "Warrendale, PA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4404214958",
-    "sponsorship": "",
-    "posted": "2026-07-17",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4424241056",
-    "company": "Ciena",
-    "title": "Telecommunications Quality Automation Test Engineer - New Grad",
-    "locations": [
-      "Petaluma, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4424241056",
-    "sponsorship": "",
-    "posted": "2026-07-17",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4442168886",
-    "company": "Northrop Grumman",
-    "title": "2027 Associate Software Engineer/Software Engineer",
-    "locations": [
-      "Oklahoma City, OK"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4442168886",
-    "sponsorship": "",
-    "posted": "2026-07-17",
     "source": "LinkedIn"
   },
   {
@@ -216,6 +180,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4442168886",
+    "company": "Northrop Grumman",
+    "title": "2027 Associate Software Engineer/Software Engineer",
+    "locations": [
+      "Oklahoma City, OK"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4442168886",
+    "sponsorship": "",
+    "posted": "2026-07-17",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4431767272",
     "company": "SkillStorm",
     "title": "Entry Level Software Developer",
@@ -223,18 +199,6 @@
       "Pittsburgh, PA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4431767272",
-    "sponsorship": "",
-    "posted": "2026-07-17",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4414684566",
-    "company": "PTC",
-    "title": "Junior Software Engineer",
-    "locations": [
-      "San Mateo County, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4414684566",
     "sponsorship": "",
     "posted": "2026-07-17",
     "source": "LinkedIn"
@@ -408,18 +372,6 @@
     "source": "SimplifyJobs"
   },
   {
-    "id": "linkedin-4431251369",
-    "company": "Cox Automotive Inc.",
-    "title": "Entry Level Software Engineer (Burlington, VT)",
-    "locations": [
-      "Burlington, VT"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4431251369",
-    "sponsorship": "",
-    "posted": "2026-07-15",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4440237901",
     "company": "Coilcraft, Inc.",
     "title": "Junior Software Engineer",
@@ -439,18 +391,6 @@
       "Miami, FL"
     ],
     "url": "https://www.linkedin.com/jobs/view/4441264401",
-    "sponsorship": "",
-    "posted": "2026-07-15",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4441283126",
-    "company": "Fuse Integration",
-    "title": "Software Engineer I",
-    "locations": [
-      "San Diego, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4441283126",
     "sponsorship": "",
     "posted": "2026-07-15",
     "source": "LinkedIn"
@@ -673,6 +613,18 @@
     "url": "https://job-boards.greenhouse.io/headlandstechnologiesllc/jobs/4227566009",
     "sponsorship": "Other",
     "posted": "2026-07-05",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-d26ce57a-9f65-4a82-af45-1e1f59ea6111",
+    "company": "Ciena",
+    "title": "Digital Verification Engineer New Grad",
+    "locations": [
+      "Rochester, NY"
+    ],
+    "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/US--NY--Pittsford--1250-Pittsford-Victor-Road-Rochester/Digital-Verification-Engineer_R029443",
+    "sponsorship": "Other",
+    "posted": "2026-07-04",
     "source": "SimplifyJobs"
   },
   {

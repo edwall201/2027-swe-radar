@@ -1,23 +1,16 @@
 # 📡 2027 SWE Radar
 
 Automated daily scanner for **2027 new-grad software engineering** openings.
-Last scan: **2026-07-18** · Tracking **62** matching postings · 🆕 **10** new today
+Last scan: **2026-07-18** · Tracking **58** matching postings · 🆕 **3** new today
 Only showing **US** postings from **2026-07-01** onward, newest first.
 
 ## 🆕 New today
 
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
-| **CareersElite.com** | Software Engineer (Early Career) | San Francisco, CA | 2026-07-18 | [Link](https://www.linkedin.com/jobs/view/4442435250) |
-| **Helic & Co** | Junior Software Engineer | United States | 2026-07-18 | [Link](https://www.linkedin.com/jobs/view/4442459775) |
-| **SkillStorm** | Entry Level Software Developer | New York City Metropolitan Area | 2026-07-17 | [Link](https://www.linkedin.com/jobs/view/4431772325) |
-| **Acrisure** | Software Engineer I | Atlanta, GA | 2026-07-17 | [Link](https://www.linkedin.com/jobs/view/4441953583) |
-| **SkillStorm** | Entry Level Software Developer | Atlanta, GA | 2026-07-17 | [Link](https://www.linkedin.com/jobs/view/4426397883) |
-| **SkillStorm** | Entry Level Software Developer | Washington, DC | 2026-07-17 | [Link](https://www.linkedin.com/jobs/view/4431773243) |
-| **SkillStorm** | Entry Level Software Developer | Chicago, IL | 2026-07-17 | [Link](https://www.linkedin.com/jobs/view/4431763453) |
-| **PTC** | Junior Software Engineer | San Mateo County, CA | 2026-07-17 | [Link](https://www.linkedin.com/jobs/view/4414684566) |
-| **Cox Automotive Inc.** | Entry Level Software Engineer (Burlington, VT) | Burlington, VT | 2026-07-15 | [Link](https://www.linkedin.com/jobs/view/4431251369) |
-| **Fuse Integration** | Software Engineer I | San Diego, CA | 2026-07-15 | [Link](https://www.linkedin.com/jobs/view/4441283126) |
+| **Notion** | Software Engineer, New Grad | San Francisco, CA | 2026-07-18 | [Link](https://www.linkedin.com/jobs/view/4406118990) |
+| **AI Insights & Innovations** | Junior Software Engineer | New York, United States | 2026-07-18 | [Link](https://www.linkedin.com/jobs/view/4441735224) |
+| **Ciena** | Digital Verification Engineer New Grad | Rochester, NY | 2026-07-04 | [Link](https://ciena.wd5.myworkdayjobs.com/Careers/job/US--NY--Pittsford--1250-Pittsford-Victor-Road-Rochester/Digital-Verification-Engineer_R029443) |
 
 ## 🎯 Explicit 2027 openings
 
@@ -31,13 +24,10 @@ Only showing **US** postings from **2026-07-01** onward, newest first.
 
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
+| Notion | Software Engineer, New Grad | San Francisco, CA | 2026-07-18 | [Link](https://www.linkedin.com/jobs/view/4406118990) |
 | StubHub | Software Engineer I - Open Distribution (New Grad) | Los Angeles, CA | 2026-07-18 | [Link](https://www.linkedin.com/jobs/view/4434020203) |
 | Pax | Software Engineer (Early Career) | San Francisco, CA | 2026-07-18 | [Link](https://www.linkedin.com/jobs/view/4441383529) |
-| CareersElite.com | Software Engineer (Early Career) | San Francisco, CA | 2026-07-18 | [Link](https://www.linkedin.com/jobs/view/4442435250) |
-| Helic & Co | Junior Software Engineer | United States | 2026-07-18 | [Link](https://www.linkedin.com/jobs/view/4442459775) |
-| Westinghouse Electric Company | System Test Engineer - New Grad | Warrendale, PA | 2026-07-17 | [Link](https://www.linkedin.com/jobs/view/4404214958) |
-| Ciena | Telecommunications Quality Automation Test Engineer - New Grad | Petaluma, CA | 2026-07-17 | [Link](https://www.linkedin.com/jobs/view/4424241056) |
-| Northrop Grumman | 2027 Associate Software Engineer/Software Engineer | Oklahoma City, OK | 2026-07-17 | [Link](https://www.linkedin.com/jobs/view/4442168886) |
+| AI Insights & Innovations | Junior Software Engineer | New York, United States | 2026-07-18 | [Link](https://www.linkedin.com/jobs/view/4441735224) |
 | Acrisure | Software Engineer I | Austin, TX | 2026-07-17 | [Link](https://www.linkedin.com/jobs/view/4441946844) |
 | SkillStorm | Entry Level Software Developer | New York City Metropolitan Area | 2026-07-17 | [Link](https://www.linkedin.com/jobs/view/4431772325) |
 | Acrisure | Software Engineer I | Atlanta, GA | 2026-07-17 | [Link](https://www.linkedin.com/jobs/view/4441953583) |
@@ -49,8 +39,8 @@ Only showing **US** postings from **2026-07-01** onward, newest first.
 | Showpad | Junior Software Engineer | Minneapolis, MN | 2026-07-17 | [Link](https://www.linkedin.com/jobs/view/4432812870) |
 | Revature | Entry Level Software Developer | Chicago, IL | 2026-07-17 | [Link](https://www.linkedin.com/jobs/view/4441183648) |
 | Haystack | Junior Software Engineer | Washington, DC | 2026-07-17 | [Link](https://www.linkedin.com/jobs/view/4439209136) |
+| Northrop Grumman | 2027 Associate Software Engineer/Software Engineer | Oklahoma City, OK | 2026-07-17 | [Link](https://www.linkedin.com/jobs/view/4442168886) |
 | SkillStorm | Entry Level Software Developer | Pittsburgh, PA | 2026-07-17 | [Link](https://www.linkedin.com/jobs/view/4431767272) |
-| PTC | Junior Software Engineer | San Mateo County, CA | 2026-07-17 | [Link](https://www.linkedin.com/jobs/view/4414684566) |
 | Nuro | Software Engineer New Grad - Performance | Mountain View, CA | 2026-07-16 | [Link](https://nuro.ai/careersitem?gh_jid=6972272) |
 | Duolingo | Software Engineer II, Backend | Pittsburgh, PA | 2026-07-16 | [Link](https://careers.duolingo.com/jobs/8637300002?gh_jid=8637300002) |
 | Duolingo | Software Engineer II, Backend | New York, NY | 2026-07-16 | [Link](https://careers.duolingo.com/jobs/8637306002?gh_jid=8637306002) |
@@ -65,10 +55,8 @@ Only showing **US** postings from **2026-07-01** onward, newest first.
 | Vertafore | Software Engineer I | East Lansing, MI | 2026-07-16 | [Link](https://www.linkedin.com/jobs/view/4432153677) |
 | hackajob | Junior Software Engineer | United States | 2026-07-16 | [Link](https://www.linkedin.com/jobs/view/4391631798) |
 | Faros AI | Software Engineer New Grad | San Mateo, CA | 2026-07-15 | [Link](https://jobs.ashbyhq.com/faros-ai/622e1f1e-4a39-4e7c-8526-1189ca588066/application?embed=true) |
-| Cox Automotive Inc. | Entry Level Software Engineer (Burlington, VT) | Burlington, VT | 2026-07-15 | [Link](https://www.linkedin.com/jobs/view/4431251369) |
 | Coilcraft, Inc. | Junior Software Engineer | Cary, IL | 2026-07-15 | [Link](https://www.linkedin.com/jobs/view/4440237901) |
 | Open Core Holdings LLC | Junior Software Developer | Miami, FL | 2026-07-15 | [Link](https://www.linkedin.com/jobs/view/4441264401) |
-| Fuse Integration | Software Engineer I | San Diego, CA | 2026-07-15 | [Link](https://www.linkedin.com/jobs/view/4441283126) |
 | SambaNova Systems | AI Systems Performance Engineer New Grad | San Jose, CA | 2026-07-14 | [Link](https://sambanova.ai/sambanova-available-positions/?gh_jid=6115124004) |
 | Cerebras | Simulation Engineer New Grad | Sunnyvale, CA | 2026-07-14 | [Link](https://jobs.ashbyhq.com/cerebras/bf6f81b2-f079-483a-9238-295a184b3f0f/application) |
 | Northslope Technologies | Forward Deployed Software Engineer New Grad | NYC | 2026-07-13 | [Link](https://jobs.ashbyhq.com/northslope-technologies/80b82167-7101-4f78-9006-7755dd2ca01e/application) |
@@ -81,6 +69,11 @@ Only showing **US** postings from **2026-07-01** onward, newest first.
 | Quora | Machine Learning Engineer New Grad | Remote in USA | 2026-07-09 | [Link](https://jobs.ashbyhq.com/quora/3eb7e80e-6a0d-41b6-8ee4-f62421c486e4/application) |
 | Anduril | Early Career Firmware Engineer | Newport Beach, CA | 2026-07-09 | [Link](https://boards.greenhouse.io/andurilindustries/jobs/5167865007) |
 | NVIDIA | ASIC Design Engineer New Grad | Santa Clara, CA | 2026-07-09 | [Link](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Design-Engineer---New-College-Grad-2026_JR2020309) |
+| NewsBreak | Newsbreak Venture New Grad - AI Growth Intelligence Engineer | Mountain View, CA | 2026-07-07 | [Link](https://job-boards.greenhouse.io/newsbreak/jobs/4694899006) |
+| Cerebras | Software Engineer New Grad | Sunnyvale, CA | 2026-07-07 | [Link](https://jobs.ashbyhq.com/cerebras/987d7f64-c957-4c8f-b89d-2f9d64738507/application) |
+| Cerebras | Software Engineer New Grad | Sunnyvale, CA | 2026-07-07 | [Link](https://jobs.ashbyhq.com/cerebras/99c289fa-8fc6-49f7-b7e8-78ac4e9d99ac/application) |
+| Citadel | Software Engineer – University Graduate | Greenwich, CT; Houston, TX | 2026-07-06 | [Link](https://www.citadel.com/careers/details/software-engineer-university-graduate-us/) |
+| Sandisk | Field Application Engineer New Grad | Milpitas, CA | 2026-07-06 | [Link](https://jobs.smartrecruiters.com/Sandisk/744000136097669) |
 
 ---
 _Sources: SimplifyJobs New-Grad-Positions, Greenhouse/Lever/Ashby boards, LinkedIn search, Adzuna aggregator._
