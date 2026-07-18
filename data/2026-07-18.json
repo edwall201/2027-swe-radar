@@ -1,5 +1,17 @@
 [
   {
+    "id": "linkedin-4434020203",
+    "company": "StubHub",
+    "title": "Software Engineer I - Open Distribution (New Grad)",
+    "locations": [
+      "Los Angeles, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4434020203",
+    "sponsorship": "",
+    "posted": "2026-07-18",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4441383529",
     "company": "Pax",
     "title": "Software Engineer (Early Career)",
@@ -12,6 +24,30 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4404214958",
+    "company": "Westinghouse Electric Company",
+    "title": "System Test Engineer - New Grad",
+    "locations": [
+      "Warrendale, PA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4404214958",
+    "sponsorship": "",
+    "posted": "2026-07-17",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4424241056",
+    "company": "Ciena",
+    "title": "Telecommunications Quality Automation Test Engineer - New Grad",
+    "locations": [
+      "Petaluma, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4424241056",
+    "sponsorship": "",
+    "posted": "2026-07-17",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4442168876",
     "company": "Northrop Grumman",
     "title": "2027 Associate Software Engineer / Software Engineer",
@@ -19,18 +55,6 @@
       "Melbourne, FL"
     ],
     "url": "https://www.linkedin.com/jobs/view/4442168876",
-    "sponsorship": "",
-    "posted": "2026-07-17",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4441946844",
-    "company": "Acrisure",
-    "title": "Software Engineer I",
-    "locations": [
-      "Austin, TX"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4441946844",
     "sponsorship": "",
     "posted": "2026-07-17",
     "source": "LinkedIn"
@@ -84,6 +108,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4437404038",
+    "company": "SkillStorm",
+    "title": "Entry Level Software Developer",
+    "locations": [
+      "Denver, CO"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4437404038",
+    "sponsorship": "",
+    "posted": "2026-07-17",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4431762372",
     "company": "SkillStorm",
     "title": "Entry Level Software Developer",
@@ -108,18 +144,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4437188651",
-    "company": "SkillStorm",
-    "title": "Entry Level Software Developer",
-    "locations": [
-      "Nashville, TN"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4437188651",
-    "sponsorship": "",
-    "posted": "2026-07-17",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4432862311",
     "company": "SkillStorm",
     "title": "Entry Level Software Developer",
@@ -127,6 +151,18 @@
       "San Antonio, TX"
     ],
     "url": "https://www.linkedin.com/jobs/view/4432862311",
+    "sponsorship": "",
+    "posted": "2026-07-17",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4437188651",
+    "company": "SkillStorm",
+    "title": "Entry Level Software Developer",
+    "locations": [
+      "Nashville, TN"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4437188651",
     "sponsorship": "",
     "posted": "2026-07-17",
     "source": "LinkedIn"
@@ -156,6 +192,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4437199288",
+    "company": "SkillStorm",
+    "title": "Entry Level Software Developer",
+    "locations": [
+      "Phoenix, AZ"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4437199288",
+    "sponsorship": "",
+    "posted": "2026-07-17",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4439209136",
     "company": "Haystack",
     "title": "Junior Software Engineer",
@@ -180,6 +228,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4441946844",
+    "company": "Acrisure",
+    "title": "Software Engineer I",
+    "locations": [
+      "Austin, TX"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4441946844",
+    "sponsorship": "",
+    "posted": "2026-07-17",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4431770198",
     "company": "SkillStorm",
     "title": "Entry Level Software Developer",
@@ -187,18 +247,6 @@
       "Philadelphia, PA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4431770198",
-    "sponsorship": "",
-    "posted": "2026-07-17",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4437404038",
-    "company": "SkillStorm",
-    "title": "Entry Level Software Developer",
-    "locations": [
-      "Denver, CO"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4437404038",
     "sponsorship": "",
     "posted": "2026-07-17",
     "source": "LinkedIn"
@@ -288,6 +336,30 @@
     "source": "Greenhouse"
   },
   {
+    "id": "linkedin-4441412841",
+    "company": "action.",
+    "title": "Software Engineer, New Grad",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4441412841",
+    "sponsorship": "",
+    "posted": "2026-07-16",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4440624903",
+    "company": "Pat Kelly Engineering",
+    "title": "Software Engineer, New Grad (AI)",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4440624903",
+    "sponsorship": "",
+    "posted": "2026-07-16",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4441406776",
     "company": "Lightfield",
     "title": "Software Engineer, Applied AI, New Grad",
@@ -331,30 +403,6 @@
       "San Francisco, CA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4438446984",
-    "sponsorship": "",
-    "posted": "2026-07-16",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4441412841",
-    "company": "action.",
-    "title": "Software Engineer, New Grad",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4441412841",
-    "sponsorship": "",
-    "posted": "2026-07-16",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4440624903",
-    "company": "Pat Kelly Engineering",
-    "title": "Software Engineer, New Grad (AI)",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4440624903",
     "sponsorship": "",
     "posted": "2026-07-16",
     "source": "LinkedIn"
@@ -415,18 +463,6 @@
       "Cary, IL"
     ],
     "url": "https://www.linkedin.com/jobs/view/4440237901",
-    "sponsorship": "",
-    "posted": "2026-07-15",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4439926870",
-    "company": "Simplify",
-    "title": "Junior Software Engineer",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4439926870",
     "sponsorship": "",
     "posted": "2026-07-15",
     "source": "LinkedIn"
@@ -588,18 +624,6 @@
     "source": "SimplifyJobs"
   },
   {
-    "id": "simplify-6c2fe943-5778-43b7-9845-06428b3eec92",
-    "company": "Micron Technology",
-    "title": "Design Engineer New Grad - Design Engineer - DRAM Technology and Products",
-    "locations": [
-      "Boise, ID"
-    ],
-    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Design-Engineer--DRAM-Technology-and-Products_JR105519",
-    "sponsorship": "Other",
-    "posted": "2026-07-09",
-    "source": "SimplifyJobs"
-  },
-  {
     "id": "simplify-6219210e-e390-4c2e-a436-58559bdccd22",
     "company": "NewsBreak",
     "title": "Newsbreak Venture New Grad - AI Growth Intelligence Engineer",
@@ -673,18 +697,6 @@
     "url": "https://job-boards.greenhouse.io/headlandstechnologiesllc/jobs/4227566009",
     "sponsorship": "Other",
     "posted": "2026-07-05",
-    "source": "SimplifyJobs"
-  },
-  {
-    "id": "simplify-7118a968-548c-4bab-a2f7-a787ad1603a8",
-    "company": "NVIDIA",
-    "title": "ASIC Physical Design and Timing Engineer New Grad",
-    "locations": [
-      "Santa Clara, CA"
-    ],
-    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Physical-Design-and-Timing-Engineer---New-College-Grad-2026_JR2019810",
-    "sponsorship": "Other",
-    "posted": "2026-07-02",
     "source": "SimplifyJobs"
   },
   {
