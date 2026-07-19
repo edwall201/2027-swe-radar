@@ -1,17 +1,5 @@
 [
   {
-    "id": "linkedin-4442501578",
-    "company": "Purpose Bits",
-    "title": "Software Engineer, Early Career",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4442501578",
-    "sponsorship": "",
-    "posted": "2026-07-19",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4442504428",
     "company": "Purpose Bits",
     "title": "Software Engineer, New Grad",
@@ -19,6 +7,18 @@
       "San Francisco, CA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4442504428",
+    "sponsorship": "",
+    "posted": "2026-07-19",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4442504429",
+    "company": "Purpose Bits",
+    "title": "Software Engineer, New Grad (AI)",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4442504429",
     "sponsorship": "",
     "posted": "2026-07-19",
     "source": "LinkedIn"
@@ -48,27 +48,39 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4434020203",
-    "company": "StubHub",
-    "title": "Software Engineer I - Open Distribution (New Grad)",
+    "id": "linkedin-4441767896",
+    "company": "AIHealthCongress",
+    "title": "Junior Software Engineer",
     "locations": [
-      "Los Angeles, CA"
+      "Bala-Cynwyd, PA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4434020203",
+    "url": "https://www.linkedin.com/jobs/view/4441767896",
     "sponsorship": "",
-    "posted": "2026-07-18",
+    "posted": "2026-07-19",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4441383529",
-    "company": "Pax",
-    "title": "Software Engineer (Early Career)",
+    "id": "linkedin-4442501578",
+    "company": "Purpose Bits",
+    "title": "Software Engineer, Early Career",
     "locations": [
       "San Francisco, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4441383529",
+    "url": "https://www.linkedin.com/jobs/view/4442501578",
     "sponsorship": "",
-    "posted": "2026-07-18",
+    "posted": "2026-07-19",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4442509213",
+    "company": "Purpose Bits",
+    "title": "Software Engineer, Early Career (AI)",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4442509213",
+    "sponsorship": "",
+    "posted": "2026-07-19",
     "source": "LinkedIn"
   },
   {
@@ -108,25 +120,133 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4441946844",
-    "company": "Acrisure",
-    "title": "Software Engineer I",
+    "id": "linkedin-4442490431",
+    "company": "Fast Forward Rewind",
+    "title": "Software Engineer, New Grad (AI)",
     "locations": [
-      "Austin, TX"
+      "San Francisco, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4441946844",
+    "url": "https://www.linkedin.com/jobs/view/4442490431",
+    "sponsorship": "",
+    "posted": "2026-07-18",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4442479317",
+    "company": "OSSUMS",
+    "title": "Software Engineer, New Grad (AI)",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4442479317",
+    "sponsorship": "",
+    "posted": "2026-07-18",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4434020203",
+    "company": "StubHub",
+    "title": "Software Engineer I - Open Distribution (New Grad)",
+    "locations": [
+      "Los Angeles, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4434020203",
+    "sponsorship": "",
+    "posted": "2026-07-18",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4441383529",
+    "company": "Pax",
+    "title": "Software Engineer (Early Career)",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4441383529",
+    "sponsorship": "",
+    "posted": "2026-07-18",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4442467762",
+    "company": "Basis Set",
+    "title": "Software Engineer (Early Career)",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4442467762",
+    "sponsorship": "",
+    "posted": "2026-07-18",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4442472630",
+    "company": "OSSUMS",
+    "title": "Software Engineer, Early Career (AI)",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4442472630",
+    "sponsorship": "",
+    "posted": "2026-07-18",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4442459775",
+    "company": "Helic & Co",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "United States"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4442459775",
+    "sponsorship": "",
+    "posted": "2026-07-18",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4442488431",
+    "company": "Fast Forward Rewind",
+    "title": "Software Engineer, Early Career (AI)",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4442488431",
+    "sponsorship": "",
+    "posted": "2026-07-18",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4442435250",
+    "company": "CareersElite.com",
+    "title": "Software Engineer (Early Career)",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4442435250",
+    "sponsorship": "",
+    "posted": "2026-07-18",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4404214958",
+    "company": "Westinghouse Electric Company",
+    "title": "System Test Engineer - New Grad",
+    "locations": [
+      "Warrendale, PA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4404214958",
     "sponsorship": "",
     "posted": "2026-07-17",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4442168876",
-    "company": "Northrop Grumman",
-    "title": "2027 Associate Software Engineer / Software Engineer",
+    "id": "linkedin-4424241056",
+    "company": "Ciena",
+    "title": "Telecommunications Quality Automation Test Engineer - New Grad",
     "locations": [
-      "Melbourne, FL"
+      "Petaluma, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4442168876",
+    "url": "https://www.linkedin.com/jobs/view/4424241056",
     "sponsorship": "",
     "posted": "2026-07-17",
     "source": "LinkedIn"
@@ -139,6 +259,18 @@
       "Oklahoma City, OK"
     ],
     "url": "https://www.linkedin.com/jobs/view/4442168886",
+    "sponsorship": "",
+    "posted": "2026-07-17",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4441946844",
+    "company": "Acrisure",
+    "title": "Software Engineer I",
+    "locations": [
+      "Austin, TX"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4441946844",
     "sponsorship": "",
     "posted": "2026-07-17",
     "source": "LinkedIn"
@@ -192,13 +324,121 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4441904722",
-    "company": "Antares",
-    "title": "Reactor Software Engineer I/II",
+    "id": "linkedin-4438791117",
+    "company": "Sony Interactive Entertainment",
+    "title": "Software Engineer I",
     "locations": [
-      "Los Angeles, CA"
+      "San Mateo, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4441904722",
+    "url": "https://www.linkedin.com/jobs/view/4438791117",
+    "sponsorship": "",
+    "posted": "2026-07-17",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4431767272",
+    "company": "SkillStorm",
+    "title": "Entry Level Software Developer",
+    "locations": [
+      "Pittsburgh, PA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4431767272",
+    "sponsorship": "",
+    "posted": "2026-07-17",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4437400247",
+    "company": "SkillStorm",
+    "title": "Entry Level Software Developer",
+    "locations": [
+      "Louisville, KY"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4437400247",
+    "sponsorship": "",
+    "posted": "2026-07-17",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4431770253",
+    "company": "SkillStorm",
+    "title": "Entry Level Software Developer",
+    "locations": [
+      "Baltimore, MD"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4431770253",
+    "sponsorship": "",
+    "posted": "2026-07-17",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4431757433",
+    "company": "SkillStorm",
+    "title": "Entry Level Software Developer",
+    "locations": [
+      "Boston, MA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4431757433",
+    "sponsorship": "",
+    "posted": "2026-07-17",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4437188651",
+    "company": "SkillStorm",
+    "title": "Entry Level Software Developer",
+    "locations": [
+      "Nashville, TN"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4437188651",
+    "sponsorship": "",
+    "posted": "2026-07-17",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4431774193",
+    "company": "SkillStorm",
+    "title": "Entry Level Software Developer",
+    "locations": [
+      "Cleveland, OH"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4431774193",
+    "sponsorship": "",
+    "posted": "2026-07-17",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4431762372",
+    "company": "SkillStorm",
+    "title": "Entry Level Software Developer",
+    "locations": [
+      "Raleigh, NC"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4431762372",
+    "sponsorship": "",
+    "posted": "2026-07-17",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4432862311",
+    "company": "SkillStorm",
+    "title": "Entry Level Software Developer",
+    "locations": [
+      "San Antonio, TX"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4432862311",
+    "sponsorship": "",
+    "posted": "2026-07-17",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4437183807",
+    "company": "SkillStorm",
+    "title": "Entry Level Software Developer",
+    "locations": [
+      "Rochester, NY"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4437183807",
     "sponsorship": "",
     "posted": "2026-07-17",
     "source": "LinkedIn"
@@ -250,18 +490,6 @@
     "sponsorship": "",
     "posted": "2026-07-16",
     "source": "Greenhouse"
-  },
-  {
-    "id": "linkedin-4441643582",
-    "company": "GE HealthCare",
-    "title": "Software Engineer I",
-    "locations": [
-      "Beachwood, OH"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4441643582",
-    "sponsorship": "",
-    "posted": "2026-07-16",
-    "source": "LinkedIn"
   },
   {
     "id": "simplify-b638e646-a8c7-484b-9b2b-51e2b939e5c6",
