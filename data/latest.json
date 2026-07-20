@@ -36,18 +36,6 @@
     "source": "SimplifyJobs"
   },
   {
-    "id": "linkedin-4442086517",
-    "company": "SheScans",
-    "title": "Software Engineer, New Grad",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4442086517",
-    "sponsorship": "",
-    "posted": "2026-07-20",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4406691082",
     "company": "Northwood",
     "title": "Software Engineer \u2013 General (new grad / early career)",
@@ -72,13 +60,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4442097057",
-    "company": "Rockwell Automation",
-    "title": "Leadership Development Program, Delivery Engineer - January 2027 Start",
+    "id": "linkedin-4442086517",
+    "company": "SheScans",
+    "title": "Software Engineer, New Grad",
     "locations": [
-      "Cleveland, OH"
+      "San Francisco, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4442097057",
+    "url": "https://www.linkedin.com/jobs/view/4442086517",
     "sponsorship": "",
     "posted": "2026-07-20",
     "source": "LinkedIn"
@@ -103,6 +91,30 @@
       "New Jersey, United States"
     ],
     "url": "https://www.linkedin.com/jobs/view/4442222073",
+    "sponsorship": "",
+    "posted": "2026-07-20",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4440197060",
+    "company": "Mastercard",
+    "title": "Software Engineer II",
+    "locations": [
+      "O'Fallon, MO"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4440197060",
+    "sponsorship": "",
+    "posted": "2026-07-20",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4442222427",
+    "company": "Beta Eight",
+    "title": "Junior Software Developer",
+    "locations": [
+      "Hicksville, NY"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4442222427",
     "sponsorship": "",
     "posted": "2026-07-20",
     "source": "LinkedIn"
@@ -144,6 +156,42 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4442786732",
+    "company": "Chewy",
+    "title": "Software Engineer I",
+    "locations": [
+      "Boston, MA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4442786732",
+    "sponsorship": "",
+    "posted": "2026-07-20",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4397356269",
+    "company": "SpaceX",
+    "title": "New Graduate Engineer, Software",
+    "locations": [
+      "Hawthorne, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4397356269",
+    "sponsorship": "",
+    "posted": "2026-07-20",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4442717802",
+    "company": "Helic & Co",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "United States"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4442717802",
+    "sponsorship": "",
+    "posted": "2026-07-20",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4442504428",
     "company": "Purpose Bits",
     "title": "Software Engineer, New Grad",
@@ -163,18 +211,6 @@
       "San Francisco, CA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4442504429",
-    "sponsorship": "",
-    "posted": "2026-07-19",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4414708053",
-    "company": "Cadence",
-    "title": "Software Engineer I",
-    "locations": [
-      "Austin, TX"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4414708053",
     "sponsorship": "",
     "posted": "2026-07-19",
     "source": "LinkedIn"
@@ -216,6 +252,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4441383529",
+    "company": "Pax",
+    "title": "Software Engineer (Early Career)",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4441383529",
+    "sponsorship": "",
+    "posted": "2026-07-18",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4442493261",
     "company": "Fast Forward Rewind",
     "title": "Software Engineer, New Grad",
@@ -252,18 +300,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4441383529",
-    "company": "Pax",
-    "title": "Software Engineer (Early Career)",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4441383529",
-    "sponsorship": "",
-    "posted": "2026-07-18",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4442467762",
     "company": "Basis Set",
     "title": "Software Engineer (Early Career)",
@@ -273,6 +309,18 @@
     "url": "https://www.linkedin.com/jobs/view/4442467762",
     "sponsorship": "",
     "posted": "2026-07-18",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4439267809",
+    "company": "Brivo",
+    "title": "Software Engineer, Early Career - AI Platform",
+    "locations": [
+      "Bethesda, MD"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4439267809",
+    "sponsorship": "",
+    "posted": "2026-07-17",
     "source": "LinkedIn"
   },
   {
@@ -286,30 +334,6 @@
     "sponsorship": "Other",
     "posted": "2026-07-16",
     "source": "SimplifyJobs"
-  },
-  {
-    "id": "gh-duolingo-8637300002",
-    "company": "Duolingo",
-    "title": "Software Engineer II, Backend",
-    "locations": [
-      "Pittsburgh, PA"
-    ],
-    "url": "https://careers.duolingo.com/jobs/8637300002?gh_jid=8637300002",
-    "sponsorship": "",
-    "posted": "2026-07-16",
-    "source": "Greenhouse"
-  },
-  {
-    "id": "gh-duolingo-8637306002",
-    "company": "Duolingo",
-    "title": "Software Engineer II, Backend",
-    "locations": [
-      "New York, NY"
-    ],
-    "url": "https://careers.duolingo.com/jobs/8637306002?gh_jid=8637306002",
-    "sponsorship": "",
-    "posted": "2026-07-16",
-    "source": "Greenhouse"
   },
   {
     "id": "gh-samsara-8036387",
@@ -420,18 +444,6 @@
     "source": "SimplifyJobs"
   },
   {
-    "id": "gh-duolingo-8628658002",
-    "company": "Duolingo",
-    "title": "Software Engineer II, Android",
-    "locations": [
-      "Pittsburgh, PA"
-    ],
-    "url": "https://careers.duolingo.com/jobs/8628658002?gh_jid=8628658002",
-    "sponsorship": "",
-    "posted": "2026-07-10",
-    "source": "Greenhouse"
-  },
-  {
     "id": "gh-duolingo-8628670002",
     "company": "Duolingo",
     "title": "Software Engineer II, Android",
@@ -439,6 +451,18 @@
       "New York, NY"
     ],
     "url": "https://careers.duolingo.com/jobs/8628670002?gh_jid=8628670002",
+    "sponsorship": "",
+    "posted": "2026-07-10",
+    "source": "Greenhouse"
+  },
+  {
+    "id": "gh-duolingo-8628658002",
+    "company": "Duolingo",
+    "title": "Software Engineer II, Android",
+    "locations": [
+      "Pittsburgh, PA"
+    ],
+    "url": "https://careers.duolingo.com/jobs/8628658002?gh_jid=8628658002",
     "sponsorship": "",
     "posted": "2026-07-10",
     "source": "Greenhouse"
