@@ -24,37 +24,49 @@
     "source": "SimplifyJobs"
   },
   {
-    "id": "linkedin-4442631478",
-    "company": "Revature",
-    "title": "Entry Level Software Developer",
+    "id": "linkedin-4434974267",
+    "company": "RTX",
+    "title": "Leadership Development Program - Engineering, Software (Starts June 2027)",
     "locations": [
-      "Chicago, IL"
+      "Arlington, VA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4442631478",
+    "url": "https://www.linkedin.com/jobs/view/4434974267",
     "sponsorship": "",
     "posted": "2026-07-21",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4443074993",
-    "company": "Acrisure Mortgage, LLC",
-    "title": "Junior Software Developer",
+    "id": "linkedin-4440498037",
+    "company": "BeaconFire Inc.",
+    "title": "Entry-Level / Junior Software Developer Opportunity",
     "locations": [
-      "Orlando, FL"
+      "New Jersey, United States"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4443074993",
+    "url": "https://www.linkedin.com/jobs/view/4440498037",
     "sponsorship": "",
     "posted": "2026-07-21",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4434750014",
-    "company": "InComm Payments",
-    "title": "Software Engineer I",
+    "id": "linkedin-4442265030",
+    "company": "SynergisticIT",
+    "title": "Junior Software Engineer",
     "locations": [
-      "Utah, United States"
+      "Portland, OR"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4434750014",
+    "url": "https://www.linkedin.com/jobs/view/4442265030",
+    "sponsorship": "",
+    "posted": "2026-07-21",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4442613715",
+    "company": "Berkeley Industrial Engineering & Operations Research",
+    "title": "Software Engineer II at Pariveda",
+    "locations": [
+      "Indiana, United States"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4442613715",
     "sponsorship": "",
     "posted": "2026-07-21",
     "source": "LinkedIn"
@@ -150,13 +162,25 @@
     "source": "SimplifyJobs"
   },
   {
-    "id": "linkedin-4439697852",
-    "company": "Karmel-IT",
-    "title": "Software Engineer, New Grad",
+    "id": "linkedin-4406691082",
+    "company": "Northwood",
+    "title": "Software Engineer \u2013 General (new grad / early career)",
     "locations": [
-      "San Francisco, CA"
+      "Torrance, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4439697852",
+    "url": "https://www.linkedin.com/jobs/view/4406691082",
+    "sponsorship": "",
+    "posted": "2026-07-20",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4397356269",
+    "company": "SpaceX",
+    "title": "New Graduate Engineer, Software",
+    "locations": [
+      "Hawthorne, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4397356269",
     "sponsorship": "",
     "posted": "2026-07-20",
     "source": "LinkedIn"
@@ -174,99 +198,15 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4406691082",
-    "company": "Northwood",
-    "title": "Software Engineer \u2013 General (new grad / early career)",
-    "locations": [
-      "Torrance, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4406691082",
-    "sponsorship": "",
-    "posted": "2026-07-20",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4440113042",
+    "id": "linkedin-4439697852",
     "company": "Karmel-IT",
-    "title": "Software Engineer, Early Career",
+    "title": "Software Engineer, New Grad",
     "locations": [
       "San Francisco, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4440113042",
+    "url": "https://www.linkedin.com/jobs/view/4439697852",
     "sponsorship": "",
     "posted": "2026-07-20",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4442222073",
-    "company": "Confiar Services",
-    "title": "Graduate IT Trainee (Junior Software Engineer)",
-    "locations": [
-      "New Jersey, United States"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4442222073",
-    "sponsorship": "",
-    "posted": "2026-07-20",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4440197060",
-    "company": "Mastercard",
-    "title": "Software Engineer II",
-    "locations": [
-      "O'Fallon, MO"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4440197060",
-    "sponsorship": "",
-    "posted": "2026-07-20",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4440166576",
-    "company": "STV",
-    "title": "Junior Software Engineer",
-    "locations": [
-      "New York, NY"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4440166576",
-    "sponsorship": "",
-    "posted": "2026-07-20",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4442786732",
-    "company": "Chewy",
-    "title": "Software Engineer I",
-    "locations": [
-      "Boston, MA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4442786732",
-    "sponsorship": "",
-    "posted": "2026-07-20",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4440124179",
-    "company": "Haystack",
-    "title": "Junior Software Developer",
-    "locations": [
-      "San Antonio, TX"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4440124179",
-    "sponsorship": "",
-    "posted": "2026-07-20",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4424963243",
-    "company": "CGI",
-    "title": "Junior Software Developer",
-    "locations": [
-      "Lafayette, LA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4424963243",
-    "sponsorship": "",
-    "posted": "2026-07-19",
     "source": "LinkedIn"
   },
   {
@@ -292,6 +232,19 @@
     "sponsorship": "",
     "posted": "2026-07-18",
     "source": "LinkedIn"
+  },
+  {
+    "id": "simplify-f1025b20-1cf5-4f9d-8505-a81fea68f463",
+    "company": "NVIDIA",
+    "title": "Systems Software Engineer New Grad - Accelerated Kubernetes Performance and Scale",
+    "locations": [
+      "Seattle, WA",
+      "Santa Clara, CA"
+    ],
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Engineer--Accelerated-Kubernetes-Performance-and-Scale---New-College-Grad-2026_JR2020957",
+    "sponsorship": "Other",
+    "posted": "2026-07-17",
+    "source": "SimplifyJobs"
   },
   {
     "id": "simplify-36ac811b-2597-49be-8022-58b4486ef9d8",
@@ -366,6 +319,18 @@
     "source": "SimplifyJobs"
   },
   {
+    "id": "simplify-19dc207d-51a6-45cf-be80-50c93ab46e32",
+    "company": "Micron Technology",
+    "title": "New Grad Electrical Engineer - Computer Engineer - Engineering Automation",
+    "locations": [
+      "Richardson, TX"
+    ],
+    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/New-College-Grad---Computer-Engineer--Engineering-Automation_JR103691",
+    "sponsorship": "Other",
+    "posted": "2026-07-13",
+    "source": "SimplifyJobs"
+  },
+  {
     "id": "simplify-c368c0a9-db8e-455c-b06c-c18575c7b04d",
     "company": "Northslope Technologies",
     "title": "Forward Deployed Software Engineer New Grad",
@@ -433,6 +398,19 @@
       "Santa Clara, CA"
     ],
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Backend-Compiler-Engineer---New-College-Grad-2026_JR2021242",
+    "sponsorship": "Other",
+    "posted": "2026-07-13",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-e705fffd-6c2f-4555-b991-f5808e23542c",
+    "company": "NVIDIA",
+    "title": "System Software Engineer New Grad - Dynamo-Triton Inference Server",
+    "locations": [
+      "Remote in USA",
+      "Santa Clara, CA"
+    ],
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer--Dynamo-Triton-Inference-Server---New-College-Grad-2026_JR2020767",
     "sponsorship": "Other",
     "posted": "2026-07-13",
     "source": "SimplifyJobs"
@@ -543,6 +521,18 @@
     "url": "https://cadence.wd1.myworkdayjobs.com/University_Talent/job/Burlington-MA/Software-Engineer--New-College-Grad-2026--Undergrads-_R54894",
     "sponsorship": "Other",
     "posted": "2026-07-09",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-f5893e69-dd4b-4dc3-a8ff-6cd0a24bde9f",
+    "company": "NVIDIA",
+    "title": "ASIC Verification Engineer New Grad",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Verification-Engineer---New-College-Grad-2026_JR2020640",
+    "sponsorship": "Other",
+    "posted": "2026-07-08",
     "source": "SimplifyJobs"
   },
   {
