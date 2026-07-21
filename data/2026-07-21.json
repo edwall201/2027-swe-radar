@@ -24,18 +24,6 @@
     "source": "SimplifyJobs"
   },
   {
-    "id": "linkedin-4434974267",
-    "company": "RTX",
-    "title": "Leadership Development Program - Engineering, Software (Starts June 2027)",
-    "locations": [
-      "Arlington, VA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4434974267",
-    "sponsorship": "",
-    "posted": "2026-07-21",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4442631478",
     "company": "Revature",
     "title": "Entry Level Software Developer",
@@ -67,42 +55,6 @@
       "Utah, United States"
     ],
     "url": "https://www.linkedin.com/jobs/view/4434750014",
-    "sponsorship": "",
-    "posted": "2026-07-21",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4443366503",
-    "company": "OperatorVC",
-    "title": "Software Engineer, Early Career (AI)",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4443366503",
-    "sponsorship": "",
-    "posted": "2026-07-21",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4442650522",
-    "company": "InterScripts, Inc.",
-    "title": "Software Engineer I (Full Stack) \u2013 Immediate Joiners",
-    "locations": [
-      "Daly City, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4442650522",
-    "sponsorship": "",
-    "posted": "2026-07-21",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4443502157",
-    "company": "Helic & Co",
-    "title": "Junior Software Engineer",
-    "locations": [
-      "United States"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4443502157",
     "sponsorship": "",
     "posted": "2026-07-21",
     "source": "LinkedIn"
@@ -183,6 +135,45 @@
     "source": "SimplifyJobs"
   },
   {
+    "id": "simplify-373ffa0d-6efb-4fdc-9e34-45018a822f3d",
+    "company": "NVIDIA",
+    "title": "Compiler Engineer New Grad - Infrastructure",
+    "locations": [
+      "Austin, TX",
+      "Remote in USA",
+      "Redmond, WA",
+      "Santa Clara, CA"
+    ],
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Compiler-Engineer--Infrastructure----New-College-Grad-2026_JR2021228",
+    "sponsorship": "Other",
+    "posted": "2026-07-20",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "linkedin-4439697852",
+    "company": "Karmel-IT",
+    "title": "Software Engineer, New Grad",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4439697852",
+    "sponsorship": "",
+    "posted": "2026-07-20",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4440107185",
+    "company": "Karmel-IT",
+    "title": "Software Engineer, New Grad (AI)",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4440107185",
+    "sponsorship": "",
+    "posted": "2026-07-20",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4406691082",
     "company": "Northwood",
     "title": "Software Engineer \u2013 General (new grad / early career)",
@@ -202,30 +193,6 @@
       "San Francisco, CA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4440113042",
-    "sponsorship": "",
-    "posted": "2026-07-20",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4397356269",
-    "company": "SpaceX",
-    "title": "New Graduate Engineer, Software",
-    "locations": [
-      "Hawthorne, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4397356269",
-    "sponsorship": "",
-    "posted": "2026-07-20",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4440194830",
-    "company": "CrowdStrike",
-    "title": "Engineer I, Data Scientist - New Grad (Hybrid)",
-    "locations": [
-      "Sunnyvale, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4440194830",
     "sponsorship": "",
     "posted": "2026-07-20",
     "source": "LinkedIn"
@@ -279,13 +246,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4440104379",
-    "company": "Karmel-IT",
-    "title": "Software Engineer, Early Career (AI)",
+    "id": "linkedin-4440124179",
+    "company": "Haystack",
+    "title": "Junior Software Developer",
     "locations": [
-      "San Francisco, CA"
+      "San Antonio, TX"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4440104379",
+    "url": "https://www.linkedin.com/jobs/view/4440124179",
     "sponsorship": "",
     "posted": "2026-07-20",
     "source": "LinkedIn"
@@ -301,6 +268,42 @@
     "sponsorship": "",
     "posted": "2026-07-19",
     "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4442493261",
+    "company": "Fast Forward Rewind",
+    "title": "Software Engineer, New Grad",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4442493261",
+    "sponsorship": "",
+    "posted": "2026-07-18",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4442490431",
+    "company": "Fast Forward Rewind",
+    "title": "Software Engineer, New Grad (AI)",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4442490431",
+    "sponsorship": "",
+    "posted": "2026-07-18",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "simplify-36ac811b-2597-49be-8022-58b4486ef9d8",
+    "company": "NVIDIA",
+    "title": "ASIC Design Engineer New Grad",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Design-Engineer---New-College-Grad-2026_JR2021534",
+    "sponsorship": "Other",
+    "posted": "2026-07-17",
+    "source": "SimplifyJobs"
   },
   {
     "id": "simplify-b8074600-c8c3-4947-a115-7c212abd364f",
