@@ -24,18 +24,6 @@
     "source": "SimplifyJobs"
   },
   {
-    "id": "linkedin-4443074993",
-    "company": "Acrisure Mortgage, LLC",
-    "title": "Junior Software Developer",
-    "locations": [
-      "Orlando, FL"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4443074993",
-    "sponsorship": "",
-    "posted": "2026-07-21",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4442265030",
     "company": "SynergisticIT",
     "title": "Junior Software Engineer",
@@ -43,6 +31,18 @@
       "Portland, OR"
     ],
     "url": "https://www.linkedin.com/jobs/view/4442265030",
+    "sponsorship": "",
+    "posted": "2026-07-21",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4443074993",
+    "company": "Acrisure Mortgage, LLC",
+    "title": "Junior Software Developer",
+    "locations": [
+      "Orlando, FL"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4443074993",
     "sponsorship": "",
     "posted": "2026-07-21",
     "source": "LinkedIn"
@@ -123,25 +123,13 @@
     "source": "SimplifyJobs"
   },
   {
-    "id": "linkedin-4406691082",
-    "company": "Northwood",
-    "title": "Software Engineer \u2013 General (new grad / early career)",
+    "id": "linkedin-4437628089",
+    "company": "BeaconFire Inc.",
+    "title": "Entry-Level / Junior Software Developer Opportunity",
     "locations": [
-      "Torrance, CA"
+      "New Jersey, United States"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4406691082",
-    "sponsorship": "",
-    "posted": "2026-07-20",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4442086517",
-    "company": "SheScans",
-    "title": "Software Engineer, New Grad",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4442086517",
+    "url": "https://www.linkedin.com/jobs/view/4437628089",
     "sponsorship": "",
     "posted": "2026-07-20",
     "source": "LinkedIn"
@@ -207,6 +195,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4406691082",
+    "company": "Northwood",
+    "title": "Software Engineer \u2013 General (new grad / early career)",
+    "locations": [
+      "Torrance, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4406691082",
+    "sponsorship": "",
+    "posted": "2026-07-20",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4442072495",
     "company": "Revature",
     "title": "Entry Level Software Developer",
@@ -216,90 +216,6 @@
     "url": "https://www.linkedin.com/jobs/view/4442072495",
     "sponsorship": "",
     "posted": "2026-07-20",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4440107660",
-    "company": "Haystack",
-    "title": "Junior Software Engineer",
-    "locations": [
-      "Atlanta, GA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4440107660",
-    "sponsorship": "",
-    "posted": "2026-07-20",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4440104841",
-    "company": "Haystack",
-    "title": "Junior Software Engineer",
-    "locations": [
-      "Washington, DC"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4440104841",
-    "sponsorship": "",
-    "posted": "2026-07-20",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4440124179",
-    "company": "Haystack",
-    "title": "Junior Software Developer",
-    "locations": [
-      "San Antonio, TX"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4440124179",
-    "sponsorship": "",
-    "posted": "2026-07-20",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4442504428",
-    "company": "Purpose Bits",
-    "title": "Software Engineer, New Grad",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4442504428",
-    "sponsorship": "",
-    "posted": "2026-07-19",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4406118990",
-    "company": "Notion",
-    "title": "Software Engineer, New Grad",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4406118990",
-    "sponsorship": "",
-    "posted": "2026-07-18",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4442493261",
-    "company": "Fast Forward Rewind",
-    "title": "Software Engineer, New Grad",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4442493261",
-    "sponsorship": "",
-    "posted": "2026-07-18",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4442490431",
-    "company": "Fast Forward Rewind",
-    "title": "Software Engineer, New Grad (AI)",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4442490431",
-    "sponsorship": "",
-    "posted": "2026-07-18",
     "source": "LinkedIn"
   },
   {
@@ -411,6 +327,18 @@
     "source": "SimplifyJobs"
   },
   {
+    "id": "simplify-d8018db8-f18e-4ea7-bfb9-b0e3b70fad76",
+    "company": "Micron Technology",
+    "title": "Design Engineer New Grad - Design Engineer - Non-Volatile Engineering Group",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Principal-Design-Engineer--NVEG_JR88223",
+    "sponsorship": "Other",
+    "posted": "2026-07-10",
+    "source": "SimplifyJobs"
+  },
+  {
     "id": "simplify-67328505-6889-494a-b5d1-c22b5cbef2ff",
     "company": "Sandisk",
     "title": "SSD Firmware Engineer New Grad - SSD Firmware Engineer",
@@ -423,18 +351,6 @@
     "source": "SimplifyJobs"
   },
   {
-    "id": "gh-duolingo-8628670002",
-    "company": "Duolingo",
-    "title": "Software Engineer II, Android",
-    "locations": [
-      "New York, NY"
-    ],
-    "url": "https://careers.duolingo.com/jobs/8628670002?gh_jid=8628670002",
-    "sponsorship": "",
-    "posted": "2026-07-10",
-    "source": "Greenhouse"
-  },
-  {
     "id": "gh-duolingo-8628658002",
     "company": "Duolingo",
     "title": "Software Engineer II, Android",
@@ -442,6 +358,18 @@
       "Pittsburgh, PA"
     ],
     "url": "https://careers.duolingo.com/jobs/8628658002?gh_jid=8628658002",
+    "sponsorship": "",
+    "posted": "2026-07-10",
+    "source": "Greenhouse"
+  },
+  {
+    "id": "gh-duolingo-8628670002",
+    "company": "Duolingo",
+    "title": "Software Engineer II, Android",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://careers.duolingo.com/jobs/8628670002?gh_jid=8628670002",
     "sponsorship": "",
     "posted": "2026-07-10",
     "source": "Greenhouse"
