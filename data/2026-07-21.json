@@ -24,6 +24,30 @@
     "source": "SimplifyJobs"
   },
   {
+    "id": "linkedin-4443362760",
+    "company": "OperatorVC",
+    "title": "Software Engineer, New Grad",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4443362760",
+    "sponsorship": "",
+    "posted": "2026-07-21",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4443373144",
+    "company": "OperatorVC",
+    "title": "Software Engineer, New Grad (AI)",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4443373144",
+    "sponsorship": "",
+    "posted": "2026-07-21",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4442619493",
     "company": "Northwood",
     "title": "Software Engineer \u2013 General (new grad / early career)",
@@ -31,6 +55,18 @@
       "Torrance, CA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4442619493",
+    "sponsorship": "",
+    "posted": "2026-07-21",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4443367450",
+    "company": "OperatorVC",
+    "title": "Software Engineer, Early Career",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4443367450",
     "sponsorship": "",
     "posted": "2026-07-21",
     "source": "LinkedIn"
@@ -48,13 +84,49 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4443074993",
-    "company": "Acrisure Mortgage, LLC",
+    "id": "linkedin-4437628089",
+    "company": "BeaconFire Inc.",
+    "title": "Entry-Level / Junior Software Developer Opportunity",
+    "locations": [
+      "New Jersey, United States"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4437628089",
+    "sponsorship": "",
+    "posted": "2026-07-21",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4442613715",
+    "company": "Berkeley Industrial Engineering & Operations Research",
+    "title": "Software Engineer II at Pariveda",
+    "locations": [
+      "Indiana, United States"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4442613715",
+    "sponsorship": "",
+    "posted": "2026-07-21",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4443335138",
+    "company": "Gray Falkon",
     "title": "Junior Software Developer",
     "locations": [
-      "Orlando, FL"
+      "Junior, WV"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4443074993",
+    "url": "https://www.linkedin.com/jobs/view/4443335138",
+    "sponsorship": "",
+    "posted": "2026-07-21",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4443313713",
+    "company": "matcha.fm",
+    "title": "Full-stack Software Engineer (Fully remote - New Grads Ok - Up to $200k)",
+    "locations": [
+      "United States"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4443313713",
     "sponsorship": "",
     "posted": "2026-07-21",
     "source": "LinkedIn"
@@ -135,18 +207,6 @@
     "source": "SimplifyJobs"
   },
   {
-    "id": "linkedin-4406691082",
-    "company": "Northwood",
-    "title": "Software Engineer \u2013 General (new grad / early career)",
-    "locations": [
-      "Torrance, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4406691082",
-    "sponsorship": "",
-    "posted": "2026-07-20",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4442086517",
     "company": "SheScans",
     "title": "Software Engineer, New Grad",
@@ -159,73 +219,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4397356269",
-    "company": "SpaceX",
-    "title": "New Graduate Engineer, Software",
+    "id": "linkedin-4406691082",
+    "company": "Northwood",
+    "title": "Software Engineer \u2013 General (new grad / early career)",
     "locations": [
-      "Hawthorne, CA"
+      "Torrance, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4397356269",
-    "sponsorship": "",
-    "posted": "2026-07-20",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4437628089",
-    "company": "BeaconFire Inc.",
-    "title": "Entry-Level / Junior Software Developer Opportunity",
-    "locations": [
-      "New Jersey, United States"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4437628089",
-    "sponsorship": "",
-    "posted": "2026-07-20",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4442222427",
-    "company": "Beta Eight",
-    "title": "Junior Software Developer",
-    "locations": [
-      "Hicksville, NY"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4442222427",
-    "sponsorship": "",
-    "posted": "2026-07-20",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4440124179",
-    "company": "Haystack",
-    "title": "Junior Software Developer",
-    "locations": [
-      "San Antonio, TX"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4440124179",
-    "sponsorship": "",
-    "posted": "2026-07-20",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4442222073",
-    "company": "Confiar Services",
-    "title": "Graduate IT Trainee (Junior Software Engineer)",
-    "locations": [
-      "New Jersey, United States"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4442222073",
-    "sponsorship": "",
-    "posted": "2026-07-20",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4440162691",
-    "company": "STV",
-    "title": "Junior Software Engineer",
-    "locations": [
-      "Boston, MA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4440162691",
+    "url": "https://www.linkedin.com/jobs/view/4406691082",
     "sponsorship": "",
     "posted": "2026-07-20",
     "source": "LinkedIn"
@@ -238,6 +238,18 @@
       "O'Fallon, MO"
     ],
     "url": "https://www.linkedin.com/jobs/view/4440197060",
+    "sponsorship": "",
+    "posted": "2026-07-20",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4440162691",
+    "company": "STV",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "Boston, MA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4440162691",
     "sponsorship": "",
     "posted": "2026-07-20",
     "source": "LinkedIn"
@@ -310,6 +322,18 @@
       "San Francisco, CA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4442479317",
+    "sponsorship": "",
+    "posted": "2026-07-18",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4442467762",
+    "company": "Basis Set",
+    "title": "Software Engineer (Early Career)",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4442467762",
     "sponsorship": "",
     "posted": "2026-07-18",
     "source": "LinkedIn"
@@ -423,6 +447,30 @@
     "source": "SimplifyJobs"
   },
   {
+    "id": "simplify-3280f6de-005d-4216-bc5c-c1052e58d650",
+    "company": "NVIDIA",
+    "title": "Compiler Engineer AI Inference New Grad",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Compiler-Engineer--AI-Inference--New-College-Grad-2026_JR2021230",
+    "sponsorship": "Other",
+    "posted": "2026-07-13",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-58e0500b-3577-4e69-9d43-b710f8155f10",
+    "company": "NVIDIA",
+    "title": "Backend Compiler Engineer New Grad",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Backend-Compiler-Engineer---New-College-Grad-2026_JR2021242",
+    "sponsorship": "Other",
+    "posted": "2026-07-13",
+    "source": "SimplifyJobs"
+  },
+  {
     "id": "simplify-d8018db8-f18e-4ea7-bfb9-b0e3b70fad76",
     "company": "Micron Technology",
     "title": "Design Engineer New Grad - Design Engineer - Non-Volatile Engineering Group",
@@ -447,18 +495,6 @@
     "source": "SimplifyJobs"
   },
   {
-    "id": "gh-duolingo-8628658002",
-    "company": "Duolingo",
-    "title": "Software Engineer II, Android",
-    "locations": [
-      "Pittsburgh, PA"
-    ],
-    "url": "https://careers.duolingo.com/jobs/8628658002?gh_jid=8628658002",
-    "sponsorship": "",
-    "posted": "2026-07-10",
-    "source": "Greenhouse"
-  },
-  {
     "id": "gh-duolingo-8628670002",
     "company": "Duolingo",
     "title": "Software Engineer II, Android",
@@ -466,6 +502,18 @@
       "New York, NY"
     ],
     "url": "https://careers.duolingo.com/jobs/8628670002?gh_jid=8628670002",
+    "sponsorship": "",
+    "posted": "2026-07-10",
+    "source": "Greenhouse"
+  },
+  {
+    "id": "gh-duolingo-8628658002",
+    "company": "Duolingo",
+    "title": "Software Engineer II, Android",
+    "locations": [
+      "Pittsburgh, PA"
+    ],
+    "url": "https://careers.duolingo.com/jobs/8628658002?gh_jid=8628658002",
     "sponsorship": "",
     "posted": "2026-07-10",
     "source": "Greenhouse"
@@ -502,6 +550,30 @@
       "Santa Clara, CA"
     ],
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Design-Engineer---New-College-Grad-2026_JR2020309",
+    "sponsorship": "Other",
+    "posted": "2026-07-09",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-6c2fe943-5778-43b7-9845-06428b3eec92",
+    "company": "Micron Technology",
+    "title": "Design Engineer New Grad - Design Engineer - DRAM Technology and Products",
+    "locations": [
+      "Boise, ID"
+    ],
+    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Design-Engineer--DRAM-Technology-and-Products_JR105519",
+    "sponsorship": "Other",
+    "posted": "2026-07-09",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-ff412e91-a5e3-48f6-8ed1-fa4ac83c5e81",
+    "company": "Cadence Design Systems",
+    "title": "Software Engineer New Grad - Undergrads",
+    "locations": [
+      "Burlington, MA"
+    ],
+    "url": "https://cadence.wd1.myworkdayjobs.com/University_Talent/job/Burlington-MA/Software-Engineer--New-College-Grad-2026--Undergrads-_R54894",
     "sponsorship": "Other",
     "posted": "2026-07-09",
     "source": "SimplifyJobs"
