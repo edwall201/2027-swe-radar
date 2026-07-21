@@ -24,6 +24,18 @@
     "source": "SimplifyJobs"
   },
   {
+    "id": "linkedin-4442619493",
+    "company": "Northwood",
+    "title": "Software Engineer \u2013 General (new grad / early career)",
+    "locations": [
+      "Torrance, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4442619493",
+    "sponsorship": "",
+    "posted": "2026-07-21",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4442265030",
     "company": "SynergisticIT",
     "title": "Junior Software Engineer",
@@ -123,6 +135,42 @@
     "source": "SimplifyJobs"
   },
   {
+    "id": "linkedin-4406691082",
+    "company": "Northwood",
+    "title": "Software Engineer \u2013 General (new grad / early career)",
+    "locations": [
+      "Torrance, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4406691082",
+    "sponsorship": "",
+    "posted": "2026-07-20",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4442086517",
+    "company": "SheScans",
+    "title": "Software Engineer, New Grad",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4442086517",
+    "sponsorship": "",
+    "posted": "2026-07-20",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4397356269",
+    "company": "SpaceX",
+    "title": "New Graduate Engineer, Software",
+    "locations": [
+      "Hawthorne, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4397356269",
+    "sponsorship": "",
+    "posted": "2026-07-20",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4437628089",
     "company": "BeaconFire Inc.",
     "title": "Entry-Level / Junior Software Developer Opportunity",
@@ -130,54 +178,6 @@
       "New Jersey, United States"
     ],
     "url": "https://www.linkedin.com/jobs/view/4437628089",
-    "sponsorship": "",
-    "posted": "2026-07-20",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4442057974",
-    "company": "Revature",
-    "title": "Entry Level Software Developer",
-    "locations": [
-      "Chicago, IL"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4442057974",
-    "sponsorship": "",
-    "posted": "2026-07-20",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4442222073",
-    "company": "Confiar Services",
-    "title": "Graduate IT Trainee (Junior Software Engineer)",
-    "locations": [
-      "New Jersey, United States"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4442222073",
-    "sponsorship": "",
-    "posted": "2026-07-20",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4440180648",
-    "company": "Mastercard",
-    "title": "Software Engineer I",
-    "locations": [
-      "O'Fallon, MO"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4440180648",
-    "sponsorship": "",
-    "posted": "2026-07-20",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4440197060",
-    "company": "Mastercard",
-    "title": "Software Engineer II",
-    "locations": [
-      "O'Fallon, MO"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4440197060",
     "sponsorship": "",
     "posted": "2026-07-20",
     "source": "LinkedIn"
@@ -195,27 +195,123 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4406691082",
-    "company": "Northwood",
-    "title": "Software Engineer \u2013 General (new grad / early career)",
+    "id": "linkedin-4440124179",
+    "company": "Haystack",
+    "title": "Junior Software Developer",
     "locations": [
-      "Torrance, CA"
+      "San Antonio, TX"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4406691082",
+    "url": "https://www.linkedin.com/jobs/view/4440124179",
     "sponsorship": "",
     "posted": "2026-07-20",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4442072495",
-    "company": "Revature",
-    "title": "Entry Level Software Developer",
+    "id": "linkedin-4442222073",
+    "company": "Confiar Services",
+    "title": "Graduate IT Trainee (Junior Software Engineer)",
     "locations": [
-      "Hartford, CT"
+      "New Jersey, United States"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4442072495",
+    "url": "https://www.linkedin.com/jobs/view/4442222073",
     "sponsorship": "",
     "posted": "2026-07-20",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4440162691",
+    "company": "STV",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "Boston, MA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4440162691",
+    "sponsorship": "",
+    "posted": "2026-07-20",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4440197060",
+    "company": "Mastercard",
+    "title": "Software Engineer II",
+    "locations": [
+      "O'Fallon, MO"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4440197060",
+    "sponsorship": "",
+    "posted": "2026-07-20",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4442504428",
+    "company": "Purpose Bits",
+    "title": "Software Engineer, New Grad",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4442504428",
+    "sponsorship": "",
+    "posted": "2026-07-19",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4442504429",
+    "company": "Purpose Bits",
+    "title": "Software Engineer, New Grad (AI)",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4442504429",
+    "sponsorship": "",
+    "posted": "2026-07-19",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4406118990",
+    "company": "Notion",
+    "title": "Software Engineer, New Grad",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4406118990",
+    "sponsorship": "",
+    "posted": "2026-07-18",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4442493261",
+    "company": "Fast Forward Rewind",
+    "title": "Software Engineer, New Grad",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4442493261",
+    "sponsorship": "",
+    "posted": "2026-07-18",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4442490431",
+    "company": "Fast Forward Rewind",
+    "title": "Software Engineer, New Grad (AI)",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4442490431",
+    "sponsorship": "",
+    "posted": "2026-07-18",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4442479317",
+    "company": "OSSUMS",
+    "title": "Software Engineer, New Grad (AI)",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4442479317",
+    "sponsorship": "",
+    "posted": "2026-07-18",
     "source": "LinkedIn"
   },
   {
