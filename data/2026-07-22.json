@@ -1,5 +1,17 @@
 [
   {
+    "id": "linkedin-4443999281",
+    "company": "Traba",
+    "title": "Software Engineer (New Grad)",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4443999281",
+    "sponsorship": "",
+    "posted": "2026-07-22",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4443973101",
     "company": "Develawpers",
     "title": "Software Engineer, Early Career",
@@ -7,18 +19,6 @@
       "San Francisco, CA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4443973101",
-    "sponsorship": "",
-    "posted": "2026-07-22",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4441043248",
-    "company": "Broad Reach Ventures",
-    "title": "Software Engineer, Early Career",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4441043248",
     "sponsorship": "",
     "posted": "2026-07-22",
     "source": "LinkedIn"
@@ -84,6 +84,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4441043248",
+    "company": "Broad Reach Ventures",
+    "title": "Software Engineer, Early Career",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4441043248",
+    "sponsorship": "",
+    "posted": "2026-07-22",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4331580484",
     "company": "Medpace",
     "title": "Junior Software Engineer",
@@ -91,6 +103,30 @@
       "Denver, CO"
     ],
     "url": "https://www.linkedin.com/jobs/view/4331580484",
+    "sponsorship": "",
+    "posted": "2026-07-22",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4443908186",
+    "company": "Helic & Co",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "United States"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4443908186",
+    "sponsorship": "",
+    "posted": "2026-07-22",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4443952826",
+    "company": "Develawpers",
+    "title": "Software Engineer, Early Career (AI)",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4443952826",
     "sponsorship": "",
     "posted": "2026-07-22",
     "source": "LinkedIn"
@@ -108,6 +144,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4443976141",
+    "company": "SkillStorm",
+    "title": "Entry Level Software Developer",
+    "locations": [
+      "Miami, FL"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4443976141",
+    "sponsorship": "",
+    "posted": "2026-07-22",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4443963672",
     "company": "SkillStorm",
     "title": "Entry Level Software Developer",
@@ -115,18 +163,6 @@
       "Tampa, FL"
     ],
     "url": "https://www.linkedin.com/jobs/view/4443963672",
-    "sponsorship": "",
-    "posted": "2026-07-22",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4443966551",
-    "company": "SkillStorm",
-    "title": "Entry Level Software Developer",
-    "locations": [
-      "Fort Worth, TX"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4443966551",
     "sponsorship": "",
     "posted": "2026-07-22",
     "source": "LinkedIn"
@@ -206,25 +242,37 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4441013963",
-    "company": "Stanislaus County",
-    "title": "Software Engineer I/II",
+    "id": "linkedin-4443335138",
+    "company": "Gray Falkon",
+    "title": "Junior Software Developer",
     "locations": [
-      "Modesto, CA"
+      "Junior, WV"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4441013963",
+    "url": "https://www.linkedin.com/jobs/view/4443335138",
     "sponsorship": "",
     "posted": "2026-07-21",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4443395661",
-    "company": "General Motors",
-    "title": "Software Engineer, Autonomous Vehicles Software Systems - Early Career",
+    "id": "linkedin-4442650522",
+    "company": "InterScripts, Inc.",
+    "title": "Software Engineer I (Full Stack) \u2013 Immediate Joiners",
     "locations": [
-      "Sunnyvale, CA"
+      "Daly City, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4443395661",
+    "url": "https://www.linkedin.com/jobs/view/4442650522",
+    "sponsorship": "",
+    "posted": "2026-07-21",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4440785263",
+    "company": "Bankers Insurance Group",
+    "title": "Software Engineer I",
+    "locations": [
+      "St. Petersburg, FL"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4440785263",
     "sponsorship": "",
     "posted": "2026-07-21",
     "source": "LinkedIn"
@@ -332,6 +380,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4397356269",
+    "company": "SpaceX",
+    "title": "New Graduate Engineer, Software",
+    "locations": [
+      "Hawthorne, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4397356269",
+    "sponsorship": "",
+    "posted": "2026-07-20",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4442222073",
     "company": "Confiar Services",
     "title": "Graduate IT Trainee (Junior Software Engineer)",
@@ -344,13 +404,37 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4440166576",
-    "company": "STV",
-    "title": "Junior Software Engineer",
+    "id": "linkedin-4440113042",
+    "company": "Karmel-IT",
+    "title": "Software Engineer, Early Career",
     "locations": [
-      "New York, NY"
+      "San Francisco, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4440166576",
+    "url": "https://www.linkedin.com/jobs/view/4440113042",
+    "sponsorship": "",
+    "posted": "2026-07-20",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4440104379",
+    "company": "Karmel-IT",
+    "title": "Software Engineer, Early Career (AI)",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4440104379",
+    "sponsorship": "",
+    "posted": "2026-07-20",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4442786732",
+    "company": "Chewy",
+    "title": "Software Engineer I",
+    "locations": [
+      "Boston, MA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4442786732",
     "sponsorship": "",
     "posted": "2026-07-20",
     "source": "LinkedIn"
