@@ -1,36 +1,22 @@
 # 📡 2027 SWE Radar
 
 Automated daily scanner for **2027 new-grad software engineering** openings.
-Last scan: **2026-07-22** · Tracking **77** matching postings · 🆕 **23** new today
+Last scan: **2026-07-22** · Tracking **78** matching postings · 🆕 **9** new today
 Only showing **US** postings from **2026-07-01** onward, newest first.
 
 ## 🆕 New today
 
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
-| **Haakon Storm, Inc.** | Software Engineer, Early Career | San Francisco, CA | 2026-07-22 | [Link](https://www.linkedin.com/jobs/view/4441026340) |
-| **Vadum Inc.** | Junior Software Engineer | Raleigh, NC | 2026-07-22 | [Link](https://www.linkedin.com/jobs/view/4442924935) |
-| **WGU Product Design** | Software Engineer II- Salesforce | Salt Lake City, UT | 2026-07-22 | [Link](https://www.linkedin.com/jobs/view/4443720680) |
-| **NVIDIA** | GPU Architecture Engineer New Grad | Austin, TX; Santa Clara, CA | 2026-07-21 | [Link](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/GPU-Architecture-Engineer---New-College-Grad-2026_JR2021615) |
-| **NVIDIA** | RTL Power Optimization Engineer New Grad | Santa Clara, CA | 2026-07-21 | [Link](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/RTL-Power-Optimization-Engineer---New-College-Grad-2026_JR2021841) |
-| **Revature** | Entry Level Software Developer | Chicago, IL | 2026-07-21 | [Link](https://www.linkedin.com/jobs/view/4442631478) |
-| **Acrisure Mortgage, LLC** | Junior Software Developer | Orlando, FL | 2026-07-21 | [Link](https://www.linkedin.com/jobs/view/4443074993) |
-| **Radiance Technologies** | Junior Software Engineer | Mississippi, United States | 2026-07-21 | [Link](https://www.linkedin.com/jobs/view/4443575816) |
-| **Stanislaus County** | Software Engineer I/II | Modesto, CA | 2026-07-21 | [Link](https://www.linkedin.com/jobs/view/4441013963) |
-| **InComm Payments** | Software Engineer I | Utah, United States | 2026-07-21 | [Link](https://www.linkedin.com/jobs/view/4434750014) |
-| **General Motors** | Software Engineer, Autonomous Vehicles Software Systems - Early Career | Sunnyvale, CA | 2026-07-21 | [Link](https://www.linkedin.com/jobs/view/4443395661) |
-| **General Motors** | Software Engineer, Autonomous Vehicles Software Systems - Early Career | Warren, MI | 2026-07-21 | [Link](https://www.linkedin.com/jobs/view/4443510223) |
-| **TP-Link Systems Inc.** | 2026 Early Career Embedded Software Engineer | Irvine, CA | 2026-07-21 | [Link](https://www.linkedin.com/jobs/view/4413763362) |
-| **Confiar Services** | Graduate IT Trainee (Junior Software Engineer) | New Jersey, United States | 2026-07-20 | [Link](https://www.linkedin.com/jobs/view/4442222073) |
-| **Mastercard** | Software Engineer II | O'Fallon, MO | 2026-07-20 | [Link](https://www.linkedin.com/jobs/view/4440197060) |
-| **STV** | Junior Software Engineer | New York, NY | 2026-07-20 | [Link](https://www.linkedin.com/jobs/view/4440166576) |
-| **CGI** | Junior Software Developer | Lafayette, LA | 2026-07-19 | [Link](https://www.linkedin.com/jobs/view/4424963243) |
-| **NVIDIA** | Physical Design Methodology and Operations Engineer New Grad | Santa Clara, CA | 2026-07-15 | [Link](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Physical-Design-Methodology-and-Operations-Engineer---New-College-Grad-2026_JR2021434) |
-| **Cadence Design Systems** | Software Engineer New Grad - Undergrads | Burlington, MA | 2026-07-09 | [Link](https://cadence.wd1.myworkdayjobs.com/University_Talent_NCG/job/Burlington-MA/Software-Engineer--New-College-Grad-2026--Undergrads-_R54894-3) |
-| **Cadence Design Systems** | Software Engineer New Grad - Undergrads | Burlington, MA | 2026-07-09 | [Link](https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/Burlington-MA/Software-Engineer--New-College-Grad-2026--Undergrads-_R54894-1) |
-| **Micron Technology** | Engineer New Grad - Thin Films Equipment - Engineer | Manassas, VA | 2026-07-02 | [Link](https://micron.wd1.myworkdayjobs.com/External/job/Manassas-VA----Fab-6/Engineer--Thin-Films-Equipment_JR105007) |
-| **NVIDIA** | ASIC Physical Design and Timing Engineer New Grad | Santa Clara, CA | 2026-07-02 | [Link](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Physical-Design-and-Timing-Engineer---New-College-Grad-2026_JR2019810) |
-| **Applied Materials** | Early Career - Installation Team Field Service Engineer | Boise, ID; Phoenix, AZ | 2026-07-02 | [Link](https://amat.wd1.myworkdayjobs.com/External/job/BoiseID/Applied-Early-Career---Installation-Team-Field-Service-Engineer_R2622705) |
+| **Mastercard** | Software Engineer I | O'Fallon, MO | 2026-07-22 | [Link](https://www.linkedin.com/jobs/view/4443736509) |
+| **Revature** | Entry Level Software Developer | Richardson, TX | 2026-07-21 | [Link](https://www.linkedin.com/jobs/view/4442622756) |
+| **nextjobz** | Junior Software Engineer - Python | Marion County, IN | 2026-07-21 | [Link](https://www.linkedin.com/jobs/view/4433791563) |
+| **Haystack** | Junior Software Engineer | Washington, DC | 2026-07-21 | [Link](https://www.linkedin.com/jobs/view/4440432261) |
+| **InterScripts, Inc.** | Software Engineer I (Full Stack) – Immediate Joiners | Daly City, CA | 2026-07-21 | [Link](https://www.linkedin.com/jobs/view/4442650522) |
+| **Helic & Co** | Junior Software Engineer | United States | 2026-07-21 | [Link](https://www.linkedin.com/jobs/view/4443502157) |
+| **Karmel-IT** | Software Engineer, Early Career | San Francisco, CA | 2026-07-20 | [Link](https://www.linkedin.com/jobs/view/4440113042) |
+| **Karmel-IT** | Software Engineer, Early Career (AI) | San Francisco, CA | 2026-07-20 | [Link](https://www.linkedin.com/jobs/view/4440104379) |
+| **Chewy** | Software Engineer I | Boston, MA | 2026-07-20 | [Link](https://www.linkedin.com/jobs/view/4442786732) |
 
 ## 🎯 Explicit 2027 openings
 
@@ -40,20 +26,21 @@ _No postings explicitly mentioning 2027 yet._
 
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
-| Haakon Storm, Inc. | Software Engineer, Early Career | San Francisco, CA | 2026-07-22 | [Link](https://www.linkedin.com/jobs/view/4441026340) |
+| Mastercard | Software Engineer I | O'Fallon, MO | 2026-07-22 | [Link](https://www.linkedin.com/jobs/view/4443736509) |
 | Vadum Inc. | Junior Software Engineer | Raleigh, NC | 2026-07-22 | [Link](https://www.linkedin.com/jobs/view/4442924935) |
-| WGU Product Design | Software Engineer II- Salesforce | Salt Lake City, UT | 2026-07-22 | [Link](https://www.linkedin.com/jobs/view/4443720680) |
 | Supernova Technology | Junior Software Engineer | Chicago, IL | 2026-07-21 | [Link](https://ats.rippling.com/supernova-technology/jobs/7ea1a05c-b0e6-4f1a-b53c-193ce3d91502) |
 | Hipp Health | Software Engineer New Grad | United States | 2026-07-21 | [Link](https://jobs.ashbyhq.com/hipp/ea04e914-674c-4c05-b40a-7e8a035bad14/application?embed=true) |
 | NVIDIA | GPU Architecture Engineer New Grad | Austin, TX; Santa Clara, CA | 2026-07-21 | [Link](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/GPU-Architecture-Engineer---New-College-Grad-2026_JR2021615) |
 | NVIDIA | RTL Power Optimization Engineer New Grad | Santa Clara, CA | 2026-07-21 | [Link](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/RTL-Power-Optimization-Engineer---New-College-Grad-2026_JR2021841) |
-| BeaconFire Inc. | Entry-Level / Junior Software Developer Opportunity | New Jersey, United States | 2026-07-21 | [Link](https://www.linkedin.com/jobs/view/4440498037) |
-| SynergisticIT | Junior Software Engineer | Portland, OR | 2026-07-21 | [Link](https://www.linkedin.com/jobs/view/4442265030) |
 | Revature | Entry Level Software Developer | Chicago, IL | 2026-07-21 | [Link](https://www.linkedin.com/jobs/view/4442631478) |
 | Acrisure Mortgage, LLC | Junior Software Developer | Orlando, FL | 2026-07-21 | [Link](https://www.linkedin.com/jobs/view/4443074993) |
 | Radiance Technologies | Junior Software Engineer | Mississippi, United States | 2026-07-21 | [Link](https://www.linkedin.com/jobs/view/4443575816) |
 | Stanislaus County | Software Engineer I/II | Modesto, CA | 2026-07-21 | [Link](https://www.linkedin.com/jobs/view/4441013963) |
-| InComm Payments | Software Engineer I | Utah, United States | 2026-07-21 | [Link](https://www.linkedin.com/jobs/view/4434750014) |
+| Revature | Entry Level Software Developer | Richardson, TX | 2026-07-21 | [Link](https://www.linkedin.com/jobs/view/4442622756) |
+| nextjobz | Junior Software Engineer - Python | Marion County, IN | 2026-07-21 | [Link](https://www.linkedin.com/jobs/view/4433791563) |
+| Haystack | Junior Software Engineer | Washington, DC | 2026-07-21 | [Link](https://www.linkedin.com/jobs/view/4440432261) |
+| InterScripts, Inc. | Software Engineer I (Full Stack) – Immediate Joiners | Daly City, CA | 2026-07-21 | [Link](https://www.linkedin.com/jobs/view/4442650522) |
+| Helic & Co | Junior Software Engineer | United States | 2026-07-21 | [Link](https://www.linkedin.com/jobs/view/4443502157) |
 | General Motors | Software Engineer, Autonomous Vehicles Software Systems - Early Career | Sunnyvale, CA | 2026-07-21 | [Link](https://www.linkedin.com/jobs/view/4443395661) |
 | General Motors | Software Engineer, Autonomous Vehicles Software Systems - Early Career | Warren, MI | 2026-07-21 | [Link](https://www.linkedin.com/jobs/view/4443510223) |
 | TP-Link Systems Inc. | 2026 Early Career Embedded Software Engineer | Irvine, CA | 2026-07-21 | [Link](https://www.linkedin.com/jobs/view/4413763362) |
@@ -64,13 +51,14 @@ _No postings explicitly mentioning 2027 yet._
 | Crowdstrike | Engineer 1 New Grad - Data Scientist | Sunnyvale, CA | 2026-07-20 | [Link](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Engineer-I--Data-Scientist---New-Grad--Hybrid-_R29382-1) |
 | STV | Junior Software Engineer | Boston, MA; NYC | 2026-07-20 | [Link](https://stvinc.wd5.myworkdayjobs.com/stv/job/Empire-State-Building-New-York-New-York/Junior-Software-Engineer_JR5922) |
 | NVIDIA | Compiler Engineer New Grad - Infrastructure | Austin, TX; Remote in USA | 2026-07-20 | [Link](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Compiler-Engineer--Infrastructure----New-College-Grad-2026_JR2021228) |
-| Karmel-IT | Software Engineer, New Grad (AI) | San Francisco, CA | 2026-07-20 | [Link](https://www.linkedin.com/jobs/view/4440107185) |
-| Karmel-IT | Software Engineer, New Grad | San Francisco, CA | 2026-07-20 | [Link](https://www.linkedin.com/jobs/view/4439697852) |
 | Northwood | Software Engineer – General (new grad / early career) | Torrance, CA | 2026-07-20 | [Link](https://www.linkedin.com/jobs/view/4406691082) |
-| SpaceX | New Graduate Engineer, Software | Hawthorne, CA | 2026-07-20 | [Link](https://www.linkedin.com/jobs/view/4397356269) |
+| Karmel-IT | Software Engineer, Early Career | San Francisco, CA | 2026-07-20 | [Link](https://www.linkedin.com/jobs/view/4440113042) |
 | Confiar Services | Graduate IT Trainee (Junior Software Engineer) | New Jersey, United States | 2026-07-20 | [Link](https://www.linkedin.com/jobs/view/4442222073) |
 | Mastercard | Software Engineer II | O'Fallon, MO | 2026-07-20 | [Link](https://www.linkedin.com/jobs/view/4440197060) |
+| SpaceX | New Graduate Engineer, Software | Hawthorne, CA | 2026-07-20 | [Link](https://www.linkedin.com/jobs/view/4397356269) |
 | STV | Junior Software Engineer | New York, NY | 2026-07-20 | [Link](https://www.linkedin.com/jobs/view/4440166576) |
+| Karmel-IT | Software Engineer, Early Career (AI) | San Francisco, CA | 2026-07-20 | [Link](https://www.linkedin.com/jobs/view/4440104379) |
+| Chewy | Software Engineer I | Boston, MA | 2026-07-20 | [Link](https://www.linkedin.com/jobs/view/4442786732) |
 | CGI | Junior Software Developer | Lafayette, LA | 2026-07-19 | [Link](https://www.linkedin.com/jobs/view/4424963243) |
 | NVIDIA | Systems Software Engineer New Grad - Accelerated Kubernetes Performance and Scale | Seattle, WA; Santa Clara, CA | 2026-07-17 | [Link](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Engineer--Accelerated-Kubernetes-Performance-and-Scale---New-College-Grad-2026_JR2020957) |
 | NVIDIA | ASIC Design Engineer New Grad | Santa Clara, CA | 2026-07-17 | [Link](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Design-Engineer---New-College-Grad-2026_JR2021534) |
@@ -88,8 +76,6 @@ _No postings explicitly mentioning 2027 yet._
 | NVIDIA | Compiler Engineer AI Inference New Grad | Santa Clara, CA | 2026-07-13 | [Link](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Compiler-Engineer--AI-Inference--New-College-Grad-2026_JR2021230) |
 | NVIDIA | Backend Compiler Engineer New Grad | Santa Clara, CA | 2026-07-13 | [Link](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Backend-Compiler-Engineer---New-College-Grad-2026_JR2021242) |
 | NVIDIA | System Software Engineer New Grad - Dynamo-Triton Inference Server | Remote in USA; Santa Clara, CA | 2026-07-13 | [Link](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer--Dynamo-Triton-Inference-Server---New-College-Grad-2026_JR2020767) |
-| Micron Technology | Design Engineer New Grad - Design Engineer - Non-Volatile Engineering Group | San Jose, CA | 2026-07-10 | [Link](https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Principal-Design-Engineer--NVEG_JR88223) |
-| Sandisk | SSD Firmware Engineer New Grad - SSD Firmware Engineer | Milpitas, CA | 2026-07-10 | [Link](https://jobs.smartrecruiters.com/Sandisk/744000137191590) |
 
 ---
 _Sources: SimplifyJobs New-Grad-Positions, Greenhouse/Lever/Ashby boards, LinkedIn search, Adzuna aggregator._

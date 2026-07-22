@@ -1,12 +1,12 @@
 [
   {
-    "id": "linkedin-4441026340",
-    "company": "Haakon Storm, Inc.",
-    "title": "Software Engineer, Early Career",
+    "id": "linkedin-4443736509",
+    "company": "Mastercard",
+    "title": "Software Engineer I",
     "locations": [
-      "San Francisco, CA"
+      "O'Fallon, MO"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4441026340",
+    "url": "https://www.linkedin.com/jobs/view/4443736509",
     "sponsorship": "",
     "posted": "2026-07-22",
     "source": "LinkedIn"
@@ -19,18 +19,6 @@
       "Raleigh, NC"
     ],
     "url": "https://www.linkedin.com/jobs/view/4442924935",
-    "sponsorship": "",
-    "posted": "2026-07-22",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4443720680",
-    "company": "WGU Product Design",
-    "title": "Software Engineer II- Salesforce",
-    "locations": [
-      "Salt Lake City, UT"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4443720680",
     "sponsorship": "",
     "posted": "2026-07-22",
     "source": "LinkedIn"
@@ -86,30 +74,6 @@
     "source": "SimplifyJobs"
   },
   {
-    "id": "linkedin-4440498037",
-    "company": "BeaconFire Inc.",
-    "title": "Entry-Level / Junior Software Developer Opportunity",
-    "locations": [
-      "New Jersey, United States"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4440498037",
-    "sponsorship": "",
-    "posted": "2026-07-21",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4442265030",
-    "company": "SynergisticIT",
-    "title": "Junior Software Engineer",
-    "locations": [
-      "Portland, OR"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4442265030",
-    "sponsorship": "",
-    "posted": "2026-07-21",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4442631478",
     "company": "Revature",
     "title": "Entry Level Software Developer",
@@ -158,13 +122,61 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4434750014",
-    "company": "InComm Payments",
-    "title": "Software Engineer I",
+    "id": "linkedin-4442622756",
+    "company": "Revature",
+    "title": "Entry Level Software Developer",
     "locations": [
-      "Utah, United States"
+      "Richardson, TX"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4434750014",
+    "url": "https://www.linkedin.com/jobs/view/4442622756",
+    "sponsorship": "",
+    "posted": "2026-07-21",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4433791563",
+    "company": "nextjobz",
+    "title": "Junior Software Engineer - Python",
+    "locations": [
+      "Marion County, IN"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4433791563",
+    "sponsorship": "",
+    "posted": "2026-07-21",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4440432261",
+    "company": "Haystack",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "Washington, DC"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4440432261",
+    "sponsorship": "",
+    "posted": "2026-07-21",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4442650522",
+    "company": "InterScripts, Inc.",
+    "title": "Software Engineer I (Full Stack) \u2013 Immediate Joiners",
+    "locations": [
+      "Daly City, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4442650522",
+    "sponsorship": "",
+    "posted": "2026-07-21",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4443502157",
+    "company": "Helic & Co",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "United States"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4443502157",
     "sponsorship": "",
     "posted": "2026-07-21",
     "source": "LinkedIn"
@@ -296,30 +308,6 @@
     "source": "SimplifyJobs"
   },
   {
-    "id": "linkedin-4440107185",
-    "company": "Karmel-IT",
-    "title": "Software Engineer, New Grad (AI)",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4440107185",
-    "sponsorship": "",
-    "posted": "2026-07-20",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4439697852",
-    "company": "Karmel-IT",
-    "title": "Software Engineer, New Grad",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4439697852",
-    "sponsorship": "",
-    "posted": "2026-07-20",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4406691082",
     "company": "Northwood",
     "title": "Software Engineer \u2013 General (new grad / early career)",
@@ -332,13 +320,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4397356269",
-    "company": "SpaceX",
-    "title": "New Graduate Engineer, Software",
+    "id": "linkedin-4440113042",
+    "company": "Karmel-IT",
+    "title": "Software Engineer, Early Career",
     "locations": [
-      "Hawthorne, CA"
+      "San Francisco, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4397356269",
+    "url": "https://www.linkedin.com/jobs/view/4440113042",
     "sponsorship": "",
     "posted": "2026-07-20",
     "source": "LinkedIn"
@@ -368,6 +356,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4397356269",
+    "company": "SpaceX",
+    "title": "New Graduate Engineer, Software",
+    "locations": [
+      "Hawthorne, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4397356269",
+    "sponsorship": "",
+    "posted": "2026-07-20",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4440166576",
     "company": "STV",
     "title": "Junior Software Engineer",
@@ -375,6 +375,30 @@
       "New York, NY"
     ],
     "url": "https://www.linkedin.com/jobs/view/4440166576",
+    "sponsorship": "",
+    "posted": "2026-07-20",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4440104379",
+    "company": "Karmel-IT",
+    "title": "Software Engineer, Early Career (AI)",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4440104379",
+    "sponsorship": "",
+    "posted": "2026-07-20",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4442786732",
+    "company": "Chewy",
+    "title": "Software Engineer I",
+    "locations": [
+      "Boston, MA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4442786732",
     "sponsorship": "",
     "posted": "2026-07-20",
     "source": "LinkedIn"
@@ -918,18 +942,6 @@
     "sponsorship": "Other",
     "posted": "2026-07-02",
     "source": "SimplifyJobs"
-  },
-  {
-    "id": "gh-samsara-7619925",
-    "company": "Samsara",
-    "title": "Software Engineer II, AI Platform",
-    "locations": [
-      "Remote - CA"
-    ],
-    "url": "https://www.samsara.com/company/careers/roles/7619925?gh_jid=7619925",
-    "sponsorship": "",
-    "posted": "2026-07-02",
-    "source": "Greenhouse"
   },
   {
     "id": "simplify-00142abd-9aec-4fca-9c8d-b46f6fb762d2",
