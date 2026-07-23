@@ -1,17 +1,5 @@
 [
   {
-    "id": "linkedin-4434501562",
-    "company": "NewsBreak",
-    "title": "NewsBreak Venture, AI Growth Intelligence Engineer (New Grad\uff09",
-    "locations": [
-      "Mountain View, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4434501562",
-    "sponsorship": "",
-    "posted": "2026-07-23",
-    "source": "LinkedIn"
-  },
-  {
     "id": "simplify-9904ce81-b80f-448d-a958-9b719a4676e9",
     "company": "Traba",
     "title": "Software Engineer New Grad",
@@ -96,25 +84,37 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4444219104",
-    "company": "Unrivaled Basketball",
+    "id": "linkedin-4443998077",
+    "company": "Infinite Computer Solutions",
     "title": "Junior Software Engineer",
     "locations": [
-      "Miami, FL"
+      "Maryland, United States"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4444219104",
+    "url": "https://www.linkedin.com/jobs/view/4443998077",
     "sponsorship": "",
     "posted": "2026-07-22",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4443134302",
-    "company": "EVONA",
-    "title": "Junior Software Programmer",
+    "id": "linkedin-4331580484",
+    "company": "Medpace",
+    "title": "Junior Software Engineer",
     "locations": [
-      "Coppell, TX"
+      "Denver, CO"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4443134302",
+    "url": "https://www.linkedin.com/jobs/view/4331580484",
+    "sponsorship": "",
+    "posted": "2026-07-22",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4443973101",
+    "company": "Develawpers",
+    "title": "Software Engineer, Early Career",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4443973101",
     "sponsorship": "",
     "posted": "2026-07-22",
     "source": "LinkedIn"
@@ -189,6 +189,30 @@
       "Mississippi, United States"
     ],
     "url": "https://www.linkedin.com/jobs/view/4443575816",
+    "sponsorship": "",
+    "posted": "2026-07-21",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4440432261",
+    "company": "Haystack",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "Washington, DC"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4440432261",
+    "sponsorship": "",
+    "posted": "2026-07-21",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4440427435",
+    "company": "Haystack",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "Virginia, United States"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4440427435",
     "sponsorship": "",
     "posted": "2026-07-21",
     "source": "LinkedIn"
@@ -284,13 +308,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4440194830",
-    "company": "CrowdStrike",
-    "title": "Engineer I, Data Scientist - New Grad (Hybrid)",
+    "id": "linkedin-4397356269",
+    "company": "SpaceX",
+    "title": "New Graduate Engineer, Software",
     "locations": [
-      "Sunnyvale, CA"
+      "Hawthorne, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4440194830",
+    "url": "https://www.linkedin.com/jobs/view/4397356269",
     "sponsorship": "",
     "posted": "2026-07-20",
     "source": "LinkedIn"
