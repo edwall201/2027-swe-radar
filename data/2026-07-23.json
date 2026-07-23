@@ -1,5 +1,42 @@
 [
   {
+    "id": "simplify-e2dbbfb0-5164-4098-99ba-6fc554978c24",
+    "company": "Bridger",
+    "title": "Early Career Product Engineer",
+    "locations": [
+      "NYC"
+    ],
+    "url": "https://jobs.ashbyhq.com/bridger/5a4a77e4-31a0-40c6-8e3d-9b5c6205943f/application?embed=true",
+    "sponsorship": "Other",
+    "posted": "2026-07-23",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-e3815529-57c7-41bb-8d69-cad889c3b01e",
+    "company": "NVIDIA",
+    "title": "AI and ML Infra Software Engineer New Grad - GPU Clusters",
+    "locations": [
+      "Redmond, WA",
+      "Santa Clara, CA"
+    ],
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-and-ML-Infra-Software-Engineer--GPU-Clusters---New-College-Grad-2026_JR2021591",
+    "sponsorship": "Other",
+    "posted": "2026-07-23",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-a455da9d-eaec-41c8-9de6-819c1f5bac60",
+    "company": "NVIDIA",
+    "title": "Software Engineer New Grad - Physical Design Infrastructure",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Physical-Design-Infrastructure---New-College-Grad-2026_JR2021823",
+    "sponsorship": "Other",
+    "posted": "2026-07-23",
+    "source": "SimplifyJobs"
+  },
+  {
     "id": "gh-duolingo-8628658002",
     "company": "Duolingo",
     "title": "Software Engineer II, Android",
@@ -84,13 +121,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4440498037",
-    "company": "BeaconFire Inc.",
-    "title": "Entry-Level / Junior Software Developer Opportunity",
+    "id": "linkedin-4443850970",
+    "company": "Revature",
+    "title": "Entry Level Software Developer",
     "locations": [
-      "New Jersey, United States"
+      "Chicago, IL"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4440498037",
+    "url": "https://www.linkedin.com/jobs/view/4443850970",
     "sponsorship": "",
     "posted": "2026-07-23",
     "source": "LinkedIn"
@@ -108,6 +145,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4440270103",
+    "company": "Vierra Digital LLC",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "New York City Metropolitan Area"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4440270103",
+    "sponsorship": "",
+    "posted": "2026-07-23",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4441551829",
     "company": "J.B. Hunt Transport Services, Inc.",
     "title": "Software Engineer I",
@@ -115,18 +164,6 @@
       "Lowell, AR"
     ],
     "url": "https://www.linkedin.com/jobs/view/4441551829",
-    "sponsorship": "",
-    "posted": "2026-07-23",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4444450296",
-    "company": "Helic & Co",
-    "title": "Junior Software Engineer",
-    "locations": [
-      "United States"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4444450296",
     "sponsorship": "",
     "posted": "2026-07-23",
     "source": "LinkedIn"
@@ -168,37 +205,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4443136015",
-    "company": "Parasoleil",
-    "title": "Entry Level Software Engineer",
+    "id": "linkedin-4443736509",
+    "company": "Mastercard",
+    "title": "Software Engineer I",
     "locations": [
-      "United States"
+      "O'Fallon, MO"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4443136015",
-    "sponsorship": "",
-    "posted": "2026-07-22",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4442924935",
-    "company": "Vadum Inc.",
-    "title": "Junior Software Engineer",
-    "locations": [
-      "Raleigh, NC"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4442924935",
-    "sponsorship": "",
-    "posted": "2026-07-22",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4443963672",
-    "company": "SkillStorm",
-    "title": "Entry Level Software Developer",
-    "locations": [
-      "Tampa, FL"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4443963672",
+    "url": "https://www.linkedin.com/jobs/view/4443736509",
     "sponsorship": "",
     "posted": "2026-07-22",
     "source": "LinkedIn"
@@ -235,30 +248,6 @@
       "Denver, CO"
     ],
     "url": "https://www.linkedin.com/jobs/view/4331580484",
-    "sponsorship": "",
-    "posted": "2026-07-22",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4444219104",
-    "company": "Unrivaled Basketball",
-    "title": "Junior Software Engineer",
-    "locations": [
-      "Miami, FL"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4444219104",
-    "sponsorship": "",
-    "posted": "2026-07-22",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4443736509",
-    "company": "Mastercard",
-    "title": "Software Engineer I",
-    "locations": [
-      "O'Fallon, MO"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4443736509",
     "sponsorship": "",
     "posted": "2026-07-22",
     "source": "LinkedIn"
@@ -314,25 +303,25 @@
     "source": "SimplifyJobs"
   },
   {
-    "id": "linkedin-4442265030",
-    "company": "SynergisticIT",
-    "title": "Junior Software Engineer",
+    "id": "linkedin-4443074993",
+    "company": "Acrisure Mortgage, LLC",
+    "title": "Junior Software Developer",
     "locations": [
-      "Portland, OR"
+      "Orlando, FL"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4442265030",
+    "url": "https://www.linkedin.com/jobs/view/4443074993",
     "sponsorship": "",
     "posted": "2026-07-21",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4442610533",
-    "company": "CENIT",
-    "title": "Junior Software Engineer Digital Manufacturing (m/f/d)",
+    "id": "linkedin-4443575816",
+    "company": "Radiance Technologies",
+    "title": "Junior Software Engineer",
     "locations": [
-      "Auburn Hills, MI"
+      "Mississippi, United States"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4442610533",
+    "url": "https://www.linkedin.com/jobs/view/4443575816",
     "sponsorship": "",
     "posted": "2026-07-21",
     "source": "LinkedIn"
@@ -357,30 +346,6 @@
       "Virginia, United States"
     ],
     "url": "https://www.linkedin.com/jobs/view/4440427435",
-    "sponsorship": "",
-    "posted": "2026-07-21",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4443575816",
-    "company": "Radiance Technologies",
-    "title": "Junior Software Engineer",
-    "locations": [
-      "Mississippi, United States"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4443575816",
-    "sponsorship": "",
-    "posted": "2026-07-21",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4442650522",
-    "company": "InterScripts, Inc.",
-    "title": "Software Engineer I (Full Stack) \u2013 Immediate Joiners",
-    "locations": [
-      "Daly City, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4442650522",
     "sponsorship": "",
     "posted": "2026-07-21",
     "source": "LinkedIn"
@@ -419,19 +384,6 @@
       "Sunnyvale, CA"
     ],
     "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Engineer-I--Data-Scientist---New-Grad--Hybrid-_R29382-1",
-    "sponsorship": "Other",
-    "posted": "2026-07-20",
-    "source": "SimplifyJobs"
-  },
-  {
-    "id": "simplify-d86d5a45-c146-4585-8c27-938e7a70cf81",
-    "company": "STV",
-    "title": "Junior Software Engineer",
-    "locations": [
-      "Boston, MA",
-      "NYC"
-    ],
-    "url": "https://stvinc.wd5.myworkdayjobs.com/stv/job/Empire-State-Building-New-York-New-York/Junior-Software-Engineer_JR5922",
     "sponsorship": "Other",
     "posted": "2026-07-20",
     "source": "SimplifyJobs"
