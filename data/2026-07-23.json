@@ -1,5 +1,29 @@
 [
   {
+    "id": "gh-duolingo-8628658002",
+    "company": "Duolingo",
+    "title": "Software Engineer II, Android",
+    "locations": [
+      "Pittsburgh, PA"
+    ],
+    "url": "https://careers.duolingo.com/jobs/8628658002?gh_jid=8628658002",
+    "sponsorship": "",
+    "posted": "2026-07-23",
+    "source": "Greenhouse"
+  },
+  {
+    "id": "gh-duolingo-8628670002",
+    "company": "Duolingo",
+    "title": "Software Engineer II, Android",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://careers.duolingo.com/jobs/8628670002?gh_jid=8628670002",
+    "sponsorship": "",
+    "posted": "2026-07-23",
+    "source": "Greenhouse"
+  },
+  {
     "id": "linkedin-4434501562",
     "company": "NewsBreak",
     "title": "NewsBreak Venture, AI Growth Intelligence Engineer (New Grad\uff09",
@@ -7,30 +31,6 @@
       "Mountain View, CA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4434501562",
-    "sponsorship": "",
-    "posted": "2026-07-23",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4444231455",
-    "company": "Deloitte",
-    "title": "Corticon Software Engineer III",
-    "locations": [
-      "Denver, CO"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4444231455",
-    "sponsorship": "",
-    "posted": "2026-07-23",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4436131741",
-    "company": "Nightwing",
-    "title": "Junior Software Developer",
-    "locations": [
-      "Annapolis Junction, MD"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4436131741",
     "sponsorship": "",
     "posted": "2026-07-23",
     "source": "LinkedIn"
@@ -55,6 +55,30 @@
       "Chicago, IL"
     ],
     "url": "https://www.linkedin.com/jobs/view/4432734381",
+    "sponsorship": "",
+    "posted": "2026-07-23",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4440498037",
+    "company": "BeaconFire Inc.",
+    "title": "Entry-Level / Junior Software Developer Opportunity",
+    "locations": [
+      "New Jersey, United States"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4440498037",
+    "sponsorship": "",
+    "posted": "2026-07-23",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4436131741",
+    "company": "Nightwing",
+    "title": "Junior Software Developer",
+    "locations": [
+      "Annapolis Junction, MD"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4436131741",
     "sponsorship": "",
     "posted": "2026-07-23",
     "source": "LinkedIn"
@@ -108,25 +132,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4443736509",
-    "company": "Mastercard",
-    "title": "Software Engineer I",
+    "id": "linkedin-4443136015",
+    "company": "Parasoleil",
+    "title": "Entry Level Software Engineer",
     "locations": [
-      "O'Fallon, MO"
+      "United States"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4443736509",
-    "sponsorship": "",
-    "posted": "2026-07-22",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4443143617",
-    "company": "Revature",
-    "title": "Entry Level Software Developer",
-    "locations": [
-      "Chicago, IL"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4443143617",
+    "url": "https://www.linkedin.com/jobs/view/4443136015",
     "sponsorship": "",
     "posted": "2026-07-22",
     "source": "LinkedIn"
@@ -163,42 +175,6 @@
       "Oklahoma City, OK"
     ],
     "url": "https://www.linkedin.com/jobs/view/4441079673",
-    "sponsorship": "",
-    "posted": "2026-07-22",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4443973101",
-    "company": "Develawpers",
-    "title": "Software Engineer, Early Career",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4443973101",
-    "sponsorship": "",
-    "posted": "2026-07-22",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4444219104",
-    "company": "Unrivaled Basketball",
-    "title": "Junior Software Engineer",
-    "locations": [
-      "Miami, FL"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4444219104",
-    "sponsorship": "",
-    "posted": "2026-07-22",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4443908186",
-    "company": "Helic & Co",
-    "title": "Junior Software Engineer",
-    "locations": [
-      "United States"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4443908186",
     "sponsorship": "",
     "posted": "2026-07-22",
     "source": "LinkedIn"
@@ -254,37 +230,13 @@
     "source": "SimplifyJobs"
   },
   {
-    "id": "linkedin-4443074993",
-    "company": "Acrisure Mortgage, LLC",
-    "title": "Junior Software Developer",
-    "locations": [
-      "Orlando, FL"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4443074993",
-    "sponsorship": "",
-    "posted": "2026-07-21",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4443575816",
-    "company": "Radiance Technologies",
+    "id": "linkedin-4442265030",
+    "company": "SynergisticIT",
     "title": "Junior Software Engineer",
     "locations": [
-      "Mississippi, United States"
+      "Portland, OR"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4443575816",
-    "sponsorship": "",
-    "posted": "2026-07-21",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4442931824",
-    "company": "CemSites",
-    "title": "Entry Level Software Specialist",
-    "locations": [
-      "Perryopolis, PA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4442931824",
+    "url": "https://www.linkedin.com/jobs/view/4442265030",
     "sponsorship": "",
     "posted": "2026-07-21",
     "source": "LinkedIn"
@@ -309,6 +261,18 @@
       "Modesto, CA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4441013963",
+    "sponsorship": "",
+    "posted": "2026-07-21",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4443575816",
+    "company": "Radiance Technologies",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "Mississippi, United States"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4443575816",
     "sponsorship": "",
     "posted": "2026-07-21",
     "source": "LinkedIn"
@@ -392,18 +356,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4440166576",
-    "company": "STV",
-    "title": "Junior Software Engineer",
-    "locations": [
-      "New York, NY"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4440166576",
-    "sponsorship": "",
-    "posted": "2026-07-20",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4397356269",
     "company": "SpaceX",
     "title": "New Graduate Engineer, Software",
@@ -411,6 +363,18 @@
       "Hawthorne, CA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4397356269",
+    "sponsorship": "",
+    "posted": "2026-07-20",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4440166576",
+    "company": "STV",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4440166576",
     "sponsorship": "",
     "posted": "2026-07-20",
     "source": "LinkedIn"
@@ -620,30 +584,6 @@
     "sponsorship": "Other",
     "posted": "2026-07-10",
     "source": "SimplifyJobs"
-  },
-  {
-    "id": "gh-duolingo-8628658002",
-    "company": "Duolingo",
-    "title": "Software Engineer II, Android",
-    "locations": [
-      "Pittsburgh, PA"
-    ],
-    "url": "https://careers.duolingo.com/jobs/8628658002?gh_jid=8628658002",
-    "sponsorship": "",
-    "posted": "2026-07-10",
-    "source": "Greenhouse"
-  },
-  {
-    "id": "gh-duolingo-8628670002",
-    "company": "Duolingo",
-    "title": "Software Engineer II, Android",
-    "locations": [
-      "New York, NY"
-    ],
-    "url": "https://careers.duolingo.com/jobs/8628670002?gh_jid=8628670002",
-    "sponsorship": "",
-    "posted": "2026-07-10",
-    "source": "Greenhouse"
   },
   {
     "id": "simplify-b2a451e2-c73b-4273-ba1e-8a91e3c9b407",
