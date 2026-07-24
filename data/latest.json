@@ -1,48 +1,12 @@
 [
   {
-    "id": "linkedin-4435281631",
-    "company": "IXL Learning",
-    "title": "Software Engineer, New Grad",
+    "id": "linkedin-4374838577",
+    "company": "Giga",
+    "title": "Software Engineer I / II",
     "locations": [
-      "San Mateo, CA"
+      "New York, NY"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4435281631",
-    "sponsorship": "",
-    "posted": "2026-07-24",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4427643568",
-    "company": "Anduril Industries",
-    "title": "2027 Early Career Software Engineer",
-    "locations": [
-      "Seattle, WA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4427643568",
-    "sponsorship": "",
-    "posted": "2026-07-24",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4440498037",
-    "company": "BeaconFire Inc.",
-    "title": "Entry-Level / Junior Software Developer Opportunity",
-    "locations": [
-      "New Jersey, United States"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4440498037",
-    "sponsorship": "",
-    "posted": "2026-07-24",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4444379095",
-    "company": "Centre for Molecular Biosciences & Genomics",
-    "title": "ENTRY LEVEL SOFTWARE DEVELOPE",
-    "locations": [
-      "United States"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4444379095",
+    "url": "https://www.linkedin.com/jobs/view/4374838577",
     "sponsorship": "",
     "posted": "2026-07-24",
     "source": "LinkedIn"
@@ -60,13 +24,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4374838577",
-    "company": "Giga",
-    "title": "Software Engineer I / II",
+    "id": "linkedin-4444339499",
+    "company": "Revature",
+    "title": "Entry Level Software Developer",
     "locations": [
-      "New York, NY"
+      "Richardson, TX"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4374838577",
+    "url": "https://www.linkedin.com/jobs/view/4444339499",
     "sponsorship": "",
     "posted": "2026-07-24",
     "source": "LinkedIn"
@@ -181,49 +145,13 @@
     "source": "Greenhouse"
   },
   {
-    "id": "linkedin-4444704567",
-    "company": "Appian",
-    "title": "Software Engineer (2027 Graduates)",
+    "id": "linkedin-4444043138",
+    "company": "Valon",
+    "title": "Software Engineer II",
     "locations": [
-      "McLean, VA"
+      "San Francisco, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4444704567",
-    "sponsorship": "",
-    "posted": "2026-07-23",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4432711572",
-    "company": "Optiver",
-    "title": "Graduate Software Engineer (2027 Start)",
-    "locations": [
-      "Austin, TX"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4432711572",
-    "sponsorship": "",
-    "posted": "2026-07-23",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4432734381",
-    "company": "Optiver",
-    "title": "Graduate Software Engineer (2027 Start)",
-    "locations": [
-      "Chicago, IL"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4432734381",
-    "sponsorship": "",
-    "posted": "2026-07-23",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4426506912",
-    "company": "SpaceX",
-    "title": "New Graduate Engineer, Launch & Test (Starship)",
-    "locations": [
-      "Texas, United States"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4426506912",
+    "url": "https://www.linkedin.com/jobs/view/4444043138",
     "sponsorship": "",
     "posted": "2026-07-23",
     "source": "LinkedIn"
@@ -236,6 +164,18 @@
       "Denver, CO"
     ],
     "url": "https://www.linkedin.com/jobs/view/4444231455",
+    "sponsorship": "",
+    "posted": "2026-07-23",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4432711572",
+    "company": "Optiver",
+    "title": "Graduate Software Engineer (2027 Start)",
+    "locations": [
+      "Austin, TX"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4432711572",
     "sponsorship": "",
     "posted": "2026-07-23",
     "source": "LinkedIn"
@@ -260,6 +200,42 @@
       "New York, NY"
     ],
     "url": "https://www.linkedin.com/jobs/view/4444045079",
+    "sponsorship": "",
+    "posted": "2026-07-23",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4440270103",
+    "company": "Vierra Digital LLC",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "New York City Metropolitan Area"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4440270103",
+    "sponsorship": "",
+    "posted": "2026-07-23",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4441551829",
+    "company": "J.B. Hunt Transport Services, Inc.",
+    "title": "Software Engineer I",
+    "locations": [
+      "Lowell, AR"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4441551829",
+    "sponsorship": "",
+    "posted": "2026-07-23",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4432734381",
+    "company": "Optiver",
+    "title": "Graduate Software Engineer (2027 Start)",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4432734381",
     "sponsorship": "",
     "posted": "2026-07-23",
     "source": "LinkedIn"
@@ -301,30 +277,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4443136015",
-    "company": "Parasoleil",
-    "title": "Entry Level Software Engineer",
-    "locations": [
-      "United States"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4443136015",
-    "sponsorship": "",
-    "posted": "2026-07-22",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4443959775",
-    "company": "SkillStorm",
-    "title": "Entry Level Software Developer",
-    "locations": [
-      "Indianapolis, IN"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4443959775",
-    "sponsorship": "",
-    "posted": "2026-07-22",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4443736509",
     "company": "Mastercard",
     "title": "Software Engineer I",
@@ -344,6 +296,18 @@
       "Miami, FL"
     ],
     "url": "https://www.linkedin.com/jobs/view/4444219104",
+    "sponsorship": "",
+    "posted": "2026-07-22",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4443976141",
+    "company": "SkillStorm",
+    "title": "Entry Level Software Developer",
+    "locations": [
+      "Miami, FL"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4443976141",
     "sponsorship": "",
     "posted": "2026-07-22",
     "source": "LinkedIn"
@@ -406,18 +370,6 @@
       "Mississippi, United States"
     ],
     "url": "https://www.linkedin.com/jobs/view/4443575816",
-    "sponsorship": "",
-    "posted": "2026-07-21",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4442650522",
-    "company": "InterScripts, Inc.",
-    "title": "Software Engineer I (Full Stack) \u2013 Immediate Joiners",
-    "locations": [
-      "Daly City, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4442650522",
     "sponsorship": "",
     "posted": "2026-07-21",
     "source": "LinkedIn"
