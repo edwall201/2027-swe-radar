@@ -12,6 +12,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4441845266",
+    "company": "Thrive With You",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "New York, United States"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4441845266",
+    "sponsorship": "",
+    "posted": "2026-07-24",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4444326675",
     "company": "Revature",
     "title": "Entry Level Software Developer",
@@ -24,37 +36,37 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4444339499",
-    "company": "Revature",
-    "title": "Entry Level Software Developer",
+    "id": "linkedin-4444608401",
+    "company": "Toyota North America",
+    "title": "Software Engineer (Early Career Professional)",
     "locations": [
-      "Richardson, TX"
+      "Plano, TX"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4444339499",
+    "url": "https://www.linkedin.com/jobs/view/4444608401",
     "sponsorship": "",
     "posted": "2026-07-24",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4444961582",
-    "company": "Helic & Co",
-    "title": "Junior Software Engineer",
+    "id": "linkedin-4444954675",
+    "company": "WHOOP",
+    "title": "Software Engineer II (Backend, Business Systems)",
     "locations": [
-      "United States"
+      "Boston, MA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4444961582",
+    "url": "https://www.linkedin.com/jobs/view/4444954675",
     "sponsorship": "",
     "posted": "2026-07-24",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4441805974",
-    "company": "Tech Consulting",
-    "title": "Junior Software Engineer",
+    "id": "linkedin-4444951743",
+    "company": "WHOOP",
+    "title": "Software Engineer II (Backend, Platform)",
     "locations": [
-      "Texas, United States"
+      "Boston, MA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4441805974",
+    "url": "https://www.linkedin.com/jobs/view/4444951743",
     "sponsorship": "",
     "posted": "2026-07-24",
     "source": "LinkedIn"
@@ -121,18 +133,6 @@
     "source": "SimplifyJobs"
   },
   {
-    "id": "gh-duolingo-8628658002",
-    "company": "Duolingo",
-    "title": "Software Engineer II, Android",
-    "locations": [
-      "Pittsburgh, PA"
-    ],
-    "url": "https://careers.duolingo.com/jobs/8628658002?gh_jid=8628658002",
-    "sponsorship": "",
-    "posted": "2026-07-23",
-    "source": "Greenhouse"
-  },
-  {
     "id": "gh-duolingo-8628670002",
     "company": "Duolingo",
     "title": "Software Engineer II, Android",
@@ -145,6 +145,18 @@
     "source": "Greenhouse"
   },
   {
+    "id": "gh-duolingo-8628658002",
+    "company": "Duolingo",
+    "title": "Software Engineer II, Android",
+    "locations": [
+      "Pittsburgh, PA"
+    ],
+    "url": "https://careers.duolingo.com/jobs/8628658002?gh_jid=8628658002",
+    "sponsorship": "",
+    "posted": "2026-07-23",
+    "source": "Greenhouse"
+  },
+  {
     "id": "linkedin-4444043138",
     "company": "Valon",
     "title": "Software Engineer II",
@@ -152,18 +164,6 @@
       "San Francisco, CA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4444043138",
-    "sponsorship": "",
-    "posted": "2026-07-23",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4444231455",
-    "company": "Deloitte",
-    "title": "Corticon Software Engineer III",
-    "locations": [
-      "Denver, CO"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4444231455",
     "sponsorship": "",
     "posted": "2026-07-23",
     "source": "LinkedIn"
@@ -289,25 +289,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4444219104",
-    "company": "Unrivaled Basketball",
+    "id": "linkedin-4443142901",
+    "company": "FDM Group",
     "title": "Junior Software Engineer",
     "locations": [
-      "Miami, FL"
+      "Charlotte, NC"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4444219104",
-    "sponsorship": "",
-    "posted": "2026-07-22",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4443976141",
-    "company": "SkillStorm",
-    "title": "Entry Level Software Developer",
-    "locations": [
-      "Miami, FL"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4443976141",
+    "url": "https://www.linkedin.com/jobs/view/4443142901",
     "sponsorship": "",
     "posted": "2026-07-22",
     "source": "LinkedIn"
