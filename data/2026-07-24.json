@@ -85,85 +85,13 @@
     "source": "Greenhouse"
   },
   {
-    "id": "linkedin-4443850970",
-    "company": "Revature",
-    "title": "Entry Level Software Developer",
+    "id": "linkedin-4444704567",
+    "company": "Appian",
+    "title": "Software Engineer (2027 Graduates)",
     "locations": [
-      "Chicago, IL"
+      "McLean, VA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4443850970",
-    "sponsorship": "",
-    "posted": "2026-07-23",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4443860876",
-    "company": "Revature",
-    "title": "Entry Level Software Developer",
-    "locations": [
-      "Dallas, TX"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4443860876",
-    "sponsorship": "",
-    "posted": "2026-07-23",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4443850975",
-    "company": "Revature",
-    "title": "Entry Level Software Developer",
-    "locations": [
-      "Richardson, TX"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4443850975",
-    "sponsorship": "",
-    "posted": "2026-07-23",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4436131741",
-    "company": "Nightwing",
-    "title": "Junior Software Developer",
-    "locations": [
-      "Annapolis Junction, MD"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4436131741",
-    "sponsorship": "",
-    "posted": "2026-07-23",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4440270103",
-    "company": "Vierra Digital LLC",
-    "title": "Junior Software Engineer",
-    "locations": [
-      "New York City Metropolitan Area"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4440270103",
-    "sponsorship": "",
-    "posted": "2026-07-23",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4444034398",
-    "company": "Altamira Technologies Corporation",
-    "title": "Junior Software Engineer",
-    "locations": [
-      "Fort Gordon, GA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4444034398",
-    "sponsorship": "",
-    "posted": "2026-07-23",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4441551829",
-    "company": "J.B. Hunt Transport Services, Inc.",
-    "title": "Software Engineer I",
-    "locations": [
-      "Lowell, AR"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4441551829",
+    "url": "https://www.linkedin.com/jobs/view/4444704567",
     "sponsorship": "",
     "posted": "2026-07-23",
     "source": "LinkedIn"
@@ -188,6 +116,114 @@
       "Chicago, IL"
     ],
     "url": "https://www.linkedin.com/jobs/view/4432734381",
+    "sponsorship": "",
+    "posted": "2026-07-23",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4426506912",
+    "company": "SpaceX",
+    "title": "New Graduate Engineer, Launch & Test (Starship)",
+    "locations": [
+      "Texas, United States"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4426506912",
+    "sponsorship": "",
+    "posted": "2026-07-23",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4444236386",
+    "company": "Deloitte",
+    "title": "Corticon Software Engineer III",
+    "locations": [
+      "Colorado Springs, CO"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4444236386",
+    "sponsorship": "",
+    "posted": "2026-07-23",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4440498037",
+    "company": "BeaconFire Inc.",
+    "title": "Entry-Level / Junior Software Developer Opportunity",
+    "locations": [
+      "New Jersey, United States"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4440498037",
+    "sponsorship": "",
+    "posted": "2026-07-23",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4443850970",
+    "company": "Revature",
+    "title": "Entry Level Software Developer",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4443850970",
+    "sponsorship": "",
+    "posted": "2026-07-23",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4436131741",
+    "company": "Nightwing",
+    "title": "Junior Software Developer",
+    "locations": [
+      "Annapolis Junction, MD"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4436131741",
+    "sponsorship": "",
+    "posted": "2026-07-23",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4444045079",
+    "company": "Valon",
+    "title": "Software Engineer II",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4444045079",
+    "sponsorship": "",
+    "posted": "2026-07-23",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4440270103",
+    "company": "Vierra Digital LLC",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "New York City Metropolitan Area"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4440270103",
+    "sponsorship": "",
+    "posted": "2026-07-23",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4441551829",
+    "company": "J.B. Hunt Transport Services, Inc.",
+    "title": "Software Engineer I",
+    "locations": [
+      "Lowell, AR"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4441551829",
+    "sponsorship": "",
+    "posted": "2026-07-23",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4444450296",
+    "company": "Helic & Co",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "United States"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4444450296",
     "sponsorship": "",
     "posted": "2026-07-23",
     "source": "LinkedIn"
@@ -229,6 +265,42 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4443136015",
+    "company": "Parasoleil",
+    "title": "Entry Level Software Engineer",
+    "locations": [
+      "United States"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4443136015",
+    "sponsorship": "",
+    "posted": "2026-07-22",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4443959775",
+    "company": "SkillStorm",
+    "title": "Entry Level Software Developer",
+    "locations": [
+      "Indianapolis, IN"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4443959775",
+    "sponsorship": "",
+    "posted": "2026-07-22",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4443963672",
+    "company": "SkillStorm",
+    "title": "Entry Level Software Developer",
+    "locations": [
+      "Tampa, FL"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4443963672",
+    "sponsorship": "",
+    "posted": "2026-07-22",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4443736509",
     "company": "Mastercard",
     "title": "Software Engineer I",
@@ -236,6 +308,18 @@
       "O'Fallon, MO"
     ],
     "url": "https://www.linkedin.com/jobs/view/4443736509",
+    "sponsorship": "",
+    "posted": "2026-07-22",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4444219104",
+    "company": "Unrivaled Basketball",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "Miami, FL"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4444219104",
     "sponsorship": "",
     "posted": "2026-07-22",
     "source": "LinkedIn"
@@ -298,6 +382,18 @@
       "Mississippi, United States"
     ],
     "url": "https://www.linkedin.com/jobs/view/4443575816",
+    "sponsorship": "",
+    "posted": "2026-07-21",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4442650522",
+    "company": "InterScripts, Inc.",
+    "title": "Software Engineer I (Full Stack) \u2013 Immediate Joiners",
+    "locations": [
+      "Daly City, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4442650522",
     "sponsorship": "",
     "posted": "2026-07-21",
     "source": "LinkedIn"
