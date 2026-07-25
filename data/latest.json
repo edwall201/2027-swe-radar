@@ -1,24 +1,12 @@
 [
   {
-    "id": "linkedin-4444655045",
-    "company": "BlueCargo",
-    "title": "Junior Software Engineer",
+    "id": "linkedin-4444623228",
+    "company": "Palantir Technologies",
+    "title": "Forward Deployed Infrastructure Engineer, New Grad - US Government",
     "locations": [
-      "Los Angeles, CA"
+      "New York, NY"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4444655045",
-    "sponsorship": "",
-    "posted": "2026-07-25",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4403643287",
-    "company": "Varsity Brands",
-    "title": "Software Engineer - Early Career",
-    "locations": [
-      "Farmers Branch, TX"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4403643287",
+    "url": "https://www.linkedin.com/jobs/view/4444623228",
     "sponsorship": "",
     "posted": "2026-07-25",
     "source": "LinkedIn"
@@ -31,6 +19,18 @@
       "Cincinnati, OH"
     ],
     "url": "https://www.linkedin.com/jobs/view/4351877495",
+    "sponsorship": "",
+    "posted": "2026-07-25",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4444655045",
+    "company": "BlueCargo",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "Los Angeles, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4444655045",
     "sponsorship": "",
     "posted": "2026-07-25",
     "source": "LinkedIn"
@@ -84,13 +84,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4444923839",
-    "company": "Collins Aerospace",
-    "title": "Software Engineer I (Onsite)",
+    "id": "linkedin-4427643568",
+    "company": "Anduril Industries",
+    "title": "2027 Early Career Software Engineer",
     "locations": [
-      "Cedar Rapids, IA"
+      "Seattle, WA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4444923839",
+    "url": "https://www.linkedin.com/jobs/view/4427643568",
     "sponsorship": "",
     "posted": "2026-07-24",
     "source": "LinkedIn"
@@ -132,13 +132,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4445214603",
-    "company": "USAN, Inc.",
-    "title": "Entry Level Software Engineer - Hybrid - Norcross, GA",
+    "id": "linkedin-4444620340",
+    "company": "Palantir Technologies",
+    "title": "Forward Deployed Infrastructure Engineer, New Grad - US Government",
     "locations": [
-      "Norcross, GA"
+      "Palo Alto, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4445214603",
+    "url": "https://www.linkedin.com/jobs/view/4444620340",
     "sponsorship": "",
     "posted": "2026-07-24",
     "source": "LinkedIn"
@@ -265,18 +265,6 @@
     "source": "SimplifyJobs"
   },
   {
-    "id": "gh-duolingo-8628670002",
-    "company": "Duolingo",
-    "title": "Software Engineer II, Android",
-    "locations": [
-      "New York, NY"
-    ],
-    "url": "https://careers.duolingo.com/jobs/8628670002?gh_jid=8628670002",
-    "sponsorship": "",
-    "posted": "2026-07-23",
-    "source": "Greenhouse"
-  },
-  {
     "id": "gh-duolingo-8628658002",
     "company": "Duolingo",
     "title": "Software Engineer II, Android",
@@ -284,6 +272,18 @@
       "Pittsburgh, PA"
     ],
     "url": "https://careers.duolingo.com/jobs/8628658002?gh_jid=8628658002",
+    "sponsorship": "",
+    "posted": "2026-07-23",
+    "source": "Greenhouse"
+  },
+  {
+    "id": "gh-duolingo-8628670002",
+    "company": "Duolingo",
+    "title": "Software Engineer II, Android",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://careers.duolingo.com/jobs/8628670002?gh_jid=8628670002",
     "sponsorship": "",
     "posted": "2026-07-23",
     "source": "Greenhouse"
@@ -325,6 +325,54 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4444704567",
+    "company": "Appian",
+    "title": "Software Engineer (2027 Graduates)",
+    "locations": [
+      "McLean, VA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4444704567",
+    "sponsorship": "",
+    "posted": "2026-07-23",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4432734381",
+    "company": "Optiver",
+    "title": "Graduate Software Engineer (2027 Start)",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4432734381",
+    "sponsorship": "",
+    "posted": "2026-07-23",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4426506912",
+    "company": "SpaceX",
+    "title": "New Graduate Engineer, Launch & Test (Starship)",
+    "locations": [
+      "Texas, United States"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4426506912",
+    "sponsorship": "",
+    "posted": "2026-07-23",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4444706533",
+    "company": "Appian",
+    "title": "Associate Application Engineer (2027 Graduates)",
+    "locations": [
+      "McLean, VA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4444706533",
+    "sponsorship": "",
+    "posted": "2026-07-23",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4436131741",
     "company": "Nightwing",
     "title": "Junior Software Developer",
@@ -361,18 +409,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4432734381",
-    "company": "Optiver",
-    "title": "Graduate Software Engineer (2027 Start)",
-    "locations": [
-      "Chicago, IL"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4432734381",
-    "sponsorship": "",
-    "posted": "2026-07-23",
-    "source": "LinkedIn"
-  },
-  {
     "id": "simplify-9904ce81-b80f-448d-a958-9b719a4676e9",
     "company": "Traba",
     "title": "Software Engineer New Grad",
@@ -404,30 +440,6 @@
       "New York, NY"
     ],
     "url": "https://www.linkedin.com/jobs/view/4443430086",
-    "sponsorship": "",
-    "posted": "2026-07-22",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4443959775",
-    "company": "SkillStorm",
-    "title": "Entry Level Software Developer",
-    "locations": [
-      "Indianapolis, IN"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4443959775",
-    "sponsorship": "",
-    "posted": "2026-07-22",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4443963672",
-    "company": "SkillStorm",
-    "title": "Entry Level Software Developer",
-    "locations": [
-      "Tampa, FL"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4443963672",
     "sponsorship": "",
     "posted": "2026-07-22",
     "source": "LinkedIn"
