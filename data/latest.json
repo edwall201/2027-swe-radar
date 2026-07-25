@@ -1,5 +1,17 @@
 [
   {
+    "id": "linkedin-4445297774",
+    "company": "Direct-Calls.com",
+    "title": "Software Engineer I, Streamer Monetization at Repovive, Inc.",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4445297774",
+    "sponsorship": "",
+    "posted": "2026-07-25",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4444655045",
     "company": "BlueCargo",
     "title": "Junior Software Engineer",
@@ -7,6 +19,42 @@
       "Los Angeles, CA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4444655045",
+    "sponsorship": "",
+    "posted": "2026-07-25",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4440124179",
+    "company": "Haystack",
+    "title": "Junior Software Developer",
+    "locations": [
+      "San Antonio, TX"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4440124179",
+    "sponsorship": "",
+    "posted": "2026-07-25",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4444646281",
+    "company": "WGU Product Design",
+    "title": "Software Engineer II - Infrastructure & Operations",
+    "locations": [
+      "Salt Lake City, UT"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4444646281",
+    "sponsorship": "",
+    "posted": "2026-07-25",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4444647275",
+    "company": "WGU Product Design",
+    "title": "Software Engineer II - Infrastructure & Operations",
+    "locations": [
+      "Salt Lake City, UT"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4444647275",
     "sponsorship": "",
     "posted": "2026-07-25",
     "source": "LinkedIn"
@@ -48,18 +96,6 @@
     "source": "SimplifyJobs"
   },
   {
-    "id": "linkedin-4444963172",
-    "company": "WHOOP",
-    "title": "Software Engineer I (Backend)",
-    "locations": [
-      "Boston, MA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4444963172",
-    "sponsorship": "",
-    "posted": "2026-07-24",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4435281631",
     "company": "IXL Learning",
     "title": "Software Engineer, New Grad",
@@ -72,18 +108,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4444954675",
-    "company": "WHOOP",
-    "title": "Software Engineer II (Backend, Business Systems)",
-    "locations": [
-      "Boston, MA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4444954675",
-    "sponsorship": "",
-    "posted": "2026-07-24",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4444923839",
     "company": "Collins Aerospace",
     "title": "Software Engineer I (Onsite)",
@@ -91,18 +115,6 @@
       "Cedar Rapids, IA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4444923839",
-    "sponsorship": "",
-    "posted": "2026-07-24",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4444951743",
-    "company": "WHOOP",
-    "title": "Software Engineer II (Backend, Platform)",
-    "locations": [
-      "Boston, MA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4444951743",
     "sponsorship": "",
     "posted": "2026-07-24",
     "source": "LinkedIn"
@@ -132,25 +144,25 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4445208999",
-    "company": "PharmaPayWatch",
-    "title": "Software Engineer I (AI-Driven Data Solutions) - Lafayette, CO",
+    "id": "linkedin-4444963172",
+    "company": "WHOOP",
+    "title": "Software Engineer I (Backend)",
     "locations": [
-      "Lafayette, CO"
+      "Boston, MA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4445208999",
+    "url": "https://www.linkedin.com/jobs/view/4444963172",
     "sponsorship": "",
     "posted": "2026-07-24",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4444608401",
-    "company": "Toyota North America",
-    "title": "Software Engineer (Early Career Professional)",
+    "id": "linkedin-4444951743",
+    "company": "WHOOP",
+    "title": "Software Engineer II (Backend, Platform)",
     "locations": [
-      "Plano, TX"
+      "Boston, MA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4444608401",
+    "url": "https://www.linkedin.com/jobs/view/4444951743",
     "sponsorship": "",
     "posted": "2026-07-24",
     "source": "LinkedIn"
@@ -168,6 +180,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4444608401",
+    "company": "Toyota North America",
+    "title": "Software Engineer (Early Career Professional)",
+    "locations": [
+      "Plano, TX"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4444608401",
+    "sponsorship": "",
+    "posted": "2026-07-24",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4444961582",
     "company": "Helic & Co",
     "title": "Junior Software Engineer",
@@ -175,6 +199,30 @@
       "United States"
     ],
     "url": "https://www.linkedin.com/jobs/view/4444961582",
+    "sponsorship": "",
+    "posted": "2026-07-24",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4441805974",
+    "company": "Tech Consulting",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "Texas, United States"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4441805974",
+    "sponsorship": "",
+    "posted": "2026-07-24",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4427643568",
+    "company": "Anduril Industries",
+    "title": "2027 Early Career Software Engineer",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4427643568",
     "sponsorship": "",
     "posted": "2026-07-24",
     "source": "LinkedIn"
@@ -241,18 +289,6 @@
     "source": "SimplifyJobs"
   },
   {
-    "id": "gh-duolingo-8628670002",
-    "company": "Duolingo",
-    "title": "Software Engineer II, Android",
-    "locations": [
-      "New York, NY"
-    ],
-    "url": "https://careers.duolingo.com/jobs/8628670002?gh_jid=8628670002",
-    "sponsorship": "",
-    "posted": "2026-07-23",
-    "source": "Greenhouse"
-  },
-  {
     "id": "gh-duolingo-8628658002",
     "company": "Duolingo",
     "title": "Software Engineer II, Android",
@@ -260,6 +296,18 @@
       "Pittsburgh, PA"
     ],
     "url": "https://careers.duolingo.com/jobs/8628658002?gh_jid=8628658002",
+    "sponsorship": "",
+    "posted": "2026-07-23",
+    "source": "Greenhouse"
+  },
+  {
+    "id": "gh-duolingo-8628670002",
+    "company": "Duolingo",
+    "title": "Software Engineer II, Android",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://careers.duolingo.com/jobs/8628670002?gh_jid=8628670002",
     "sponsorship": "",
     "posted": "2026-07-23",
     "source": "Greenhouse"
@@ -277,18 +325,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4391631798",
-    "company": "hackajob",
-    "title": "Junior Software Engineer",
-    "locations": [
-      "United States"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4391631798",
-    "sponsorship": "",
-    "posted": "2026-07-23",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4436131741",
     "company": "Nightwing",
     "title": "Junior Software Developer",
@@ -301,13 +337,25 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4432734381",
-    "company": "Optiver",
-    "title": "Graduate Software Engineer (2027 Start)",
+    "id": "linkedin-4444045079",
+    "company": "Valon",
+    "title": "Software Engineer II",
     "locations": [
-      "Chicago, IL"
+      "New York, NY"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4432734381",
+    "url": "https://www.linkedin.com/jobs/view/4444045079",
+    "sponsorship": "",
+    "posted": "2026-07-23",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4440270103",
+    "company": "Vierra Digital LLC",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "New York City Metropolitan Area"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4440270103",
     "sponsorship": "",
     "posted": "2026-07-23",
     "source": "LinkedIn"
@@ -397,18 +445,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4331580484",
-    "company": "Medpace",
-    "title": "Junior Software Engineer",
-    "locations": [
-      "Denver, CO"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4331580484",
-    "sponsorship": "",
-    "posted": "2026-07-22",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4444219104",
     "company": "Unrivaled Basketball",
     "title": "Junior Software Engineer",
@@ -416,18 +452,6 @@
       "Miami, FL"
     ],
     "url": "https://www.linkedin.com/jobs/view/4444219104",
-    "sponsorship": "",
-    "posted": "2026-07-22",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4443736509",
-    "company": "Mastercard",
-    "title": "Software Engineer I",
-    "locations": [
-      "O'Fallon, MO"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4443736509",
     "sponsorship": "",
     "posted": "2026-07-22",
     "source": "LinkedIn"
