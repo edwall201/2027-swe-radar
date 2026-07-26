@@ -24,6 +24,30 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4444839840",
+    "company": "Centre for Molecular Biosciences & Genomics",
+    "title": "ENTRY LEVEL SOFTWARE DEVELOPE",
+    "locations": [
+      "United States"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4444839840",
+    "sponsorship": "",
+    "posted": "2026-07-26",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4444829869",
+    "company": "Odyssey Logistics (fka Capital Transportation Solutions LLC)",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "New York, United States"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4444829869",
+    "sponsorship": "",
+    "posted": "2026-07-26",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4414985647",
     "company": "Collective",
     "title": "Software Engineer (New Grad)",
@@ -48,25 +72,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4444623228",
-    "company": "Palantir Technologies",
-    "title": "Forward Deployed Infrastructure Engineer, New Grad - US Government",
+    "id": "linkedin-4403643287",
+    "company": "Varsity Brands",
+    "title": "Software Engineer - Early Career",
     "locations": [
-      "New York, NY"
+      "Farmers Branch, TX"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4444623228",
-    "sponsorship": "",
-    "posted": "2026-07-25",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4444617312",
-    "company": "Palantir Technologies",
-    "title": "Forward Deployed Infrastructure Engineer, New Grad - US Government",
-    "locations": [
-      "Washington, DC"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4444617312",
+    "url": "https://www.linkedin.com/jobs/view/4403643287",
     "sponsorship": "",
     "posted": "2026-07-25",
     "source": "LinkedIn"
@@ -79,18 +91,6 @@
       "Cincinnati, OH"
     ],
     "url": "https://www.linkedin.com/jobs/view/4351877495",
-    "sponsorship": "",
-    "posted": "2026-07-25",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4403643287",
-    "company": "Varsity Brands",
-    "title": "Software Engineer - Early Career",
-    "locations": [
-      "Farmers Branch, TX"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4403643287",
     "sponsorship": "",
     "posted": "2026-07-25",
     "source": "LinkedIn"
@@ -156,13 +156,61 @@
     "source": "SimplifyJobs"
   },
   {
-    "id": "linkedin-4374838577",
-    "company": "Giga",
-    "title": "Software Engineer I / II",
+    "id": "linkedin-4444963172",
+    "company": "WHOOP",
+    "title": "Software Engineer I (Backend)",
     "locations": [
-      "New York, NY"
+      "Boston, MA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4374838577",
+    "url": "https://www.linkedin.com/jobs/view/4444963172",
+    "sponsorship": "",
+    "posted": "2026-07-24",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4435281631",
+    "company": "IXL Learning",
+    "title": "Software Engineer, New Grad",
+    "locations": [
+      "San Mateo, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4435281631",
+    "sponsorship": "",
+    "posted": "2026-07-24",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4444954675",
+    "company": "WHOOP",
+    "title": "Software Engineer II (Backend, Business Systems)",
+    "locations": [
+      "Boston, MA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4444954675",
+    "sponsorship": "",
+    "posted": "2026-07-24",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4444951743",
+    "company": "WHOOP",
+    "title": "Software Engineer II (Backend, Platform)",
+    "locations": [
+      "Boston, MA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4444951743",
+    "sponsorship": "",
+    "posted": "2026-07-24",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4444923839",
+    "company": "Collins Aerospace",
+    "title": "Software Engineer I (Onsite)",
+    "locations": [
+      "Cedar Rapids, IA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4444923839",
     "sponsorship": "",
     "posted": "2026-07-24",
     "source": "LinkedIn"
@@ -180,13 +228,37 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4444620340",
-    "company": "Palantir Technologies",
-    "title": "Forward Deployed Infrastructure Engineer, New Grad - US Government",
+    "id": "linkedin-4444389152",
+    "company": "Google",
+    "title": "Software Engineer III",
     "locations": [
-      "Palo Alto, CA"
+      "Madison, WI"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4444620340",
+    "url": "https://www.linkedin.com/jobs/view/4444389152",
+    "sponsorship": "",
+    "posted": "2026-07-24",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4374838577",
+    "company": "Giga",
+    "title": "Software Engineer I / II",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4374838577",
+    "sponsorship": "",
+    "posted": "2026-07-24",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4445214603",
+    "company": "USAN, Inc.",
+    "title": "Entry Level Software Engineer - Hybrid - Norcross, GA",
+    "locations": [
+      "Norcross, GA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4445214603",
     "sponsorship": "",
     "posted": "2026-07-24",
     "source": "LinkedIn"
@@ -228,49 +300,25 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4444337504",
-    "company": "Revature",
-    "title": "Entry Level Software Developer",
+    "id": "linkedin-4444059108",
+    "company": "Neural Solutions",
+    "title": "Junior Software Engineer",
     "locations": [
-      "Dallas, TX"
+      "Columbia, MD"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4444337504",
+    "url": "https://www.linkedin.com/jobs/view/4444059108",
     "sponsorship": "",
     "posted": "2026-07-24",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4444339499",
-    "company": "Revature",
-    "title": "Entry Level Software Developer",
+    "id": "linkedin-4423618885",
+    "company": "Meta",
+    "title": "Production Engineer (University Grad)",
     "locations": [
-      "Richardson, TX"
+      "Bellevue, WA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4444339499",
-    "sponsorship": "",
-    "posted": "2026-07-24",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4444339496",
-    "company": "Revature",
-    "title": "Entry Level Software Developer",
-    "locations": [
-      "Charlotte, NC"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4444339496",
-    "sponsorship": "",
-    "posted": "2026-07-24",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4444970298",
-    "company": "Medtronic",
-    "title": "Software Engineer I (AI-Driven Data Solutions) - Lafayette, CO",
-    "locations": [
-      "Lafayette, CO"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4444970298",
+    "url": "https://www.linkedin.com/jobs/view/4423618885",
     "sponsorship": "",
     "posted": "2026-07-24",
     "source": "LinkedIn"
@@ -337,18 +385,6 @@
     "source": "SimplifyJobs"
   },
   {
-    "id": "gh-duolingo-8628658002",
-    "company": "Duolingo",
-    "title": "Software Engineer II, Android",
-    "locations": [
-      "Pittsburgh, PA"
-    ],
-    "url": "https://careers.duolingo.com/jobs/8628658002?gh_jid=8628658002",
-    "sponsorship": "",
-    "posted": "2026-07-23",
-    "source": "Greenhouse"
-  },
-  {
     "id": "gh-duolingo-8628670002",
     "company": "Duolingo",
     "title": "Software Engineer II, Android",
@@ -361,28 +397,16 @@
     "source": "Greenhouse"
   },
   {
-    "id": "linkedin-4444043138",
-    "company": "Valon",
-    "title": "Software Engineer II",
+    "id": "gh-duolingo-8628658002",
+    "company": "Duolingo",
+    "title": "Software Engineer II, Android",
     "locations": [
-      "San Francisco, CA"
+      "Pittsburgh, PA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4444043138",
+    "url": "https://careers.duolingo.com/jobs/8628658002?gh_jid=8628658002",
     "sponsorship": "",
     "posted": "2026-07-23",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4444045079",
-    "company": "Valon",
-    "title": "Software Engineer II",
-    "locations": [
-      "New York, NY"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4444045079",
-    "sponsorship": "",
-    "posted": "2026-07-23",
-    "source": "LinkedIn"
+    "source": "Greenhouse"
   },
   {
     "id": "linkedin-4444704567",
@@ -416,6 +440,30 @@
       "McLean, VA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4444706533",
+    "sponsorship": "",
+    "posted": "2026-07-23",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4444736365",
+    "company": "Cerebras",
+    "title": "Kernel Engineer - New Grad",
+    "locations": [
+      "Canada, NC"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4444736365",
+    "sponsorship": "",
+    "posted": "2026-07-23",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4444045079",
+    "company": "Valon",
+    "title": "Software Engineer II",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4444045079",
     "sponsorship": "",
     "posted": "2026-07-23",
     "source": "LinkedIn"
