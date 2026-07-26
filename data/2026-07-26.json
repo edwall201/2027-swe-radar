@@ -48,6 +48,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4444655045",
+    "company": "BlueCargo",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "Los Angeles, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4444655045",
+    "sponsorship": "",
+    "posted": "2026-07-25",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4444623228",
     "company": "Palantir Technologies",
     "title": "Forward Deployed Infrastructure Engineer, New Grad - US Government",
@@ -72,6 +84,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4351877495",
+    "company": "Medpace",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "Cincinnati, OH"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4351877495",
+    "sponsorship": "",
+    "posted": "2026-07-25",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4403643287",
     "company": "Varsity Brands",
     "title": "Software Engineer - Early Career",
@@ -79,42 +103,6 @@
       "Farmers Branch, TX"
     ],
     "url": "https://www.linkedin.com/jobs/view/4403643287",
-    "sponsorship": "",
-    "posted": "2026-07-25",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4444655045",
-    "company": "BlueCargo",
-    "title": "Junior Software Engineer",
-    "locations": [
-      "Los Angeles, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4444655045",
-    "sponsorship": "",
-    "posted": "2026-07-25",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4444647275",
-    "company": "WGU Product Design",
-    "title": "Software Engineer II - Infrastructure & Operations",
-    "locations": [
-      "Salt Lake City, UT"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4444647275",
-    "sponsorship": "",
-    "posted": "2026-07-25",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4444646281",
-    "company": "WGU Product Design",
-    "title": "Software Engineer II - Infrastructure & Operations",
-    "locations": [
-      "Salt Lake City, UT"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4444646281",
     "sponsorship": "",
     "posted": "2026-07-25",
     "source": "LinkedIn"
@@ -180,61 +168,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4444923839",
-    "company": "Collins Aerospace",
-    "title": "Software Engineer I (Onsite)",
+    "id": "linkedin-4427643568",
+    "company": "Anduril Industries",
+    "title": "2027 Early Career Software Engineer",
     "locations": [
-      "Cedar Rapids, IA"
+      "Seattle, WA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4444923839",
-    "sponsorship": "",
-    "posted": "2026-07-24",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4444389152",
-    "company": "Google",
-    "title": "Software Engineer III",
-    "locations": [
-      "Madison, WI"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4444389152",
-    "sponsorship": "",
-    "posted": "2026-07-24",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4444963172",
-    "company": "WHOOP",
-    "title": "Software Engineer I (Backend)",
-    "locations": [
-      "Boston, MA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4444963172",
-    "sponsorship": "",
-    "posted": "2026-07-24",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4435281631",
-    "company": "IXL Learning",
-    "title": "Software Engineer, New Grad",
-    "locations": [
-      "San Mateo, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4435281631",
-    "sponsorship": "",
-    "posted": "2026-07-24",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4444951743",
-    "company": "WHOOP",
-    "title": "Software Engineer II (Backend, Platform)",
-    "locations": [
-      "Boston, MA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4444951743",
+    "url": "https://www.linkedin.com/jobs/view/4427643568",
     "sponsorship": "",
     "posted": "2026-07-24",
     "source": "LinkedIn"
@@ -252,61 +192,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4445214603",
-    "company": "USAN, Inc.",
-    "title": "Entry Level Software Engineer - Hybrid - Norcross, GA",
-    "locations": [
-      "Norcross, GA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4445214603",
-    "sponsorship": "",
-    "posted": "2026-07-24",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4441842476",
-    "company": "TGW Logistics",
-    "title": "Software Engineer I (M/F/D)*",
-    "locations": [
-      "Grand Rapids, MI"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4441842476",
-    "sponsorship": "",
-    "posted": "2026-07-24",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4444339499",
+    "id": "linkedin-4444326675",
     "company": "Revature",
     "title": "Entry Level Software Developer",
     "locations": [
-      "Richardson, TX"
+      "Chicago, IL"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4444339499",
-    "sponsorship": "",
-    "posted": "2026-07-24",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4444339496",
-    "company": "Revature",
-    "title": "Entry Level Software Developer",
-    "locations": [
-      "Charlotte, NC"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4444339496",
-    "sponsorship": "",
-    "posted": "2026-07-24",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4444337504",
-    "company": "Revature",
-    "title": "Entry Level Software Developer",
-    "locations": [
-      "Dallas, TX"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4444337504",
+    "url": "https://www.linkedin.com/jobs/view/4444326675",
     "sponsorship": "",
     "posted": "2026-07-24",
     "source": "LinkedIn"
@@ -324,18 +216,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4444034398",
-    "company": "Altamira Technologies Corporation",
-    "title": "Junior Software Engineer",
-    "locations": [
-      "Fort Gordon, GA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4444034398",
-    "sponsorship": "",
-    "posted": "2026-07-24",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4444608401",
     "company": "Toyota North America",
     "title": "Software Engineer (Early Career Professional)",
@@ -348,13 +228,61 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4423618885",
-    "company": "Meta",
-    "title": "Production Engineer (University Grad)",
+    "id": "linkedin-4444337504",
+    "company": "Revature",
+    "title": "Entry Level Software Developer",
     "locations": [
-      "Bellevue, WA"
+      "Dallas, TX"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4423618885",
+    "url": "https://www.linkedin.com/jobs/view/4444337504",
+    "sponsorship": "",
+    "posted": "2026-07-24",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4444034398",
+    "company": "Altamira Technologies Corporation",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "Fort Gordon, GA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4444034398",
+    "sponsorship": "",
+    "posted": "2026-07-24",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4445214603",
+    "company": "USAN, Inc.",
+    "title": "Entry Level Software Engineer - Hybrid - Norcross, GA",
+    "locations": [
+      "Norcross, GA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4445214603",
+    "sponsorship": "",
+    "posted": "2026-07-24",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4444059108",
+    "company": "Neural Solutions",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "Columbia, MD"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4444059108",
+    "sponsorship": "",
+    "posted": "2026-07-24",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4444602652",
+    "company": "University of Florida",
+    "title": "Research Software Engineer I",
+    "locations": [
+      "Gainesville, FL"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4444602652",
     "sponsorship": "",
     "posted": "2026-07-24",
     "source": "LinkedIn"
@@ -421,18 +349,6 @@
     "source": "SimplifyJobs"
   },
   {
-    "id": "gh-duolingo-8628658002",
-    "company": "Duolingo",
-    "title": "Software Engineer II, Android",
-    "locations": [
-      "Pittsburgh, PA"
-    ],
-    "url": "https://careers.duolingo.com/jobs/8628658002?gh_jid=8628658002",
-    "sponsorship": "",
-    "posted": "2026-07-23",
-    "source": "Greenhouse"
-  },
-  {
     "id": "gh-duolingo-8628670002",
     "company": "Duolingo",
     "title": "Software Engineer II, Android",
@@ -440,6 +356,18 @@
       "New York, NY"
     ],
     "url": "https://careers.duolingo.com/jobs/8628670002?gh_jid=8628670002",
+    "sponsorship": "",
+    "posted": "2026-07-23",
+    "source": "Greenhouse"
+  },
+  {
+    "id": "gh-duolingo-8628658002",
+    "company": "Duolingo",
+    "title": "Software Engineer II, Android",
+    "locations": [
+      "Pittsburgh, PA"
+    ],
+    "url": "https://careers.duolingo.com/jobs/8628658002?gh_jid=8628658002",
     "sponsorship": "",
     "posted": "2026-07-23",
     "source": "Greenhouse"
@@ -469,13 +397,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4444736365",
+    "id": "linkedin-4444726648",
     "company": "Cerebras",
-    "title": "Kernel Engineer - New Grad",
+    "title": "ML Software Engineer - Integration & Quality - New Grad",
     "locations": [
       "Canada, NC"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4444736365",
+    "url": "https://www.linkedin.com/jobs/view/4444726648",
     "sponsorship": "",
     "posted": "2026-07-23",
     "source": "LinkedIn"
