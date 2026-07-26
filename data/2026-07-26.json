@@ -168,18 +168,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4444923839",
-    "company": "Collins Aerospace",
-    "title": "Software Engineer I (Onsite)",
-    "locations": [
-      "Cedar Rapids, IA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4444923839",
-    "sponsorship": "",
-    "posted": "2026-07-24",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4427643568",
     "company": "Anduril Industries",
     "title": "2027 Early Career Software Engineer",
@@ -252,49 +240,37 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4435281631",
-    "company": "IXL Learning",
-    "title": "Software Engineer, New Grad",
+    "id": "linkedin-4444339499",
+    "company": "Revature",
+    "title": "Entry Level Software Developer",
     "locations": [
-      "San Mateo, CA"
+      "Richardson, TX"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4435281631",
+    "url": "https://www.linkedin.com/jobs/view/4444339499",
     "sponsorship": "",
     "posted": "2026-07-24",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4444059108",
-    "company": "Neural Solutions",
-    "title": "Junior Software Engineer",
+    "id": "linkedin-4444339496",
+    "company": "Revature",
+    "title": "Entry Level Software Developer",
     "locations": [
-      "Columbia, MD"
+      "Charlotte, NC"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4444059108",
+    "url": "https://www.linkedin.com/jobs/view/4444339496",
     "sponsorship": "",
     "posted": "2026-07-24",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4445214603",
-    "company": "USAN, Inc.",
-    "title": "Entry Level Software Engineer - Hybrid - Norcross, GA",
+    "id": "linkedin-4444970298",
+    "company": "Medtronic",
+    "title": "Software Engineer I (AI-Driven Data Solutions) - Lafayette, CO",
     "locations": [
-      "Norcross, GA"
+      "Lafayette, CO"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4445214603",
-    "sponsorship": "",
-    "posted": "2026-07-24",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4423618885",
-    "company": "Meta",
-    "title": "Production Engineer (University Grad)",
-    "locations": [
-      "Bellevue, WA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4423618885",
+    "url": "https://www.linkedin.com/jobs/view/4444970298",
     "sponsorship": "",
     "posted": "2026-07-24",
     "source": "LinkedIn"
@@ -361,18 +337,6 @@
     "source": "SimplifyJobs"
   },
   {
-    "id": "gh-duolingo-8628670002",
-    "company": "Duolingo",
-    "title": "Software Engineer II, Android",
-    "locations": [
-      "New York, NY"
-    ],
-    "url": "https://careers.duolingo.com/jobs/8628670002?gh_jid=8628670002",
-    "sponsorship": "",
-    "posted": "2026-07-23",
-    "source": "Greenhouse"
-  },
-  {
     "id": "gh-duolingo-8628658002",
     "company": "Duolingo",
     "title": "Software Engineer II, Android",
@@ -385,6 +349,18 @@
     "source": "Greenhouse"
   },
   {
+    "id": "gh-duolingo-8628670002",
+    "company": "Duolingo",
+    "title": "Software Engineer II, Android",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://careers.duolingo.com/jobs/8628670002?gh_jid=8628670002",
+    "sponsorship": "",
+    "posted": "2026-07-23",
+    "source": "Greenhouse"
+  },
+  {
     "id": "linkedin-4444043138",
     "company": "Valon",
     "title": "Software Engineer II",
@@ -392,6 +368,18 @@
       "San Francisco, CA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4444043138",
+    "sponsorship": "",
+    "posted": "2026-07-23",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4444045079",
+    "company": "Valon",
+    "title": "Software Engineer II",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4444045079",
     "sponsorship": "",
     "posted": "2026-07-23",
     "source": "LinkedIn"
@@ -433,13 +421,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4436131741",
-    "company": "Nightwing",
-    "title": "Junior Software Developer",
+    "id": "linkedin-4440270103",
+    "company": "Vierra Digital LLC",
+    "title": "Junior Software Engineer",
     "locations": [
-      "Annapolis Junction, MD"
+      "New York City Metropolitan Area"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4436131741",
+    "url": "https://www.linkedin.com/jobs/view/4440270103",
     "sponsorship": "",
     "posted": "2026-07-23",
     "source": "LinkedIn"
