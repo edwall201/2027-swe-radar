@@ -12,13 +12,37 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4444655045",
-    "company": "BlueCargo",
-    "title": "Junior Software Engineer",
+    "id": "linkedin-4444623228",
+    "company": "Palantir Technologies",
+    "title": "Forward Deployed Infrastructure Engineer, New Grad - US Government",
     "locations": [
-      "Los Angeles, CA"
+      "New York, NY"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4444655045",
+    "url": "https://www.linkedin.com/jobs/view/4444623228",
+    "sponsorship": "",
+    "posted": "2026-07-25",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4444617312",
+    "company": "Palantir Technologies",
+    "title": "Forward Deployed Infrastructure Engineer, New Grad - US Government",
+    "locations": [
+      "Washington, DC"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4444617312",
+    "sponsorship": "",
+    "posted": "2026-07-25",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4403643287",
+    "company": "Varsity Brands",
+    "title": "Software Engineer - Early Career",
+    "locations": [
+      "Farmers Branch, TX"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4403643287",
     "sponsorship": "",
     "posted": "2026-07-25",
     "source": "LinkedIn"
@@ -36,37 +60,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4444647275",
-    "company": "WGU Product Design",
-    "title": "Software Engineer II - Infrastructure & Operations",
+    "id": "linkedin-4444655045",
+    "company": "BlueCargo",
+    "title": "Junior Software Engineer",
     "locations": [
-      "Salt Lake City, UT"
+      "Los Angeles, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4444647275",
-    "sponsorship": "",
-    "posted": "2026-07-25",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4444646281",
-    "company": "WGU Product Design",
-    "title": "Software Engineer II - Infrastructure & Operations",
-    "locations": [
-      "Salt Lake City, UT"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4444646281",
-    "sponsorship": "",
-    "posted": "2026-07-25",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4403643287",
-    "company": "Varsity Brands",
-    "title": "Software Engineer - Early Career",
-    "locations": [
-      "Farmers Branch, TX"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4403643287",
+    "url": "https://www.linkedin.com/jobs/view/4444655045",
     "sponsorship": "",
     "posted": "2026-07-25",
     "source": "LinkedIn"
@@ -144,13 +144,73 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4444389152",
-    "company": "Google",
-    "title": "Software Engineer III",
+    "id": "linkedin-4427643568",
+    "company": "Anduril Industries",
+    "title": "2027 Early Career Software Engineer",
     "locations": [
-      "Madison, WI"
+      "Seattle, WA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4444389152",
+    "url": "https://www.linkedin.com/jobs/view/4427643568",
+    "sponsorship": "",
+    "posted": "2026-07-24",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4444963172",
+    "company": "WHOOP",
+    "title": "Software Engineer I (Backend)",
+    "locations": [
+      "Boston, MA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4444963172",
+    "sponsorship": "",
+    "posted": "2026-07-24",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4435281631",
+    "company": "IXL Learning",
+    "title": "Software Engineer, New Grad",
+    "locations": [
+      "San Mateo, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4435281631",
+    "sponsorship": "",
+    "posted": "2026-07-24",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4444951743",
+    "company": "WHOOP",
+    "title": "Software Engineer II (Backend, Platform)",
+    "locations": [
+      "Boston, MA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4444951743",
+    "sponsorship": "",
+    "posted": "2026-07-24",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4444620340",
+    "company": "Palantir Technologies",
+    "title": "Forward Deployed Infrastructure Engineer, New Grad - US Government",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4444620340",
+    "sponsorship": "",
+    "posted": "2026-07-24",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4445214603",
+    "company": "USAN, Inc.",
+    "title": "Entry Level Software Engineer - Hybrid - Norcross, GA",
+    "locations": [
+      "Norcross, GA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4445214603",
     "sponsorship": "",
     "posted": "2026-07-24",
     "source": "LinkedIn"
@@ -204,25 +264,25 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4444339499",
-    "company": "Revature",
-    "title": "Entry Level Software Developer",
+    "id": "linkedin-4444602652",
+    "company": "University of Florida",
+    "title": "Research Software Engineer I",
     "locations": [
-      "Richardson, TX"
+      "Gainesville, FL"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4444339499",
+    "url": "https://www.linkedin.com/jobs/view/4444602652",
     "sponsorship": "",
     "posted": "2026-07-24",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4444339496",
-    "company": "Revature",
-    "title": "Entry Level Software Developer",
+    "id": "linkedin-4445329064",
+    "company": "University of Florida - Chemical Engineering Masters Program",
+    "title": "Research Software Engineer I",
     "locations": [
-      "Charlotte, NC"
+      "Gainesville, FL"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4444339496",
+    "url": "https://www.linkedin.com/jobs/view/4445329064",
     "sponsorship": "",
     "posted": "2026-07-24",
     "source": "LinkedIn"
@@ -289,18 +349,6 @@
     "source": "SimplifyJobs"
   },
   {
-    "id": "gh-duolingo-8628658002",
-    "company": "Duolingo",
-    "title": "Software Engineer II, Android",
-    "locations": [
-      "Pittsburgh, PA"
-    ],
-    "url": "https://careers.duolingo.com/jobs/8628658002?gh_jid=8628658002",
-    "sponsorship": "",
-    "posted": "2026-07-23",
-    "source": "Greenhouse"
-  },
-  {
     "id": "gh-duolingo-8628670002",
     "company": "Duolingo",
     "title": "Software Engineer II, Android",
@@ -308,6 +356,18 @@
       "New York, NY"
     ],
     "url": "https://careers.duolingo.com/jobs/8628670002?gh_jid=8628670002",
+    "sponsorship": "",
+    "posted": "2026-07-23",
+    "source": "Greenhouse"
+  },
+  {
+    "id": "gh-duolingo-8628658002",
+    "company": "Duolingo",
+    "title": "Software Engineer II, Android",
+    "locations": [
+      "Pittsburgh, PA"
+    ],
+    "url": "https://careers.duolingo.com/jobs/8628658002?gh_jid=8628658002",
     "sponsorship": "",
     "posted": "2026-07-23",
     "source": "Greenhouse"
@@ -349,13 +409,49 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4444415451",
-    "company": "Collins Aerospace",
-    "title": "2027- Fulltime Systems Engineer Display Products I_ Onsite",
+    "id": "linkedin-4444704567",
+    "company": "Appian",
+    "title": "Software Engineer (2027 Graduates)",
     "locations": [
-      "Cedar Rapids, IA"
+      "McLean, VA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4444415451",
+    "url": "https://www.linkedin.com/jobs/view/4444704567",
+    "sponsorship": "",
+    "posted": "2026-07-23",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4432734381",
+    "company": "Optiver",
+    "title": "Graduate Software Engineer (2027 Start)",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4432734381",
+    "sponsorship": "",
+    "posted": "2026-07-23",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4426506912",
+    "company": "SpaceX",
+    "title": "New Graduate Engineer, Launch & Test (Starship)",
+    "locations": [
+      "Texas, United States"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4426506912",
+    "sponsorship": "",
+    "posted": "2026-07-23",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4444706533",
+    "company": "Appian",
+    "title": "Associate Application Engineer (2027 Graduates)",
+    "locations": [
+      "McLean, VA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4444706533",
     "sponsorship": "",
     "posted": "2026-07-23",
     "source": "LinkedIn"
@@ -380,6 +476,30 @@
       "New York City Metropolitan Area"
     ],
     "url": "https://www.linkedin.com/jobs/view/4440270103",
+    "sponsorship": "",
+    "posted": "2026-07-23",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4441551829",
+    "company": "J.B. Hunt Transport Services, Inc.",
+    "title": "Software Engineer I",
+    "locations": [
+      "Lowell, AR"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4441551829",
+    "sponsorship": "",
+    "posted": "2026-07-23",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4444726648",
+    "company": "Cerebras",
+    "title": "ML Software Engineer - Integration & Quality - New Grad",
+    "locations": [
+      "Canada, NC"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4444726648",
     "sponsorship": "",
     "posted": "2026-07-23",
     "source": "LinkedIn"
