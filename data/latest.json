@@ -1,48 +1,120 @@
 [
   {
-    "id": "linkedin-4417513151",
-    "company": "Eccalon, LLC",
-    "title": "Junior Software Engineer - onsite",
+    "id": "gh-samsara-8036387",
+    "company": "Samsara",
+    "title": "Software Engineer II",
     "locations": [
-      "Detroit, MI"
+      "Remote - US"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4417513151",
+    "url": "https://www.samsara.com/company/careers/roles/8036387?gh_jid=8036387",
+    "sponsorship": "",
+    "posted": "2026-07-27",
+    "source": "Greenhouse"
+  },
+  {
+    "id": "linkedin-4445655712",
+    "company": "Andrew & Brothers, Inc.",
+    "title": "Software Engineer, Early Career",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4445655712",
     "sponsorship": "",
     "posted": "2026-07-27",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4445131535",
-    "company": "Revature",
+    "id": "linkedin-4445655464",
+    "company": "Texas Sports Academy",
+    "title": "Junior Software Engineer (AI-Forward)",
+    "locations": [
+      "Austin, TX"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4445655464",
+    "sponsorship": "",
+    "posted": "2026-07-27",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4446105125",
+    "company": "INSPYR Solutions",
+    "title": "Software Engineer II",
+    "locations": [
+      "Los Angeles, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4446105125",
+    "sponsorship": "",
+    "posted": "2026-07-27",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4431772325",
+    "company": "SkillStorm",
     "title": "Entry Level Software Developer",
     "locations": [
-      "Chicago, IL"
+      "New York City Metropolitan Area"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4445131535",
+    "url": "https://www.linkedin.com/jobs/view/4431772325",
     "sponsorship": "",
     "posted": "2026-07-27",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4445144423",
-    "company": "Revature",
+    "id": "linkedin-4445192147",
+    "company": "Emonics LLC",
+    "title": "Entry Level Software Engineer",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4445192147",
+    "sponsorship": "",
+    "posted": "2026-07-27",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4426397883",
+    "company": "SkillStorm",
+    "title": "Entry Level Software Developer",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4426397883",
+    "sponsorship": "",
+    "posted": "2026-07-27",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4431773243",
+    "company": "SkillStorm",
+    "title": "Entry Level Software Developer",
+    "locations": [
+      "Washington, DC"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4431773243",
+    "sponsorship": "",
+    "posted": "2026-07-27",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4431763397",
+    "company": "SkillStorm",
+    "title": "Entry Level Software Developer",
+    "locations": [
+      "Charlotte, NC"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4431763397",
+    "sponsorship": "",
+    "posted": "2026-07-27",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4431774108",
+    "company": "SkillStorm",
     "title": "Entry Level Software Developer",
     "locations": [
       "Dallas, TX"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4445144423",
-    "sponsorship": "",
-    "posted": "2026-07-27",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4443966551",
-    "company": "SkillStorm",
-    "title": "Entry Level Software Developer",
-    "locations": [
-      "Fort Worth, TX"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4443966551",
+    "url": "https://www.linkedin.com/jobs/view/4431774108",
     "sponsorship": "",
     "posted": "2026-07-27",
     "source": "LinkedIn"
@@ -60,37 +132,37 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4443976141",
+    "id": "linkedin-4431763453",
     "company": "SkillStorm",
     "title": "Entry Level Software Developer",
     "locations": [
-      "Miami, FL"
+      "Chicago, IL"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4443976141",
+    "url": "https://www.linkedin.com/jobs/view/4431763453",
     "sponsorship": "",
     "posted": "2026-07-27",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4445908745",
-    "company": "Smrti Lab",
-    "title": "Software Engineer, Early Career",
+    "id": "linkedin-4446118684",
+    "company": "MetLife",
+    "title": "Junior Software Engineer",
     "locations": [
-      "San Francisco, CA"
+      "Bridgewater, NJ"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4445908745",
+    "url": "https://www.linkedin.com/jobs/view/4446118684",
     "sponsorship": "",
     "posted": "2026-07-27",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4445655712",
-    "company": "Andrew & Brothers, Inc.",
-    "title": "Software Engineer, Early Career",
+    "id": "linkedin-4417513151",
+    "company": "Eccalon, LLC",
+    "title": "Junior Software Engineer - onsite",
     "locations": [
-      "San Francisco, CA"
+      "Detroit, MI"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4445655712",
+    "url": "https://www.linkedin.com/jobs/view/4417513151",
     "sponsorship": "",
     "posted": "2026-07-27",
     "source": "LinkedIn"
@@ -120,42 +192,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4431757433",
-    "company": "SkillStorm",
-    "title": "Entry Level Software Developer",
-    "locations": [
-      "Boston, MA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4431757433",
-    "sponsorship": "",
-    "posted": "2026-07-27",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4431774193",
-    "company": "SkillStorm",
-    "title": "Entry Level Software Developer",
-    "locations": [
-      "Cleveland, OH"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4431774193",
-    "sponsorship": "",
-    "posted": "2026-07-27",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4431762372",
-    "company": "SkillStorm",
-    "title": "Entry Level Software Developer",
-    "locations": [
-      "Raleigh, NC"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4431762372",
-    "sponsorship": "",
-    "posted": "2026-07-27",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4443963672",
     "company": "SkillStorm",
     "title": "Entry Level Software Developer",
@@ -163,18 +199,6 @@
       "Tampa, FL"
     ],
     "url": "https://www.linkedin.com/jobs/view/4443963672",
-    "sponsorship": "",
-    "posted": "2026-07-27",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4445655464",
-    "company": "Texas Sports Academy",
-    "title": "Junior Software Engineer (AI-Forward)",
-    "locations": [
-      "Austin, TX"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4445655464",
     "sponsorship": "",
     "posted": "2026-07-27",
     "source": "LinkedIn"
@@ -211,6 +235,42 @@
       "San Antonio, TX"
     ],
     "url": "https://www.linkedin.com/jobs/view/4432862311",
+    "sponsorship": "",
+    "posted": "2026-07-27",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4443976141",
+    "company": "SkillStorm",
+    "title": "Entry Level Software Developer",
+    "locations": [
+      "Miami, FL"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4443976141",
+    "sponsorship": "",
+    "posted": "2026-07-27",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4437183807",
+    "company": "SkillStorm",
+    "title": "Entry Level Software Developer",
+    "locations": [
+      "Rochester, NY"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4437183807",
+    "sponsorship": "",
+    "posted": "2026-07-27",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4443966551",
+    "company": "SkillStorm",
+    "title": "Entry Level Software Developer",
+    "locations": [
+      "Fort Worth, TX"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4443966551",
     "sponsorship": "",
     "posted": "2026-07-27",
     "source": "LinkedIn"
@@ -264,18 +324,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4351877495",
-    "company": "Medpace",
-    "title": "Junior Software Engineer",
-    "locations": [
-      "Cincinnati, OH"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4351877495",
-    "sponsorship": "",
-    "posted": "2026-07-25",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4444655045",
     "company": "BlueCargo",
     "title": "Junior Software Engineer",
@@ -288,18 +336,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4413407011",
-    "company": "Raytheon",
-    "title": "2026 Raytheon Full Time- Software Engineer I -(Onsite)",
-    "locations": [
-      "Fort Wayne, IN"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4413407011",
-    "sponsorship": "",
-    "posted": "2026-07-25",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4403643287",
     "company": "Varsity Brands",
     "title": "Software Engineer - Early Career",
@@ -307,6 +343,30 @@
       "Farmers Branch, TX"
     ],
     "url": "https://www.linkedin.com/jobs/view/4403643287",
+    "sponsorship": "",
+    "posted": "2026-07-25",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4444647275",
+    "company": "WGU Product Design",
+    "title": "Software Engineer II - Infrastructure & Operations",
+    "locations": [
+      "Salt Lake City, UT"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4444647275",
+    "sponsorship": "",
+    "posted": "2026-07-25",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4444646281",
+    "company": "WGU Product Design",
+    "title": "Software Engineer II - Infrastructure & Operations",
+    "locations": [
+      "Salt Lake City, UT"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4444646281",
     "sponsorship": "",
     "posted": "2026-07-25",
     "source": "LinkedIn"
@@ -348,30 +408,6 @@
     "source": "SimplifyJobs"
   },
   {
-    "id": "linkedin-4445253506",
-    "company": "Radiance Technologies",
-    "title": "Junior Software Engineer",
-    "locations": [
-      "Mississippi, United States"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4445253506",
-    "sponsorship": "",
-    "posted": "2026-07-24",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4444608401",
-    "company": "Toyota North America",
-    "title": "Software Engineer (Early Career Professional)",
-    "locations": [
-      "Plano, TX"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4444608401",
-    "sponsorship": "",
-    "posted": "2026-07-24",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4441842476",
     "company": "TGW Logistics",
     "title": "Software Engineer I (M/F/D)*",
@@ -396,25 +432,25 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4444034398",
-    "company": "Altamira Technologies Corporation",
-    "title": "Junior Software Engineer",
+    "id": "linkedin-4444608401",
+    "company": "Toyota North America",
+    "title": "Software Engineer (Early Career Professional)",
     "locations": [
-      "Fort Gordon, GA"
+      "Plano, TX"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4444034398",
+    "url": "https://www.linkedin.com/jobs/view/4444608401",
     "sponsorship": "",
     "posted": "2026-07-24",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4445329064",
-    "company": "University of Florida - Chemical Engineering Masters Program",
-    "title": "Research Software Engineer I",
+    "id": "linkedin-4445253506",
+    "company": "Radiance Technologies",
+    "title": "Junior Software Engineer",
     "locations": [
-      "Gainesville, FL"
+      "Mississippi, United States"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4445329064",
+    "url": "https://www.linkedin.com/jobs/view/4445253506",
     "sponsorship": "",
     "posted": "2026-07-24",
     "source": "LinkedIn"
@@ -469,18 +505,6 @@
     "source": "SimplifyJobs"
   },
   {
-    "id": "gh-duolingo-8628670002",
-    "company": "Duolingo",
-    "title": "Software Engineer II, Android",
-    "locations": [
-      "New York, NY"
-    ],
-    "url": "https://careers.duolingo.com/jobs/8628670002?gh_jid=8628670002",
-    "sponsorship": "",
-    "posted": "2026-07-23",
-    "source": "Greenhouse"
-  },
-  {
     "id": "gh-duolingo-8628658002",
     "company": "Duolingo",
     "title": "Software Engineer II, Android",
@@ -488,6 +512,18 @@
       "Pittsburgh, PA"
     ],
     "url": "https://careers.duolingo.com/jobs/8628658002?gh_jid=8628658002",
+    "sponsorship": "",
+    "posted": "2026-07-23",
+    "source": "Greenhouse"
+  },
+  {
+    "id": "gh-duolingo-8628670002",
+    "company": "Duolingo",
+    "title": "Software Engineer II, Android",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://careers.duolingo.com/jobs/8628670002?gh_jid=8628670002",
     "sponsorship": "",
     "posted": "2026-07-23",
     "source": "Greenhouse"
@@ -641,18 +677,6 @@
     "sponsorship": "Other",
     "posted": "2026-07-16",
     "source": "SimplifyJobs"
-  },
-  {
-    "id": "gh-samsara-8036387",
-    "company": "Samsara",
-    "title": "Software Engineer II",
-    "locations": [
-      "Remote - US"
-    ],
-    "url": "https://www.samsara.com/company/careers/roles/8036387?gh_jid=8036387",
-    "sponsorship": "",
-    "posted": "2026-07-16",
-    "source": "Greenhouse"
   },
   {
     "id": "simplify-b638e646-a8c7-484b-9b2b-51e2b939e5c6",
