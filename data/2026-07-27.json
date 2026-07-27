@@ -1,41 +1,5 @@
 [
   {
-    "id": "linkedin-4445655712",
-    "company": "Andrew & Brothers, Inc.",
-    "title": "Software Engineer, Early Career",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4445655712",
-    "sponsorship": "",
-    "posted": "2026-07-27",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4445655464",
-    "company": "Texas Sports Academy",
-    "title": "Junior Software Engineer (AI-Forward)",
-    "locations": [
-      "Austin, TX"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4445655464",
-    "sponsorship": "",
-    "posted": "2026-07-27",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4445908745",
-    "company": "Smrti Lab",
-    "title": "Software Engineer, Early Career",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4445908745",
-    "sponsorship": "",
-    "posted": "2026-07-27",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4417513151",
     "company": "Eccalon, LLC",
     "title": "Junior Software Engineer - onsite",
@@ -72,6 +36,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4443966551",
+    "company": "SkillStorm",
+    "title": "Entry Level Software Developer",
+    "locations": [
+      "Fort Worth, TX"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4443966551",
+    "sponsorship": "",
+    "posted": "2026-07-27",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4431761451",
     "company": "SkillStorm",
     "title": "Entry Level Software Developer",
@@ -79,6 +55,162 @@
       "Houston, TX"
     ],
     "url": "https://www.linkedin.com/jobs/view/4431761451",
+    "sponsorship": "",
+    "posted": "2026-07-27",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4443976141",
+    "company": "SkillStorm",
+    "title": "Entry Level Software Developer",
+    "locations": [
+      "Miami, FL"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4443976141",
+    "sponsorship": "",
+    "posted": "2026-07-27",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4445908745",
+    "company": "Smrti Lab",
+    "title": "Software Engineer, Early Career",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4445908745",
+    "sponsorship": "",
+    "posted": "2026-07-27",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4445655712",
+    "company": "Andrew & Brothers, Inc.",
+    "title": "Software Engineer, Early Career",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4445655712",
+    "sponsorship": "",
+    "posted": "2026-07-27",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4445917709",
+    "company": "DOT_DOT Innovation",
+    "title": "Software Engineer, Early Career (AI)",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4445917709",
+    "sponsorship": "",
+    "posted": "2026-07-27",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4445108088",
+    "company": "SpeedyApply",
+    "title": "Junior Software Engineer - AI-Forward",
+    "locations": [
+      "Austin, TX"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4445108088",
+    "sponsorship": "",
+    "posted": "2026-07-27",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4431757433",
+    "company": "SkillStorm",
+    "title": "Entry Level Software Developer",
+    "locations": [
+      "Boston, MA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4431757433",
+    "sponsorship": "",
+    "posted": "2026-07-27",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4431774193",
+    "company": "SkillStorm",
+    "title": "Entry Level Software Developer",
+    "locations": [
+      "Cleveland, OH"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4431774193",
+    "sponsorship": "",
+    "posted": "2026-07-27",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4431762372",
+    "company": "SkillStorm",
+    "title": "Entry Level Software Developer",
+    "locations": [
+      "Raleigh, NC"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4431762372",
+    "sponsorship": "",
+    "posted": "2026-07-27",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4443963672",
+    "company": "SkillStorm",
+    "title": "Entry Level Software Developer",
+    "locations": [
+      "Tampa, FL"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4443963672",
+    "sponsorship": "",
+    "posted": "2026-07-27",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4445655464",
+    "company": "Texas Sports Academy",
+    "title": "Junior Software Engineer (AI-Forward)",
+    "locations": [
+      "Austin, TX"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4445655464",
+    "sponsorship": "",
+    "posted": "2026-07-27",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4443959775",
+    "company": "SkillStorm",
+    "title": "Entry Level Software Developer",
+    "locations": [
+      "Indianapolis, IN"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4443959775",
+    "sponsorship": "",
+    "posted": "2026-07-27",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4437199288",
+    "company": "SkillStorm",
+    "title": "Entry Level Software Developer",
+    "locations": [
+      "Phoenix, AZ"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4437199288",
+    "sponsorship": "",
+    "posted": "2026-07-27",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4432862311",
+    "company": "SkillStorm",
+    "title": "Entry Level Software Developer",
+    "locations": [
+      "San Antonio, TX"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4432862311",
     "sponsorship": "",
     "posted": "2026-07-27",
     "source": "LinkedIn"
@@ -108,6 +240,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4444837389",
+    "company": "banking.TOP",
+    "title": "Software Engineer, Early Career (AI)",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4444837389",
+    "sponsorship": "",
+    "posted": "2026-07-26",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4414985647",
     "company": "Collective",
     "title": "Software Engineer (New Grad)",
@@ -115,18 +259,6 @@
       "San Francisco, CA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4414985647",
-    "sponsorship": "",
-    "posted": "2026-07-25",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4444655045",
-    "company": "BlueCargo",
-    "title": "Junior Software Engineer",
-    "locations": [
-      "Los Angeles, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4444655045",
     "sponsorship": "",
     "posted": "2026-07-25",
     "source": "LinkedIn"
@@ -144,37 +276,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4403643287",
-    "company": "Varsity Brands",
-    "title": "Software Engineer - Early Career",
+    "id": "linkedin-4444655045",
+    "company": "BlueCargo",
+    "title": "Junior Software Engineer",
     "locations": [
-      "Farmers Branch, TX"
+      "Los Angeles, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4403643287",
-    "sponsorship": "",
-    "posted": "2026-07-25",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4444647275",
-    "company": "WGU Product Design",
-    "title": "Software Engineer II - Infrastructure & Operations",
-    "locations": [
-      "Salt Lake City, UT"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4444647275",
-    "sponsorship": "",
-    "posted": "2026-07-25",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4444646281",
-    "company": "WGU Product Design",
-    "title": "Software Engineer II - Infrastructure & Operations",
-    "locations": [
-      "Salt Lake City, UT"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4444646281",
+    "url": "https://www.linkedin.com/jobs/view/4444655045",
     "sponsorship": "",
     "posted": "2026-07-25",
     "source": "LinkedIn"
@@ -187,6 +295,18 @@
       "Fort Wayne, IN"
     ],
     "url": "https://www.linkedin.com/jobs/view/4413407011",
+    "sponsorship": "",
+    "posted": "2026-07-25",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4403643287",
+    "company": "Varsity Brands",
+    "title": "Software Engineer - Early Career",
+    "locations": [
+      "Farmers Branch, TX"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4403643287",
     "sponsorship": "",
     "posted": "2026-07-25",
     "source": "LinkedIn"
@@ -276,13 +396,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4445214603",
-    "company": "USAN, Inc.",
-    "title": "Entry Level Software Engineer - Hybrid - Norcross, GA",
+    "id": "linkedin-4444034398",
+    "company": "Altamira Technologies Corporation",
+    "title": "Junior Software Engineer",
     "locations": [
-      "Norcross, GA"
+      "Fort Gordon, GA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4445214603",
+    "url": "https://www.linkedin.com/jobs/view/4444034398",
     "sponsorship": "",
     "posted": "2026-07-24",
     "source": "LinkedIn"
@@ -344,18 +464,6 @@
       "United States"
     ],
     "url": "https://jobs.ashbyhq.com/cerebras/9c7da4b8-446b-4bf2-8d07-23241590bf2e/application?embed=true",
-    "sponsorship": "Other",
-    "posted": "2026-07-23",
-    "source": "SimplifyJobs"
-  },
-  {
-    "id": "simplify-be8f4bc8-3744-45dd-96b4-35a6d931e52a",
-    "company": "Cerebras",
-    "title": "ML Software Engineer New Grad - Integration & Quality",
-    "locations": [
-      "Sunnyvale, CA"
-    ],
-    "url": "https://jobs.ashbyhq.com/cerebras/05fd05ea-b515-4c26-851e-b3882dfba154/application?embed=true",
     "sponsorship": "Other",
     "posted": "2026-07-23",
     "source": "SimplifyJobs"
@@ -466,20 +574,6 @@
       "Boise, ID"
     ],
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Design-Engineer--DRAM-Technology-and-Products_JR106211",
-    "sponsorship": "Other",
-    "posted": "2026-07-20",
-    "source": "SimplifyJobs"
-  },
-  {
-    "id": "simplify-2935c931-e7a6-41b0-a161-fe6248e77ffa",
-    "company": "Micron Technology",
-    "title": "New Grad Product Architecture Engineer - Product Architecture",
-    "locations": [
-      "San Jose, CA",
-      "Boise, ID",
-      "Folsom, CA"
-    ],
-    "url": "https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/New-College-Grad---Engineer--Product-Architecture_JR101745",
     "sponsorship": "Other",
     "posted": "2026-07-20",
     "source": "SimplifyJobs"
@@ -833,18 +927,6 @@
       "Sunnyvale, CA"
     ],
     "url": "https://jobs.ashbyhq.com/cerebras/99c289fa-8fc6-49f7-b7e8-78ac4e9d99ac/application",
-    "sponsorship": "Other",
-    "posted": "2026-07-07",
-    "source": "SimplifyJobs"
-  },
-  {
-    "id": "simplify-43438076-cec7-4da9-96c7-ef727cd46965",
-    "company": "Micron Technology",
-    "title": "Probe Card Engineer New Grad - Probe Card Engineer",
-    "locations": [
-      "Boise, ID"
-    ],
-    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Probe-Card-Engineer_JR105216",
     "sponsorship": "Other",
     "posted": "2026-07-07",
     "source": "SimplifyJobs"
