@@ -1,66 +1,56 @@
 # 📡 2027 SWE Radar
 
 Automated daily scanner for **2027 new-grad software engineering** openings.
-Last scan: **2026-07-27** · Tracking **89** matching postings · 🆕 **11** new today
+Last scan: **2026-07-27** · Tracking **84** matching postings · 🆕 **4** new today
 Only showing **US** postings from **2026-07-01** onward, newest first.
 
 ## 🆕 New today
 
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
-| **Andrew & Brothers, Inc.** | Software Engineer, Early Career | San Francisco, CA | 2026-07-27 | [Link](https://www.linkedin.com/jobs/view/4445655712) |
-| **Texas Sports Academy** | Junior Software Engineer (AI-Forward) | Austin, TX | 2026-07-27 | [Link](https://www.linkedin.com/jobs/view/4445655464) |
-| **Andrew & Brothers, Inc.** | Software Engineer, Early Career (AI) | San Francisco, CA | 2026-07-27 | [Link](https://www.linkedin.com/jobs/view/4445674577) |
-| **banking.TOP** | Software Engineer, Early Career (AI) | San Francisco, CA | 2026-07-26 | [Link](https://www.linkedin.com/jobs/view/4444837389) |
-| **Palantir Technologies** | Forward Deployed Infrastructure Engineer, New Grad - US Government | New York, NY | 2026-07-25 | [Link](https://www.linkedin.com/jobs/view/4444623228) |
-| **Palantir Technologies** | Forward Deployed Infrastructure Engineer, New Grad - US Government | Washington, DC | 2026-07-25 | [Link](https://www.linkedin.com/jobs/view/4444617312) |
-| **WGU Product Design** | Software Engineer II - Infrastructure & Operations | Salt Lake City, UT | 2026-07-25 | [Link](https://www.linkedin.com/jobs/view/4444646281) |
-| **Raytheon** | 2026 Raytheon Full Time- Software Engineer I -(Onsite) | Fort Wayne, IN | 2026-07-25 | [Link](https://www.linkedin.com/jobs/view/4413407011) |
-| **Helic & Co** | Junior Software Engineer | United States | 2026-07-25 | [Link](https://www.linkedin.com/jobs/view/4445348129) |
-| **WHOOP** | Software Engineer II (Backend, Business Systems) | Boston, MA | 2026-07-24 | [Link](https://www.linkedin.com/jobs/view/4444954675) |
-| **Palantir Technologies** | Forward Deployed Infrastructure Engineer, New Grad - US Government | Palo Alto, CA | 2026-07-24 | [Link](https://www.linkedin.com/jobs/view/4444620340) |
+| **Haystack** | Junior Software Engineer | Washington, DC | 2026-07-27 | [Link](https://www.linkedin.com/jobs/view/4442818452) |
+| **Anduril Industries** | 2027 Early Career Software Engineer | Seattle, WA | 2026-07-24 | [Link](https://www.linkedin.com/jobs/view/4427643568) |
+| **Medtronic** | Software Engineer I (AI-Driven Data Solutions) - Lafayette, CO | Lafayette, CO | 2026-07-24 | [Link](https://www.linkedin.com/jobs/view/4444970298) |
+| **Revature** | Entry Level Software Developer | Hartford, CT | 2026-07-24 | [Link](https://www.linkedin.com/jobs/view/4444336516) |
 
 ## 🎯 Explicit 2027 openings
 
-_No postings explicitly mentioning 2027 yet._
+| Company | Role | Location | Posted | Apply |
+|---|---|---|---|---|
+| Anduril Industries | 2027 Early Career Software Engineer | Seattle, WA | 2026-07-24 | [Link](https://www.linkedin.com/jobs/view/4427643568) |
 
 ## All tracked postings (most recent 50)
 
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
-| Andrew & Brothers, Inc. | Software Engineer, Early Career | San Francisco, CA | 2026-07-27 | [Link](https://www.linkedin.com/jobs/view/4445655712) |
 | Texas Sports Academy | Junior Software Engineer (AI-Forward) | Austin, TX | 2026-07-27 | [Link](https://www.linkedin.com/jobs/view/4445655464) |
-| Andrew & Brothers, Inc. | Software Engineer, Early Career (AI) | San Francisco, CA | 2026-07-27 | [Link](https://www.linkedin.com/jobs/view/4445674577) |
+| Andrew & Brothers, Inc. | Software Engineer, Early Career | San Francisco, CA | 2026-07-27 | [Link](https://www.linkedin.com/jobs/view/4445655712) |
+| Haystack | Junior Software Engineer | Washington, DC | 2026-07-27 | [Link](https://www.linkedin.com/jobs/view/4442818452) |
 | Zettabyte | Software Engineer (New Grad) | Palo Alto, CA | 2026-07-26 | [Link](https://www.linkedin.com/jobs/view/4399493417) |
 | banking.TOP | Software Engineer, Early Career | San Francisco, CA | 2026-07-26 | [Link](https://www.linkedin.com/jobs/view/4444838369) |
-| banking.TOP | Software Engineer, Early Career (AI) | San Francisco, CA | 2026-07-26 | [Link](https://www.linkedin.com/jobs/view/4444837389) |
 | Collective | Software Engineer (New Grad) | San Francisco, CA | 2026-07-25 | [Link](https://www.linkedin.com/jobs/view/4414985647) |
 | Palantir Technologies | Forward Deployed Infrastructure Engineer, New Grad - US Government | New York, NY | 2026-07-25 | [Link](https://www.linkedin.com/jobs/view/4444623228) |
 | Palantir Technologies | Forward Deployed Infrastructure Engineer, New Grad - US Government | Washington, DC | 2026-07-25 | [Link](https://www.linkedin.com/jobs/view/4444617312) |
 | BlueCargo | Junior Software Engineer | Los Angeles, CA | 2026-07-25 | [Link](https://www.linkedin.com/jobs/view/4444655045) |
-| Varsity Brands | Software Engineer - Early Career | Farmers Branch, TX | 2026-07-25 | [Link](https://www.linkedin.com/jobs/view/4403643287) |
 | Medpace | Junior Software Engineer | Cincinnati, OH | 2026-07-25 | [Link](https://www.linkedin.com/jobs/view/4351877495) |
+| Varsity Brands | Software Engineer - Early Career | Farmers Branch, TX | 2026-07-25 | [Link](https://www.linkedin.com/jobs/view/4403643287) |
 | WGU Product Design | Software Engineer II - Infrastructure & Operations | Salt Lake City, UT | 2026-07-25 | [Link](https://www.linkedin.com/jobs/view/4444646281) |
-| Raytheon | 2026 Raytheon Full Time- Software Engineer I -(Onsite) | Fort Wayne, IN | 2026-07-25 | [Link](https://www.linkedin.com/jobs/view/4413407011) |
-| Helic & Co | Junior Software Engineer | United States | 2026-07-25 | [Link](https://www.linkedin.com/jobs/view/4445348129) |
 | Blissway | Embedded Systems Engineer New Grad | Denver, CO | 2026-07-24 | [Link](https://jobs.ashbyhq.com/blissway/51d6d839-9801-4436-bfc2-918bae428ed8/application?embed=true) |
 | NVIDIA | GPU Verification Engineer New Grad | Westford, MA | 2026-07-24 | [Link](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-MA-Westford/GPU-Verification-Engineer---New-College-Grad-2026_JR2022102) |
 | Hewlett Packard Enterprise | Electrical Hardware Engineer – Early Career - XD Server Engineering | Spring, TX | 2026-07-24 | [Link](https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Spring-Texas-United-States-of-America/Electrical-Hardware-Engineer---XD-Server-Engineering---Early-Career_1209599) |
+| Giga | Software Engineer I / II | New York, NY | 2026-07-24 | [Link](https://www.linkedin.com/jobs/view/4374838577) |
+| Palantir Technologies | Forward Deployed Infrastructure Engineer, New Grad - US Government | Palo Alto, CA | 2026-07-24 | [Link](https://www.linkedin.com/jobs/view/4444620340) |
+| Anduril Industries | 2027 Early Career Software Engineer | Seattle, WA | 2026-07-24 | [Link](https://www.linkedin.com/jobs/view/4427643568) |
 | WHOOP | Software Engineer I (Backend) | Boston, MA | 2026-07-24 | [Link](https://www.linkedin.com/jobs/view/4444963172) |
 | IXL Learning | Software Engineer, New Grad | San Mateo, CA | 2026-07-24 | [Link](https://www.linkedin.com/jobs/view/4435281631) |
-| WHOOP | Software Engineer II (Backend, Business Systems) | Boston, MA | 2026-07-24 | [Link](https://www.linkedin.com/jobs/view/4444954675) |
 | WHOOP | Software Engineer II (Backend, Platform) | Boston, MA | 2026-07-24 | [Link](https://www.linkedin.com/jobs/view/4444951743) |
-| Palantir Technologies | Forward Deployed Infrastructure Engineer, New Grad - US Government | Palo Alto, CA | 2026-07-24 | [Link](https://www.linkedin.com/jobs/view/4444620340) |
-| Google | Software Engineer III | Madison, WI | 2026-07-24 | [Link](https://www.linkedin.com/jobs/view/4444389152) |
-| Giga | Software Engineer I / II | New York, NY | 2026-07-24 | [Link](https://www.linkedin.com/jobs/view/4374838577) |
-| USAN, Inc. | Entry Level Software Engineer - Hybrid - Norcross, GA | Norcross, GA | 2026-07-24 | [Link](https://www.linkedin.com/jobs/view/4445214603) |
-| TGW Logistics | Software Engineer I (M/F/D)* | Grand Rapids, MI | 2026-07-24 | [Link](https://www.linkedin.com/jobs/view/4441842476) |
 | Revature | Entry Level Software Developer | Chicago, IL | 2026-07-24 | [Link](https://www.linkedin.com/jobs/view/4444326675) |
 | Radiance Technologies | Junior Software Engineer | Mississippi, United States | 2026-07-24 | [Link](https://www.linkedin.com/jobs/view/4445253506) |
 | Toyota North America | Software Engineer (Early Career Professional) | Plano, TX | 2026-07-24 | [Link](https://www.linkedin.com/jobs/view/4444608401) |
 | Revature | Entry Level Software Developer | Dallas, TX | 2026-07-24 | [Link](https://www.linkedin.com/jobs/view/4444337504) |
-| Altamira Technologies Corporation | Junior Software Engineer | Fort Gordon, GA | 2026-07-24 | [Link](https://www.linkedin.com/jobs/view/4444034398) |
-| University of Florida - Chemical Engineering Masters Program | Research Software Engineer I | Gainesville, FL | 2026-07-24 | [Link](https://www.linkedin.com/jobs/view/4445329064) |
+| Medtronic | Software Engineer I (AI-Driven Data Solutions) - Lafayette, CO | Lafayette, CO | 2026-07-24 | [Link](https://www.linkedin.com/jobs/view/4444970298) |
+| Revature | Entry Level Software Developer | Hartford, CT | 2026-07-24 | [Link](https://www.linkedin.com/jobs/view/4444336516) |
+| USAN, Inc. | Entry Level Software Engineer - Hybrid - Norcross, GA | Norcross, GA | 2026-07-24 | [Link](https://www.linkedin.com/jobs/view/4445214603) |
 | Bridger | Early Career Product Engineer | NYC | 2026-07-23 | [Link](https://jobs.ashbyhq.com/bridger/5a4a77e4-31a0-40c6-8e3d-9b5c6205943f/application?embed=true) |
 | NVIDIA | AI and ML Infra Software Engineer New Grad - GPU Clusters | Redmond, WA; Santa Clara, CA | 2026-07-23 | [Link](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-and-ML-Infra-Software-Engineer--GPU-Clusters---New-College-Grad-2026_JR2021591) |
 | NVIDIA | Software Engineer New Grad - Physical Design Infrastructure | Santa Clara, CA | 2026-07-23 | [Link](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Physical-Design-Infrastructure---New-College-Grad-2026_JR2021823) |
@@ -78,6 +68,11 @@ _No postings explicitly mentioning 2027 yet._
 | Micron Technology | New Grad Product Architecture Engineer - Product Architecture | San Jose, CA; Boise, ID | 2026-07-20 | [Link](https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/New-College-Grad---Engineer--Product-Architecture_JR101745) |
 | Crowdstrike | Engineer 1 New Grad - Data Scientist | Sunnyvale, CA | 2026-07-20 | [Link](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Engineer-I--Data-Scientist---New-Grad--Hybrid-_R29382-1) |
 | NVIDIA | Compiler Engineer New Grad - Infrastructure | Austin, TX; Remote in USA | 2026-07-20 | [Link](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Compiler-Engineer--Infrastructure----New-College-Grad-2026_JR2021228) |
+| NVIDIA | Systems Software Engineer New Grad - Accelerated Kubernetes Performance and Scale | Seattle, WA; Santa Clara, CA | 2026-07-17 | [Link](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Engineer--Accelerated-Kubernetes-Performance-and-Scale---New-College-Grad-2026_JR2020957) |
+| NVIDIA | ASIC Design Engineer New Grad | Santa Clara, CA | 2026-07-17 | [Link](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Design-Engineer---New-College-Grad-2026_JR2021534) |
+| Nuro | Software Engineer New Grad - Performance | Mountain View, CA | 2026-07-16 | [Link](https://nuro.ai/careersitem?gh_jid=6972272) |
+| Samsara | Software Engineer II | Remote - US | 2026-07-16 | [Link](https://www.samsara.com/company/careers/roles/8036387?gh_jid=8036387) |
+| Faros AI | Software Engineer New Grad | San Mateo, CA | 2026-07-15 | [Link](https://jobs.ashbyhq.com/faros-ai/622e1f1e-4a39-4e7c-8526-1189ca588066/application?embed=true) |
 
 ---
 _Sources: SimplifyJobs New-Grad-Positions, Greenhouse/Lever/Ashby boards, LinkedIn search, Adzuna aggregator._
