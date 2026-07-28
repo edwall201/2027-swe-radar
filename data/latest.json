@@ -36,6 +36,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4437461678",
+    "company": "Notion",
+    "title": "Software Engineer, Early Career",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4437461678",
+    "sponsorship": "",
+    "posted": "2026-07-28",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4445655464",
     "company": "Texas Sports Academy",
     "title": "Junior Software Engineer (AI-Forward)",
@@ -43,18 +55,6 @@
       "Austin, TX"
     ],
     "url": "https://www.linkedin.com/jobs/view/4445655464",
-    "sponsorship": "",
-    "posted": "2026-07-28",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4443212428",
-    "company": "The Curly Doggo Company",
-    "title": "Software Engineer, Early Career (AI)",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4443212428",
     "sponsorship": "",
     "posted": "2026-07-28",
     "source": "LinkedIn"
@@ -120,121 +120,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4445192147",
-    "company": "Emonics LLC",
-    "title": "Entry Level Software Engineer",
+    "id": "linkedin-4442893738",
+    "company": "Rocket",
+    "title": "Software Engineer I",
     "locations": [
-      "Seattle, WA"
+      "Texas, United States"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4445192147",
-    "sponsorship": "",
-    "posted": "2026-07-27",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4431772325",
-    "company": "SkillStorm",
-    "title": "Entry Level Software Developer",
-    "locations": [
-      "New York City Metropolitan Area"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4431772325",
-    "sponsorship": "",
-    "posted": "2026-07-27",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4426397883",
-    "company": "SkillStorm",
-    "title": "Entry Level Software Developer",
-    "locations": [
-      "Atlanta, GA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4426397883",
-    "sponsorship": "",
-    "posted": "2026-07-27",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4431773243",
-    "company": "SkillStorm",
-    "title": "Entry Level Software Developer",
-    "locations": [
-      "Washington, DC"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4431773243",
-    "sponsorship": "",
-    "posted": "2026-07-27",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4431763397",
-    "company": "SkillStorm",
-    "title": "Entry Level Software Developer",
-    "locations": [
-      "Charlotte, NC"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4431763397",
-    "sponsorship": "",
-    "posted": "2026-07-27",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4431763453",
-    "company": "SkillStorm",
-    "title": "Entry Level Software Developer",
-    "locations": [
-      "Chicago, IL"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4431763453",
-    "sponsorship": "",
-    "posted": "2026-07-27",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4431774108",
-    "company": "SkillStorm",
-    "title": "Entry Level Software Developer",
-    "locations": [
-      "Dallas, TX"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4431774108",
-    "sponsorship": "",
-    "posted": "2026-07-27",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4431761451",
-    "company": "SkillStorm",
-    "title": "Entry Level Software Developer",
-    "locations": [
-      "Houston, TX"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4431761451",
-    "sponsorship": "",
-    "posted": "2026-07-27",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4431770198",
-    "company": "SkillStorm",
-    "title": "Entry Level Software Developer",
-    "locations": [
-      "Philadelphia, PA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4431770198",
-    "sponsorship": "",
-    "posted": "2026-07-27",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4443142901",
-    "company": "FDM Group",
-    "title": "Junior Software Engineer",
-    "locations": [
-      "Charlotte, NC"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4443142901",
+    "url": "https://www.linkedin.com/jobs/view/4442893738",
     "sponsorship": "",
     "posted": "2026-07-27",
     "source": "LinkedIn"
@@ -252,13 +144,49 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4445408111",
-    "company": "Metropolitan Transportation Authority",
-    "title": "Junior Software Engineer",
+    "id": "linkedin-4417513151",
+    "company": "Eccalon, LLC",
+    "title": "Junior Software Engineer - onsite",
     "locations": [
-      "Jamaica, NY"
+      "Detroit, MI"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4445408111",
+    "url": "https://www.linkedin.com/jobs/view/4417513151",
+    "sponsorship": "",
+    "posted": "2026-07-27",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4445131535",
+    "company": "Revature",
+    "title": "Entry Level Software Developer",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4445131535",
+    "sponsorship": "",
+    "posted": "2026-07-27",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4445144423",
+    "company": "Revature",
+    "title": "Entry Level Software Developer",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4445144423",
+    "sponsorship": "",
+    "posted": "2026-07-27",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4445193929",
+    "company": "GIT America, Inc.",
+    "title": "Junior Software Developer",
+    "locations": [
+      "Irvine, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4445193929",
     "sponsorship": "",
     "posted": "2026-07-27",
     "source": "LinkedIn"
@@ -276,37 +204,25 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4417513151",
-    "company": "Eccalon, LLC",
-    "title": "Junior Software Engineer - onsite",
-    "locations": [
-      "Detroit, MI"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4417513151",
-    "sponsorship": "",
-    "posted": "2026-07-27",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4445108088",
-    "company": "SpeedyApply",
-    "title": "Junior Software Engineer - AI-Forward",
-    "locations": [
-      "Austin, TX"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4445108088",
-    "sponsorship": "",
-    "posted": "2026-07-27",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4445928524",
-    "company": "Helic & Co",
+    "id": "linkedin-4445408111",
+    "company": "Metropolitan Transportation Authority",
     "title": "Junior Software Engineer",
     "locations": [
-      "United States"
+      "Jamaica, NY"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4445928524",
+    "url": "https://www.linkedin.com/jobs/view/4445408111",
+    "sponsorship": "",
+    "posted": "2026-07-27",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4431757433",
+    "company": "SkillStorm",
+    "title": "Entry Level Software Developer",
+    "locations": [
+      "Boston, MA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4431757433",
     "sponsorship": "",
     "posted": "2026-07-27",
     "source": "LinkedIn"
@@ -336,18 +252,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4431762372",
-    "company": "SkillStorm",
-    "title": "Entry Level Software Developer",
-    "locations": [
-      "Raleigh, NC"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4431762372",
-    "sponsorship": "",
-    "posted": "2026-07-27",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4443963672",
     "company": "SkillStorm",
     "title": "Entry Level Software Developer",
@@ -355,6 +259,18 @@
       "Tampa, FL"
     ],
     "url": "https://www.linkedin.com/jobs/view/4443963672",
+    "sponsorship": "",
+    "posted": "2026-07-27",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4431762372",
+    "company": "SkillStorm",
+    "title": "Entry Level Software Developer",
+    "locations": [
+      "Raleigh, NC"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4431762372",
     "sponsorship": "",
     "posted": "2026-07-27",
     "source": "LinkedIn"
@@ -408,18 +324,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4437199288",
-    "company": "SkillStorm",
-    "title": "Entry Level Software Developer",
-    "locations": [
-      "Phoenix, AZ"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4437199288",
-    "sponsorship": "",
-    "posted": "2026-07-27",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4399493417",
     "company": "Zettabyte",
     "title": "Software Engineer (New Grad)",
@@ -444,18 +348,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4444837389",
-    "company": "banking.TOP",
-    "title": "Software Engineer, Early Career (AI)",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4444837389",
-    "sponsorship": "",
-    "posted": "2026-07-26",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4414985647",
     "company": "Collective",
     "title": "Software Engineer (New Grad)",
@@ -463,30 +355,6 @@
       "San Francisco, CA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4414985647",
-    "sponsorship": "",
-    "posted": "2026-07-25",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4403643287",
-    "company": "Varsity Brands",
-    "title": "Software Engineer - Early Career",
-    "locations": [
-      "Farmers Branch, TX"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4403643287",
-    "sponsorship": "",
-    "posted": "2026-07-25",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4413407011",
-    "company": "Raytheon",
-    "title": "2026 Raytheon Full Time- Software Engineer I -(Onsite)",
-    "locations": [
-      "Fort Wayne, IN"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4413407011",
     "sponsorship": "",
     "posted": "2026-07-25",
     "source": "LinkedIn"
