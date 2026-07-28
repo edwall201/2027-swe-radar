@@ -60,18 +60,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4434143445",
-    "company": "Palantir Technologies",
-    "title": "Software Engineer, New Grad - Defense",
-    "locations": [
-      "New York, NY"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4434143445",
-    "sponsorship": "",
-    "posted": "2026-07-28",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4434142462",
     "company": "Palantir Technologies",
     "title": "Software Engineer, New Grad - Defense",
@@ -79,6 +67,18 @@
       "Palo Alto, CA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4434142462",
+    "sponsorship": "",
+    "posted": "2026-07-28",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4434143445",
+    "company": "Palantir Technologies",
+    "title": "Software Engineer, New Grad - Defense",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4434143445",
     "sponsorship": "",
     "posted": "2026-07-28",
     "source": "LinkedIn"
@@ -96,6 +96,42 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4445773076",
+    "company": "Jobright.ai",
+    "title": "Backend Engineer, New Grad",
+    "locations": [
+      "United States"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4445773076",
+    "sponsorship": "",
+    "posted": "2026-07-28",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4407298053",
+    "company": "OneStream Software",
+    "title": "Software Engineer I",
+    "locations": [
+      "United States"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4407298053",
+    "sponsorship": "",
+    "posted": "2026-07-28",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4446374103",
+    "company": "Davidson Technologies",
+    "title": "Entry Level Software Engineer - Huntsville, Alabama",
+    "locations": [
+      "Huntsville, AL"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4446374103",
+    "sponsorship": "",
+    "posted": "2026-07-28",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4437461678",
     "company": "Notion",
     "title": "Software Engineer, Early Career",
@@ -108,49 +144,37 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4445655464",
-    "company": "Texas Sports Academy",
-    "title": "Junior Software Engineer (AI-Forward)",
+    "id": "linkedin-4437472369",
+    "company": "Notion",
+    "title": "Software Engineer, Early Career (AI)",
     "locations": [
-      "Austin, TX"
+      "San Francisco, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4445655464",
+    "url": "https://www.linkedin.com/jobs/view/4437472369",
     "sponsorship": "",
     "posted": "2026-07-28",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4446347435",
-    "company": "Ziff Davis",
-    "title": "Software Engineer I - Backend",
+    "id": "linkedin-4443288779",
+    "company": "Interco",
+    "title": "Junior Software Developer",
     "locations": [
-      "Memphis, TN"
+      "St Louis, MO"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4446347435",
+    "url": "https://www.linkedin.com/jobs/view/4443288779",
     "sponsorship": "",
     "posted": "2026-07-28",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4445722765",
-    "company": "Revature",
-    "title": "Entry Level Software Developer",
+    "id": "linkedin-4445780063",
+    "company": "HiredBuddy",
+    "title": "Junior Software Engineer",
     "locations": [
-      "Chicago, IL"
+      "California, United States"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4445722765",
-    "sponsorship": "",
-    "posted": "2026-07-28",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4436872546",
-    "company": "SimpliSafe",
-    "title": "Software Engineer I - Device Control",
-    "locations": [
-      "Boston, MA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4436872546",
+    "url": "https://www.linkedin.com/jobs/view/4445780063",
     "sponsorship": "",
     "posted": "2026-07-28",
     "source": "LinkedIn"
@@ -168,13 +192,25 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4443231741",
-    "company": "Jobgether",
-    "title": "Software Engineer I - AssureHire (Go)",
+    "id": "linkedin-4445655464",
+    "company": "Texas Sports Academy",
+    "title": "Junior Software Engineer (AI-Forward)",
     "locations": [
-      "United States"
+      "Austin, TX"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4443231741",
+    "url": "https://www.linkedin.com/jobs/view/4445655464",
+    "sponsorship": "",
+    "posted": "2026-07-28",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4436872546",
+    "company": "SimpliSafe",
+    "title": "Software Engineer I - Device Control",
+    "locations": [
+      "Boston, MA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4436872546",
     "sponsorship": "",
     "posted": "2026-07-28",
     "source": "LinkedIn"
@@ -216,30 +252,6 @@
     "source": "Greenhouse"
   },
   {
-    "id": "linkedin-4446140930",
-    "company": "Symbotic",
-    "title": "New Grad- Software Engineer",
-    "locations": [
-      "Wilmington, MA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4446140930",
-    "sponsorship": "",
-    "posted": "2026-07-27",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4442889322",
-    "company": "Corissa Nunn Consulting",
-    "title": "Software Engineer, Early Career",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4442889322",
-    "sponsorship": "",
-    "posted": "2026-07-27",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4446105125",
     "company": "INSPYR Solutions",
     "title": "Software Engineer II",
@@ -252,49 +264,25 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4446118684",
-    "company": "MetLife",
-    "title": "Junior Software Engineer",
+    "id": "linkedin-4445192147",
+    "company": "Emonics LLC",
+    "title": "Entry Level Software Engineer",
     "locations": [
-      "Bridgewater, NJ"
+      "Seattle, WA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4446118684",
+    "url": "https://www.linkedin.com/jobs/view/4445192147",
     "sponsorship": "",
     "posted": "2026-07-27",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4417513151",
-    "company": "Eccalon, LLC",
-    "title": "Junior Software Engineer - onsite",
+    "id": "linkedin-4431772325",
+    "company": "SkillStorm",
+    "title": "Entry Level Software Developer",
     "locations": [
-      "Detroit, MI"
+      "New York City Metropolitan Area"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4417513151",
-    "sponsorship": "",
-    "posted": "2026-07-27",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4445408111",
-    "company": "Metropolitan Transportation Authority",
-    "title": "Junior Software Engineer",
-    "locations": [
-      "Jamaica, NY"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4445408111",
-    "sponsorship": "",
-    "posted": "2026-07-27",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4445191937",
-    "company": "GIT America, Inc.",
-    "title": "Junior Software Developer",
-    "locations": [
-      "Irvine, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4445191937",
+    "url": "https://www.linkedin.com/jobs/view/4431772325",
     "sponsorship": "",
     "posted": "2026-07-27",
     "source": "LinkedIn"
@@ -307,18 +295,6 @@
       "Atlanta, GA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4426397883",
-    "sponsorship": "",
-    "posted": "2026-07-27",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4445192147",
-    "company": "Emonics LLC",
-    "title": "Entry Level Software Engineer",
-    "locations": [
-      "Seattle, WA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4445192147",
     "sponsorship": "",
     "posted": "2026-07-27",
     "source": "LinkedIn"
@@ -348,6 +324,30 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4431763453",
+    "company": "SkillStorm",
+    "title": "Entry Level Software Developer",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4431763453",
+    "sponsorship": "",
+    "posted": "2026-07-27",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4431774108",
+    "company": "SkillStorm",
+    "title": "Entry Level Software Developer",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4431774108",
+    "sponsorship": "",
+    "posted": "2026-07-27",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4431761451",
     "company": "SkillStorm",
     "title": "Entry Level Software Developer",
@@ -355,66 +355,6 @@
       "Houston, TX"
     ],
     "url": "https://www.linkedin.com/jobs/view/4431761451",
-    "sponsorship": "",
-    "posted": "2026-07-27",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4431757433",
-    "company": "SkillStorm",
-    "title": "Entry Level Software Developer",
-    "locations": [
-      "Boston, MA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4431757433",
-    "sponsorship": "",
-    "posted": "2026-07-27",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4431774193",
-    "company": "SkillStorm",
-    "title": "Entry Level Software Developer",
-    "locations": [
-      "Cleveland, OH"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4431774193",
-    "sponsorship": "",
-    "posted": "2026-07-27",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4431762372",
-    "company": "SkillStorm",
-    "title": "Entry Level Software Developer",
-    "locations": [
-      "Raleigh, NC"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4431762372",
-    "sponsorship": "",
-    "posted": "2026-07-27",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4443959775",
-    "company": "SkillStorm",
-    "title": "Entry Level Software Developer",
-    "locations": [
-      "Indianapolis, IN"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4443959775",
-    "sponsorship": "",
-    "posted": "2026-07-27",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4443963672",
-    "company": "SkillStorm",
-    "title": "Entry Level Software Developer",
-    "locations": [
-      "Tampa, FL"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4443963672",
     "sponsorship": "",
     "posted": "2026-07-27",
     "source": "LinkedIn"
@@ -432,25 +372,25 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4437183807",
+    "id": "linkedin-4443966551",
     "company": "SkillStorm",
     "title": "Entry Level Software Developer",
     "locations": [
-      "Rochester, NY"
+      "Fort Worth, TX"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4437183807",
+    "url": "https://www.linkedin.com/jobs/view/4443966551",
     "sponsorship": "",
     "posted": "2026-07-27",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4432862311",
-    "company": "SkillStorm",
-    "title": "Entry Level Software Developer",
+    "id": "linkedin-4446118684",
+    "company": "MetLife",
+    "title": "Junior Software Engineer",
     "locations": [
-      "San Antonio, TX"
+      "Bridgewater, NJ"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4432862311",
+    "url": "https://www.linkedin.com/jobs/view/4446118684",
     "sponsorship": "",
     "posted": "2026-07-27",
     "source": "LinkedIn"
@@ -504,31 +444,6 @@
     "source": "SimplifyJobs"
   },
   {
-    "id": "simplify-e3815529-57c7-41bb-8d69-cad889c3b01e",
-    "company": "NVIDIA",
-    "title": "AI and ML Infra Software Engineer New Grad - GPU Clusters",
-    "locations": [
-      "Redmond, WA",
-      "Santa Clara, CA"
-    ],
-    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-and-ML-Infra-Software-Engineer--GPU-Clusters---New-College-Grad-2026_JR2021591",
-    "sponsorship": "Other",
-    "posted": "2026-07-23",
-    "source": "SimplifyJobs"
-  },
-  {
-    "id": "simplify-a455da9d-eaec-41c8-9de6-819c1f5bac60",
-    "company": "NVIDIA",
-    "title": "Software Engineer New Grad - Physical Design Infrastructure",
-    "locations": [
-      "Santa Clara, CA"
-    ],
-    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Physical-Design-Infrastructure---New-College-Grad-2026_JR2021823",
-    "sponsorship": "Other",
-    "posted": "2026-07-23",
-    "source": "SimplifyJobs"
-  },
-  {
     "id": "simplify-fabf124a-32b2-45ba-bffe-d3084937296a",
     "company": "Cerebras",
     "title": "Kernel Engineer New Grad",
@@ -572,18 +487,6 @@
       "NYC"
     ],
     "url": "https://jobs.ashbyhq.com/traba/90d6307c-1bb1-4abf-8e73-7afa6a7e0a70/application?embed=true",
-    "sponsorship": "Other",
-    "posted": "2026-07-22",
-    "source": "SimplifyJobs"
-  },
-  {
-    "id": "simplify-64d8a339-fc47-43a1-83fc-39765bf1bac0",
-    "company": "NVIDIA",
-    "title": "Deep Learning Software Engineer New Grad - Inference",
-    "locations": [
-      "NYC"
-    ],
-    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Deep-Learning-Software-Engineer--Inference---New-College-Grad-2026_JR2021742",
     "sponsorship": "Other",
     "posted": "2026-07-22",
     "source": "SimplifyJobs"
@@ -675,19 +578,6 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Compiler-Engineer--Infrastructure----New-College-Grad-2026_JR2021228",
     "sponsorship": "Other",
     "posted": "2026-07-20",
-    "source": "SimplifyJobs"
-  },
-  {
-    "id": "simplify-f1025b20-1cf5-4f9d-8505-a81fea68f463",
-    "company": "NVIDIA",
-    "title": "Systems Software Engineer New Grad - Accelerated Kubernetes Performance and Scale",
-    "locations": [
-      "Seattle, WA",
-      "Santa Clara, CA"
-    ],
-    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Engineer--Accelerated-Kubernetes-Performance-and-Scale---New-College-Grad-2026_JR2020957",
-    "sponsorship": "Other",
-    "posted": "2026-07-17",
     "source": "SimplifyJobs"
   },
   {
