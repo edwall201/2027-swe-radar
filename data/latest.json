@@ -1,17 +1,5 @@
 [
   {
-    "id": "linkedin-4446745306",
-    "company": "Nooks",
-    "title": "Software Engineer, New Grad",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4446745306",
-    "sponsorship": "",
-    "posted": "2026-07-30",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4438292999",
     "company": "Confido",
     "title": "New Grad Software Engineer",
@@ -19,18 +7,6 @@
       "New York, NY"
     ],
     "url": "https://www.linkedin.com/jobs/view/4438292999",
-    "sponsorship": "",
-    "posted": "2026-07-30",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4445037888",
-    "company": "Upbound Group",
-    "title": "Software Engineer I",
-    "locations": [
-      "Plano, TX"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4445037888",
     "sponsorship": "",
     "posted": "2026-07-30",
     "source": "LinkedIn"
@@ -72,13 +48,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4444585491",
-    "company": "Jobgether",
-    "title": "Software Engineer I, Data Platform",
+    "id": "linkedin-4444970298",
+    "company": "Medtronic",
+    "title": "Software Engineer I (AI-Driven Data Solutions) - Lafayette, CO",
     "locations": [
-      "United States"
+      "Lafayette, CO"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4444585491",
+    "url": "https://www.linkedin.com/jobs/view/4444970298",
     "sponsorship": "",
     "posted": "2026-07-30",
     "source": "LinkedIn"
@@ -120,49 +96,61 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4434584642",
-    "company": "Walmart",
-    "title": "(USA) Software Engineer III",
+    "id": "linkedin-4444617312",
+    "company": "Palantir Technologies",
+    "title": "Forward Deployed Infrastructure Engineer, New Grad - US Government",
     "locations": [
-      "Bentonville, AR"
+      "Washington, DC"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4434584642",
+    "url": "https://www.linkedin.com/jobs/view/4444617312",
     "sponsorship": "",
     "posted": "2026-07-29",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4317707969",
-    "company": "Nuro",
-    "title": "Software Engineer, AI Platform - New Grad",
+    "id": "linkedin-4446078262",
+    "company": "Revature",
+    "title": "Entry Level Software Developer",
     "locations": [
-      "Mountain View, CA"
+      "Charlotte, NC"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4317707969",
+    "url": "https://www.linkedin.com/jobs/view/4446078262",
     "sponsorship": "",
     "posted": "2026-07-29",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4434136634",
+    "id": "linkedin-4446400569",
+    "company": "Eccalon, LLC",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "Detroit, MI"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4446400569",
+    "sponsorship": "",
+    "posted": "2026-07-29",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4444172702",
+    "company": "GBIT (Global Bridge InfoTech Inc)",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "Richardson, TX"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4444172702",
+    "sponsorship": "",
+    "posted": "2026-07-29",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4434138603",
     "company": "Palantir Technologies",
     "title": "Software Engineer, New Grad",
     "locations": [
-      "Denver, CO"
+      "New York, NY"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4434136634",
-    "sponsorship": "",
-    "posted": "2026-07-29",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4446444568",
-    "company": "AbbVie",
-    "title": "Associate Software Engineer I",
-    "locations": [
-      "Mettawa, IL"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4446444568",
+    "url": "https://www.linkedin.com/jobs/view/4434138603",
     "sponsorship": "",
     "posted": "2026-07-29",
     "source": "LinkedIn"
@@ -175,18 +163,6 @@
       "Utah, United States"
     ],
     "url": "https://www.linkedin.com/jobs/view/4434750014",
-    "sponsorship": "",
-    "posted": "2026-07-29",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4446067881",
-    "company": "Data Intelligence, LLC",
-    "title": "Software Engineer I",
-    "locations": [
-      "Moorestown, NJ"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4446067881",
     "sponsorship": "",
     "posted": "2026-07-29",
     "source": "LinkedIn"
@@ -211,18 +187,6 @@
       "Bellevue, WA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4437862008",
-    "sponsorship": "",
-    "posted": "2026-07-29",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4446863139",
-    "company": "Framatome North America",
-    "title": "Early Career Software Engineer",
-    "locations": [
-      "Christiansburg, VA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4446863139",
     "sponsorship": "",
     "posted": "2026-07-29",
     "source": "LinkedIn"
@@ -289,6 +253,30 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4444623228",
+    "company": "Palantir Technologies",
+    "title": "Forward Deployed Infrastructure Engineer, New Grad - US Government",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4444623228",
+    "sponsorship": "",
+    "posted": "2026-07-28",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4424241056",
+    "company": "Ciena",
+    "title": "Telecommunications Quality Automation Test Engineer - New Grad",
+    "locations": [
+      "Petaluma, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4424241056",
+    "sponsorship": "",
+    "posted": "2026-07-28",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4445655464",
     "company": "Texas Sports Academy",
     "title": "Junior Software Engineer (AI-Forward)",
@@ -313,37 +301,25 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4446383629",
-    "company": "Yamaha Motor Corporation, USA",
-    "title": "Software Engineer I",
+    "id": "linkedin-4445780063",
+    "company": "HiredBuddy",
+    "title": "Junior Software Engineer",
     "locations": [
-      "Kennesaw, GA"
+      "California, United States"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4446383629",
+    "url": "https://www.linkedin.com/jobs/view/4445780063",
     "sponsorship": "",
     "posted": "2026-07-28",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4437472369",
-    "company": "Notion",
-    "title": "Software Engineer, Early Career (AI)",
+    "id": "linkedin-4443240193",
+    "company": "AANCO Financial Services",
+    "title": "Software Engineer, New Grad",
     "locations": [
-      "San Francisco, CA"
+      "Philadelphia, PA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4437472369",
-    "sponsorship": "",
-    "posted": "2026-07-28",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4443288779",
-    "company": "Interco",
-    "title": "Junior Software Developer",
-    "locations": [
-      "St Louis, MO"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4443288779",
+    "url": "https://www.linkedin.com/jobs/view/4443240193",
     "sponsorship": "",
     "posted": "2026-07-28",
     "source": "LinkedIn"
@@ -383,66 +359,6 @@
     "sponsorship": "",
     "posted": "2026-07-27",
     "source": "Greenhouse"
-  },
-  {
-    "id": "linkedin-4442889322",
-    "company": "Corissa Nunn Consulting",
-    "title": "Software Engineer, Early Career",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4442889322",
-    "sponsorship": "",
-    "posted": "2026-07-27",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4442893738",
-    "company": "Rocket",
-    "title": "Software Engineer I",
-    "locations": [
-      "Michigan, United States"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4442893738",
-    "sponsorship": "",
-    "posted": "2026-07-27",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4446118684",
-    "company": "MetLife",
-    "title": "Junior Software Engineer",
-    "locations": [
-      "Bridgewater, NJ"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4446118684",
-    "sponsorship": "",
-    "posted": "2026-07-27",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4445408111",
-    "company": "Metropolitan Transportation Authority",
-    "title": "Junior Software Engineer",
-    "locations": [
-      "Jamaica, NY"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4445408111",
-    "sponsorship": "",
-    "posted": "2026-07-27",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4445191937",
-    "company": "GIT America, Inc.",
-    "title": "Junior Software Developer",
-    "locations": [
-      "Irvine, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4445191937",
-    "sponsorship": "",
-    "posted": "2026-07-27",
-    "source": "LinkedIn"
   },
   {
     "id": "simplify-e62a24f2-a26c-4cc3-ba1c-2dbc5a29e072",
