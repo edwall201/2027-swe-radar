@@ -24,13 +24,37 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4435609225",
-    "company": "BAE Systems, Inc.",
-    "title": "Entry Level Software Engineer",
+    "id": "linkedin-4446469243",
+    "company": "Nyla Technology Solutions",
+    "title": "Junior Software Engineer",
     "locations": [
-      "Hudson, NH"
+      "Annapolis Junction, MD"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4435609225",
+    "url": "https://www.linkedin.com/jobs/view/4446469243",
+    "sponsorship": "",
+    "posted": "2026-07-30",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4446905172",
+    "company": "Halliburton",
+    "title": "Software Engineer - Early Career - Landmark",
+    "locations": [
+      "Houston, TX"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4446905172",
+    "sponsorship": "",
+    "posted": "2026-07-30",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4444970298",
+    "company": "Medtronic",
+    "title": "Software Engineer I (AI-Driven Data Solutions) - Lafayette, CO",
+    "locations": [
+      "Lafayette, CO"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4444970298",
     "sponsorship": "",
     "posted": "2026-07-30",
     "source": "LinkedIn"
@@ -108,18 +132,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4444617312",
-    "company": "Palantir Technologies",
-    "title": "Forward Deployed Infrastructure Engineer, New Grad - US Government",
-    "locations": [
-      "Washington, DC"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4444617312",
-    "sponsorship": "",
-    "posted": "2026-07-29",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4434155092",
     "company": "Palantir Technologies",
     "title": "Software Engineer, New Grad - Production Infrastructure",
@@ -127,6 +139,42 @@
       "Seattle, WA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4434155092",
+    "sponsorship": "",
+    "posted": "2026-07-29",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4446400569",
+    "company": "Eccalon, LLC",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "Detroit, MI"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4446400569",
+    "sponsorship": "",
+    "posted": "2026-07-29",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4446077290",
+    "company": "Revature",
+    "title": "Entry Level Software Developer",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4446077290",
+    "sponsorship": "",
+    "posted": "2026-07-29",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4446081005",
+    "company": "Revature",
+    "title": "Entry Level Software Developer",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4446081005",
     "sponsorship": "",
     "posted": "2026-07-29",
     "source": "LinkedIn"
@@ -156,25 +204,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4446078262",
-    "company": "Revature",
-    "title": "Entry Level Software Developer",
-    "locations": [
-      "Charlotte, NC"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4446078262",
-    "sponsorship": "",
-    "posted": "2026-07-29",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4446400569",
-    "company": "Eccalon, LLC",
+    "id": "linkedin-4444172702",
+    "company": "GBIT (Global Bridge InfoTech Inc)",
     "title": "Junior Software Engineer",
     "locations": [
-      "Detroit, MI"
+      "Richardson, TX"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4446400569",
+    "url": "https://www.linkedin.com/jobs/view/4444172702",
     "sponsorship": "",
     "posted": "2026-07-29",
     "source": "LinkedIn"
@@ -253,37 +289,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4434149314",
-    "company": "Palantir Technologies",
-    "title": "Software Engineer, New Grad - Infrastructure",
+    "id": "linkedin-4443240193",
+    "company": "AANCO Financial Services",
+    "title": "Software Engineer, New Grad",
     "locations": [
-      "Palo Alto, CA"
+      "Philadelphia, PA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4434149314",
-    "sponsorship": "",
-    "posted": "2026-07-28",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4444623228",
-    "company": "Palantir Technologies",
-    "title": "Forward Deployed Infrastructure Engineer, New Grad - US Government",
-    "locations": [
-      "New York, NY"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4444623228",
-    "sponsorship": "",
-    "posted": "2026-07-28",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4424241056",
-    "company": "Ciena",
-    "title": "Telecommunications Quality Automation Test Engineer - New Grad",
-    "locations": [
-      "Petaluma, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4424241056",
+    "url": "https://www.linkedin.com/jobs/view/4443240193",
     "sponsorship": "",
     "posted": "2026-07-28",
     "source": "LinkedIn"
@@ -301,6 +313,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4434149314",
+    "company": "Palantir Technologies",
+    "title": "Software Engineer, New Grad - Infrastructure",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4434149314",
+    "sponsorship": "",
+    "posted": "2026-07-28",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4445655464",
     "company": "Texas Sports Academy",
     "title": "Junior Software Engineer (AI-Forward)",
@@ -313,13 +337,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4407298053",
-    "company": "OneStream Software",
-    "title": "Software Engineer I",
+    "id": "linkedin-4436872546",
+    "company": "SimpliSafe",
+    "title": "Software Engineer I - Device Control",
     "locations": [
-      "United States"
+      "Boston, MA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4407298053",
+    "url": "https://www.linkedin.com/jobs/view/4436872546",
     "sponsorship": "",
     "posted": "2026-07-28",
     "source": "LinkedIn"
@@ -335,18 +359,6 @@
     "sponsorship": "",
     "posted": "2026-07-28",
     "source": "LinkedIn"
-  },
-  {
-    "id": "simplify-b8f78492-15f1-4f82-89cd-020a8716caec",
-    "company": "Barry-Wehmiller",
-    "title": "Entry Level Software Engineer",
-    "locations": [
-      "Denver, CO"
-    ],
-    "url": "https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/Denver-CO/Entry-Level-Software-Engineer_R022282",
-    "sponsorship": "Other",
-    "posted": "2026-07-27",
-    "source": "SimplifyJobs"
   },
   {
     "id": "simplify-58156a31-7ded-4534-a8cc-fc09e6dd1e14",
@@ -373,6 +385,18 @@
     "source": "Greenhouse"
   },
   {
+    "id": "linkedin-4442893738",
+    "company": "Rocket",
+    "title": "Software Engineer I",
+    "locations": [
+      "Michigan, United States"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4442893738",
+    "sponsorship": "",
+    "posted": "2026-07-27",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4442889322",
     "company": "Corissa Nunn Consulting",
     "title": "Software Engineer, Early Career",
@@ -385,13 +409,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4445192147",
-    "company": "Emonics LLC",
-    "title": "Entry Level Software Engineer",
+    "id": "linkedin-4446118684",
+    "company": "MetLife",
+    "title": "Junior Software Engineer",
     "locations": [
-      "Seattle, WA"
+      "Bridgewater, NJ"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4445192147",
+    "url": "https://www.linkedin.com/jobs/view/4446118684",
     "sponsorship": "",
     "posted": "2026-07-27",
     "source": "LinkedIn"
@@ -421,25 +445,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4446118684",
-    "company": "MetLife",
+    "id": "linkedin-4446119228",
+    "company": "ECS",
     "title": "Junior Software Engineer",
     "locations": [
-      "Bridgewater, NJ"
+      "Springfield, VA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4446118684",
-    "sponsorship": "",
-    "posted": "2026-07-27",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4417513151",
-    "company": "Eccalon, LLC",
-    "title": "Junior Software Engineer - onsite",
-    "locations": [
-      "Detroit, MI"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4417513151",
+    "url": "https://www.linkedin.com/jobs/view/4446119228",
     "sponsorship": "",
     "posted": "2026-07-27",
     "source": "LinkedIn"
@@ -493,18 +505,6 @@
     "source": "SimplifyJobs"
   },
   {
-    "id": "gh-duolingo-8628670002",
-    "company": "Duolingo",
-    "title": "Software Engineer II, Android",
-    "locations": [
-      "New York, NY"
-    ],
-    "url": "https://careers.duolingo.com/jobs/8628670002?gh_jid=8628670002",
-    "sponsorship": "",
-    "posted": "2026-07-23",
-    "source": "Greenhouse"
-  },
-  {
     "id": "gh-duolingo-8628658002",
     "company": "Duolingo",
     "title": "Software Engineer II, Android",
@@ -512,6 +512,18 @@
       "Pittsburgh, PA"
     ],
     "url": "https://careers.duolingo.com/jobs/8628658002?gh_jid=8628658002",
+    "sponsorship": "",
+    "posted": "2026-07-23",
+    "source": "Greenhouse"
+  },
+  {
+    "id": "gh-duolingo-8628670002",
+    "company": "Duolingo",
+    "title": "Software Engineer II, Android",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://careers.duolingo.com/jobs/8628670002?gh_jid=8628670002",
     "sponsorship": "",
     "posted": "2026-07-23",
     "source": "Greenhouse"
