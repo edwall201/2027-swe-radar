@@ -1,5 +1,17 @@
 [
   {
+    "id": "simplify-48921fdc-0754-40c8-91cc-f5e1bb6277bb",
+    "company": "NewsBreak",
+    "title": "Software Engineer Junior New Grad - ML Infra",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "url": "https://job-boards.greenhouse.io/newsbreak/jobs/4615879006",
+    "sponsorship": "Other",
+    "posted": "2026-07-31",
+    "source": "SimplifyJobs"
+  },
+  {
     "id": "linkedin-4438850428",
     "company": "Pylon",
     "title": "Software Engineer, New Grad",
@@ -12,97 +24,73 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4447526906",
-    "company": "BMW Group",
-    "title": "Software Engineer Co-Op Spring 2027 (AI/Data)",
+    "id": "linkedin-4447182836",
+    "company": "Jobright.ai",
+    "title": "Full Stack Software Engineer, New Grad",
     "locations": [
-      "Greenville, SC"
+      "United States"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4447526906",
+    "url": "https://www.linkedin.com/jobs/view/4447182836",
     "sponsorship": "",
     "posted": "2026-07-31",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4447138373",
-    "company": "Confido",
-    "title": "New Grad Software Engineer",
+    "id": "linkedin-4435299070",
+    "company": "IXL Learning",
+    "title": "Software Engineer, New Grad",
     "locations": [
-      "New York, NY"
+      "Raleigh, NC"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4447138373",
+    "url": "https://www.linkedin.com/jobs/view/4435299070",
     "sponsorship": "",
     "posted": "2026-07-31",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4445059490",
+    "id": "linkedin-4447190213",
+    "company": "Jobright.ai",
+    "title": "Backend Engineer, New Grad",
+    "locations": [
+      "United States"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4447190213",
+    "sponsorship": "",
+    "posted": "2026-07-31",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4445060467",
     "company": "IBM",
     "title": "Entry Level Software Developer 2026",
     "locations": [
-      "Austin, TX"
+      "Lowell, MA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4445059490",
+    "url": "https://www.linkedin.com/jobs/view/4445060467",
     "sponsorship": "",
     "posted": "2026-07-31",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4445067380",
-    "company": "IBM",
-    "title": "Entry Level Software Developer 2026",
+    "id": "linkedin-4439122054",
+    "company": "Cruit Group",
+    "title": "Junior Software Developer",
     "locations": [
-      "Tucson, AZ"
+      "Miami, FL"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4445067380",
+    "url": "https://www.linkedin.com/jobs/view/4439122054",
     "sponsorship": "",
     "posted": "2026-07-31",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4447579049",
-    "company": "Mimecast",
-    "title": "Software Engineer I",
+    "id": "linkedin-4447215832",
+    "company": "Prosum",
+    "title": "Junior Software Engineer",
     "locations": [
-      "Minneapolis, MN"
+      "Temecula, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4447579049",
-    "sponsorship": "",
-    "posted": "2026-07-31",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4445065452",
-    "company": "IBM",
-    "title": "Entry Level Software Developer 2026",
-    "locations": [
-      "Rochester, MN"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4445065452",
-    "sponsorship": "",
-    "posted": "2026-07-31",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4447129512",
-    "company": "Revature",
-    "title": "Entry Level Software Developer",
-    "locations": [
-      "Dallas, TX"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4447129512",
-    "sponsorship": "",
-    "posted": "2026-07-31",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4447549146",
-    "company": "BMO U.S.",
-    "title": "Software Developer ( Early Career )-15",
-    "locations": [
-      "Irving, TX"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4447549146",
+    "url": "https://www.linkedin.com/jobs/view/4447215832",
     "sponsorship": "",
     "posted": "2026-07-31",
     "source": "LinkedIn"
@@ -132,13 +120,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4447215832",
-    "company": "Prosum",
-    "title": "Junior Software Engineer",
+    "id": "linkedin-4447254798",
+    "company": "Cisco",
+    "title": "Software Engineer I (Full Time) \u2013 United States",
     "locations": [
-      "Temecula, CA"
+      "San Jose, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4447215832",
+    "url": "https://www.linkedin.com/jobs/view/4447254798",
     "sponsorship": "",
     "posted": "2026-07-31",
     "source": "LinkedIn"
@@ -156,25 +144,73 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4439122054",
-    "company": "Cruit Group",
-    "title": "Junior Software Developer",
+    "id": "linkedin-4447150578",
+    "company": "Smartsheet",
+    "title": "Software Engineer I (Remote Eligible)",
     "locations": [
-      "Miami, FL"
+      "United States"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4439122054",
+    "url": "https://www.linkedin.com/jobs/view/4447150578",
     "sponsorship": "",
     "posted": "2026-07-31",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4447229272",
-    "company": "Amerisure Insurance",
-    "title": "Software Engineer I",
+    "id": "linkedin-4445087622",
+    "company": "Haystack",
+    "title": "Junior Software Engineer",
     "locations": [
-      "Farmington Hills, MI"
+      "United States"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4447229272",
+    "url": "https://www.linkedin.com/jobs/view/4445087622",
+    "sponsorship": "",
+    "posted": "2026-07-31",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4445067380",
+    "company": "IBM",
+    "title": "Entry Level Software Developer 2026",
+    "locations": [
+      "Tucson, AZ"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4445067380",
+    "sponsorship": "",
+    "posted": "2026-07-31",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4447257467",
+    "company": "Keurig Dr Pepper Inc.",
+    "title": "Embedded Software Engineer I",
+    "locations": [
+      "Benton Harbor, MI"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4447257467",
+    "sponsorship": "",
+    "posted": "2026-07-31",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4438292999",
+    "company": "Confido",
+    "title": "New Grad Software Engineer",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4438292999",
+    "sponsorship": "",
+    "posted": "2026-07-30",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4446793876",
+    "company": "Avery Dennison",
+    "title": "RFID Applications Engineering Co-op - Spring 2027 ( plus one semester)",
+    "locations": [
+      "Miamisburg, OH"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4446793876",
     "sponsorship": "",
     "posted": "2026-07-30",
     "source": "LinkedIn"
@@ -192,18 +228,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4446732499",
-    "company": "SpeedyApply",
-    "title": "Junior Software Engineer - AI-Forward",
-    "locations": [
-      "Austin, TX"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4446732499",
-    "sponsorship": "",
-    "posted": "2026-07-30",
-    "source": "LinkedIn"
-  },
-  {
     "id": "simplify-49643f6b-95e6-4d37-af1d-1118ce4439cd",
     "company": "Texas Sports Academy",
     "title": "Junior Software Engineer - AI-Forward",
@@ -216,6 +240,18 @@
     "source": "SimplifyJobs"
   },
   {
+    "id": "linkedin-4317707969",
+    "company": "Nuro",
+    "title": "Software Engineer, AI Platform - New Grad",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4317707969",
+    "sponsorship": "",
+    "posted": "2026-07-29",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4443430086",
     "company": "Traba",
     "title": "Software Engineer (New Grad)",
@@ -223,18 +259,6 @@
       "New York, NY"
     ],
     "url": "https://www.linkedin.com/jobs/view/4443430086",
-    "sponsorship": "",
-    "posted": "2026-07-29",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4434155092",
-    "company": "Palantir Technologies",
-    "title": "Software Engineer, New Grad - Production Infrastructure",
-    "locations": [
-      "Seattle, WA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4434155092",
     "sponsorship": "",
     "posted": "2026-07-29",
     "source": "LinkedIn"
@@ -252,54 +276,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4308400318",
-    "company": "Trace3",
-    "title": "Software Engineer IV",
-    "locations": [
-      "Colorado Springs, CO"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4308400318",
-    "sponsorship": "",
-    "posted": "2026-07-29",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4446585000",
-    "company": "Texas Sports Academy",
-    "title": "Junior Software Engineer (AI-Forward)",
-    "locations": [
-      "Austin, TX"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4446585000",
-    "sponsorship": "",
-    "posted": "2026-07-29",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4317707969",
-    "company": "Nuro",
-    "title": "Software Engineer, AI Platform - New Grad",
-    "locations": [
-      "Mountain View, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4317707969",
-    "sponsorship": "",
-    "posted": "2026-07-29",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4446400569",
-    "company": "Eccalon, LLC",
-    "title": "Junior Software Engineer",
-    "locations": [
-      "Detroit, MI"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4446400569",
-    "sponsorship": "",
-    "posted": "2026-07-29",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4434136634",
     "company": "Palantir Technologies",
     "title": "Software Engineer, New Grad",
@@ -312,25 +288,25 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4446444568",
-    "company": "AbbVie",
-    "title": "Associate Software Engineer I",
+    "id": "linkedin-4446042310",
+    "company": "Abnormal AI",
+    "title": "Software Engineer I, Data Platform",
     "locations": [
-      "Mettawa, IL"
+      "United States"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4446444568",
+    "url": "https://www.linkedin.com/jobs/view/4446042310",
     "sponsorship": "",
     "posted": "2026-07-29",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4443676850",
-    "company": "Haystack",
+    "id": "linkedin-4446400569",
+    "company": "Eccalon, LLC",
     "title": "Junior Software Engineer",
     "locations": [
-      "Washington, DC"
+      "Detroit, MI"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4443676850",
+    "url": "https://www.linkedin.com/jobs/view/4446400569",
     "sponsorship": "",
     "posted": "2026-07-29",
     "source": "LinkedIn"
@@ -371,18 +347,6 @@
     "sponsorship": "Other",
     "posted": "2026-07-28",
     "source": "SimplifyJobs"
-  },
-  {
-    "id": "linkedin-4446383629",
-    "company": "Yamaha Motor Corporation, USA",
-    "title": "Software Engineer I",
-    "locations": [
-      "Kennesaw, GA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4446383629",
-    "sponsorship": "",
-    "posted": "2026-07-28",
-    "source": "LinkedIn"
   },
   {
     "id": "simplify-58156a31-7ded-4534-a8cc-fc09e6dd1e14",
@@ -690,18 +654,6 @@
     "source": "SimplifyJobs"
   },
   {
-    "id": "simplify-3280f6de-005d-4216-bc5c-c1052e58d650",
-    "company": "NVIDIA",
-    "title": "Compiler Engineer AI Inference New Grad",
-    "locations": [
-      "Santa Clara, CA"
-    ],
-    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Compiler-Engineer--AI-Inference--New-College-Grad-2026_JR2021230",
-    "sponsorship": "Other",
-    "posted": "2026-07-13",
-    "source": "SimplifyJobs"
-  },
-  {
     "id": "simplify-58e0500b-3577-4e69-9d43-b710f8155f10",
     "company": "NVIDIA",
     "title": "Backend Compiler Engineer New Grad",
@@ -985,6 +937,18 @@
     "url": "https://amat.wd1.myworkdayjobs.com/External/job/BoiseID/Applied-Early-Career---Installation-Team-Field-Service-Engineer_R2622705",
     "sponsorship": "Other",
     "posted": "2026-07-02",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-00142abd-9aec-4fca-9c8d-b46f6fb762d2",
+    "company": "Confido",
+    "title": "Software Engineer New Grad",
+    "locations": [
+      "NYC"
+    ],
+    "url": "https://jobs.ashbyhq.com/confido/69c0e572-b2f4-442f-beb8-1240155c629e/application",
+    "sponsorship": "Other",
+    "posted": "2026-07-01",
     "source": "SimplifyJobs"
   }
 ]
