@@ -1,28 +1,22 @@
 # 📡 2027 SWE Radar
 
 Automated daily scanner for **2027 new-grad software engineering** openings.
-Last scan: **2026-07-31** · Tracking **83** matching postings · 🆕 **15** new today
+Last scan: **2026-07-31** · Tracking **85** matching postings · 🆕 **9** new today
 Only showing **US** postings from **2026-07-01** onward, newest first.
 
 ## 🆕 New today
 
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
-| **OneClick Smart Resume** | Software Engineer, New Grad | Raleigh, NC | 2026-07-31 | [Link](https://www.linkedin.com/jobs/view/4447247640) |
-| **Jobright.ai** | Full Stack Software Engineer, New Grad | United States | 2026-07-31 | [Link](https://www.linkedin.com/jobs/view/4446949523) |
-| **IBM** | Entry Level Software Developer 2026 | Research Park, CA | 2026-07-31 | [Link](https://www.linkedin.com/jobs/view/4445049522) |
-| **IBM** | Entry Level Software Developer 2026 | Austin, TX | 2026-07-31 | [Link](https://www.linkedin.com/jobs/view/4445059490) |
-| **IBM** | Entry Level Software Developer 2026 | San Jose, CA | 2026-07-31 | [Link](https://www.linkedin.com/jobs/view/4445048538) |
-| **Prosum** | Junior Software Engineer | Temecula, CA | 2026-07-31 | [Link](https://www.linkedin.com/jobs/view/4447215832) |
-| **IBM** | Entry Level Software Developer 2026 | Poughkeepsie, AR | 2026-07-31 | [Link](https://www.linkedin.com/jobs/view/4445055520) |
-| **IBM** | Entry Level Software Developer 2026 | Tucson, AZ | 2026-07-31 | [Link](https://www.linkedin.com/jobs/view/4445067380) |
-| **Keurig Dr Pepper Inc.** | Embedded Software Engineer I | Benton Harbor, MI | 2026-07-31 | [Link](https://www.linkedin.com/jobs/view/4447257467) |
-| **Nuro** | Software Engineer, AI Platform - New Grad | Mountain View, CA | 2026-07-29 | [Link](https://www.linkedin.com/jobs/view/4317707969) |
-| **IXL Learning** | Software Engineer, New Grad | Raleigh, NC | 2026-07-29 | [Link](https://www.linkedin.com/jobs/view/4435299070) |
-| **Palantir Technologies** | Software Engineer, New Grad | Denver, CO | 2026-07-29 | [Link](https://www.linkedin.com/jobs/view/4434136634) |
-| **Texas Sports Academy** | Junior Software Engineer (AI-Forward) | Austin, TX | 2026-07-29 | [Link](https://www.linkedin.com/jobs/view/4446585000) |
-| **AbbVie** | Associate Software Engineer I | Mettawa, IL | 2026-07-29 | [Link](https://www.linkedin.com/jobs/view/4446444568) |
-| **Yamaha Motor Corporation, USA** | Software Engineer I | Kennesaw, GA | 2026-07-28 | [Link](https://www.linkedin.com/jobs/view/4446383629) |
+| **SpeedyApply** | Junior Software Engineer - AI-Forward | Austin, TX | 2026-07-30 | [Link](https://www.linkedin.com/jobs/view/4446732499) |
+| **Helic & Co** | Junior Software Engineer | United States | 2026-07-30 | [Link](https://www.linkedin.com/jobs/view/4447008407) |
+| **Palantir Technologies** | Forward Deployed Infrastructure Engineer, New Grad - US Government | Washington, DC | 2026-07-29 | [Link](https://www.linkedin.com/jobs/view/4444617312) |
+| **Haystack** | Junior Software Engineer | Washington, DC | 2026-07-29 | [Link](https://www.linkedin.com/jobs/view/4443676850) |
+| **Palantir Technologies** | Software Engineer, New Grad - Defense | Palo Alto, CA | 2026-07-28 | [Link](https://www.linkedin.com/jobs/view/4434142462) |
+| **Palantir Technologies** | Software Engineer, New Grad - Defense | New York, NY | 2026-07-28 | [Link](https://www.linkedin.com/jobs/view/4434143445) |
+| **Ciena** | Telecommunications Quality Automation Test Engineer - New Grad | Petaluma, CA | 2026-07-28 | [Link](https://www.linkedin.com/jobs/view/4424241056) |
+| **Notion** | Software Engineer, Early Career (AI) | San Francisco, CA | 2026-07-28 | [Link](https://www.linkedin.com/jobs/view/4437472369) |
+| **Interco** | Junior Software Developer | St Louis, MO | 2026-07-28 | [Link](https://www.linkedin.com/jobs/view/4443288779) |
 
 ## 🎯 Explicit 2027 openings
 
@@ -32,40 +26,42 @@ _No postings explicitly mentioning 2027 yet._
 
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
-| OneClick Smart Resume | Software Engineer, New Grad | Raleigh, NC | 2026-07-31 | [Link](https://www.linkedin.com/jobs/view/4447247640) |
 | Jobright.ai | Full Stack Software Engineer, New Grad | United States | 2026-07-31 | [Link](https://www.linkedin.com/jobs/view/4446949523) |
-| IBM | Entry Level Software Developer 2026 | Research Park, CA | 2026-07-31 | [Link](https://www.linkedin.com/jobs/view/4445049522) |
 | IBM | Entry Level Software Developer 2026 | Austin, TX | 2026-07-31 | [Link](https://www.linkedin.com/jobs/view/4445059490) |
+| IBM | Entry Level Software Developer 2026 | Research Park, CA | 2026-07-31 | [Link](https://www.linkedin.com/jobs/view/4445049522) |
 | IBM | Entry Level Software Developer 2026 | San Jose, CA | 2026-07-31 | [Link](https://www.linkedin.com/jobs/view/4445048538) |
-| Prosum | Junior Software Engineer | Temecula, CA | 2026-07-31 | [Link](https://www.linkedin.com/jobs/view/4447215832) |
-| IBM | Entry Level Software Developer 2026 | Poughkeepsie, AR | 2026-07-31 | [Link](https://www.linkedin.com/jobs/view/4445055520) |
 | IBM | Entry Level Software Developer 2026 | Tucson, AZ | 2026-07-31 | [Link](https://www.linkedin.com/jobs/view/4445067380) |
 | Keurig Dr Pepper Inc. | Embedded Software Engineer I | Benton Harbor, MI | 2026-07-31 | [Link](https://www.linkedin.com/jobs/view/4447257467) |
-| InComm Payments | Software Engineer I | Utah, United States | 2026-07-31 | [Link](https://www.linkedin.com/jobs/view/4434750014) |
+| Prosum | Junior Software Engineer | Temecula, CA | 2026-07-31 | [Link](https://www.linkedin.com/jobs/view/4447215832) |
 | BAE Systems, Inc. | Entry Level Software Engineer | Hudson, NH | 2026-07-30 | [Link](https://www.linkedin.com/jobs/view/4435609225) |
-| Halliburton | Software Engineer - Early Career - Landmark | Houston, TX | 2026-07-30 | [Link](https://www.linkedin.com/jobs/view/4446905172) |
 | Nyla Technology Solutions | Junior Software Engineer | Annapolis Junction, MD | 2026-07-30 | [Link](https://www.linkedin.com/jobs/view/4446469243) |
-| Medtronic | Software Engineer I (AI-Driven Data Solutions) - Lafayette, CO | Lafayette, CO | 2026-07-30 | [Link](https://www.linkedin.com/jobs/view/4444970298) |
+| Halliburton | Software Engineer - Early Career - Landmark | Houston, TX | 2026-07-30 | [Link](https://www.linkedin.com/jobs/view/4446905172) |
+| SpeedyApply | Junior Software Engineer - AI-Forward | Austin, TX | 2026-07-30 | [Link](https://www.linkedin.com/jobs/view/4446732499) |
+| Helic & Co | Junior Software Engineer | United States | 2026-07-30 | [Link](https://www.linkedin.com/jobs/view/4447008407) |
 | Texas Sports Academy | Junior Software Engineer - AI-Forward | Austin, TX | 2026-07-29 | [Link](https://apply.workable.com/texas-sports-academy-main/j/2132C3AB96/apply) |
 | Nuro | Software Engineer, AI Platform - New Grad | Mountain View, CA | 2026-07-29 | [Link](https://www.linkedin.com/jobs/view/4317707969) |
 | Traba | Software Engineer (New Grad) | New York, NY | 2026-07-29 | [Link](https://www.linkedin.com/jobs/view/4443430086) |
 | Palantir Technologies | Software Engineer, New Grad | New York, NY | 2026-07-29 | [Link](https://www.linkedin.com/jobs/view/4434138603) |
 | IXL Learning | Software Engineer, New Grad | Raleigh, NC | 2026-07-29 | [Link](https://www.linkedin.com/jobs/view/4435299070) |
 | Palantir Technologies | Software Engineer, New Grad | Denver, CO | 2026-07-29 | [Link](https://www.linkedin.com/jobs/view/4434136634) |
+| Palantir Technologies | Forward Deployed Infrastructure Engineer, New Grad - US Government | Washington, DC | 2026-07-29 | [Link](https://www.linkedin.com/jobs/view/4444617312) |
 | Texas Sports Academy | Junior Software Engineer (AI-Forward) | Austin, TX | 2026-07-29 | [Link](https://www.linkedin.com/jobs/view/4446585000) |
 | Palantir Technologies | Software Engineer, New Grad - Production Infrastructure | Seattle, WA | 2026-07-29 | [Link](https://www.linkedin.com/jobs/view/4434155092) |
 | AbbVie | Associate Software Engineer I | Mettawa, IL | 2026-07-29 | [Link](https://www.linkedin.com/jobs/view/4446444568) |
+| Haystack | Junior Software Engineer | Washington, DC | 2026-07-29 | [Link](https://www.linkedin.com/jobs/view/4443676850) |
 | Eccalon, LLC | Junior Software Engineer | Detroit, MI | 2026-07-29 | [Link](https://www.linkedin.com/jobs/view/4446400569) |
-| Nscale | Systems Engineer - Early Career | Seattle, WA | 2026-07-29 | [Link](https://www.linkedin.com/jobs/view/4437856254) |
-| Nscale | Systems Engineer - Early Career | Bellevue, WA | 2026-07-29 | [Link](https://www.linkedin.com/jobs/view/4437862008) |
 | NewsBreak | Applied AI Engineer New Grad - Advertising Agents | Mountain View, CA | 2026-07-28 | [Link](https://job-boards.greenhouse.io/newsbreak/jobs/4700278006) |
 | Color | Software Engineer New Grad | San Bruno, CA | 2026-07-28 | [Link](https://jobs.ashbyhq.com/color-health/41fa6f16-b2f2-46c6-bdb4-9aae3b9b5b96/application?embed=true) |
 | Micron Technology | EDA/CAD Engineering New Grad | San Jose, CA; Boise, ID | 2026-07-28 | [Link](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---EDA-CAD-Engineer_JR103200) |
-| AANCO Financial Services | Software Engineer, New Grad | Philadelphia, PA | 2026-07-28 | [Link](https://www.linkedin.com/jobs/view/4443240193) |
 | Palantir Technologies | Software Engineer, New Grad - Infrastructure | Palo Alto, CA | 2026-07-28 | [Link](https://www.linkedin.com/jobs/view/4434149314) |
+| Palantir Technologies | Software Engineer, New Grad - Defense | Palo Alto, CA | 2026-07-28 | [Link](https://www.linkedin.com/jobs/view/4434142462) |
+| Palantir Technologies | Software Engineer, New Grad - Defense | New York, NY | 2026-07-28 | [Link](https://www.linkedin.com/jobs/view/4434143445) |
+| Ciena | Telecommunications Quality Automation Test Engineer - New Grad | Petaluma, CA | 2026-07-28 | [Link](https://www.linkedin.com/jobs/view/4424241056) |
 | Notion | Software Engineer, Early Career | San Francisco, CA | 2026-07-28 | [Link](https://www.linkedin.com/jobs/view/4437461678) |
 | OneStream Software | Software Engineer I | United States | 2026-07-28 | [Link](https://www.linkedin.com/jobs/view/4407298053) |
 | Yamaha Motor Corporation, USA | Software Engineer I | Kennesaw, GA | 2026-07-28 | [Link](https://www.linkedin.com/jobs/view/4446383629) |
+| Notion | Software Engineer, Early Career (AI) | San Francisco, CA | 2026-07-28 | [Link](https://www.linkedin.com/jobs/view/4437472369) |
+| Interco | Junior Software Developer | St Louis, MO | 2026-07-28 | [Link](https://www.linkedin.com/jobs/view/4443288779) |
 | Palantir Technologies | Software Engineer, New Grad - Production Infrastructure | New York, NY | 2026-07-28 | [Link](https://www.linkedin.com/jobs/view/4434145450) |
 | Bot Auto | Algorithm Engineer New Grad - Deep Learning & Vision | Houston, TX | 2026-07-27 | [Link](https://job-boards.greenhouse.io/botauto/jobs/5371947008) |
 | Samsara | Software Engineer II | Remote - US | 2026-07-27 | [Link](https://www.samsara.com/company/careers/roles/8036387?gh_jid=8036387) |
@@ -80,8 +76,6 @@ _No postings explicitly mentioning 2027 yet._
 | Hipp Health | Software Engineer New Grad | United States | 2026-07-21 | [Link](https://jobs.ashbyhq.com/hipp/ea04e914-674c-4c05-b40a-7e8a035bad14/application?embed=true) |
 | NVIDIA | GPU Architecture Engineer New Grad | Austin, TX; Santa Clara, CA | 2026-07-21 | [Link](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/GPU-Architecture-Engineer---New-College-Grad-2026_JR2021615) |
 | NVIDIA | RTL Power Optimization Engineer New Grad | Santa Clara, CA | 2026-07-21 | [Link](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/RTL-Power-Optimization-Engineer---New-College-Grad-2026_JR2021841) |
-| Micron Technology | New Grad Design Engineer - Design Engineer - DRAM Technology and Products | Boise, ID | 2026-07-20 | [Link](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Design-Engineer--DRAM-Technology-and-Products_JR106211) |
-| Crowdstrike | Engineer 1 New Grad - Data Scientist | Sunnyvale, CA | 2026-07-20 | [Link](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Engineer-I--Data-Scientist---New-Grad--Hybrid-_R29382-1) |
 
 ---
 _Sources: SimplifyJobs New-Grad-Positions, Greenhouse/Lever/Ashby boards, LinkedIn search, Adzuna aggregator._
