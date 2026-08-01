@@ -1,46 +1,43 @@
 # 📡 2027 SWE Radar
 
 Automated daily scanner for **2027 new-grad software engineering** openings.
-Last scan: **2026-08-01** · Tracking **91** matching postings · 🆕 **21** new today
+Last scan: **2026-08-01** · Tracking **92** matching postings · 🆕 **11** new today
 Only showing **US** postings from **2026-07-01** onward, newest first.
 
 ## 🆕 New today
 
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
-| **Quora** | Software Engineer New Grad - Machine Learning Platform | Remote in USA | 2026-08-01 | [Link](https://jobs.ashbyhq.com/quora/452afc2e-0c79-41f8-8201-1aab7df775db/application?embed=true) |
-| **Hong Kong Next Generation Internet Society** | Software Engineer, Early Career | San Francisco, CA | 2026-08-01 | [Link](https://www.linkedin.com/jobs/view/4447730916) |
-| **Quora** | Software Engineer, Machine Learning Platform, New Grad - Quora (Remote) | United States | 2026-08-01 | [Link](https://www.linkedin.com/jobs/view/4447728793) |
-| **Cadence Design Systems** | Application Software Developer New Grad | Livonia, MI | 2026-07-31 | [Link](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/LIVONIA-01/Adams-Application-Software-Developer---Recent-Grad-2026-_R55736-3) |
-| **Cadence Design Systems** | Multibody Dynamics Application Software Developer New Grad - Adams | Livonia, MI | 2026-07-31 | [Link](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/LIVONIA-01/Adams-MultiBody-Dynamics-Application-Software-Developer--Recent-Grad-2026-_R55788) |
-| **Cadence Design Systems** | Multibody Dynamics Application Software Developer New Grad - Adams | Livonia, MI | 2026-07-31 | [Link](https://cadence.wd1.myworkdayjobs.com/University_Talent_NCG/job/LIVONIA-01/Adams-MultiBody-Dynamics-Application-Software-Developer--Recent-Grad-2026-_R55788-2) |
-| **Cadence Design Systems** | Application Software Developer New Grad | Livonia, MI | 2026-07-31 | [Link](https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/LIVONIA-01/Adams-Application-Software-Developer---Recent-Grad-2026-_R55736-2) |
-| **Cadence Design Systems** | Application Software Developer New Grad | Livonia, MI | 2026-07-31 | [Link](https://cadence.wd1.myworkdayjobs.com/University_Talent/job/LIVONIA-01/Adams-Application-Software-Developer---Recent-Grad-2026-_R55736-1) |
-| **Cadence Design Systems** | Multibody Dynamics Application Software Developer New Grad - Adams | Livonia, MI | 2026-07-31 | [Link](https://cadence.wd1.myworkdayjobs.com/University_Talent/job/LIVONIA-01/Adams-MultiBody-Dynamics-Application-Software-Developer--Recent-Grad-2026-_R55788-3) |
-| **Cadence Design Systems** | Application Software Developer New Grad | Livonia, MI | 2026-07-31 | [Link](https://cadence.wd1.myworkdayjobs.com/University_Talent_NCG/job/LIVONIA-01/Adams-Application-Software-Developer---Recent-Grad-2026-_R55736) |
-| **Mimecast** | Software Engineer I | Minneapolis, MN | 2026-07-31 | [Link](https://www.linkedin.com/jobs/view/4447579049) |
-| **IBM** | Entry Level Software Developer 2026 | Rochester, MN | 2026-07-31 | [Link](https://www.linkedin.com/jobs/view/4445065452) |
-| **Revature** | Entry Level Software Developer | Dallas, TX | 2026-07-31 | [Link](https://www.linkedin.com/jobs/view/4447129512) |
-| **Amerisure Insurance** | Software Engineer I | Farmington Hills, MI | 2026-07-30 | [Link](https://www.linkedin.com/jobs/view/4447229272) |
-| **Smartsheet** | Software Engineer II - Full Stack (Remote Eligible) | United States | 2026-07-30 | [Link](https://www.linkedin.com/jobs/view/4447213261) |
-| **Palantir Technologies** | Software Engineer, New Grad - Production Infrastructure | Seattle, WA | 2026-07-29 | [Link](https://www.linkedin.com/jobs/view/4434155092) |
-| **Palantir Technologies** | Forward Deployed Infrastructure Engineer, New Grad - US Government | Washington, DC | 2026-07-29 | [Link](https://www.linkedin.com/jobs/view/4444617312) |
-| **Texas Sports Academy** | Junior Software Engineer (AI-Forward) | Austin, TX | 2026-07-29 | [Link](https://www.linkedin.com/jobs/view/4446585000) |
-| **AbbVie** | Associate Software Engineer I | Mettawa, IL | 2026-07-29 | [Link](https://www.linkedin.com/jobs/view/4446444568) |
-| **Nscale** | Systems Engineer - Early Career | Seattle, WA | 2026-07-29 | [Link](https://www.linkedin.com/jobs/view/4437856254) |
-| **Nscale** | Systems Engineer - Early Career | Bellevue, WA | 2026-07-29 | [Link](https://www.linkedin.com/jobs/view/4437862008) |
+| **AdaMarie** | 2027 Associate Software Engineer / Software Engineer | Melbourne, FL | 2026-08-01 | [Link](https://www.linkedin.com/jobs/view/4447718895) |
+| **Hong Kong Next Generation Internet Society** | Software Engineer, Early Career (AI) | San Francisco, CA | 2026-08-01 | [Link](https://www.linkedin.com/jobs/view/4447739837) |
+| **Jobright.ai** | Full Stack Software Engineer, New Grad | United States | 2026-07-31 | [Link](https://www.linkedin.com/jobs/view/4447182836) |
+| **IXL Learning** | Software Engineer, New Grad | Raleigh, NC | 2026-07-31 | [Link](https://www.linkedin.com/jobs/view/4435299070) |
+| **BMW Group** | Software Engineer Co-Op Spring 2027 (AI/Data) | Greenville, SC | 2026-07-31 | [Link](https://www.linkedin.com/jobs/view/4447526906) |
+| **Johns Hopkins Applied Physics Laboratory** | 2027 Graduate - Systems Engineer / Analyst | Laurel, MD | 2026-07-31 | [Link](https://www.linkedin.com/jobs/view/4445528604) |
+| **Jobright.ai** | Backend Engineer, New Grad | United States | 2026-07-31 | [Link](https://www.linkedin.com/jobs/view/4447190213) |
+| **Avery Dennison** | RFID Applications Engineering Co-op - Spring 2027 ( plus one semester) | Miamisburg, OH | 2026-07-30 | [Link](https://www.linkedin.com/jobs/view/4446793876) |
+| **Nyla Technology Solutions** | Junior Software Engineer | Annapolis Junction, MD | 2026-07-30 | [Link](https://www.linkedin.com/jobs/view/4446469243) |
+| **Haystack** | Junior Software Engineer | Washington, DC | 2026-07-29 | [Link](https://www.linkedin.com/jobs/view/4443676850) |
+| **Haystack** | Junior Software Engineer | Washington DC-Baltimore Area | 2026-07-29 | [Link](https://www.linkedin.com/jobs/view/4443695115) |
 
 ## 🎯 Explicit 2027 openings
 
-_No postings explicitly mentioning 2027 yet._
+| Company | Role | Location | Posted | Apply |
+|---|---|---|---|---|
+| AdaMarie | 2027 Associate Software Engineer / Software Engineer | Melbourne, FL | 2026-08-01 | [Link](https://www.linkedin.com/jobs/view/4447718895) |
+| BMW Group | Software Engineer Co-Op Spring 2027 (AI/Data) | Greenville, SC | 2026-07-31 | [Link](https://www.linkedin.com/jobs/view/4447526906) |
+| Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Systems Engineer / Analyst | Laurel, MD | 2026-07-31 | [Link](https://www.linkedin.com/jobs/view/4445528604) |
+| Avery Dennison | RFID Applications Engineering Co-op - Spring 2027 ( plus one semester) | Miamisburg, OH | 2026-07-30 | [Link](https://www.linkedin.com/jobs/view/4446793876) |
 
 ## All tracked postings (most recent 50)
 
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
 | Quora | Software Engineer New Grad - Machine Learning Platform | Remote in USA | 2026-08-01 | [Link](https://jobs.ashbyhq.com/quora/452afc2e-0c79-41f8-8201-1aab7df775db/application?embed=true) |
-| Hong Kong Next Generation Internet Society | Software Engineer, Early Career | San Francisco, CA | 2026-08-01 | [Link](https://www.linkedin.com/jobs/view/4447730916) |
 | Quora | Software Engineer, Machine Learning Platform, New Grad - Quora (Remote) | United States | 2026-08-01 | [Link](https://www.linkedin.com/jobs/view/4447728793) |
+| AdaMarie | 2027 Associate Software Engineer / Software Engineer | Melbourne, FL | 2026-08-01 | [Link](https://www.linkedin.com/jobs/view/4447718895) |
+| Hong Kong Next Generation Internet Society | Software Engineer, Early Career | San Francisco, CA | 2026-08-01 | [Link](https://www.linkedin.com/jobs/view/4447730916) |
+| Hong Kong Next Generation Internet Society | Software Engineer, Early Career (AI) | San Francisco, CA | 2026-08-01 | [Link](https://www.linkedin.com/jobs/view/4447739837) |
 | NewsBreak | Software Engineer Junior New Grad - ML Infra | Mountain View, CA | 2026-07-31 | [Link](https://job-boards.greenhouse.io/newsbreak/jobs/4615879006) |
 | Cadence Design Systems | Application Software Developer New Grad | Livonia, MI | 2026-07-31 | [Link](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/LIVONIA-01/Adams-Application-Software-Developer---Recent-Grad-2026-_R55736-3) |
 | Cadence Design Systems | Multibody Dynamics Application Software Developer New Grad - Adams | Livonia, MI | 2026-07-31 | [Link](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/LIVONIA-01/Adams-MultiBody-Dynamics-Application-Software-Developer--Recent-Grad-2026-_R55788) |
@@ -50,33 +47,32 @@ _No postings explicitly mentioning 2027 yet._
 | Cadence Design Systems | Multibody Dynamics Application Software Developer New Grad - Adams | Livonia, MI | 2026-07-31 | [Link](https://cadence.wd1.myworkdayjobs.com/University_Talent/job/LIVONIA-01/Adams-MultiBody-Dynamics-Application-Software-Developer--Recent-Grad-2026-_R55788-3) |
 | Cadence Design Systems | Application Software Developer New Grad | Livonia, MI | 2026-07-31 | [Link](https://cadence.wd1.myworkdayjobs.com/University_Talent_NCG/job/LIVONIA-01/Adams-Application-Software-Developer---Recent-Grad-2026-_R55736) |
 | Pylon | Software Engineer, New Grad | San Francisco, CA | 2026-07-31 | [Link](https://www.linkedin.com/jobs/view/4438850428) |
+| Jobright.ai | Full Stack Software Engineer, New Grad | United States | 2026-07-31 | [Link](https://www.linkedin.com/jobs/view/4447182836) |
+| IXL Learning | Software Engineer, New Grad | Raleigh, NC | 2026-07-31 | [Link](https://www.linkedin.com/jobs/view/4435299070) |
+| BMW Group | Software Engineer Co-Op Spring 2027 (AI/Data) | Greenville, SC | 2026-07-31 | [Link](https://www.linkedin.com/jobs/view/4447526906) |
+| Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Systems Engineer / Analyst | Laurel, MD | 2026-07-31 | [Link](https://www.linkedin.com/jobs/view/4445528604) |
+| Jobright.ai | Backend Engineer, New Grad | United States | 2026-07-31 | [Link](https://www.linkedin.com/jobs/view/4447190213) |
 | IBM | Entry Level Software Developer 2026 | Tucson, AZ | 2026-07-31 | [Link](https://www.linkedin.com/jobs/view/4445067380) |
 | Mimecast | Software Engineer I | Minneapolis, MN | 2026-07-31 | [Link](https://www.linkedin.com/jobs/view/4447579049) |
 | IBM | Entry Level Software Developer 2026 | Rochester, MN | 2026-07-31 | [Link](https://www.linkedin.com/jobs/view/4445065452) |
 | Revature | Entry Level Software Developer | Dallas, TX | 2026-07-31 | [Link](https://www.linkedin.com/jobs/view/4447129512) |
-| Cruit Group | Junior Software Developer | Miami, FL | 2026-07-31 | [Link](https://www.linkedin.com/jobs/view/4439122054) |
 | Prosum | Junior Software Engineer | Temecula, CA | 2026-07-31 | [Link](https://www.linkedin.com/jobs/view/4447215832) |
-| IBM | Entry Level Software Developer 2026 | Poughkeepsie, AR | 2026-07-31 | [Link](https://www.linkedin.com/jobs/view/4445055520) |
-| Cisco | Software Engineer I (Full Time) – United States | San Jose, CA | 2026-07-31 | [Link](https://www.linkedin.com/jobs/view/4447254798) |
-| Smartsheet | Software Engineer I (Remote Eligible) | United States | 2026-07-31 | [Link](https://www.linkedin.com/jobs/view/4447150578) |
 | Helic & Co | Junior Software Engineer | United States | 2026-07-31 | [Link](https://www.linkedin.com/jobs/view/4447518670) |
-| Altamira Technologies Corporation | junior software engineer | State College, PA | 2026-07-31 | [Link](https://www.linkedin.com/jobs/view/4447146963) |
+| Cruit Group | Junior Software Developer | Miami, FL | 2026-07-31 | [Link](https://www.linkedin.com/jobs/view/4439122054) |
 | Confido | New Grad Software Engineer | New York, NY | 2026-07-30 | [Link](https://www.linkedin.com/jobs/view/4438292999) |
+| Avery Dennison | RFID Applications Engineering Co-op - Spring 2027 ( plus one semester) | Miamisburg, OH | 2026-07-30 | [Link](https://www.linkedin.com/jobs/view/4446793876) |
 | Amerisure Insurance | Software Engineer I | Farmington Hills, MI | 2026-07-30 | [Link](https://www.linkedin.com/jobs/view/4447229272) |
+| Nyla Technology Solutions | Junior Software Engineer | Annapolis Junction, MD | 2026-07-30 | [Link](https://www.linkedin.com/jobs/view/4446469243) |
 | Halliburton | Software Engineer - Early Career - Landmark | Houston, TX | 2026-07-30 | [Link](https://www.linkedin.com/jobs/view/4446905172) |
-| Smartsheet | Software Engineer II - Full Stack (Remote Eligible) | United States | 2026-07-30 | [Link](https://www.linkedin.com/jobs/view/4447213261) |
 | Texas Sports Academy | Junior Software Engineer - AI-Forward | Austin, TX | 2026-07-29 | [Link](https://apply.workable.com/texas-sports-academy-main/j/2132C3AB96/apply) |
-| Traba | Software Engineer (New Grad) | New York, NY | 2026-07-29 | [Link](https://www.linkedin.com/jobs/view/4443430086) |
-| Palantir Technologies | Software Engineer, New Grad - Production Infrastructure | Seattle, WA | 2026-07-29 | [Link](https://www.linkedin.com/jobs/view/4434155092) |
-| Palantir Technologies | Forward Deployed Infrastructure Engineer, New Grad - US Government | Washington, DC | 2026-07-29 | [Link](https://www.linkedin.com/jobs/view/4444617312) |
-| Texas Sports Academy | Junior Software Engineer (AI-Forward) | Austin, TX | 2026-07-29 | [Link](https://www.linkedin.com/jobs/view/4446585000) |
-| Palantir Technologies | Software Engineer, New Grad | New York, NY | 2026-07-29 | [Link](https://www.linkedin.com/jobs/view/4434138603) |
 | Nuro | Software Engineer, AI Platform - New Grad | Mountain View, CA | 2026-07-29 | [Link](https://www.linkedin.com/jobs/view/4317707969) |
-| Eccalon, LLC | Junior Software Engineer | Detroit, MI | 2026-07-29 | [Link](https://www.linkedin.com/jobs/view/4446400569) |
+| Traba | Software Engineer (New Grad) | New York, NY | 2026-07-29 | [Link](https://www.linkedin.com/jobs/view/4443430086) |
+| Palantir Technologies | Software Engineer, New Grad | New York, NY | 2026-07-29 | [Link](https://www.linkedin.com/jobs/view/4434138603) |
 | Palantir Technologies | Software Engineer, New Grad | Denver, CO | 2026-07-29 | [Link](https://www.linkedin.com/jobs/view/4434136634) |
-| AbbVie | Associate Software Engineer I | Mettawa, IL | 2026-07-29 | [Link](https://www.linkedin.com/jobs/view/4446444568) |
-| Nscale | Systems Engineer - Early Career | Seattle, WA | 2026-07-29 | [Link](https://www.linkedin.com/jobs/view/4437856254) |
-| Nscale | Systems Engineer - Early Career | Bellevue, WA | 2026-07-29 | [Link](https://www.linkedin.com/jobs/view/4437862008) |
+| Palantir Technologies | Forward Deployed Infrastructure Engineer, New Grad - US Government | Washington, DC | 2026-07-29 | [Link](https://www.linkedin.com/jobs/view/4444617312) |
+| Eccalon, LLC | Junior Software Engineer | Detroit, MI | 2026-07-29 | [Link](https://www.linkedin.com/jobs/view/4446400569) |
+| Haystack | Junior Software Engineer | Washington, DC | 2026-07-29 | [Link](https://www.linkedin.com/jobs/view/4443676850) |
+| Haystack | Junior Software Engineer | Washington DC-Baltimore Area | 2026-07-29 | [Link](https://www.linkedin.com/jobs/view/4443695115) |
 | NewsBreak | Applied AI Engineer New Grad - Advertising Agents | Mountain View, CA | 2026-07-28 | [Link](https://job-boards.greenhouse.io/newsbreak/jobs/4700278006) |
 | Color | Software Engineer New Grad | San Bruno, CA | 2026-07-28 | [Link](https://jobs.ashbyhq.com/color-health/41fa6f16-b2f2-46c6-bdb4-9aae3b9b5b96/application?embed=true) |
 | Micron Technology | EDA/CAD Engineering New Grad | San Jose, CA; Boise, ID | 2026-07-28 | [Link](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---EDA-CAD-Engineer_JR103200) |
@@ -87,7 +83,6 @@ _No postings explicitly mentioning 2027 yet._
 | Bridger | Early Career Product Engineer | NYC | 2026-07-23 | [Link](https://jobs.ashbyhq.com/bridger/5a4a77e4-31a0-40c6-8e3d-9b5c6205943f/application?embed=true) |
 | Cerebras | Kernel Engineer New Grad | United States | 2026-07-23 | [Link](https://jobs.ashbyhq.com/cerebras/9c7da4b8-446b-4bf2-8d07-23241590bf2e/application?embed=true) |
 | Duolingo | Software Engineer II, Android | Pittsburgh, PA | 2026-07-23 | [Link](https://careers.duolingo.com/jobs/8628658002?gh_jid=8628658002) |
-| Duolingo | Software Engineer II, Android | New York, NY | 2026-07-23 | [Link](https://careers.duolingo.com/jobs/8628670002?gh_jid=8628670002) |
 
 ---
 _Sources: SimplifyJobs New-Grad-Positions, Greenhouse/Lever/Ashby boards, LinkedIn search, Adzuna aggregator._
