@@ -360,9 +360,52 @@
     "source": "SimplifyJobs"
   },
   {
+    "id": "simplify-0cd03db8-9364-4a6d-803e-c1c724f5f289",
+    "company": "SOCOTEC Global",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "NYC"
+    ],
+    "url": "https://jobs.smartrecruiters.com/Socotec/744000141326319",
+    "sponsorship": "Other",
+    "posted": "2026-08-03",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-1b2d5e3a-9ab3-42a9-ab25-8ade9c457825",
+    "company": "Pariveda Solutions",
+    "title": "Entry Level Software Engineer",
+    "locations": [
+      "Seattle, WA",
+      "Houston, TX",
+      "LA",
+      "Dallas, TX",
+      "Philadelphia, PA",
+      "Chicago, IL",
+      "NYC",
+      "Atlanta, GA"
+    ],
+    "url": "https://jobs.ashbyhq.com/pariveda/cc4fc0be-c414-4aba-a15d-64daa03476a0/application?embed=true",
+    "sponsorship": "Other",
+    "posted": "2026-08-03",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "linkedin-4448121484",
+    "company": "Lightfield",
+    "title": "Software Engineer: Infrastructure (Early Career)",
+    "locations": [
+      "Cambridge, MA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4448121484",
+    "sponsorship": "",
+    "posted": "2026-08-03",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4446226935",
     "company": "Samsara",
-    "title": "Software Engineer I (New Grad) - SF",
+    "title": "Software Engineer I - New Grad, SF",
     "locations": [
       "San Francisco, CA"
     ],
@@ -372,49 +415,49 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4448207159",
-    "company": "Jobright.ai",
-    "title": "Full Stack Software Engineer, New Grad",
+    "id": "linkedin-4448318426",
+    "company": "Switchboard",
+    "title": "Junior Software Engineer",
     "locations": [
-      "United States"
+      "New York, NY"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4448207159",
+    "url": "https://www.linkedin.com/jobs/view/4448318426",
     "sponsorship": "",
     "posted": "2026-08-03",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4448131822",
-    "company": "ByteDance",
-    "title": "Software Engineer Graduate (Traffic Infrastructure) - 2027 Start",
+    "id": "linkedin-4448394856",
+    "company": "Clark",
+    "title": "Junior Software Engineer",
     "locations": [
-      "San Jose, CA"
+      "New York, NY"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4448131822",
+    "url": "https://www.linkedin.com/jobs/view/4448394856",
     "sponsorship": "",
     "posted": "2026-08-03",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4448129838",
-    "company": "ByteDance",
-    "title": "Software Engineer Graduate (AI Infrastructure-Compute Efficiency & Scheduling) - 2027 Start",
+    "id": "linkedin-4448653008",
+    "company": "SOCOTEC US",
+    "title": "Junior Software Engineer",
     "locations": [
-      "Seattle, WA"
+      "New York, NY"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4448129838",
+    "url": "https://www.linkedin.com/jobs/view/4448653008",
     "sponsorship": "",
     "posted": "2026-08-03",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4448135816",
-    "company": "ByteDance",
-    "title": "Software Engineer Graduate (AI Infrastructure \u2014 Compute Efficiency & Scheduling) - 2027 Start",
+    "id": "linkedin-4448243270",
+    "company": "SOCOTEC",
+    "title": "Junior Software Engineer",
     "locations": [
-      "San Jose, CA"
+      "New York, NY"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4448135816",
+    "url": "https://www.linkedin.com/jobs/view/4448243270",
     "sponsorship": "",
     "posted": "2026-08-03",
     "source": "LinkedIn"
@@ -432,18 +475,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4448135804",
-    "company": "ByteDance",
-    "title": "Backend Software Engineer Graduate (Platform) - 2027 Start",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4448135804",
-    "sponsorship": "",
-    "posted": "2026-08-03",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4447908313",
     "company": "TikTok",
     "title": "Software Engineer/Mobile Engineer Graduate (Ads Core Demonstration) - 2027 Start",
@@ -451,6 +482,18 @@
       "San Jose, CA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4447908313",
+    "sponsorship": "",
+    "posted": "2026-08-03",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4448135804",
+    "company": "ByteDance",
+    "title": "Backend Software Engineer Graduate (Platform) - 2027 Start",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4448135804",
     "sponsorship": "",
     "posted": "2026-08-03",
     "source": "LinkedIn"
@@ -468,13 +511,25 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4447913203",
-    "company": "TikTok",
-    "title": "Software Engineer Graduate (Ads Delivery) - 2027 Start",
+    "id": "linkedin-4448623227",
+    "company": "Chicago Trading Company",
+    "title": "Associate Engineer - 2027 Start",
     "locations": [
-      "San Jose, CA"
+      "Chicago, IL"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4447913203",
+    "url": "https://www.linkedin.com/jobs/view/4448623227",
+    "sponsorship": "",
+    "posted": "2026-08-03",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4448218650",
+    "company": "Maven Securities",
+    "title": "Graduate Developer Programme Chicago 2027",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4448218650",
     "sponsorship": "",
     "posted": "2026-08-03",
     "source": "LinkedIn"
@@ -504,18 +559,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4447683470",
-    "company": "TikTok",
-    "title": "Backend Software Engineer Graduate (Risk & Response) - 2027 Start",
-    "locations": [
-      "Seattle, WA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4447683470",
-    "sponsorship": "",
-    "posted": "2026-08-03",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4447917135",
     "company": "TikTok",
     "title": "Backend Software Engineer Graduate (Emerging Products & AI Safety) - 2027 Start",
@@ -523,6 +566,18 @@
       "San Jose, CA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4447917135",
+    "sponsorship": "",
+    "posted": "2026-08-03",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4447683470",
+    "company": "TikTok",
+    "title": "Backend Software Engineer Graduate (Risk & Response) - 2027 Start",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4447683470",
     "sponsorship": "",
     "posted": "2026-08-03",
     "source": "LinkedIn"
@@ -552,109 +607,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4447906355",
-    "company": "TikTok",
-    "title": "Software Engineer Graduate (Ads Signal & Measurement) - 2027 Start",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4447906355",
-    "sponsorship": "",
-    "posted": "2026-08-03",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4446221553",
-    "company": "Jobright.ai",
-    "title": "Backend Engineer, New Grad",
-    "locations": [
-      "United States"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4446221553",
-    "sponsorship": "",
-    "posted": "2026-08-03",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4448394856",
-    "company": "Clark",
+    "id": "linkedin-4446118684",
+    "company": "MetLife",
     "title": "Junior Software Engineer",
     "locations": [
-      "New York, NY"
+      "Bridgewater, NJ"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4448394856",
-    "sponsorship": "",
-    "posted": "2026-08-03",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4448318426",
-    "company": "Switchboard",
-    "title": "Junior Software Engineer",
-    "locations": [
-      "New York, NY"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4448318426",
-    "sponsorship": "",
-    "posted": "2026-08-03",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4448243270",
-    "company": "SOCOTEC",
-    "title": "Junior Software Engineer",
-    "locations": [
-      "New York, NY"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4448243270",
-    "sponsorship": "",
-    "posted": "2026-08-03",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4402165922",
-    "company": "Rokt",
-    "title": "Junior Software Engineer",
-    "locations": [
-      "New York, NY"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4402165922",
-    "sponsorship": "",
-    "posted": "2026-08-03",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4448216835",
-    "company": "Carra",
-    "title": "Junior Software Engineer",
-    "locations": [
-      "New York, NY"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4448216835",
-    "sponsorship": "",
-    "posted": "2026-08-03",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4445882677",
-    "company": "Haystack",
-    "title": "Junior Software Engineer",
-    "locations": [
-      "Washington, DC"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4445882677",
-    "sponsorship": "",
-    "posted": "2026-08-03",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4448303054",
-    "company": "Helic & Co",
-    "title": "Junior Software Engineer",
-    "locations": [
-      "United States"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4448303054",
+    "url": "https://www.linkedin.com/jobs/view/4446118684",
     "sponsorship": "",
     "posted": "2026-08-03",
     "source": "LinkedIn"
@@ -672,13 +631,73 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4448121484",
-    "company": "Lightfield",
-    "title": "Software Engineer: Infrastructure (Early Career)",
+    "id": "linkedin-4448257360",
+    "company": "Stellar Computer Systems (SCS)",
+    "title": "Junior Software Engineer",
     "locations": [
-      "Cambridge, MA"
+      "New York, United States"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4448121484",
+    "url": "https://www.linkedin.com/jobs/view/4448257360",
+    "sponsorship": "",
+    "posted": "2026-08-03",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4447997005",
+    "company": "Revature",
+    "title": "Entry Level Software Developer",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4447997005",
+    "sponsorship": "",
+    "posted": "2026-08-03",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4448304463",
+    "company": "JPMorganChase",
+    "title": "2027 Software Engineer Program - Full-Time - United States - February Start",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4448304463",
+    "sponsorship": "",
+    "posted": "2026-08-03",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4448303054",
+    "company": "Helic & Co",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "United States"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4448303054",
+    "sponsorship": "",
+    "posted": "2026-08-03",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4448216835",
+    "company": "Carra",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4448216835",
+    "sponsorship": "",
+    "posted": "2026-08-03",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4448309411",
+    "company": "Freedom Technology Solutions Group, LLC",
+    "title": "Junior Software Engineer 621",
+    "locations": [
+      "St Louis, MO"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4448309411",
     "sponsorship": "",
     "posted": "2026-08-03",
     "source": "LinkedIn"
@@ -695,6 +714,18 @@
     "sponsorship": "Other",
     "posted": "2026-08-02",
     "source": "SimplifyJobs"
+  },
+  {
+    "id": "linkedin-4447649754",
+    "company": "Catalis Partners Group",
+    "title": "Software Engineer, Early Career",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4447649754",
+    "sponsorship": "",
+    "posted": "2026-08-02",
+    "source": "LinkedIn"
   },
   {
     "id": "simplify-59aaa50c-6f7f-427b-950f-8b772440e208",
@@ -721,37 +752,13 @@
     "source": "SimplifyJobs"
   },
   {
-    "id": "linkedin-4447728793",
-    "company": "Quora",
-    "title": "Software Engineer, Machine Learning Platform, New Grad - Quora (Remote)",
+    "id": "linkedin-4445806988",
+    "company": "Intermedia Lab",
+    "title": "Software Engineer, Early Career",
     "locations": [
-      "United States"
+      "San Francisco, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4447728793",
-    "sponsorship": "",
-    "posted": "2026-08-01",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4445545449",
-    "company": "NewsBreak",
-    "title": "Software Engineer, ML Infra (Junior & New Grad)",
-    "locations": [
-      "Mountain View, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4445545449",
-    "sponsorship": "",
-    "posted": "2026-08-01",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4447718895",
-    "company": "AdaMarie",
-    "title": "2027 Associate Software Engineer / Software Engineer",
-    "locations": [
-      "Melbourne, FL"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4447718895",
+    "url": "https://www.linkedin.com/jobs/view/4445806988",
     "sponsorship": "",
     "posted": "2026-08-01",
     "source": "LinkedIn"
@@ -769,6 +776,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4420974725",
+    "company": "DAT Freight & Analytics",
+    "title": "Software Engineer I",
+    "locations": [
+      "Denver, CO"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4420974725",
+    "sponsorship": "",
+    "posted": "2026-08-01",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4447782975",
     "company": "Astor Group",
     "title": "Junior Software Developer for Hedge fund",
@@ -781,37 +800,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4445825004",
-    "company": "Intermedia Lab",
-    "title": "Software Engineer, Early Career (AI)",
+    "id": "linkedin-4447718895",
+    "company": "AdaMarie",
+    "title": "2027 Associate Software Engineer / Software Engineer",
     "locations": [
-      "San Francisco, CA"
+      "Melbourne, FL"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4445825004",
-    "sponsorship": "",
-    "posted": "2026-08-01",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4447730916",
-    "company": "Hong Kong Next Generation Internet Society",
-    "title": "Software Engineer, Early Career",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4447730916",
-    "sponsorship": "",
-    "posted": "2026-08-01",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4390703326",
-    "company": "Twitch",
-    "title": "Software Engineer I, Commerce Engineering",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4390703326",
+    "url": "https://www.linkedin.com/jobs/view/4447718895",
     "sponsorship": "",
     "posted": "2026-08-01",
     "source": "LinkedIn"
