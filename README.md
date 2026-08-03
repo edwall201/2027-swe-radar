@@ -1,31 +1,28 @@
 # 📡 2027 SWE Radar
 
 Automated daily scanner for **2027 new-grad software engineering** openings.
-Last scan: **2026-08-03** · Tracking **126** matching postings · 🆕 **18** new today
+Last scan: **2026-08-03** · Tracking **129** matching postings · 🆕 **15** new today
 Only showing **US** postings from **2026-07-01** onward, newest first.
 
 ## 🆕 New today
 
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
-| **Samsara** | Software Engineer I (New Grad) - SF | San Francisco, CA | 2026-08-03 | [Link](https://www.linkedin.com/jobs/view/4446226935) |
-| **Jobright.ai** | Full Stack Software Engineer, New Grad | United States | 2026-08-03 | [Link](https://www.linkedin.com/jobs/view/4448207159) |
-| **ByteDance** | Software Engineer Graduate (Traffic Infrastructure) - 2027 Start | San Jose, CA | 2026-08-03 | [Link](https://www.linkedin.com/jobs/view/4448131822) |
-| **ByteDance** | Software Engineer Graduate (AI Infrastructure-Compute Efficiency & Scheduling) - 2027 Start | Seattle, WA | 2026-08-03 | [Link](https://www.linkedin.com/jobs/view/4448129838) |
-| **ByteDance** | Software Engineer Graduate (AI Infrastructure — Compute Efficiency & Scheduling) - 2027 Start | San Jose, CA | 2026-08-03 | [Link](https://www.linkedin.com/jobs/view/4448135816) |
-| **Leonardo DRS** | Software Engineer II | Germantown, MD | 2026-08-03 | [Link](https://www.linkedin.com/jobs/view/4446255030) |
-| **Jobright.ai** | Backend Engineer, New Grad | United States | 2026-08-03 | [Link](https://www.linkedin.com/jobs/view/4446221553) |
-| **Switchboard** | Junior Software Engineer | New York, NY | 2026-08-03 | [Link](https://www.linkedin.com/jobs/view/4448318426) |
-| **Revature** | Entry Level Software Developer | Dallas, TX | 2026-08-03 | [Link](https://www.linkedin.com/jobs/view/4447997005) |
-| **JPMorganChase** | 2027 Software Engineer Program - Full-Time - United States - February Start | Chicago, IL | 2026-08-03 | [Link](https://www.linkedin.com/jobs/view/4448304463) |
-| **JPMorganChase** | 2027 Software Engineer Program - Full-Time - United States - July Start | Chicago, IL | 2026-08-03 | [Link](https://www.linkedin.com/jobs/view/4448194736) |
-| **Carra** | Junior Software Engineer | New York, NY | 2026-08-03 | [Link](https://www.linkedin.com/jobs/view/4448216835) |
-| **United** | Founding Applied AI Engineer — Early Career | New York City Metropolitan Area | 2026-08-03 | [Link](https://www.linkedin.com/jobs/view/4447690239) |
-| **Garner Health** | Software Engineer III | New York, NY | 2026-08-02 | [Link](https://www.linkedin.com/jobs/view/4379614164) |
-| **Quora** | Software Engineer, Machine Learning Platform, New Grad - Quora (Remote) | United States | 2026-08-01 | [Link](https://www.linkedin.com/jobs/view/4447728793) |
-| **NewsBreak** | Software Engineer, ML Infra (Junior & New Grad) | Mountain View, CA | 2026-08-01 | [Link](https://www.linkedin.com/jobs/view/4445545449) |
-| **York Space Systems** | Software Engineer I - Ground Software | Laurel, MD | 2026-08-01 | [Link](https://www.linkedin.com/jobs/view/4428293134) |
-| **IXL Learning** | Software Engineer, New Grad | Raleigh, NC | 2026-07-31 | [Link](https://www.linkedin.com/jobs/view/4435299070) |
+| **ByteDance** | Backend Software Engineer Graduate (Platform) - 2027 Start | New York, United States | 2026-08-03 | [Link](https://www.linkedin.com/jobs/view/4448124963) |
+| **ByteDance** | Backend Software Engineer Graduate (Platform) - 2027 Start | San Jose, CA | 2026-08-03 | [Link](https://www.linkedin.com/jobs/view/4448135804) |
+| **TikTok** | Software Engineer/Mobile Engineer Graduate (Ads Core Demonstration) - 2027 Start | San Jose, CA | 2026-08-03 | [Link](https://www.linkedin.com/jobs/view/4447908313) |
+| **TikTok** | Software Engineer Graduate (Business Integrity) - 2027 Start | San Jose, CA | 2026-08-03 | [Link](https://www.linkedin.com/jobs/view/4447912196) |
+| **TikTok** | Software Engineer Graduate (Ads Delivery) - 2027 Start | San Jose, CA | 2026-08-03 | [Link](https://www.linkedin.com/jobs/view/4447913203) |
+| **TikTok** | (General Hire) Backend Software Engineer Graduate (Trust & Safety) - 2027 Start | San Jose, CA | 2026-08-03 | [Link](https://www.linkedin.com/jobs/view/4447682418) |
+| **TikTok** | (General hire) Backend Software Engineer Graduate (Trust & Safety) - 2027 Start | Seattle, WA | 2026-08-03 | [Link](https://www.linkedin.com/jobs/view/4447685342) |
+| **TikTok** | Backend Software Engineer Graduate (Emerging Products & AI Safety) - 2027 Start | San Jose, CA | 2026-08-03 | [Link](https://www.linkedin.com/jobs/view/4447917135) |
+| **TikTok** | Backend Software Engineer Graduate (Feed Safety) - 2027 Start | Seattle, WA | 2026-08-03 | [Link](https://www.linkedin.com/jobs/view/4447682431) |
+| **TikTok** | Software Engineer Graduate (MLOps) - 2027 Start | San Jose, CA | 2026-08-03 | [Link](https://www.linkedin.com/jobs/view/4447917140) |
+| **TikTok** | Software Engineer Graduate (Ads Signal & Measurement) - 2027 Start | San Jose, CA | 2026-08-03 | [Link](https://www.linkedin.com/jobs/view/4447906355) |
+| **Clark** | Junior Software Engineer | New York, NY | 2026-08-03 | [Link](https://www.linkedin.com/jobs/view/4448394856) |
+| **SOCOTEC** | Junior Software Engineer | New York, NY | 2026-08-03 | [Link](https://www.linkedin.com/jobs/view/4448243270) |
+| **Haystack** | Junior Software Engineer | Washington, DC | 2026-08-03 | [Link](https://www.linkedin.com/jobs/view/4445882677) |
+| **Northrop Grumman** | 2027 Associate Software Engineer / Software Engineer | Melbourne, FL | 2026-08-01 | [Link](https://www.linkedin.com/jobs/view/4447734972) |
 
 ## 🎯 Explicit 2027 openings
 
@@ -34,10 +31,20 @@ Only showing **US** postings from **2026-07-01** onward, newest first.
 | ByteDance | Software Engineer Graduate (Traffic Infrastructure) - 2027 Start | San Jose, CA | 2026-08-03 | [Link](https://www.linkedin.com/jobs/view/4448131822) |
 | ByteDance | Software Engineer Graduate (AI Infrastructure-Compute Efficiency & Scheduling) - 2027 Start | Seattle, WA | 2026-08-03 | [Link](https://www.linkedin.com/jobs/view/4448129838) |
 | ByteDance | Software Engineer Graduate (AI Infrastructure — Compute Efficiency & Scheduling) - 2027 Start | San Jose, CA | 2026-08-03 | [Link](https://www.linkedin.com/jobs/view/4448135816) |
+| ByteDance | Backend Software Engineer Graduate (Platform) - 2027 Start | New York, United States | 2026-08-03 | [Link](https://www.linkedin.com/jobs/view/4448124963) |
+| ByteDance | Backend Software Engineer Graduate (Platform) - 2027 Start | San Jose, CA | 2026-08-03 | [Link](https://www.linkedin.com/jobs/view/4448135804) |
+| TikTok | Software Engineer/Mobile Engineer Graduate (Ads Core Demonstration) - 2027 Start | San Jose, CA | 2026-08-03 | [Link](https://www.linkedin.com/jobs/view/4447908313) |
+| TikTok | Software Engineer Graduate (Business Integrity) - 2027 Start | San Jose, CA | 2026-08-03 | [Link](https://www.linkedin.com/jobs/view/4447912196) |
+| TikTok | Software Engineer Graduate (Ads Delivery) - 2027 Start | San Jose, CA | 2026-08-03 | [Link](https://www.linkedin.com/jobs/view/4447913203) |
+| TikTok | (General Hire) Backend Software Engineer Graduate (Trust & Safety) - 2027 Start | San Jose, CA | 2026-08-03 | [Link](https://www.linkedin.com/jobs/view/4447682418) |
+| TikTok | (General hire) Backend Software Engineer Graduate (Trust & Safety) - 2027 Start | Seattle, WA | 2026-08-03 | [Link](https://www.linkedin.com/jobs/view/4447685342) |
 | TikTok | Backend Software Engineer Graduate (Risk & Response) - 2027 Start | Seattle, WA | 2026-08-03 | [Link](https://www.linkedin.com/jobs/view/4447683470) |
-| JPMorganChase | 2027 Software Engineer Program - Full-Time - United States - February Start | Chicago, IL | 2026-08-03 | [Link](https://www.linkedin.com/jobs/view/4448304463) |
-| JPMorganChase | 2027 Software Engineer Program - Full-Time - United States - July Start | Chicago, IL | 2026-08-03 | [Link](https://www.linkedin.com/jobs/view/4448194736) |
+| TikTok | Backend Software Engineer Graduate (Emerging Products & AI Safety) - 2027 Start | San Jose, CA | 2026-08-03 | [Link](https://www.linkedin.com/jobs/view/4447917135) |
+| TikTok | Backend Software Engineer Graduate (Feed Safety) - 2027 Start | Seattle, WA | 2026-08-03 | [Link](https://www.linkedin.com/jobs/view/4447682431) |
+| TikTok | Software Engineer Graduate (MLOps) - 2027 Start | San Jose, CA | 2026-08-03 | [Link](https://www.linkedin.com/jobs/view/4447917140) |
+| TikTok | Software Engineer Graduate (Ads Signal & Measurement) - 2027 Start | San Jose, CA | 2026-08-03 | [Link](https://www.linkedin.com/jobs/view/4447906355) |
 | AdaMarie | 2027 Associate Software Engineer / Software Engineer | Melbourne, FL | 2026-08-01 | [Link](https://www.linkedin.com/jobs/view/4447718895) |
+| Northrop Grumman | 2027 Associate Software Engineer / Software Engineer | Melbourne, FL | 2026-08-01 | [Link](https://www.linkedin.com/jobs/view/4447734972) |
 
 ## All tracked postings (most recent 50)
 
@@ -78,21 +85,21 @@ Only showing **US** postings from **2026-07-01** onward, newest first.
 | ByteDance | Software Engineer Graduate (Traffic Infrastructure) - 2027 Start | San Jose, CA | 2026-08-03 | [Link](https://www.linkedin.com/jobs/view/4448131822) |
 | ByteDance | Software Engineer Graduate (AI Infrastructure-Compute Efficiency & Scheduling) - 2027 Start | Seattle, WA | 2026-08-03 | [Link](https://www.linkedin.com/jobs/view/4448129838) |
 | ByteDance | Software Engineer Graduate (AI Infrastructure — Compute Efficiency & Scheduling) - 2027 Start | San Jose, CA | 2026-08-03 | [Link](https://www.linkedin.com/jobs/view/4448135816) |
-| Leonardo DRS | Software Engineer II | Germantown, MD | 2026-08-03 | [Link](https://www.linkedin.com/jobs/view/4446255030) |
-| Jobright.ai | Backend Engineer, New Grad | United States | 2026-08-03 | [Link](https://www.linkedin.com/jobs/view/4446221553) |
-| Switchboard | Junior Software Engineer | New York, NY | 2026-08-03 | [Link](https://www.linkedin.com/jobs/view/4448318426) |
+| ByteDance | Backend Software Engineer Graduate (Platform) - 2027 Start | New York, United States | 2026-08-03 | [Link](https://www.linkedin.com/jobs/view/4448124963) |
+| ByteDance | Backend Software Engineer Graduate (Platform) - 2027 Start | San Jose, CA | 2026-08-03 | [Link](https://www.linkedin.com/jobs/view/4448135804) |
+| TikTok | Software Engineer/Mobile Engineer Graduate (Ads Core Demonstration) - 2027 Start | San Jose, CA | 2026-08-03 | [Link](https://www.linkedin.com/jobs/view/4447908313) |
+| TikTok | Software Engineer Graduate (Business Integrity) - 2027 Start | San Jose, CA | 2026-08-03 | [Link](https://www.linkedin.com/jobs/view/4447912196) |
+| TikTok | Software Engineer Graduate (Ads Delivery) - 2027 Start | San Jose, CA | 2026-08-03 | [Link](https://www.linkedin.com/jobs/view/4447913203) |
+| TikTok | (General Hire) Backend Software Engineer Graduate (Trust & Safety) - 2027 Start | San Jose, CA | 2026-08-03 | [Link](https://www.linkedin.com/jobs/view/4447682418) |
+| TikTok | (General hire) Backend Software Engineer Graduate (Trust & Safety) - 2027 Start | Seattle, WA | 2026-08-03 | [Link](https://www.linkedin.com/jobs/view/4447685342) |
 | TikTok | Backend Software Engineer Graduate (Risk & Response) - 2027 Start | Seattle, WA | 2026-08-03 | [Link](https://www.linkedin.com/jobs/view/4447683470) |
-| MetLife | Junior Software Engineer | Bridgewater, NJ | 2026-08-03 | [Link](https://www.linkedin.com/jobs/view/4446118684) |
-| Revature | Entry Level Software Developer | Syracuse, NY | 2026-08-03 | [Link](https://www.linkedin.com/jobs/view/4447984338) |
-| Revature | Entry Level Software Developer | Dallas, TX | 2026-08-03 | [Link](https://www.linkedin.com/jobs/view/4447997005) |
-| JPMorganChase | 2027 Software Engineer Program - Full-Time - United States - February Start | Chicago, IL | 2026-08-03 | [Link](https://www.linkedin.com/jobs/view/4448304463) |
-| JPMorganChase | 2027 Software Engineer Program - Full-Time - United States - July Start | Chicago, IL | 2026-08-03 | [Link](https://www.linkedin.com/jobs/view/4448194736) |
-| Carra | Junior Software Engineer | New York, NY | 2026-08-03 | [Link](https://www.linkedin.com/jobs/view/4448216835) |
-| Rokt | Junior Software Engineer | New York, NY | 2026-08-03 | [Link](https://www.linkedin.com/jobs/view/4402165922) |
-| Helic & Co | Junior Software Engineer | United States | 2026-08-03 | [Link](https://www.linkedin.com/jobs/view/4448303054) |
-| Lightfield | Software Engineer: Infrastructure (Early Career) | Cambridge, MA | 2026-08-03 | [Link](https://www.linkedin.com/jobs/view/4448121484) |
-| United | Founding Applied AI Engineer — Early Career | New York City Metropolitan Area | 2026-08-03 | [Link](https://www.linkedin.com/jobs/view/4447690239) |
-| Lightfield | Early Career Infrastructure Software Engineer | Cambridge, MA; Boston, MA | 2026-08-02 | [Link](https://jobs.ashbyhq.com/Lightfield/9a7ef2f9-577a-4242-b884-719e3cdf4420/application?embed=true) |
+| TikTok | Backend Software Engineer Graduate (Emerging Products & AI Safety) - 2027 Start | San Jose, CA | 2026-08-03 | [Link](https://www.linkedin.com/jobs/view/4447917135) |
+| TikTok | Backend Software Engineer Graduate (Feed Safety) - 2027 Start | Seattle, WA | 2026-08-03 | [Link](https://www.linkedin.com/jobs/view/4447682431) |
+| TikTok | Software Engineer Graduate (MLOps) - 2027 Start | San Jose, CA | 2026-08-03 | [Link](https://www.linkedin.com/jobs/view/4447917140) |
+| TikTok | Software Engineer Graduate (Ads Signal & Measurement) - 2027 Start | San Jose, CA | 2026-08-03 | [Link](https://www.linkedin.com/jobs/view/4447906355) |
+| Jobright.ai | Backend Engineer, New Grad | United States | 2026-08-03 | [Link](https://www.linkedin.com/jobs/view/4446221553) |
+| Clark | Junior Software Engineer | New York, NY | 2026-08-03 | [Link](https://www.linkedin.com/jobs/view/4448394856) |
+| Switchboard | Junior Software Engineer | New York, NY | 2026-08-03 | [Link](https://www.linkedin.com/jobs/view/4448318426) |
 
 ---
 _Sources: SimplifyJobs New-Grad-Positions, Greenhouse/Lever/Ashby boards, LinkedIn search, Adzuna aggregator._
