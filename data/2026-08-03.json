@@ -1,5 +1,341 @@
 [
   {
+    "id": "simplify-4f002917-8cdb-4ef9-a66c-02d05d0d220e",
+    "company": "Peterson Technologies",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "Annapolis Junction, MD"
+    ],
+    "url": "https://petersontechnologies.applytojob.com/apply/ma86Yof82u/Junior-Software-Engineer",
+    "sponsorship": "Other",
+    "posted": "2026-08-03",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-2885ff59-1385-48a3-8b0d-ae0a20235b78",
+    "company": "GliaCell Technologies",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "Annapolis Junction, MD"
+    ],
+    "url": "https://gliacelltechnologies.applytojob.com/apply/Zet89PpNoU/Junior-Software-Engineer",
+    "sponsorship": "Other",
+    "posted": "2026-08-03",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-c8522e95-f6e1-419a-b503-80a942a4ce72",
+    "company": "HarmonyTech",
+    "title": "Junior Software Developer - .NET",
+    "locations": [
+      "Herndon, VA"
+    ],
+    "url": "https://harmonytech.applytojob.com/apply/uhDb8hMR9P/Junior-Software-Developer-NET",
+    "sponsorship": "Other",
+    "posted": "2026-08-03",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-682f9b47-5081-4f77-85e3-da6ba3076369",
+    "company": "EAi Technologies",
+    "title": "Entry Level Software Developer",
+    "locations": [
+      "Vienna, VA"
+    ],
+    "url": "https://eaiti.applytojob.com/apply/Y16NUsHVnd/Entry-Level-Software-Developer",
+    "sponsorship": "Other",
+    "posted": "2026-08-03",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-492953a8-9863-41ff-b149-9e8fa3081af9",
+    "company": "TikTok",
+    "title": "Software Engineer/Mobile Engineer New Grad - Ads Core Demonstration",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://lifeattiktok.com/search/7668701834807101749",
+    "sponsorship": "Other",
+    "posted": "2026-08-03",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-de1b7df6-c4f8-41ea-bdff-5598ed16df6d",
+    "company": "TikTok",
+    "title": "Backend Software Engineer New Grad - Trust & Safety",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://lifeattiktok.com/search/7665994926887291189",
+    "sponsorship": "Other",
+    "posted": "2026-08-03",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-d8f41f3f-586c-4f20-8868-e9832e690e61",
+    "company": "TikTok",
+    "title": "Machine Learning Engineer New Grad - Search Quality",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://lifeattiktok.com/search/7665793152026740997",
+    "sponsorship": "Other",
+    "posted": "2026-08-03",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-d6849abb-e865-4cce-a9b9-a23021fc49f7",
+    "company": "TikTok",
+    "title": "Software Engineer New Grad - Ads Measurement Signal Technology",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://lifeattiktok.com/search/7668717356843977013",
+    "sponsorship": "Other",
+    "posted": "2026-08-03",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-78f040d4-9950-46c8-93de-a0a189144450",
+    "company": "TikTok",
+    "title": "Machine Learning Engineer New Grad - Data Search Visual Search",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://lifeattiktok.com/search/7667349591747758341",
+    "sponsorship": "Other",
+    "posted": "2026-08-03",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-5ae7b62f-063f-4d13-b197-9798beafa475",
+    "company": "TikTok",
+    "title": "Backend Software Engineer New Grad - Emerging Products & AI Safety",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://lifeattiktok.com/search/7663036952090347829",
+    "sponsorship": "Other",
+    "posted": "2026-08-03",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-50d9a250-7c25-4fe5-861d-0c8ad7f9299a",
+    "company": "TikTok",
+    "title": "Backend Software Engineer New Grad - Feed Safety",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "url": "https://lifeattiktok.com/search/7663028952600807733",
+    "sponsorship": "Other",
+    "posted": "2026-08-03",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-3bf4faa5-c7e0-48ae-bb7e-3da108f4ae3d",
+    "company": "TikTok",
+    "title": "Backend Software Engineer New Grad - Trust & Safety",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "url": "https://lifeattiktok.com/search/7664533229944178949",
+    "sponsorship": "Other",
+    "posted": "2026-08-03",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-18aa6242-cd69-4aa2-999b-e8a7f5daa34f",
+    "company": "TikTok",
+    "title": "Machine Learning Engineer New Grad - Data Search - Visual Search",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://lifeattiktok.com/search/7667346535273007413",
+    "sponsorship": "Other",
+    "posted": "2026-08-03",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-dfb14959-39c2-4aaa-8ea0-a7f75c6dd02e",
+    "company": "TikTok",
+    "title": "Software Engineer New Grad - Quality and Efficiency Technology",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://lifeattiktok.com/search/7668680253677504821",
+    "sponsorship": "Other",
+    "posted": "2026-08-03",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-db70cc78-6903-4f3e-98df-d5eef1dabd84",
+    "company": "TikTok",
+    "title": "Machine Learning Engineer New Grad - Data-Global E-Commerce-Search",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "url": "https://lifeattiktok.com/search/7668389759463393589",
+    "sponsorship": "Other",
+    "posted": "2026-08-03",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-b027e384-ef72-4db9-8ff3-c63ea36f4583",
+    "company": "TikTok",
+    "title": "Machine Learning Engineer New Grad",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "url": "https://lifeattiktok.com/search/7668376903708281141",
+    "sponsorship": "Other",
+    "posted": "2026-08-03",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-7656aad8-a423-4e16-bb7e-5b487532457f",
+    "company": "TikTok",
+    "title": "Software Engineer New Grad - Ads Signal & Measurement",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://lifeattiktok.com/search/7668724383120804149",
+    "sponsorship": "Other",
+    "posted": "2026-08-03",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-0327292f-07c4-467b-83c8-867fbee19266",
+    "company": "TikTok",
+    "title": "Software Engineer New Grad - Business Integrity",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://lifeattiktok.com/search/7668592494649690421",
+    "sponsorship": "Other",
+    "posted": "2026-08-03",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-5352619a-3d75-4bd9-b7af-098751f77cad",
+    "company": "TikTok",
+    "title": "Machine Learning Engineer New Grad - E-Commerce Search",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "url": "https://lifeattiktok.com/search/7668390999147776309",
+    "sponsorship": "Other",
+    "posted": "2026-08-03",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-77e7783f-e6da-4352-a869-b3840c8dbfb9",
+    "company": "Retell AI",
+    "title": "Software Engineer New Grad - Founders Initiatives",
+    "locations": [
+      "Redwood City, CA"
+    ],
+    "url": "https://jobs.ashbyhq.com/retell-ai/ea775189-0496-43d8-a386-df8148265463/application?embed=true",
+    "sponsorship": "Other",
+    "posted": "2026-08-03",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-c7fb8916-9630-411f-b870-1670488e15f4",
+    "company": "WonderBotz",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "Princeton, NJ"
+    ],
+    "url": "https://wonderbotz.applytojob.com/apply/RrI9QanYDY/Junior-Software-Engineer",
+    "sponsorship": "Other",
+    "posted": "2026-08-03",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "linkedin-4448144400",
+    "company": "Direct-Calls.com",
+    "title": "Software Engineer (New Grads) at Giga AI Inc",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4448144400",
+    "sponsorship": "",
+    "posted": "2026-08-03",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4448131822",
+    "company": "ByteDance",
+    "title": "Software Engineer Graduate (Traffic Infrastructure) - 2027 Start",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4448131822",
+    "sponsorship": "",
+    "posted": "2026-08-03",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4448124963",
+    "company": "ByteDance",
+    "title": "Backend Software Engineer Graduate (Platform) - 2027 Start",
+    "locations": [
+      "New York, United States"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4448124963",
+    "sponsorship": "",
+    "posted": "2026-08-03",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4448135804",
+    "company": "ByteDance",
+    "title": "Backend Software Engineer Graduate (Platform) - 2027 Start",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4448135804",
+    "sponsorship": "",
+    "posted": "2026-08-03",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4447678500",
+    "company": "TikTok",
+    "title": "Backend Software Engineer Graduate (Business Governace) - 2027 Start",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4447678500",
+    "sponsorship": "",
+    "posted": "2026-08-03",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4447698044",
+    "company": "TikTok",
+    "title": "Backend Software Engineer Graduate (Machine Moderation Platform) - 2027 Start",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4447698044",
+    "sponsorship": "",
+    "posted": "2026-08-03",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4448135816",
+    "company": "ByteDance",
+    "title": "Software Engineer Graduate (AI Infrastructure \u2014 Compute Efficiency & Scheduling) - 2027 Start",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4448135816",
+    "sponsorship": "",
+    "posted": "2026-08-03",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4447683470",
     "company": "TikTok",
     "title": "Backend Software Engineer Graduate (Risk & Response) - 2027 Start",
@@ -12,18 +348,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4448121484",
-    "company": "Lightfield",
-    "title": "Software Engineer: Infrastructure (Early Career)",
-    "locations": [
-      "Cambridge, MA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4448121484",
-    "sponsorship": "",
-    "posted": "2026-08-03",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4447685342",
     "company": "TikTok",
     "title": "(General hire) Backend Software Engineer Graduate (Trust & Safety) - 2027 Start",
@@ -31,6 +355,18 @@
       "Seattle, WA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4447685342",
+    "sponsorship": "",
+    "posted": "2026-08-03",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4448121484",
+    "company": "Lightfield",
+    "title": "Software Engineer: Infrastructure (Early Career)",
+    "locations": [
+      "Cambridge, MA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4448121484",
     "sponsorship": "",
     "posted": "2026-08-03",
     "source": "LinkedIn"
@@ -121,6 +457,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4447718895",
+    "company": "AdaMarie",
+    "title": "2027 Associate Software Engineer / Software Engineer",
+    "locations": [
+      "Melbourne, FL"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4447718895",
+    "sponsorship": "",
+    "posted": "2026-08-01",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4445545449",
     "company": "NewsBreak",
     "title": "Software Engineer, ML Infra (Junior & New Grad)",
@@ -145,13 +493,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4447815346",
-    "company": "Helic & Co",
-    "title": "Junior Software Engineer",
+    "id": "linkedin-4445806988",
+    "company": "Intermedia Lab",
+    "title": "Software Engineer, Early Career",
     "locations": [
-      "United States"
+      "San Francisco, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4447815346",
+    "url": "https://www.linkedin.com/jobs/view/4445806988",
     "sponsorship": "",
     "posted": "2026-08-01",
     "source": "LinkedIn"
@@ -188,30 +536,6 @@
       "San Francisco, CA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4447730916",
-    "sponsorship": "",
-    "posted": "2026-08-01",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4445806988",
-    "company": "Intermedia Lab",
-    "title": "Software Engineer, Early Career",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4445806988",
-    "sponsorship": "",
-    "posted": "2026-08-01",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4447739837",
-    "company": "Hong Kong Next Generation Internet Society",
-    "title": "Software Engineer, Early Career (AI)",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4447739837",
     "sponsorship": "",
     "posted": "2026-08-01",
     "source": "LinkedIn"
@@ -337,25 +661,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4447146963",
-    "company": "Altamira Technologies Corporation",
-    "title": "junior software engineer",
+    "id": "linkedin-4447526906",
+    "company": "BMW Group",
+    "title": "Software Engineer Co-Op Spring 2027 (AI/Data)",
     "locations": [
-      "State College, PA"
+      "Greenville, SC"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4447146963",
-    "sponsorship": "",
-    "posted": "2026-07-31",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4447136354",
-    "company": "Revature",
-    "title": "Entry Level Software Developer",
-    "locations": [
-      "Richardson, TX"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4447136354",
+    "url": "https://www.linkedin.com/jobs/view/4447526906",
     "sponsorship": "",
     "posted": "2026-07-31",
     "source": "LinkedIn"
@@ -373,13 +685,61 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4446999220",
-    "company": "General Dynamics Mission Systems",
-    "title": "Entry Level Software Engineer",
+    "id": "linkedin-4447129512",
+    "company": "Revature",
+    "title": "Entry Level Software Developer",
     "locations": [
-      "Lakewood, OH"
+      "Dallas, TX"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4446999220",
+    "url": "https://www.linkedin.com/jobs/view/4447129512",
+    "sponsorship": "",
+    "posted": "2026-07-31",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4447142284",
+    "company": "Revature",
+    "title": "Entry Level Software Developer",
+    "locations": [
+      "Durham, NC"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4447142284",
+    "sponsorship": "",
+    "posted": "2026-07-31",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4434750014",
+    "company": "InComm Payments",
+    "title": "Software Engineer I",
+    "locations": [
+      "Utah, United States"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4434750014",
+    "sponsorship": "",
+    "posted": "2026-07-31",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4447549146",
+    "company": "BMO U.S.",
+    "title": "Software Developer ( Early Career )-15",
+    "locations": [
+      "Irving, TX"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4447549146",
+    "sponsorship": "",
+    "posted": "2026-07-31",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4447146963",
+    "company": "Altamira Technologies Corporation",
+    "title": "junior software engineer",
+    "locations": [
+      "State College, PA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4447146963",
     "sponsorship": "",
     "posted": "2026-07-31",
     "source": "LinkedIn"
