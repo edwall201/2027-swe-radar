@@ -84,6 +84,18 @@
     "source": "SimplifyJobs"
   },
   {
+    "id": "gh-samsara-8036387",
+    "company": "Samsara",
+    "title": "Software Engineer II",
+    "locations": [
+      "Remote - US"
+    ],
+    "url": "https://www.samsara.com/company/careers/roles/8036387?gh_jid=8036387",
+    "sponsorship": "",
+    "posted": "2026-08-04",
+    "source": "Greenhouse"
+  },
+  {
     "id": "linkedin-4446654461",
     "company": "Jobright.ai",
     "title": "Full Stack Software Engineer, New Grad",
@@ -168,13 +180,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4446613511",
-    "company": "TikTok USDS Joint Venture",
-    "title": "Software Engineer Graduate (Tech and Product, USDS) - 2027 Start",
+    "id": "linkedin-4437642176",
+    "company": "DoorDash",
+    "title": "Software Engineer I, Entry-Level (Graduation Date: Fall 2025-Summer 2026)",
     "locations": [
-      "Seattle, WA"
+      "Los Angeles, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4446613511",
+    "url": "https://www.linkedin.com/jobs/view/4437642176",
     "sponsorship": "",
     "posted": "2026-08-04",
     "source": "LinkedIn"
@@ -264,49 +276,25 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4448535543",
-    "company": "American Express",
-    "title": "Software Engineer I",
+    "id": "linkedin-4449048244",
+    "company": "Talkie",
+    "title": "Software Engineer, Early Career (AI)",
     "locations": [
-      "Phoenix, AZ"
+      "San Francisco, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4448535543",
+    "url": "https://www.linkedin.com/jobs/view/4449048244",
     "sponsorship": "",
     "posted": "2026-08-04",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4437642176",
-    "company": "DoorDash",
-    "title": "Software Engineer I, Entry-Level (Graduation Date: Fall 2025-Summer 2026)",
+    "id": "linkedin-4449035872",
+    "company": "Asiam",
+    "title": "Software Engineer, Early Career (AI)",
     "locations": [
-      "Los Angeles, CA"
+      "San Francisco, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4437642176",
-    "sponsorship": "",
-    "posted": "2026-08-04",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4448291147",
-    "company": "TikTok",
-    "title": "Backend Software Engineer Graduate (Global E-commerce) - 2027 Start",
-    "locations": [
-      "Seattle, WA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4448291147",
-    "sponsorship": "",
-    "posted": "2026-08-04",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4448289350",
-    "company": "Revature",
-    "title": "Entry Level Software Developer",
-    "locations": [
-      "Fort Worth, TX"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4448289350",
+    "url": "https://www.linkedin.com/jobs/view/4449035872",
     "sponsorship": "",
     "posted": "2026-08-04",
     "source": "LinkedIn"
@@ -811,6 +799,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4448194736",
+    "company": "JPMorganChase",
+    "title": "2027 Software Engineer Program - Full-Time - United States - July Start",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4448194736",
+    "sponsorship": "",
+    "posted": "2026-08-03",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4448394856",
     "company": "Clark",
     "title": "Junior Software Engineer",
@@ -871,18 +871,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4446249980",
-    "company": "Imprivata",
-    "title": "Software Engineer I",
-    "locations": [
-      "St. Petersburg, FL"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4446249980",
-    "sponsorship": "",
-    "posted": "2026-08-03",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4448243270",
     "company": "SOCOTEC",
     "title": "Junior Software Engineer",
@@ -895,37 +883,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4448309411",
-    "company": "Freedom Technology Solutions Group, LLC",
-    "title": "Junior Software Engineer 621",
+    "id": "linkedin-4448660440",
+    "company": "VSolvit",
+    "title": "JUNIOR SOFTWARE DEVELOPER",
     "locations": [
-      "St Louis, MO"
+      "Washington DC-Baltimore Area"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4448309411",
-    "sponsorship": "",
-    "posted": "2026-08-03",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4447911261",
-    "company": "Base-2 Solutions",
-    "title": "Junior Software Engineer",
-    "locations": [
-      "Hanover, MD"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4447911261",
-    "sponsorship": "",
-    "posted": "2026-08-03",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4448194736",
-    "company": "JPMorganChase",
-    "title": "2027 Software Engineer Program - Full-Time - United States - July Start",
-    "locations": [
-      "Chicago, IL"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4448194736",
+    "url": "https://www.linkedin.com/jobs/view/4448660440",
     "sponsorship": "",
     "posted": "2026-08-03",
     "source": "LinkedIn"
@@ -1002,30 +966,6 @@
     "sponsorship": "Other",
     "posted": "2026-08-01",
     "source": "SimplifyJobs"
-  },
-  {
-    "id": "linkedin-4445806988",
-    "company": "Intermedia Lab",
-    "title": "Software Engineer, Early Career",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4445806988",
-    "sponsorship": "",
-    "posted": "2026-08-01",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4445825004",
-    "company": "Intermedia Lab",
-    "title": "Software Engineer, Early Career (AI)",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4445825004",
-    "sponsorship": "",
-    "posted": "2026-08-01",
-    "source": "LinkedIn"
   },
   {
     "id": "simplify-48921fdc-0754-40c8-91cc-f5e1bb6277bb",
@@ -1207,18 +1147,6 @@
     "sponsorship": "Other",
     "posted": "2026-07-27",
     "source": "SimplifyJobs"
-  },
-  {
-    "id": "gh-samsara-8036387",
-    "company": "Samsara",
-    "title": "Software Engineer II",
-    "locations": [
-      "Remote - US"
-    ],
-    "url": "https://www.samsara.com/company/careers/roles/8036387?gh_jid=8036387",
-    "sponsorship": "",
-    "posted": "2026-07-27",
-    "source": "Greenhouse"
   },
   {
     "id": "simplify-e62a24f2-a26c-4cc3-ba1c-2dbc5a29e072",
