@@ -12,6 +12,30 @@
     "source": "SimplifyJobs"
   },
   {
+    "id": "simplify-50e97511-4f52-43a6-985d-3fc9ce92d6bb",
+    "company": "ByteDance",
+    "title": "Backend Inference Runtime Engineer New Grad - AML Inference",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://jobs.bytedance.com/en/position/7669789046777940229/detail",
+    "sponsorship": "Other",
+    "posted": "2026-08-06",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "linkedin-4449373039",
+    "company": "Konami Gaming, Inc.",
+    "title": "Software Engineer I (SDE/NOC)",
+    "locations": [
+      "Las Vegas, NV"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4449373039",
+    "sponsorship": "",
+    "posted": "2026-08-06",
+    "source": "LinkedIn"
+  },
+  {
     "id": "simplify-aedfd44b-f542-4591-a1c0-11bf66c8562c",
     "company": "L3Harris Technologies",
     "title": "Software Engineer New Grad",
@@ -115,18 +139,6 @@
       "United States"
     ],
     "url": "https://www.linkedin.com/jobs/view/4449633041",
-    "sponsorship": "",
-    "posted": "2026-08-05",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4448912111",
-    "company": "Teknostra Engineering Pvt. Ltd.",
-    "title": "Software Engineer, Early Career",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4448912111",
     "sponsorship": "",
     "posted": "2026-08-05",
     "source": "LinkedIn"
@@ -288,6 +300,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4446281814",
+    "company": "TikTok",
+    "title": "Software Engineer Graduate (Transaction Platform) - 2027 Start",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4446281814",
+    "sponsorship": "",
+    "posted": "2026-08-04",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4437647077",
     "company": "DoorDash",
     "title": "Software Engineer I, Entry-Level (Graduation Date: Fall 2025-Summer 2026)",
@@ -319,18 +343,6 @@
       "Syracuse, NY"
     ],
     "url": "https://www.linkedin.com/jobs/view/4448500004",
-    "sponsorship": "",
-    "posted": "2026-08-04",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4448898395",
-    "company": "JD Software",
-    "title": "Junior Software Engineer",
-    "locations": [
-      "Lake View, IL"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4448898395",
     "sponsorship": "",
     "posted": "2026-08-04",
     "source": "LinkedIn"
@@ -384,6 +396,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4448888920",
+    "company": "AV",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "Jessup, MD"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4448888920",
+    "sponsorship": "",
+    "posted": "2026-08-04",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4432040192",
     "company": "DAT Freight & Analytics",
     "title": "Software Engineer I",
@@ -391,6 +415,18 @@
       "Seattle, WA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4432040192",
+    "sponsorship": "",
+    "posted": "2026-08-04",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4440359519",
+    "company": "Vast",
+    "title": "Software Engineer I, Mission Software",
+    "locations": [
+      "Long Beach, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4440359519",
     "sponsorship": "",
     "posted": "2026-08-04",
     "source": "LinkedIn"
@@ -799,18 +835,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4448135804",
-    "company": "ByteDance",
-    "title": "Backend Software Engineer Graduate (Platform) - 2027 Start",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4448135804",
-    "sponsorship": "",
-    "posted": "2026-08-03",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4446118684",
     "company": "MetLife",
     "title": "Junior Software Engineer",
@@ -835,13 +859,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4446211085",
-    "company": "The McAlear Group",
-    "title": "Software Engineer I",
+    "id": "linkedin-4448309411",
+    "company": "Freedom Technology Solutions Group, LLC",
+    "title": "Junior Software Engineer 621",
     "locations": [
-      "Maumee, OH"
+      "St Louis, MO"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4446211085",
+    "url": "https://www.linkedin.com/jobs/view/4448309411",
     "sponsorship": "",
     "posted": "2026-08-03",
     "source": "LinkedIn"
@@ -914,6 +938,18 @@
       "Chicago, IL"
     ],
     "url": "https://www.linkedin.com/jobs/view/4448304463",
+    "sponsorship": "",
+    "posted": "2026-08-03",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4448623227",
+    "company": "Chicago Trading Company",
+    "title": "Associate Engineer - 2027 Start",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4448623227",
     "sponsorship": "",
     "posted": "2026-08-03",
     "source": "LinkedIn"
