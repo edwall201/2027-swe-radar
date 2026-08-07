@@ -1,5 +1,29 @@
 [
   {
+    "id": "linkedin-4450031020",
+    "company": "Solace",
+    "title": "Associate Product Engineer (College Grad 2027)",
+    "locations": [
+      "Redwood City, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4450031020",
+    "sponsorship": "",
+    "posted": "2026-08-07",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4448707026",
+    "company": "Intuitive Research and Technology Corporation",
+    "title": "Entry Level Software Engineer",
+    "locations": [
+      "Huntsville, AL"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4448707026",
+    "sponsorship": "",
+    "posted": "2026-08-07",
+    "source": "LinkedIn"
+  },
+  {
     "id": "simplify-ea160ce8-8221-40f5-a5bb-ca66c1ca3e01",
     "company": "TikTok",
     "title": "Software Engineer Graduate - Global E-commerce-Search - 2027 Start",
@@ -99,18 +123,6 @@
     "source": "SimplifyJobs"
   },
   {
-    "id": "linkedin-4450652437",
-    "company": "Walmart",
-    "title": "(USA) Software Engineer III",
-    "locations": [
-      "Bentonville, AR"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4450652437",
-    "sponsorship": "",
-    "posted": "2026-08-06",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4449748700",
     "company": "Optomi",
     "title": "Junior Software Engineer",
@@ -118,6 +130,18 @@
       "Austin, TX"
     ],
     "url": "https://www.linkedin.com/jobs/view/4449748700",
+    "sponsorship": "",
+    "posted": "2026-08-06",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4450652437",
+    "company": "Walmart",
+    "title": "(USA) Software Engineer III",
+    "locations": [
+      "Bentonville, AR"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4450652437",
     "sponsorship": "",
     "posted": "2026-08-06",
     "source": "LinkedIn"
@@ -154,6 +178,18 @@
       "Memphis, TN"
     ],
     "url": "https://www.linkedin.com/jobs/view/4450614043",
+    "sponsorship": "",
+    "posted": "2026-08-06",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4450241987",
+    "company": "Helic & Co",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "United States"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4450241987",
     "sponsorship": "",
     "posted": "2026-08-06",
     "source": "LinkedIn"
@@ -279,6 +315,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4448912111",
+    "company": "Teknostra Engineering Pvt. Ltd.",
+    "title": "Software Engineer, Early Career",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4448912111",
+    "sponsorship": "",
+    "posted": "2026-08-05",
+    "source": "LinkedIn"
+  },
+  {
     "id": "simplify-c78d4a32-8ee7-49e9-8f39-e63ea6cd4b9e",
     "company": "TikTok",
     "title": "Software Engineer New Grad",
@@ -387,18 +435,6 @@
     "source": "Greenhouse"
   },
   {
-    "id": "linkedin-4448295048",
-    "company": "TikTok",
-    "title": "Backend Engineer Graduate (User Growth) - 2027 Start",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4448295048",
-    "sponsorship": "",
-    "posted": "2026-08-04",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4446613511",
     "company": "TikTok USDS Joint Venture",
     "title": "Software Engineer Graduate (Tech and Product, USDS) - 2027 Start",
@@ -411,6 +447,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4448295048",
+    "company": "TikTok",
+    "title": "Backend Engineer Graduate (User Growth) - 2027 Start",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4448295048",
+    "sponsorship": "",
+    "posted": "2026-08-04",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4437647077",
     "company": "DoorDash",
     "title": "Software Engineer I, Entry-Level (Graduation Date: Fall 2025-Summer 2026)",
@@ -418,18 +466,6 @@
       "Seattle, WA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4437647077",
-    "sponsorship": "",
-    "posted": "2026-08-04",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4446604556",
-    "company": "Smart IS",
-    "title": "Junior Software Developer (Fresh Graduate)",
-    "locations": [
-      "Oshkosh, WI"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4446604556",
     "sponsorship": "",
     "posted": "2026-08-04",
     "source": "LinkedIn"
@@ -466,6 +502,42 @@
       "Dallas, TX"
     ],
     "url": "https://www.linkedin.com/jobs/view/4448286344",
+    "sponsorship": "",
+    "posted": "2026-08-04",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4437642177",
+    "company": "DoorDash",
+    "title": "Software Engineer I, Entry-Level (Graduation Date: Fall 2025-Summer 2026)",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4437642177",
+    "sponsorship": "",
+    "posted": "2026-08-04",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4448888920",
+    "company": "AV",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "Jessup, MD"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4448888920",
+    "sponsorship": "",
+    "posted": "2026-08-04",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4440359519",
+    "company": "Vast",
+    "title": "Software Engineer I, Mission Software",
+    "locations": [
+      "Long Beach, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4440359519",
     "sponsorship": "",
     "posted": "2026-08-04",
     "source": "LinkedIn"
@@ -1390,30 +1462,6 @@
       "Santa Clara, CA"
     ],
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Design-Engineer---New-College-Grad-2026_JR2020309",
-    "sponsorship": "Other",
-    "posted": "2026-07-09",
-    "source": "SimplifyJobs"
-  },
-  {
-    "id": "simplify-ff412e91-a5e3-48f6-8ed1-fa4ac83c5e81",
-    "company": "Cadence Design Systems",
-    "title": "Software Engineer New Grad - Undergrads",
-    "locations": [
-      "Burlington, MA"
-    ],
-    "url": "https://cadence.wd1.myworkdayjobs.com/University_Talent/job/Burlington-MA/Software-Engineer--New-College-Grad-2026--Undergrads-_R54894",
-    "sponsorship": "Other",
-    "posted": "2026-07-09",
-    "source": "SimplifyJobs"
-  },
-  {
-    "id": "simplify-13834a5f-488b-4fc4-bdd9-d3bff5044f25",
-    "company": "Cadence Design Systems",
-    "title": "Software Engineer New Grad - Undergrads",
-    "locations": [
-      "Burlington, MA"
-    ],
-    "url": "https://cadence.wd1.myworkdayjobs.com/University_Talent_NCG/job/Burlington-MA/Software-Engineer--New-College-Grad-2026--Undergrads-_R54894-3",
     "sponsorship": "Other",
     "posted": "2026-07-09",
     "source": "SimplifyJobs"
