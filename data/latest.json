@@ -72,18 +72,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4441962253",
-    "company": "Acrisure",
-    "title": "Software Engineer I",
-    "locations": [
-      "Uniondale, NY"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4441962253",
-    "sponsorship": "",
-    "posted": "2026-08-07",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4441946844",
     "company": "Acrisure",
     "title": "Software Engineer I",
@@ -108,6 +96,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4441962253",
+    "company": "Acrisure",
+    "title": "Software Engineer I",
+    "locations": [
+      "Uniondale, NY"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4441962253",
+    "sponsorship": "",
+    "posted": "2026-08-07",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4448782402",
     "company": "Kavaliro",
     "title": "Junior Software Engineer",
@@ -127,6 +127,18 @@
       "Pittsburgh, PA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4448754918",
+    "sponsorship": "",
+    "posted": "2026-08-07",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4448740872",
+    "company": "Veeva Systems",
+    "title": "Associate Software Engineer - Seeking 2027 Graduates",
+    "locations": [
+      "Columbus, OH"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4448740872",
     "sponsorship": "",
     "posted": "2026-08-07",
     "source": "LinkedIn"
@@ -526,30 +538,6 @@
       "Long Beach, CA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4440359519",
-    "sponsorship": "",
-    "posted": "2026-08-04",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4448898395",
-    "company": "JD Software",
-    "title": "Junior Software Engineer",
-    "locations": [
-      "Lake View, IL"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4448898395",
-    "sponsorship": "",
-    "posted": "2026-08-04",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4448888920",
-    "company": "AV",
-    "title": "Junior Software Engineer",
-    "locations": [
-      "Jessup, MD"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4448888920",
     "sponsorship": "",
     "posted": "2026-08-04",
     "source": "LinkedIn"
@@ -1098,6 +1086,18 @@
       "Austin, TX"
     ],
     "url": "https://apply.workable.com/texas-sports-academy-main/j/2132C3AB96/apply",
+    "sponsorship": "Other",
+    "posted": "2026-07-29",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-3ebe96ab-b5a9-4ddf-99f0-9583e2226fb6",
+    "company": "CVS Health",
+    "title": "Analytics & Behavior Change Engineering New Grad - Conversion",
+    "locations": [
+      "NYC"
+    ],
+    "url": "https://cvshealth.wd1.myworkdayjobs.com/Private_Postings_Intern_Conversion_ONLY/job/NY---New-York/Analytics---Behavior-Change---Engineering-Grad--Conversion-_R0991701",
     "sponsorship": "Other",
     "posted": "2026-07-29",
     "source": "SimplifyJobs"
