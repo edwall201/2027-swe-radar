@@ -1,20 +1,16 @@
 # 📡 2027 SWE Radar
 
 Automated daily scanner for **2027 new-grad software engineering** openings.
-Last scan: **2026-08-07** · Tracking **133** matching postings · 🆕 **7** new today
+Last scan: **2026-08-07** · Tracking **136** matching postings · 🆕 **3** new today
 Only showing **US** postings from **2026-07-01** onward, newest first.
 
 ## 🆕 New today
 
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
-| **Solace** | Associate Product Engineer (College Grad 2027) | Redwood City, CA | 2026-08-07 | [Link](https://www.linkedin.com/jobs/view/4450031020) |
-| **Intuitive Research and Technology Corporation** | Entry Level Software Engineer | Huntsville, AL | 2026-08-07 | [Link](https://www.linkedin.com/jobs/view/4448707026) |
-| **Helic & Co** | Junior Software Engineer | United States | 2026-08-06 | [Link](https://www.linkedin.com/jobs/view/4450241987) |
-| **Teknostra Engineering Pvt. Ltd.** | Software Engineer, Early Career | San Francisco, CA | 2026-08-05 | [Link](https://www.linkedin.com/jobs/view/4448912111) |
-| **DoorDash** | Software Engineer I, Entry-Level (Graduation Date: Fall 2025-Summer 2026) | New York, NY | 2026-08-04 | [Link](https://www.linkedin.com/jobs/view/4437642177) |
-| **AV** | Junior Software Engineer | Jessup, MD | 2026-08-04 | [Link](https://www.linkedin.com/jobs/view/4448888920) |
-| **Vast** | Software Engineer I, Mission Software | Long Beach, CA | 2026-08-04 | [Link](https://www.linkedin.com/jobs/view/4440359519) |
+| **TP-Link Systems** | System Hardware Design Engineer - Early Career | Irvine, CA | 2026-08-07 | [Link](https://apply.workable.com/tp-link-usa-corp/j/428D85D8DC/apply) |
+| **TP-Link Systems** | Early Career Embedded Software Engineer | Irvine, CA | 2026-08-07 | [Link](https://apply.workable.com/tp-link-usa-corp/j/F943A617EC/apply) |
+| **Crusoe** | Software Engineer I (DCIE) | San Francisco, CA | 2026-08-04 | [Link](https://www.linkedin.com/jobs/view/4449084252) |
 
 ## 🎯 Explicit 2027 openings
 
@@ -33,6 +29,8 @@ Only showing **US** postings from **2026-07-01** onward, newest first.
 
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
+| TP-Link Systems | System Hardware Design Engineer - Early Career | Irvine, CA | 2026-08-07 | [Link](https://apply.workable.com/tp-link-usa-corp/j/428D85D8DC/apply) |
+| TP-Link Systems | Early Career Embedded Software Engineer | Irvine, CA | 2026-08-07 | [Link](https://apply.workable.com/tp-link-usa-corp/j/F943A617EC/apply) |
 | Solace | Associate Product Engineer (College Grad 2027) | Redwood City, CA | 2026-08-07 | [Link](https://www.linkedin.com/jobs/view/4450031020) |
 | Intuitive Research and Technology Corporation | Entry Level Software Engineer | Huntsville, AL | 2026-08-07 | [Link](https://www.linkedin.com/jobs/view/4448707026) |
 | TikTok | Software Engineer Graduate - Global E-commerce-Search - 2027 Start | Seattle, WA | 2026-08-06 | [Link](https://lifeattiktok.com/search/7670558992960358661) |
@@ -77,12 +75,10 @@ Only showing **US** postings from **2026-07-01** onward, newest first.
 | Revature | Entry Level Software Developer | Dallas, TX | 2026-08-04 | [Link](https://www.linkedin.com/jobs/view/4448286344) |
 | DoorDash | Software Engineer I, Entry-Level (Graduation Date: Fall 2025-Summer 2026) | New York, NY | 2026-08-04 | [Link](https://www.linkedin.com/jobs/view/4437642177) |
 | AV | Junior Software Engineer | Jessup, MD | 2026-08-04 | [Link](https://www.linkedin.com/jobs/view/4448888920) |
+| Crusoe | Software Engineer I (DCIE) | San Francisco, CA | 2026-08-04 | [Link](https://www.linkedin.com/jobs/view/4449084252) |
 | Vast | Software Engineer I, Mission Software | Long Beach, CA | 2026-08-04 | [Link](https://www.linkedin.com/jobs/view/4440359519) |
 | Peterson Technologies | Junior Software Engineer | Annapolis Junction, MD | 2026-08-03 | [Link](https://petersontechnologies.applytojob.com/apply/ma86Yof82u/Junior-Software-Engineer) |
 | GliaCell Technologies | Junior Software Engineer | Annapolis Junction, MD | 2026-08-03 | [Link](https://gliacelltechnologies.applytojob.com/apply/Zet89PpNoU/Junior-Software-Engineer) |
-| HarmonyTech | Junior Software Developer - .NET | Herndon, VA | 2026-08-03 | [Link](https://harmonytech.applytojob.com/apply/uhDb8hMR9P/Junior-Software-Developer-NET) |
-| EAi Technologies | Entry Level Software Developer | Vienna, VA | 2026-08-03 | [Link](https://eaiti.applytojob.com/apply/Y16NUsHVnd/Entry-Level-Software-Developer) |
-| TikTok | Software Engineer/Mobile Engineer New Grad - Ads Core Demonstration | San Jose, CA | 2026-08-03 | [Link](https://lifeattiktok.com/search/7668701834807101749) |
 
 ---
 _Sources: SimplifyJobs New-Grad-Positions, Greenhouse/Lever/Ashby boards, LinkedIn search, Adzuna aggregator._
