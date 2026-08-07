@@ -48,13 +48,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4441946844",
-    "company": "Acrisure",
-    "title": "Software Engineer I",
+    "id": "linkedin-4450745047",
+    "company": "CoStar Group",
+    "title": "Matterport - Software Engineer I",
     "locations": [
-      "Austin, TX"
+      "Irvine, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4441946844",
+    "url": "https://www.linkedin.com/jobs/view/4450745047",
     "sponsorship": "",
     "posted": "2026-08-07",
     "source": "LinkedIn"
@@ -84,18 +84,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4441962253",
-    "company": "Acrisure",
-    "title": "Software Engineer I",
-    "locations": [
-      "Uniondale, NY"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4441962253",
-    "sponsorship": "",
-    "posted": "2026-08-07",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4450709925",
     "company": "Collins Aerospace",
     "title": "Software Engineer II, Onsite",
@@ -108,6 +96,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4441946844",
+    "company": "Acrisure",
+    "title": "Software Engineer I",
+    "locations": [
+      "Austin, TX"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4441946844",
+    "sponsorship": "",
+    "posted": "2026-08-07",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4441944930",
     "company": "Acrisure",
     "title": "Software Engineer I",
@@ -115,6 +115,18 @@
       "Grand Rapids, MI"
     ],
     "url": "https://www.linkedin.com/jobs/view/4441944930",
+    "sponsorship": "",
+    "posted": "2026-08-07",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4441962253",
+    "company": "Acrisure",
+    "title": "Software Engineer I",
+    "locations": [
+      "Uniondale, NY"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4441962253",
     "sponsorship": "",
     "posted": "2026-08-07",
     "source": "LinkedIn"
@@ -156,13 +168,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4449218169",
+    "id": "linkedin-4449219659",
     "company": "Paragon Event Marketing",
     "title": "Junior Software Engineer",
     "locations": [
       "New York, United States"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4449218169",
+    "url": "https://www.linkedin.com/jobs/view/4449219659",
     "sponsorship": "",
     "posted": "2026-08-07",
     "source": "LinkedIn"
@@ -291,13 +303,13 @@
     "source": "SimplifyJobs"
   },
   {
-    "id": "linkedin-4449748700",
-    "company": "Optomi",
-    "title": "Junior Software Engineer",
+    "id": "linkedin-4449977475",
+    "company": "TikTok",
+    "title": "Software Engineer Graduate (Global E-commerce-Search) - 2027 Start",
     "locations": [
-      "Austin, TX"
+      "Seattle, WA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4449748700",
+    "url": "https://www.linkedin.com/jobs/view/4449977475",
     "sponsorship": "",
     "posted": "2026-08-06",
     "source": "LinkedIn"
@@ -334,18 +346,6 @@
       "Las Vegas, NV"
     ],
     "url": "https://www.linkedin.com/jobs/view/4449373039",
-    "sponsorship": "",
-    "posted": "2026-08-06",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4449977475",
-    "company": "TikTok",
-    "title": "Software Engineer Graduate (Global E-commerce-Search) - 2027 Start",
-    "locations": [
-      "Seattle, WA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4449977475",
     "sponsorship": "",
     "posted": "2026-08-06",
     "source": "LinkedIn"
@@ -471,18 +471,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4449407648",
-    "company": "Leidos",
-    "title": "Junior Software Specialist/Engineer",
-    "locations": [
-      "Ridgecrest, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4449407648",
-    "sponsorship": "",
-    "posted": "2026-08-05",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4448912111",
     "company": "Teknostra Engineering Pvt. Ltd.",
     "title": "Software Engineer, Early Career",
@@ -490,6 +478,18 @@
       "San Francisco, CA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4448912111",
+    "sponsorship": "",
+    "posted": "2026-08-05",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4449407648",
+    "company": "Leidos",
+    "title": "Junior Software Specialist/Engineer",
+    "locations": [
+      "Ridgecrest, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4449407648",
     "sponsorship": "",
     "posted": "2026-08-05",
     "source": "LinkedIn"
@@ -1139,18 +1139,6 @@
     "source": "SimplifyJobs"
   },
   {
-    "id": "simplify-3ebe96ab-b5a9-4ddf-99f0-9583e2226fb6",
-    "company": "CVS Health",
-    "title": "Analytics & Behavior Change Engineering New Grad - Conversion",
-    "locations": [
-      "NYC"
-    ],
-    "url": "https://cvshealth.wd1.myworkdayjobs.com/Private_Postings_Intern_Conversion_ONLY/job/NY---New-York/Analytics---Behavior-Change---Engineering-Grad--Conversion-_R0991701",
-    "sponsorship": "Other",
-    "posted": "2026-07-29",
-    "source": "SimplifyJobs"
-  },
-  {
     "id": "simplify-e3baf487-91f1-4382-825c-a0b8cbdd9ea8",
     "company": "NewsBreak",
     "title": "Applied AI Engineer New Grad - Advertising Agents",
@@ -1500,18 +1488,6 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Principal-Design-Engineer--NVEG_JR88223",
     "sponsorship": "Other",
     "posted": "2026-07-10",
-    "source": "SimplifyJobs"
-  },
-  {
-    "id": "simplify-b2a451e2-c73b-4273-ba1e-8a91e3c9b407",
-    "company": "Quora",
-    "title": "Machine Learning Engineer New Grad",
-    "locations": [
-      "Remote in USA"
-    ],
-    "url": "https://jobs.ashbyhq.com/quora/3eb7e80e-6a0d-41b6-8ee4-f62421c486e4/application",
-    "sponsorship": "Other",
-    "posted": "2026-07-09",
     "source": "SimplifyJobs"
   },
   {
