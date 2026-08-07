@@ -99,18 +99,6 @@
     "source": "SimplifyJobs"
   },
   {
-    "id": "linkedin-4449748700",
-    "company": "Optomi",
-    "title": "Junior Software Engineer",
-    "locations": [
-      "Austin, TX"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4449748700",
-    "sponsorship": "",
-    "posted": "2026-08-06",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4450652437",
     "company": "Walmart",
     "title": "(USA) Software Engineer III",
@@ -118,6 +106,18 @@
       "Bentonville, AR"
     ],
     "url": "https://www.linkedin.com/jobs/view/4450652437",
+    "sponsorship": "",
+    "posted": "2026-08-06",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4449748700",
+    "company": "Optomi",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "Austin, TX"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4449748700",
     "sponsorship": "",
     "posted": "2026-08-06",
     "source": "LinkedIn"
@@ -154,18 +154,6 @@
       "Memphis, TN"
     ],
     "url": "https://www.linkedin.com/jobs/view/4450614043",
-    "sponsorship": "",
-    "posted": "2026-08-06",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4450241987",
-    "company": "Helic & Co",
-    "title": "Junior Software Engineer",
-    "locations": [
-      "United States"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4450241987",
     "sponsorship": "",
     "posted": "2026-08-06",
     "source": "LinkedIn"
@@ -255,6 +243,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4448036433",
+    "company": "BAE Systems, Inc.",
+    "title": "Entry Level Software Engineer",
+    "locations": [
+      "San Diego, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4448036433",
+    "sponsorship": "",
+    "posted": "2026-08-05",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4449692351",
     "company": "Medtronic",
     "title": "Software Engineer I - CRM",
@@ -267,13 +267,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4448912111",
-    "company": "Teknostra Engineering Pvt. Ltd.",
-    "title": "Software Engineer, Early Career",
+    "id": "linkedin-4449407648",
+    "company": "Leidos",
+    "title": "Junior Software Specialist/Engineer",
     "locations": [
-      "San Francisco, CA"
+      "Ridgecrest, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4448912111",
+    "url": "https://www.linkedin.com/jobs/view/4449407648",
     "sponsorship": "",
     "posted": "2026-08-05",
     "source": "LinkedIn"
@@ -387,30 +387,6 @@
     "source": "Greenhouse"
   },
   {
-    "id": "linkedin-4437642176",
-    "company": "DoorDash",
-    "title": "Software Engineer I, Entry-Level (Graduation Date: Fall 2025-Summer 2026)",
-    "locations": [
-      "Los Angeles, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4437642176",
-    "sponsorship": "",
-    "posted": "2026-08-04",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4446613511",
-    "company": "TikTok USDS Joint Venture",
-    "title": "Software Engineer Graduate (Tech and Product, USDS) - 2027 Start",
-    "locations": [
-      "Seattle, WA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4446613511",
-    "sponsorship": "",
-    "posted": "2026-08-04",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4448295048",
     "company": "TikTok",
     "title": "Backend Engineer Graduate (User Growth) - 2027 Start",
@@ -423,13 +399,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4446281814",
-    "company": "TikTok",
-    "title": "Software Engineer Graduate (Transaction Platform) - 2027 Start",
+    "id": "linkedin-4446613511",
+    "company": "TikTok USDS Joint Venture",
+    "title": "Software Engineer Graduate (Tech and Product, USDS) - 2027 Start",
     "locations": [
-      "San Jose, CA"
+      "Seattle, WA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4446281814",
+    "url": "https://www.linkedin.com/jobs/view/4446613511",
     "sponsorship": "",
     "posted": "2026-08-04",
     "source": "LinkedIn"
@@ -490,66 +466,6 @@
       "Dallas, TX"
     ],
     "url": "https://www.linkedin.com/jobs/view/4448286344",
-    "sponsorship": "",
-    "posted": "2026-08-04",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4448680131",
-    "company": "Leidos",
-    "title": "Junior Software Specialist/Engineer",
-    "locations": [
-      "Ridgecrest, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4448680131",
-    "sponsorship": "",
-    "posted": "2026-08-04",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4437642177",
-    "company": "DoorDash",
-    "title": "Software Engineer I, Entry-Level (Graduation Date: Fall 2025-Summer 2026)",
-    "locations": [
-      "New York, NY"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4437642177",
-    "sponsorship": "",
-    "posted": "2026-08-04",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4448888920",
-    "company": "AV",
-    "title": "Junior Software Engineer",
-    "locations": [
-      "Jessup, MD"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4448888920",
-    "sponsorship": "",
-    "posted": "2026-08-04",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4449084252",
-    "company": "Crusoe",
-    "title": "Software Engineer I (DCIE)",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4449084252",
-    "sponsorship": "",
-    "posted": "2026-08-04",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4440359519",
-    "company": "Vast",
-    "title": "Software Engineer I, Mission Software",
-    "locations": [
-      "Long Beach, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4440359519",
     "sponsorship": "",
     "posted": "2026-08-04",
     "source": "LinkedIn"
@@ -1086,18 +1002,6 @@
       "Austin, TX"
     ],
     "url": "https://apply.workable.com/texas-sports-academy-main/j/2132C3AB96/apply",
-    "sponsorship": "Other",
-    "posted": "2026-07-29",
-    "source": "SimplifyJobs"
-  },
-  {
-    "id": "simplify-3ebe96ab-b5a9-4ddf-99f0-9583e2226fb6",
-    "company": "CVS Health",
-    "title": "Analytics & Behavior Change Engineering New Grad - Conversion",
-    "locations": [
-      "NYC"
-    ],
-    "url": "https://cvshealth.wd1.myworkdayjobs.com/Private_Postings_Intern_Conversion_ONLY/job/NY---New-York/Analytics---Behavior-Change---Engineering-Grad--Conversion-_R0991701",
     "sponsorship": "Other",
     "posted": "2026-07-29",
     "source": "SimplifyJobs"
