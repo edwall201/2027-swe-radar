@@ -84,13 +84,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4450709925",
-    "company": "Collins Aerospace",
-    "title": "Software Engineer II, Onsite",
+    "id": "linkedin-4450771913",
+    "company": "TD",
+    "title": "Software Engineer II (US)",
     "locations": [
-      "Cedar Rapids, IA"
+      "Mount Laurel, NJ"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4450709925",
+    "url": "https://www.linkedin.com/jobs/view/4450771913",
     "sponsorship": "",
     "posted": "2026-08-07",
     "source": "LinkedIn"
@@ -168,13 +168,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4449219659",
+    "id": "linkedin-4449231537",
     "company": "Paragon Event Marketing",
     "title": "Junior Software Engineer",
     "locations": [
       "New York, United States"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4449219659",
+    "url": "https://www.linkedin.com/jobs/view/4449231537",
     "sponsorship": "",
     "posted": "2026-08-07",
     "source": "LinkedIn"
@@ -199,6 +199,30 @@
       "New York, NY"
     ],
     "url": "https://www.linkedin.com/jobs/view/4448758674",
+    "sponsorship": "",
+    "posted": "2026-08-07",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4450395177",
+    "company": "The Coca-Cola Company",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4450395177",
+    "sponsorship": "",
+    "posted": "2026-08-07",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4450365978",
+    "company": "Freeform",
+    "title": "Software Engineer (New Grad December 2026)",
+    "locations": [
+      "Los Angeles, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4450365978",
     "sponsorship": "",
     "posted": "2026-08-07",
     "source": "LinkedIn"
@@ -423,18 +447,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4446585000",
-    "company": "Texas Sports Academy",
-    "title": "Junior Software Engineer (AI-Forward)",
-    "locations": [
-      "Austin, TX"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4446585000",
-    "sponsorship": "",
-    "posted": "2026-08-05",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4449444067",
     "company": "MetLife",
     "title": "Junior Software Engineer",
@@ -478,18 +490,6 @@
       "San Francisco, CA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4448912111",
-    "sponsorship": "",
-    "posted": "2026-08-05",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4449407648",
-    "company": "Leidos",
-    "title": "Junior Software Specialist/Engineer",
-    "locations": [
-      "Ridgecrest, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4449407648",
     "sponsorship": "",
     "posted": "2026-08-05",
     "source": "LinkedIn"
@@ -589,18 +589,6 @@
     "sponsorship": "",
     "posted": "2026-08-04",
     "source": "Greenhouse"
-  },
-  {
-    "id": "linkedin-4449084252",
-    "company": "Crusoe",
-    "title": "Software Engineer I (DCIE)",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4449084252",
-    "sponsorship": "",
-    "posted": "2026-08-04",
-    "source": "LinkedIn"
   },
   {
     "id": "simplify-4f002917-8cdb-4ef9-a66c-02d05d0d220e",
@@ -1248,18 +1236,6 @@
     "source": "SimplifyJobs"
   },
   {
-    "id": "gh-duolingo-8628658002",
-    "company": "Duolingo",
-    "title": "Software Engineer II, Android",
-    "locations": [
-      "Pittsburgh, PA"
-    ],
-    "url": "https://careers.duolingo.com/jobs/8628658002?gh_jid=8628658002",
-    "sponsorship": "",
-    "posted": "2026-07-23",
-    "source": "Greenhouse"
-  },
-  {
     "id": "gh-duolingo-8628670002",
     "company": "Duolingo",
     "title": "Software Engineer II, Android",
@@ -1267,6 +1243,18 @@
       "New York, NY"
     ],
     "url": "https://careers.duolingo.com/jobs/8628670002?gh_jid=8628670002",
+    "sponsorship": "",
+    "posted": "2026-07-23",
+    "source": "Greenhouse"
+  },
+  {
+    "id": "gh-duolingo-8628658002",
+    "company": "Duolingo",
+    "title": "Software Engineer II, Android",
+    "locations": [
+      "Pittsburgh, PA"
+    ],
+    "url": "https://careers.duolingo.com/jobs/8628658002?gh_jid=8628658002",
     "sponsorship": "",
     "posted": "2026-07-23",
     "source": "Greenhouse"
