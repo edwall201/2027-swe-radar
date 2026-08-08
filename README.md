@@ -1,21 +1,20 @@
 # 📡 2027 SWE Radar
 
 Automated daily scanner for **2027 new-grad software engineering** openings.
-Last scan: **2026-08-08** · Tracking **134** matching postings · 🆕 **1** new today
+Last scan: **2026-08-08** · Tracking **133** matching postings · 🆕 **1** new today
 Only showing **US** postings from **2026-07-01** onward, newest first.
 
 ## 🆕 New today
 
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
-| **Alumni Founders** | Software Engineer (New Grad December 2026) | Los Angeles, CA | 2026-08-08 | [Link](https://www.linkedin.com/jobs/view/4451038723) |
+| **Cox Automotive Inc.** | Entry Level Software Engineer - Atlanta, GA | Atlanta, GA | 2026-08-05 | [Link](https://www.linkedin.com/jobs/view/4449490861) |
 
 ## 🎯 Explicit 2027 openings
 
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
 | Solace | Associate Product Engineer (College Grad 2027) | Redwood City, CA | 2026-08-07 | [Link](https://www.linkedin.com/jobs/view/4450031020) |
-| Veeva Systems | Associate Software Engineer - Seeking 2027 Graduates | Columbus, OH | 2026-08-07 | [Link](https://www.linkedin.com/jobs/view/4448740872) |
 | TikTok | Software Engineer Graduate - Global E-commerce-Search - 2027 Start | Seattle, WA | 2026-08-06 | [Link](https://lifeattiktok.com/search/7670558992960358661) |
 | Netic | Full-Stack Software Engineer (Product) - New Grad - 2026-2027 | San Francisco, CA | 2026-08-06 | [Link](https://www.linkedin.com/jobs/view/4438463495) |
 | TikTok | Software Engineer Graduate (Global E-commerce-Search) - 2027 Start | Seattle, WA | 2026-08-06 | [Link](https://www.linkedin.com/jobs/view/4449977475) |
@@ -41,7 +40,6 @@ Only showing **US** postings from **2026-07-01** onward, newest first.
 | Acrisure | Software Engineer I | Uniondale, NY | 2026-08-07 | [Link](https://www.linkedin.com/jobs/view/4441962253) |
 | Kavaliro | Junior Software Engineer | Orlando, FL | 2026-08-07 | [Link](https://www.linkedin.com/jobs/view/4448782402) |
 | Google | Software Engineer, Early Career, Campus | Pittsburgh, PA | 2026-08-07 | [Link](https://www.linkedin.com/jobs/view/4448754918) |
-| Veeva Systems | Associate Software Engineer - Seeking 2027 Graduates | Columbus, OH | 2026-08-07 | [Link](https://www.linkedin.com/jobs/view/4448740872) |
 | Intuitive Research and Technology Corporation | Entry Level Software Engineer | Huntsville, AL | 2026-08-07 | [Link](https://www.linkedin.com/jobs/view/4448707026) |
 | Helic & Co | Junior Software Engineer | United States | 2026-08-07 | [Link](https://www.linkedin.com/jobs/view/4448775732) |
 | Google | Software Engineer, Early Career, Campus | New York, NY | 2026-08-07 | [Link](https://www.linkedin.com/jobs/view/4448758674) |
@@ -65,7 +63,7 @@ Only showing **US** postings from **2026-07-01** onward, newest first.
 | Roblox | Software Engineer - Early Career | San Mateo, CA | 2026-08-05 | [Link](https://careers.roblox.com/jobs/8072244?gh_jid=8072244) |
 | Roblox | [2027] Software Engineer, Early Career | San Mateo, CA | 2026-08-05 | [Link](https://www.linkedin.com/jobs/view/4449138344) |
 | Twitch | Software Engineer I, Discovery | San Francisco, CA | 2026-08-05 | [Link](https://www.linkedin.com/jobs/view/4439959402) |
-| BAE Systems, Inc. | Entry Level Software Engineer | San Diego, CA | 2026-08-05 | [Link](https://www.linkedin.com/jobs/view/4448036433) |
+| Cox Automotive Inc. | Entry Level Software Engineer - Atlanta, GA | Atlanta, GA | 2026-08-05 | [Link](https://www.linkedin.com/jobs/view/4449490861) |
 | Medtronic | Software Engineer I - CRM | Minneapolis, MN | 2026-08-05 | [Link](https://www.linkedin.com/jobs/view/4449692351) |
 | TikTok | Frontend Software Engineer New Grad - Ads Interface | San Jose, CA | 2026-08-04 | [Link](https://lifeattiktok.com/search/7668569995571726597) |
 | TikTok | Machine Learning Engineer New Grad - Search Ads | San Jose, CA | 2026-08-04 | [Link](https://lifeattiktok.com/search/7669698543896054069) |
@@ -77,6 +75,7 @@ Only showing **US** postings from **2026-07-01** onward, newest first.
 | Samsara | Software Engineer II | Remote - US | 2026-08-04 | [Link](https://www.samsara.com/company/careers/roles/8036387?gh_jid=8036387) |
 | Peterson Technologies | Junior Software Engineer | Annapolis Junction, MD | 2026-08-03 | [Link](https://petersontechnologies.applytojob.com/apply/ma86Yof82u/Junior-Software-Engineer) |
 | GliaCell Technologies | Junior Software Engineer | Annapolis Junction, MD | 2026-08-03 | [Link](https://gliacelltechnologies.applytojob.com/apply/Zet89PpNoU/Junior-Software-Engineer) |
+| HarmonyTech | Junior Software Developer - .NET | Herndon, VA | 2026-08-03 | [Link](https://harmonytech.applytojob.com/apply/uhDb8hMR9P/Junior-Software-Developer-NET) |
 
 ---
 _Sources: SimplifyJobs New-Grad-Positions, Greenhouse/Lever/Ashby boards, LinkedIn search, Adzuna aggregator._
