@@ -8,7 +8,7 @@ Only showing **US** postings from **2026-07-01** onward, newest first.
 
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
-| **ARUP Laboratories** | Software Engineer II | Salt Lake City, UT | 2026-08-07 | [Link](https://www.linkedin.com/jobs/view/4450539031) |
+| **Alumni Founders** | Software Engineer (New Grad December 2026) | Los Angeles, CA | 2026-08-08 | [Link](https://www.linkedin.com/jobs/view/4451038723) |
 
 ## 🎯 Explicit 2027 openings
 
@@ -27,12 +27,12 @@ Only showing **US** postings from **2026-07-01** onward, newest first.
 
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
+| Alumni Founders | Software Engineer (New Grad December 2026) | Los Angeles, CA | 2026-08-08 | [Link](https://www.linkedin.com/jobs/view/4451038723) |
 | TP-Link Systems | System Hardware Design Engineer - Early Career | Irvine, CA | 2026-08-07 | [Link](https://apply.workable.com/tp-link-usa-corp/j/428D85D8DC/apply) |
 | TP-Link Systems | Early Career Embedded Software Engineer | Irvine, CA | 2026-08-07 | [Link](https://apply.workable.com/tp-link-usa-corp/j/F943A617EC/apply) |
 | ByteDance | Large Language Model Inference System Engineer New Grad - Applied Machine Learning | San Jose, CA | 2026-08-07 | [Link](https://jobs.bytedance.com/en/position/7667726338627356933/detail) |
 | Freeform | Software Engineer New Grad | LA | 2026-08-07 | [Link](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7826634003) |
 | Google | Software Engineer, Early Career, Campus | Los Angeles, CA | 2026-08-07 | [Link](https://www.linkedin.com/jobs/view/4448770207) |
-| Sony Interactive Entertainment | Software Engineer I | San Mateo, CA | 2026-08-07 | [Link](https://www.linkedin.com/jobs/view/4438791117) |
 | Solace | Associate Product Engineer (College Grad 2027) | Redwood City, CA | 2026-08-07 | [Link](https://www.linkedin.com/jobs/view/4450031020) |
 | Flight Agencies | Junior Software Engineer | Los Angeles, CA | 2026-08-07 | [Link](https://www.linkedin.com/jobs/view/4451006053) |
 | TD | Software Engineer II (US) | Mount Laurel, NJ | 2026-08-07 | [Link](https://www.linkedin.com/jobs/view/4450771913) |
