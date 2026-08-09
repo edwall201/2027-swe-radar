@@ -1,24 +1,21 @@
 # 📡 2027 SWE Radar
 
 Automated daily scanner for **2027 new-grad software engineering** openings.
-Last scan: **2026-08-09** · Tracking **133** matching postings · 🆕 **4** new today
+Last scan: **2026-08-09** · Tracking **131** matching postings · 🆕 **2** new today
 Only showing **US** postings from **2026-07-01** onward, newest first.
 
 ## 🆕 New today
 
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
-| **ByteDance** | Software Development Engineer Graduate (Intent-Based Networking) - 2027 Start | San Jose, CA | 2026-08-08 | [Link](https://www.linkedin.com/jobs/view/4450794697) |
-| **Everfox** | Software Engineer I | Richardson, TX | 2026-08-08 | [Link](https://www.linkedin.com/jobs/view/4450382898) |
-| **ARUP Laboratories** | Software Engineer II | Salt Lake City, UT | 2026-08-07 | [Link](https://www.linkedin.com/jobs/view/4450539031) |
-| **CoStar Group** | Matterport - Software Engineer I | Irvine, CA | 2026-08-07 | [Link](https://www.linkedin.com/jobs/view/4450745047) |
+| **BAE Systems, Inc.** | Full-stack Software Engineer I | Nashua, NH | 2026-08-08 | [Link](https://www.linkedin.com/jobs/view/4420751851) |
+| **Nuro** | Software Engineer, Performance - New Grad | Mountain View, CA | 2026-08-07 | [Link](https://www.linkedin.com/jobs/view/4440793229) |
 
 ## 🎯 Explicit 2027 openings
 
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
 | ByteDance | Software Development Engineer Graduate (Intent-Based Networking) - 2027 Start | San Jose, CA | 2026-08-08 | [Link](https://www.linkedin.com/jobs/view/4450794697) |
-| Solace | Associate Product Engineer (College Grad 2027) | Redwood City, CA | 2026-08-07 | [Link](https://www.linkedin.com/jobs/view/4450031020) |
 | Belvedere Trading, LLC | Software Engineer - Entry Level 2027 | Chicago, IL | 2026-08-07 | [Link](https://www.linkedin.com/jobs/view/4449213283) |
 | TikTok | Software Engineer Graduate - Global E-commerce-Search - 2027 Start | Seattle, WA | 2026-08-06 | [Link](https://lifeattiktok.com/search/7670558992960358661) |
 | Northrop Grumman | 2027 Associate Software Engineer / Software Engineer | Melbourne, FL | 2026-08-06 | [Link](https://www.linkedin.com/jobs/view/4448469785) |
@@ -32,19 +29,18 @@ Only showing **US** postings from **2026-07-01** onward, newest first.
 | ProductionBeast | Junior Software Developer | Oregon City, OR | 2026-08-09 | [Link](https://www.linkedin.com/jobs/view/4450939233) |
 | Storyboard | Matterport - Software Engineer I | Irvine, CA | 2026-08-08 | [Link](https://www.linkedin.com/jobs/view/4451315201) |
 | ByteDance | Software Development Engineer Graduate (Intent-Based Networking) - 2027 Start | San Jose, CA | 2026-08-08 | [Link](https://www.linkedin.com/jobs/view/4450794697) |
-| Vertafore | Software Engineer I | East Lansing, MI | 2026-08-08 | [Link](https://www.linkedin.com/jobs/view/4432153677) |
-| BAE Systems, Inc. | Full-stack Software Engineer I | Nashua, NH | 2026-08-08 | [Link](https://www.linkedin.com/jobs/view/4420146778) |
-| Everfox | Software Engineer I | Richardson, TX | 2026-08-08 | [Link](https://www.linkedin.com/jobs/view/4450382898) |
 | VIZIO | Software Engineer II | Denver, CO | 2026-08-08 | [Link](https://www.linkedin.com/jobs/view/4439611333) |
+| Vertafore | Software Engineer I | East Lansing, MI | 2026-08-08 | [Link](https://www.linkedin.com/jobs/view/4432153677) |
+| BAE Systems, Inc. | Full-stack Software Engineer I | Nashua, NH | 2026-08-08 | [Link](https://www.linkedin.com/jobs/view/4420751851) |
 | TP-Link Systems | System Hardware Design Engineer - Early Career | Irvine, CA | 2026-08-07 | [Link](https://apply.workable.com/tp-link-usa-corp/j/428D85D8DC/apply) |
 | TP-Link Systems | Early Career Embedded Software Engineer | Irvine, CA | 2026-08-07 | [Link](https://apply.workable.com/tp-link-usa-corp/j/F943A617EC/apply) |
 | ByteDance | Large Language Model Inference System Engineer New Grad - Applied Machine Learning | San Jose, CA | 2026-08-07 | [Link](https://jobs.bytedance.com/en/position/7667726338627356933/detail) |
 | Freeform | Software Engineer New Grad | LA | 2026-08-07 | [Link](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7826634003) |
 | Google | Software Engineer, Early Career, Campus | Los Angeles, CA | 2026-08-07 | [Link](https://www.linkedin.com/jobs/view/4448770207) |
 | Acrisure | Software Engineer I | Austin, TX | 2026-08-07 | [Link](https://www.linkedin.com/jobs/view/4441946844) |
-| Solace | Associate Product Engineer (College Grad 2027) | Redwood City, CA | 2026-08-07 | [Link](https://www.linkedin.com/jobs/view/4450031020) |
 | Flight Agencies | Junior Software Engineer | Los Angeles, CA | 2026-08-07 | [Link](https://www.linkedin.com/jobs/view/4451006053) |
 | Acrisure | Software Engineer I | Uniondale, NY | 2026-08-07 | [Link](https://www.linkedin.com/jobs/view/4441962253) |
+| Nuro | Software Engineer, Performance - New Grad | Mountain View, CA | 2026-08-07 | [Link](https://www.linkedin.com/jobs/view/4440793229) |
 | TD | Software Engineer II (US) | Mount Laurel, NJ | 2026-08-07 | [Link](https://www.linkedin.com/jobs/view/4450771913) |
 | Acrisure | Software Engineer I | Grand Rapids, MI | 2026-08-07 | [Link](https://www.linkedin.com/jobs/view/4441944930) |
 | Kavaliro | Junior Software Engineer | Orlando, FL | 2026-08-07 | [Link](https://www.linkedin.com/jobs/view/4448782402) |
@@ -54,7 +50,6 @@ Only showing **US** postings from **2026-07-01** onward, newest first.
 | CatholicJobs.com | Software Engineer I | Sycamore, IL | 2026-08-07 | [Link](https://www.linkedin.com/jobs/view/4450015343) |
 | Google | Software Engineer, Early Career, Campus | New York, NY | 2026-08-07 | [Link](https://www.linkedin.com/jobs/view/4448758674) |
 | The Coca-Cola Company | Junior Software Engineer | Atlanta, GA | 2026-08-07 | [Link](https://www.linkedin.com/jobs/view/4450395177) |
-| ARUP Laboratories | Software Engineer II | Salt Lake City, UT | 2026-08-07 | [Link](https://www.linkedin.com/jobs/view/4450539031) |
 | CoStar Group | Matterport - Software Engineer I | Irvine, CA | 2026-08-07 | [Link](https://www.linkedin.com/jobs/view/4450745047) |
 | TikTok | Software Engineer Graduate - Global E-commerce-Search - 2027 Start | Seattle, WA | 2026-08-06 | [Link](https://lifeattiktok.com/search/7670558992960358661) |
 | ByteDance | Backend Inference Runtime Engineer New Grad - AML Inference | San Jose, CA | 2026-08-06 | [Link](https://jobs.bytedance.com/en/position/7669789046777940229/detail) |
@@ -79,6 +74,8 @@ Only showing **US** postings from **2026-07-01** onward, newest first.
 | Peterson Technologies | Junior Software Engineer | Annapolis Junction, MD | 2026-08-03 | [Link](https://petersontechnologies.applytojob.com/apply/ma86Yof82u/Junior-Software-Engineer) |
 | GliaCell Technologies | Junior Software Engineer | Annapolis Junction, MD | 2026-08-03 | [Link](https://gliacelltechnologies.applytojob.com/apply/Zet89PpNoU/Junior-Software-Engineer) |
 | HarmonyTech | Junior Software Developer - .NET | Herndon, VA | 2026-08-03 | [Link](https://harmonytech.applytojob.com/apply/uhDb8hMR9P/Junior-Software-Developer-NET) |
+| EAi Technologies | Entry Level Software Developer | Vienna, VA | 2026-08-03 | [Link](https://eaiti.applytojob.com/apply/Y16NUsHVnd/Entry-Level-Software-Developer) |
+| TikTok | Software Engineer/Mobile Engineer New Grad - Ads Core Demonstration | San Jose, CA | 2026-08-03 | [Link](https://lifeattiktok.com/search/7668701834807101749) |
 
 ---
 _Sources: SimplifyJobs New-Grad-Positions, Greenhouse/Lever/Ashby boards, LinkedIn search, Adzuna aggregator._
