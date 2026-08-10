@@ -48,18 +48,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4432153677",
-    "company": "Vertafore",
-    "title": "Software Engineer I",
-    "locations": [
-      "East Lansing, MI"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4432153677",
-    "sponsorship": "",
-    "posted": "2026-08-08",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4451043386",
     "company": "Northrop Grumman",
     "title": "2027 Associate Software Engineer",
@@ -72,13 +60,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4420146778",
-    "company": "BAE Systems, Inc.",
-    "title": "Full-stack Software Engineer I",
+    "id": "linkedin-4432153677",
+    "company": "Vertafore",
+    "title": "Software Engineer I",
     "locations": [
-      "Nashua, NH"
+      "East Lansing, MI"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4420146778",
+    "url": "https://www.linkedin.com/jobs/view/4432153677",
     "sponsorship": "",
     "posted": "2026-08-08",
     "source": "LinkedIn"
@@ -91,6 +79,30 @@
       "Richardson, TX"
     ],
     "url": "https://www.linkedin.com/jobs/view/4450382898",
+    "sponsorship": "",
+    "posted": "2026-08-08",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4451068078",
+    "company": "CaseWorthy, Inc.",
+    "title": "Software Engineer I",
+    "locations": [
+      "Salt Lake City, UT"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4451068078",
+    "sponsorship": "",
+    "posted": "2026-08-08",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4420751851",
+    "company": "BAE Systems, Inc.",
+    "title": "Full-stack Software Engineer I",
+    "locations": [
+      "Nashua, NH"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4420751851",
     "sponsorship": "",
     "posted": "2026-08-08",
     "source": "LinkedIn"
@@ -175,6 +187,18 @@
       "Austin, TX"
     ],
     "url": "https://www.linkedin.com/jobs/view/4441946844",
+    "sponsorship": "",
+    "posted": "2026-08-07",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4448752966",
+    "company": "Google",
+    "title": "Software Engineer, Early Career, Campus",
+    "locations": [
+      "San Bruno, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4448752966",
     "sponsorship": "",
     "posted": "2026-08-07",
     "source": "LinkedIn"
@@ -331,18 +355,6 @@
       "Atlanta, GA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4450395177",
-    "sponsorship": "",
-    "posted": "2026-08-07",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4448496893",
-    "company": "TikTok",
-    "title": "Software Development Engineer Graduate (TikTok - Testing - Growth) - 2027 Start",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4448496893",
     "sponsorship": "",
     "posted": "2026-08-07",
     "source": "LinkedIn"
