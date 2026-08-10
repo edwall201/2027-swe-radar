@@ -76,16 +76,41 @@
     "source": "SimplifyJobs"
   },
   {
-    "id": "linkedin-4449548361",
-    "company": "TikTok USDS Joint Venture",
-    "title": "Software Engineer Graduate (Search) - 2027 Start",
+    "id": "simplify-6de1583b-b744-47a5-9c59-7b7dbe27ae4c",
+    "company": "Micron Technology",
+    "title": "Electrical Engineer New Grad - DRAM Design Engineering",
     "locations": [
-      "San Jose, CA"
+      "Boise, ID"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4449548361",
-    "sponsorship": "",
+    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---DRAM-Design-Engineer_JR107861",
+    "sponsorship": "Other",
     "posted": "2026-08-10",
-    "source": "LinkedIn"
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-22f4cbf0-ea63-4e72-9fba-4319ef8415c3",
+    "company": "Blue Origin",
+    "title": "Software Development Engineer 1 - Early Career",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Software-Development-Engineer-I---Early-Career--2026-Starts-_R70051",
+    "sponsorship": "Other",
+    "posted": "2026-08-10",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-e6df433c-3d96-4836-87d4-845481845c1b",
+    "company": "Blue Origin",
+    "title": "Avionics / Embedded Software Engineer 1 - Early Career",
+    "locations": [
+      "LA",
+      "Kent, WA"
+    ],
+    "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Avionics---Embedded-Software-Engineer-I---Early-Career--2026-Starts-_R70055",
+    "sponsorship": "Other",
+    "posted": "2026-08-10",
+    "source": "SimplifyJobs"
   },
   {
     "id": "linkedin-4449538861",
@@ -112,25 +137,37 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4451849988",
+    "id": "linkedin-4451894917",
     "company": "Observe.AI",
     "title": "Software Engineer I - AI Agents",
     "locations": [
       "Redwood City, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4451849988",
+    "url": "https://www.linkedin.com/jobs/view/4451894917",
     "sponsorship": "",
     "posted": "2026-08-10",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4451122383",
-    "company": "Cummins Inc.",
+    "id": "linkedin-4449819917",
+    "company": "Varsity Spirit",
     "title": "Software Engineer I",
     "locations": [
-      "Des Moines, IA"
+      "Memphis, TN"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4451122383",
+    "url": "https://www.linkedin.com/jobs/view/4449819917",
+    "sponsorship": "",
+    "posted": "2026-08-10",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4449827286",
+    "company": "Mastercard",
+    "title": "Software Engineer I",
+    "locations": [
+      "O'Fallon, MO"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4449827286",
     "sponsorship": "",
     "posted": "2026-08-10",
     "source": "LinkedIn"
@@ -208,13 +245,25 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4449580406",
-    "company": "Seagate Technology",
-    "title": "Firmware Engineer - Early Career",
+    "id": "linkedin-4451131132",
+    "company": "Base-2 Solutions",
+    "title": "Junior Software Engineer",
     "locations": [
-      "Longmont, CO"
+      "Annapolis Junction, MD"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4449580406",
+    "url": "https://www.linkedin.com/jobs/view/4451131132",
+    "sponsorship": "",
+    "posted": "2026-08-10",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4451123350",
+    "company": "Base-2 Solutions",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "Hanover, MD"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4451123350",
     "sponsorship": "",
     "posted": "2026-08-10",
     "source": "LinkedIn"
@@ -263,6 +312,18 @@
       "East Lansing, MI"
     ],
     "url": "https://www.linkedin.com/jobs/view/4432153677",
+    "sponsorship": "",
+    "posted": "2026-08-08",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4451043386",
+    "company": "Northrop Grumman",
+    "title": "2027 Associate Software Engineer",
+    "locations": [
+      "Melbourne, FL"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4451043386",
     "sponsorship": "",
     "posted": "2026-08-08",
     "source": "LinkedIn"
@@ -340,18 +401,6 @@
     "source": "SimplifyJobs"
   },
   {
-    "id": "linkedin-4450365978",
-    "company": "Freeform",
-    "title": "Software Engineer (New Grad December 2026)",
-    "locations": [
-      "Los Angeles, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4450365978",
-    "sponsorship": "",
-    "posted": "2026-08-07",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4451006053",
     "company": "Flight Agencies",
     "title": "Junior Software Engineer",
@@ -359,42 +408,6 @@
       "Los Angeles, CA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4451006053",
-    "sponsorship": "",
-    "posted": "2026-08-07",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4450771913",
-    "company": "TD",
-    "title": "Software Engineer II (US)",
-    "locations": [
-      "Mount Laurel, NJ"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4450771913",
-    "sponsorship": "",
-    "posted": "2026-08-07",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4450395177",
-    "company": "The Coca-Cola Company",
-    "title": "Junior Software Engineer",
-    "locations": [
-      "Atlanta, GA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4450395177",
-    "sponsorship": "",
-    "posted": "2026-08-07",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4450797267",
-    "company": "Torch Technologies, Inc.",
-    "title": "Software Engineer I",
-    "locations": [
-      "Huntsville, AL"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4450797267",
     "sponsorship": "",
     "posted": "2026-08-07",
     "source": "LinkedIn"
@@ -482,18 +495,6 @@
       "Annapolis Junction, MD"
     ],
     "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Junior-Software-Engineer--Clearance-Sponsorship-_RQ225644",
-    "sponsorship": "Other",
-    "posted": "2026-08-06",
-    "source": "SimplifyJobs"
-  },
-  {
-    "id": "simplify-58d49c3c-b8dd-49bc-b690-242735f878c7",
-    "company": "General Dynamics Information Technology",
-    "title": "Junior Software Engineer - Clearance Sponsorship",
-    "locations": [
-      "Annapolis Junction, MD"
-    ],
-    "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Junior-Software-Engineer--Clearance-Sponsorship-_RQ225594",
     "sponsorship": "Other",
     "posted": "2026-08-06",
     "source": "SimplifyJobs"
