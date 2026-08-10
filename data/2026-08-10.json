@@ -1,15 +1,79 @@
 [
   {
-    "id": "linkedin-4451559932",
-    "company": "Beyond New Horizons",
-    "title": "Early Career Software Engineer",
+    "id": "simplify-6a24eac0-34c2-46a9-816e-f6a3e716a259",
+    "company": "Teledyne",
+    "title": "Junior Software Engineer",
     "locations": [
-      "Manchester, TN"
+      "Huntsville, AL"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4451559932",
-    "sponsorship": "",
+    "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/Jr-Software-Engineer_REQ36188",
+    "sponsorship": "Other",
     "posted": "2026-08-10",
-    "source": "LinkedIn"
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-ae069648-6277-46da-b659-da37fa1ba9c3",
+    "company": "Seagate Technology ",
+    "title": "Firmware Engineer - Early Career",
+    "locations": [
+      "Longmont, CO"
+    ],
+    "url": "https://seagatecareers.com/job/Longmont-Firmware-Engineer-Early-Career-CO-80501/1417701800/?ats=successfactors",
+    "sponsorship": "Other",
+    "posted": "2026-08-10",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-8e8f7392-2530-41cd-b2fe-8ba9e55a6f68",
+    "company": "LPL Financial Holdings",
+    "title": "Software Engineering New Grad",
+    "locations": [
+      "Austin, TX",
+      "Fort Mill, SC",
+      "Charlotte, NC"
+    ],
+    "url": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/New-Grad-2027---Software-Engineering_R-052475",
+    "sponsorship": "Other",
+    "posted": "2026-08-10",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-6e1de79a-7eda-4b86-ae66-4edba96f4c12",
+    "company": "LPL Financial Holdings",
+    "title": "Data Engineering New Grad",
+    "locations": [
+      "Austin, TX",
+      "Fort Mill, SC",
+      "Charlotte, NC"
+    ],
+    "url": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/New-Grad---2027---Data-Engineering_R-052493-1",
+    "sponsorship": "Other",
+    "posted": "2026-08-10",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-6ae10384-f163-4945-850b-2047b484ea0f",
+    "company": "Cox Automotive",
+    "title": "Entry Level Software Engineer",
+    "locations": [
+      "Carmel, IN"
+    ],
+    "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Carmel-IN/Entry-Level-Software-Engineer-Carmel--IN_R202680859",
+    "sponsorship": "Other",
+    "posted": "2026-08-10",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-3de8274a-c574-4b59-b828-cdade0c70e7e",
+    "company": "Micron Technology",
+    "title": "IT Software Support Engineer New Grad",
+    "locations": [
+      "Boise, ID"
+    ],
+    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---ID1/New-College-Grad---IT-Software-Support-Engineer_JR108465",
+    "sponsorship": "Other",
+    "posted": "2026-08-10",
+    "source": "SimplifyJobs"
   },
   {
     "id": "linkedin-4449548361",
@@ -48,6 +112,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4451849988",
+    "company": "Observe.AI",
+    "title": "Software Engineer I - AI Agents",
+    "locations": [
+      "Redwood City, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4451849988",
+    "sponsorship": "",
+    "posted": "2026-08-10",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4451122383",
     "company": "Cummins Inc.",
     "title": "Software Engineer I",
@@ -55,6 +131,30 @@
       "Des Moines, IA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4451122383",
+    "sponsorship": "",
+    "posted": "2026-08-10",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4451559932",
+    "company": "Beyond New Horizons",
+    "title": "Early Career Software Engineer",
+    "locations": [
+      "Manchester, TN"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4451559932",
+    "sponsorship": "",
+    "posted": "2026-08-10",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4451426717",
+    "company": "Auto-Chlor System",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4451426717",
     "sponsorship": "",
     "posted": "2026-08-10",
     "source": "LinkedIn"
@@ -84,6 +184,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4451849478",
+    "company": "Helic & Co",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "United States"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4451849478",
+    "sponsorship": "",
+    "posted": "2026-08-10",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4449697094",
     "company": "FDM Group",
     "title": "Junior Software Engineer",
@@ -96,25 +208,49 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4440084829",
-    "company": "Abridge",
-    "title": "Software Engineer - Early Career",
+    "id": "linkedin-4449580406",
+    "company": "Seagate Technology",
+    "title": "Firmware Engineer - Early Career",
     "locations": [
-      "San Francisco, CA"
+      "Longmont, CO"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4440084829",
+    "url": "https://www.linkedin.com/jobs/view/4449580406",
+    "sponsorship": "",
+    "posted": "2026-08-10",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4414708053",
+    "company": "Cadence",
+    "title": "Software Engineer I",
+    "locations": [
+      "Austin, TX"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4414708053",
+    "sponsorship": "",
+    "posted": "2026-08-09",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4450382898",
+    "company": "Everfox",
+    "title": "Software Engineer I",
+    "locations": [
+      "Richardson, TX"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4450382898",
     "sponsorship": "",
     "posted": "2026-08-08",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4451043386",
-    "company": "Northrop Grumman",
-    "title": "2027 Associate Software Engineer",
+    "id": "linkedin-4448742524",
+    "company": "Michigan Medicine",
+    "title": "Software Engineer Intermediate",
     "locations": [
-      "Melbourne, FL"
+      "Ann Arbor, MI"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4451043386",
+    "url": "https://www.linkedin.com/jobs/view/4448742524",
     "sponsorship": "",
     "posted": "2026-08-08",
     "source": "LinkedIn"
@@ -132,25 +268,25 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4450382898",
-    "company": "Everfox",
-    "title": "Software Engineer I",
+    "id": "linkedin-4439611333",
+    "company": "VIZIO",
+    "title": "Software Engineer II",
     "locations": [
-      "Richardson, TX"
+      "Denver, CO"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4450382898",
+    "url": "https://www.linkedin.com/jobs/view/4439611333",
     "sponsorship": "",
     "posted": "2026-08-08",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4451081041",
-    "company": "Helic & Co",
-    "title": "Junior Software Engineer",
+    "id": "linkedin-4440084829",
+    "company": "Abridge",
+    "title": "Software Engineer - Early Career",
     "locations": [
-      "United States"
+      "San Francisco, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4451081041",
+    "url": "https://www.linkedin.com/jobs/view/4440084829",
     "sponsorship": "",
     "posted": "2026-08-08",
     "source": "LinkedIn"
@@ -216,18 +352,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4450771913",
-    "company": "TD",
-    "title": "Software Engineer II (US)",
-    "locations": [
-      "Mount Laurel, NJ"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4450771913",
-    "sponsorship": "",
-    "posted": "2026-08-07",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4451006053",
     "company": "Flight Agencies",
     "title": "Junior Software Engineer",
@@ -235,6 +359,18 @@
       "Los Angeles, CA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4451006053",
+    "sponsorship": "",
+    "posted": "2026-08-07",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4450771913",
+    "company": "TD",
+    "title": "Software Engineer II (US)",
+    "locations": [
+      "Mount Laurel, NJ"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4450771913",
     "sponsorship": "",
     "posted": "2026-08-07",
     "source": "LinkedIn"
@@ -252,13 +388,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4449213283",
-    "company": "Belvedere Trading, LLC",
-    "title": "Software Engineer - Entry Level 2027",
+    "id": "linkedin-4450797267",
+    "company": "Torch Technologies, Inc.",
+    "title": "Software Engineer I",
     "locations": [
-      "Chicago, IL"
+      "Huntsville, AL"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4449213283",
+    "url": "https://www.linkedin.com/jobs/view/4450797267",
     "sponsorship": "",
     "posted": "2026-08-07",
     "source": "LinkedIn"
