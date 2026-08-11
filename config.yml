@@ -1,9 +1,6 @@
 # 2027-swe-radar configuration
 # Edit keywords and the Greenhouse watchlist freely — the scanner reads this on every run.
 
-# Ignore postings older than this date (ISO format).
-min_posted: "2026-07-01"
-
 # Only keep postings with at least one US location.
 us_only: true
 

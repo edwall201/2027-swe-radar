@@ -352,7 +352,8 @@ def build_readme(all_jobs, new_jobs, today, min_posted):
         "Automated daily scanner for **2027 new-grad software engineering** openings.",
         f"Last scan: **{today}** · Tracking **{len(all_jobs)}** matching postings"
         f" · 🆕 **{len(new_jobs)}** new today",
-        f"Only showing **US** postings from **{min_posted}** onward, newest first.",
+        (f"Only showing **US** postings from **{min_posted}** onward, newest first."
+         if min_posted else "Showing **US** postings, newest first."),
         "",
     ]
     if new_jobs:
@@ -365,8 +366,8 @@ def build_readme(all_jobs, new_jobs, today, min_posted):
     else:
         lines.append("_No postings explicitly mentioning 2027 yet._")
     lines.append("")
-    lines += ["## All tracked postings (most recent 50)", ""]
-    lines += table(newest_first(all_jobs)[:50])
+    lines += ["## All tracked postings", ""]
+    lines += table(newest_first(all_jobs))
     lines += ["", "---",
               "_Sources: SimplifyJobs New-Grad-Positions, Greenhouse/Lever/Ashby"
               " boards, LinkedIn search, Adzuna aggregator._",
@@ -379,10 +380,11 @@ def main():
     today = date.today().isoformat()
     DATA_DIR.mkdir(exist_ok=True)
 
-    min_posted = str(cfg.get("min_posted", "2026-07-01"))
+    min_posted = cfg.get("min_posted")
     jobs = (scan_simplify(cfg) + scan_greenhouse(cfg) + scan_lever(cfg)
             + scan_ashby(cfg) + scan_linkedin(cfg) + scan_adzuna(cfg))
-    jobs = [j for j in jobs if j["posted"] >= min_posted]
+    if min_posted:
+        jobs = [j for j in jobs if j["posted"] >= str(min_posted)]
     if cfg.get("us_only", True):
         jobs = filter_us(jobs)
     jobs_by_id = {j["id"]: j for j in jobs}
