@@ -1,5 +1,17 @@
 [
   {
+    "id": "simplify-407e1e4c-8d82-4e4c-b3ff-9482dc645fb7",
+    "company": "State Street",
+    "title": "Software Engineer New Grad",
+    "locations": [
+      "Burlington, MA"
+    ],
+    "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Software-Engineer--CRD--New-Graduate_R-795953",
+    "sponsorship": "Other",
+    "posted": "2026-08-11",
+    "source": "SimplifyJobs"
+  },
+  {
     "id": "linkedin-4406691082",
     "company": "Northwood",
     "title": "Software Engineer \u2013 General (new grad / early career)",
@@ -84,18 +96,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4451621454",
-    "company": "Walmart",
-    "title": "(USA) Software Engineer III",
-    "locations": [
-      "Bentonville, AR"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4451621454",
-    "sponsorship": "",
-    "posted": "2026-08-11",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4451666338",
     "company": "Revature",
     "title": "Entry Level Software Developer",
@@ -103,6 +103,18 @@
       "Syracuse, NY"
     ],
     "url": "https://www.linkedin.com/jobs/view/4451666338",
+    "sponsorship": "",
+    "posted": "2026-08-11",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4440237901",
+    "company": "Coilcraft, Inc.",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "Cary, IL"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4440237901",
     "sponsorship": "",
     "posted": "2026-08-11",
     "source": "LinkedIn"
@@ -175,20 +187,6 @@
       "Longmont, CO"
     ],
     "url": "https://seagatecareers.com/job/Longmont-Firmware-Engineer-Early-Career-CO-80501/1417701800/?ats=successfactors",
-    "sponsorship": "Other",
-    "posted": "2026-08-10",
-    "source": "SimplifyJobs"
-  },
-  {
-    "id": "simplify-8e8f7392-2530-41cd-b2fe-8ba9e55a6f68",
-    "company": "LPL Financial Holdings",
-    "title": "Software Engineering New Grad",
-    "locations": [
-      "Austin, TX",
-      "Fort Mill, SC",
-      "Charlotte, NC"
-    ],
-    "url": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/New-Grad-2027---Software-Engineering_R-052475",
     "sponsorship": "Other",
     "posted": "2026-08-10",
     "source": "SimplifyJobs"
@@ -330,6 +328,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4449548361",
+    "company": "TikTok USDS Joint Venture",
+    "title": "Software Engineer Graduate (Search) - 2027 Start",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4449548361",
+    "sponsorship": "",
+    "posted": "2026-08-10",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4449819917",
     "company": "Varsity Spirit",
     "title": "Software Engineer I",
@@ -361,18 +371,6 @@
       "O'Fallon, MO"
     ],
     "url": "https://www.linkedin.com/jobs/view/4449827286",
-    "sponsorship": "",
-    "posted": "2026-08-10",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4451426717",
-    "company": "Auto-Chlor System",
-    "title": "Junior Software Engineer",
-    "locations": [
-      "Mountain View, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4451426717",
     "sponsorship": "",
     "posted": "2026-08-10",
     "source": "LinkedIn"
@@ -435,18 +433,6 @@
     "url": "https://www.linkedin.com/jobs/view/4414708053",
     "sponsorship": "",
     "posted": "2026-08-09",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4440084829",
-    "company": "Abridge",
-    "title": "Software Engineer - Early Career",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4440084829",
-    "sponsorship": "",
-    "posted": "2026-08-08",
     "source": "LinkedIn"
   },
   {
@@ -1458,18 +1444,6 @@
     "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Colorado-Springs-Colorado/Junior-Software-Engineer_R2126608",
     "sponsorship": "Other",
     "posted": "2026-07-17",
-    "source": "SimplifyJobs"
-  },
-  {
-    "id": "simplify-b8074600-c8c3-4947-a115-7c212abd364f",
-    "company": "Nuro",
-    "title": "Software Engineer New Grad - Performance",
-    "locations": [
-      "Mountain View, CA"
-    ],
-    "url": "https://nuro.ai/careersitem?gh_jid=6972272",
-    "sponsorship": "Other",
-    "posted": "2026-07-16",
     "source": "SimplifyJobs"
   },
   {
