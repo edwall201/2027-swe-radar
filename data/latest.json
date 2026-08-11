@@ -1,5 +1,17 @@
 [
   {
+    "id": "linkedin-4406691082",
+    "company": "Northwood",
+    "title": "Software Engineer \u2013 General (new grad / early career)",
+    "locations": [
+      "Torrance, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4406691082",
+    "sponsorship": "",
+    "posted": "2026-08-11",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4451610670",
     "company": "Sony Interactive Entertainment",
     "title": "Software Engineer I SDK",
@@ -7,6 +19,54 @@
       "San Mateo, CA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4451610670",
+    "sponsorship": "",
+    "posted": "2026-08-11",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4451678829",
+    "company": "Pax",
+    "title": "Software Engineer (Early Career)",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4451678829",
+    "sponsorship": "",
+    "posted": "2026-08-11",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4452454163",
+    "company": "Microsoft",
+    "title": "Software Engineer I/II",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4452454163",
+    "sponsorship": "",
+    "posted": "2026-08-11",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4452441826",
+    "company": "7-Eleven",
+    "title": "Software Engineer II",
+    "locations": [
+      "Irving, TX"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4452441826",
+    "sponsorship": "",
+    "posted": "2026-08-11",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4452195397",
+    "company": "Mastercard",
+    "title": "Software Engineer II",
+    "locations": [
+      "O'Fallon, MO"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4452195397",
     "sponsorship": "",
     "posted": "2026-08-11",
     "source": "LinkedIn"
@@ -24,18 +84,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4451616486",
-    "company": "DV Trading LLC",
-    "title": "2027 Graduate Software Engineer (DV Commodities)",
-    "locations": [
-      "New York, NY"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4451616486",
-    "sponsorship": "",
-    "posted": "2026-08-11",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4451666338",
     "company": "Revature",
     "title": "Entry Level Software Developer",
@@ -43,6 +91,18 @@
       "Syracuse, NY"
     ],
     "url": "https://www.linkedin.com/jobs/view/4451666338",
+    "sponsorship": "",
+    "posted": "2026-08-11",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4452436893",
+    "company": "Cox Automotive Inc.",
+    "title": "Entry Level Software Engineer Carmel, IN",
+    "locations": [
+      "Carmel, IN"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4452436893",
     "sponsorship": "",
     "posted": "2026-08-11",
     "source": "LinkedIn"
@@ -60,18 +120,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4452445057",
-    "company": "Logic Jumps",
-    "title": "Junior Software Engineer",
-    "locations": [
-      "New York, United States"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4452445057",
-    "sponsorship": "",
-    "posted": "2026-08-11",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4450755145",
     "company": "Bering Straits Native Corporation (BSNC)",
     "title": "Junior Software Developer",
@@ -84,13 +132,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4451604349",
-    "company": "Haystack",
+    "id": "linkedin-4452474073",
+    "company": "Helic & Co",
     "title": "Junior Software Engineer",
     "locations": [
-      "Dallas, TX"
+      "United States"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4451604349",
+    "url": "https://www.linkedin.com/jobs/view/4452474073",
     "sponsorship": "",
     "posted": "2026-08-11",
     "source": "LinkedIn"
@@ -234,6 +282,42 @@
     "source": "SimplifyJobs"
   },
   {
+    "id": "linkedin-4452468186",
+    "company": "FLIGHTSTORY",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "Los Angeles, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4452468186",
+    "sponsorship": "",
+    "posted": "2026-08-10",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4451559932",
+    "company": "Beyond New Horizons",
+    "title": "Early Career Software Engineer",
+    "locations": [
+      "Manchester, TN"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4451559932",
+    "sponsorship": "",
+    "posted": "2026-08-10",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4452447847",
+    "company": "FLIGHTSTORY",
+    "title": "Junior Software Engineer (Python)",
+    "locations": [
+      "Los Angeles, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4452447847",
+    "sponsorship": "",
+    "posted": "2026-08-10",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4449548361",
     "company": "TikTok USDS Joint Venture",
     "title": "Software Engineer Graduate (Search) - 2027 Start",
@@ -294,18 +378,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4451559932",
-    "company": "Beyond New Horizons",
-    "title": "Early Career Software Engineer",
-    "locations": [
-      "Manchester, TN"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4451559932",
-    "sponsorship": "",
-    "posted": "2026-08-10",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4451426717",
     "company": "Auto-Chlor System",
     "title": "Junior Software Engineer",
@@ -330,25 +402,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4451849478",
-    "company": "Helic & Co",
-    "title": "Junior Software Engineer",
+    "id": "linkedin-4452472132",
+    "company": "FLIGHTSTORY",
+    "title": "Junior Software Developer - Python",
     "locations": [
-      "United States"
+      "Los Angeles, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4451849478",
-    "sponsorship": "",
-    "posted": "2026-08-10",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4449697094",
-    "company": "FDM Group",
-    "title": "Junior Software Engineer",
-    "locations": [
-      "New York City Metropolitan Area"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4449697094",
+    "url": "https://www.linkedin.com/jobs/view/4452472132",
     "sponsorship": "",
     "posted": "2026-08-10",
     "source": "LinkedIn"
@@ -378,30 +438,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4432153677",
-    "company": "Vertafore",
-    "title": "Software Engineer I",
-    "locations": [
-      "East Lansing, MI"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4432153677",
-    "sponsorship": "",
-    "posted": "2026-08-08",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4439611333",
-    "company": "VIZIO",
-    "title": "Software Engineer II",
-    "locations": [
-      "Denver, CO"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4439611333",
-    "sponsorship": "",
-    "posted": "2026-08-08",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4440084829",
     "company": "Abridge",
     "title": "Software Engineer - Early Career",
@@ -409,6 +445,18 @@
       "San Francisco, CA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4440084829",
+    "sponsorship": "",
+    "posted": "2026-08-08",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4432153677",
+    "company": "Vertafore",
+    "title": "Software Engineer I",
+    "locations": [
+      "East Lansing, MI"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4432153677",
     "sponsorship": "",
     "posted": "2026-08-08",
     "source": "LinkedIn"
