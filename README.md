@@ -1,20 +1,14 @@
 # 📡 2027 SWE Radar
 
 Automated daily scanner for **2027 new-grad software engineering** openings.
-Last scan: **2026-08-11** · Tracking **137** matching postings · 🆕 **7** new today
+Last scan: **2026-08-11** · Tracking **138** matching postings · 🆕 **1** new today
 Only showing **US** postings from **2026-07-01** onward, newest first.
 
 ## 🆕 New today
 
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
-| **Sony Interactive Entertainment** | Software Engineer I SDK | San Mateo, CA | 2026-08-11 | [Link](https://www.linkedin.com/jobs/view/4451610670) |
-| **DV Trading LLC** | 2027 Graduate Software Engineer (DV Commodities) | New York, NY | 2026-08-11 | [Link](https://www.linkedin.com/jobs/view/4451616486) |
-| **Boston Scientific** | Software Engineer I | Maple Grove, MN | 2026-08-11 | [Link](https://www.linkedin.com/jobs/view/4452197678) |
-| **Haystack** | Junior Software Engineer | Dallas, TX | 2026-08-11 | [Link](https://www.linkedin.com/jobs/view/4451604349) |
-| **Base-2 Solutions** | Junior Software Engineer | Annapolis Junction, MD | 2026-08-10 | [Link](https://www.linkedin.com/jobs/view/4451131132) |
-| **Base-2 Solutions** | Junior Software Engineer | Hanover, MD | 2026-08-10 | [Link](https://www.linkedin.com/jobs/view/4451123350) |
-| **Abridge** | Software Engineer - Early Career | San Francisco, CA | 2026-08-08 | [Link](https://www.linkedin.com/jobs/view/4440084829) |
+| **Infinite Computer Solutions** | Junior Software Engineer | Texas, United States | 2026-08-10 | [Link](https://www.linkedin.com/jobs/view/4452415311) |
 
 ## 🎯 Explicit 2027 openings
 
@@ -57,6 +51,7 @@ Only showing **US** postings from **2026-07-01** onward, newest first.
 | Beyond New Horizons | Early Career Software Engineer | Manchester, TN | 2026-08-10 | [Link](https://www.linkedin.com/jobs/view/4451559932) |
 | Auto-Chlor System | Junior Software Engineer | Mountain View, CA | 2026-08-10 | [Link](https://www.linkedin.com/jobs/view/4451426717) |
 | Helic & Co | Junior Software Engineer | United States | 2026-08-10 | [Link](https://www.linkedin.com/jobs/view/4451849478) |
+| Infinite Computer Solutions | Junior Software Engineer | Texas, United States | 2026-08-10 | [Link](https://www.linkedin.com/jobs/view/4452415311) |
 | FDM Group | Junior Software Engineer | New York City Metropolitan Area | 2026-08-10 | [Link](https://www.linkedin.com/jobs/view/4449697094) |
 | Base-2 Solutions | Junior Software Engineer | Annapolis Junction, MD | 2026-08-10 | [Link](https://www.linkedin.com/jobs/view/4451131132) |
 | Base-2 Solutions | Junior Software Engineer | Hanover, MD | 2026-08-10 | [Link](https://www.linkedin.com/jobs/view/4451123350) |
@@ -81,7 +76,6 @@ Only showing **US** postings from **2026-07-01** onward, newest first.
 | TikTok | Software Engineer New Grad - Ads Infrastructure | San Jose, CA | 2026-08-04 | [Link](https://lifeattiktok.com/search/7668879883938203957) |
 | TikTok | AI Engineer Graduate - Client Architecture - 2027 Start | San Jose, CA | 2026-08-04 | [Link](https://lifeattiktok.com/search/7664978367107713333) |
 | TikTok | Machine Learning Engineer New Grad - Performance Monetization | San Jose, CA | 2026-08-04 | [Link](https://lifeattiktok.com/search/7669691374918011141) |
-| TikTok | Machine Learning Engineer Graduate - Commerce Ads - 2027 Start | San Jose, CA | 2026-08-04 | [Link](https://lifeattiktok.com/search/7669711968024430853) |
 
 ---
 _Sources: SimplifyJobs New-Grad-Positions, Greenhouse/Lever/Ashby boards, LinkedIn search, Adzuna aggregator._
