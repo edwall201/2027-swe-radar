@@ -1,14 +1,17 @@
 # 📡 2027 SWE Radar
 
 Automated daily scanner for **2027 new-grad software engineering** openings.
-Last scan: **2026-08-11** · Tracking **138** matching postings · 🆕 **1** new today
+Last scan: **2026-08-11** · Tracking **138** matching postings · 🆕 **4** new today
 Only showing **US** postings from **2026-07-01** onward, newest first.
 
 ## 🆕 New today
 
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
-| **Infinite Computer Solutions** | Junior Software Engineer | Texas, United States | 2026-08-10 | [Link](https://www.linkedin.com/jobs/view/4452415311) |
+| **Walmart** | (USA) Software Engineer III | Bentonville, AR | 2026-08-11 | [Link](https://www.linkedin.com/jobs/view/4451621454) |
+| **Revature** | Entry Level Software Developer | Syracuse, NY | 2026-08-11 | [Link](https://www.linkedin.com/jobs/view/4451666338) |
+| **Revature** | Entry Level Software Developer | Dallas, TX | 2026-08-11 | [Link](https://www.linkedin.com/jobs/view/4451673224) |
+| **Logic Jumps** | Junior Software Engineer | New York, United States | 2026-08-11 | [Link](https://www.linkedin.com/jobs/view/4452445057) |
 
 ## 🎯 Explicit 2027 openings
 
@@ -27,10 +30,12 @@ Only showing **US** postings from **2026-07-01** onward, newest first.
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
 | Sony Interactive Entertainment | Software Engineer I SDK | San Mateo, CA | 2026-08-11 | [Link](https://www.linkedin.com/jobs/view/4451610670) |
+| Walmart | (USA) Software Engineer III | Bentonville, AR | 2026-08-11 | [Link](https://www.linkedin.com/jobs/view/4451621454) |
 | DV Trading LLC | 2027 Graduate Software Engineer (DV Commodities) | New York, NY | 2026-08-11 | [Link](https://www.linkedin.com/jobs/view/4451616486) |
-| Boston Scientific | Software Engineer I | Maple Grove, MN | 2026-08-11 | [Link](https://www.linkedin.com/jobs/view/4452197678) |
+| Revature | Entry Level Software Developer | Syracuse, NY | 2026-08-11 | [Link](https://www.linkedin.com/jobs/view/4451666338) |
+| Revature | Entry Level Software Developer | Dallas, TX | 2026-08-11 | [Link](https://www.linkedin.com/jobs/view/4451673224) |
+| Logic Jumps | Junior Software Engineer | New York, United States | 2026-08-11 | [Link](https://www.linkedin.com/jobs/view/4452445057) |
 | Bering Straits Native Corporation (BSNC) | Junior Software Developer | Dayton, OH | 2026-08-11 | [Link](https://www.linkedin.com/jobs/view/4450755145) |
-| Haystack | Entry Level Software Developer | Dallas, TX | 2026-08-11 | [Link](https://www.linkedin.com/jobs/view/4452146747) |
 | Haystack | Junior Software Engineer | Dallas, TX | 2026-08-11 | [Link](https://www.linkedin.com/jobs/view/4451604349) |
 | Teledyne | Junior Software Engineer | Huntsville, AL | 2026-08-10 | [Link](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/Jr-Software-Engineer_REQ36188) |
 | Seagate Technology  | Firmware Engineer - Early Career | Longmont, CO | 2026-08-10 | [Link](https://seagatecareers.com/job/Longmont-Firmware-Engineer-Early-Career-CO-80501/1417701800/?ats=successfactors) |
@@ -50,12 +55,11 @@ Only showing **US** postings from **2026-07-01** onward, newest first.
 | Mastercard | Software Engineer I | O'Fallon, MO | 2026-08-10 | [Link](https://www.linkedin.com/jobs/view/4449827286) |
 | Beyond New Horizons | Early Career Software Engineer | Manchester, TN | 2026-08-10 | [Link](https://www.linkedin.com/jobs/view/4451559932) |
 | Auto-Chlor System | Junior Software Engineer | Mountain View, CA | 2026-08-10 | [Link](https://www.linkedin.com/jobs/view/4451426717) |
-| Helic & Co | Junior Software Engineer | United States | 2026-08-10 | [Link](https://www.linkedin.com/jobs/view/4451849478) |
 | Infinite Computer Solutions | Junior Software Engineer | Texas, United States | 2026-08-10 | [Link](https://www.linkedin.com/jobs/view/4452415311) |
+| Helic & Co | Junior Software Engineer | United States | 2026-08-10 | [Link](https://www.linkedin.com/jobs/view/4451849478) |
 | FDM Group | Junior Software Engineer | New York City Metropolitan Area | 2026-08-10 | [Link](https://www.linkedin.com/jobs/view/4449697094) |
 | Base-2 Solutions | Junior Software Engineer | Annapolis Junction, MD | 2026-08-10 | [Link](https://www.linkedin.com/jobs/view/4451131132) |
 | Base-2 Solutions | Junior Software Engineer | Hanover, MD | 2026-08-10 | [Link](https://www.linkedin.com/jobs/view/4451123350) |
-| Cadence | Software Engineer I | Austin, TX | 2026-08-09 | [Link](https://www.linkedin.com/jobs/view/4414708053) |
 | Vertafore | Software Engineer I | East Lansing, MI | 2026-08-08 | [Link](https://www.linkedin.com/jobs/view/4432153677) |
 | VIZIO | Software Engineer II | Denver, CO | 2026-08-08 | [Link](https://www.linkedin.com/jobs/view/4439611333) |
 | Abridge | Software Engineer - Early Career | San Francisco, CA | 2026-08-08 | [Link](https://www.linkedin.com/jobs/view/4440084829) |
@@ -69,7 +73,6 @@ Only showing **US** postings from **2026-07-01** onward, newest first.
 | IXL Learning | Software Engineer New Grad | San Mateo, CA | 2026-08-06 | [Link](https://www.ixl.com/company/jobs?gh_jid=8662881002) |
 | IXL Learning | Software Engineer New Grad | Raleigh, NC | 2026-08-06 | [Link](https://www.ixl.com/company/jobs?gh_jid=8663379002) |
 | General Dynamics Information Technology | Junior Software Engineer - Clearance Sponsorship | Annapolis Junction, MD | 2026-08-06 | [Link](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Junior-Software-Engineer--Clearance-Sponsorship-_RQ225645-1) |
-| General Dynamics Information Technology | Junior Software Engineer | Annapolis Junction, MD | 2026-08-06 | [Link](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Junior-Software-Engineer--Clearance-Sponsorship-_RQ225644) |
 | Roblox | Software Engineer - Early Career | San Mateo, CA | 2026-08-05 | [Link](https://careers.roblox.com/jobs/8072244?gh_jid=8072244) |
 | TikTok | Frontend Software Engineer New Grad - Ads Interface | San Jose, CA | 2026-08-04 | [Link](https://lifeattiktok.com/search/7668569995571726597) |
 | TikTok | Machine Learning Engineer New Grad - Search Ads | San Jose, CA | 2026-08-04 | [Link](https://lifeattiktok.com/search/7669698543896054069) |
