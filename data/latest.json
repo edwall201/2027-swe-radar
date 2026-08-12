@@ -48,25 +48,38 @@
     "source": "SimplifyJobs"
   },
   {
-    "id": "linkedin-4452376767",
-    "company": "TikTok",
-    "title": "Software Engineer Graduate (Recommendation - TikTok AI Search & Visual Search Infra Team) - 2027 Start",
+    "id": "simplify-c5d7115a-0381-48fe-937d-74497a7da062",
+    "company": "NVIDIA",
+    "title": "GPU Verification Engineer New Grad",
     "locations": [
-      "San Jose, CA"
+      "Santa Clara, CA",
+      "Westford, MA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4452376767",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-MA-Westford/GPU-Verification-Engineer---New-College-Grad-2026_JR2023187",
+    "sponsorship": "Other",
+    "posted": "2026-08-12",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "linkedin-4449444067",
+    "company": "MetLife",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "Cary, NC"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4449444067",
     "sponsorship": "",
     "posted": "2026-08-12",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4443510223",
-    "company": "General Motors",
-    "title": "Software Engineer, Autonomous Vehicles Software Systems - Early Career",
+    "id": "linkedin-4413763362",
+    "company": "TP-Link Systems Inc.",
+    "title": "2026 Early Career Embedded Software Engineer",
     "locations": [
-      "Warren, MI"
+      "Irvine, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4443510223",
+    "url": "https://www.linkedin.com/jobs/view/4413763362",
     "sponsorship": "",
     "posted": "2026-08-12",
     "source": "LinkedIn"
@@ -108,13 +121,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4449444067",
-    "company": "MetLife",
-    "title": "Junior Software Engineer",
+    "id": "linkedin-4453380670",
+    "company": "Uniswap",
+    "title": "Software Engineer - Early Career",
     "locations": [
-      "Cary, NC"
+      "New York, NY"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4449444067",
+    "url": "https://www.linkedin.com/jobs/view/4453380670",
     "sponsorship": "",
     "posted": "2026-08-12",
     "source": "LinkedIn"
@@ -144,18 +157,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4452717648",
-    "company": "Collabera",
-    "title": "Junior Software Developer",
-    "locations": [
-      "Berkeley Lake, GA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4452717648",
-    "sponsorship": "",
-    "posted": "2026-08-12",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4453003859",
     "company": "Lyntris",
     "title": "Software Engineer I",
@@ -168,13 +169,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4443552824",
-    "company": "DCS Corp",
-    "title": "Junior Software Engineer",
+    "id": "linkedin-4453143561",
+    "company": "Collins Aerospace",
+    "title": "Software Engineer I (Onsite)",
     "locations": [
-      "Dayton, OH"
+      "Fulton, MD"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4443552824",
+    "url": "https://www.linkedin.com/jobs/view/4453143561",
     "sponsorship": "",
     "posted": "2026-08-12",
     "source": "LinkedIn"
@@ -228,18 +229,6 @@
     "source": "SimplifyJobs"
   },
   {
-    "id": "linkedin-4406691082",
-    "company": "Northwood",
-    "title": "Software Engineer \u2013 General (new grad / early career)",
-    "locations": [
-      "Torrance, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4406691082",
-    "sponsorship": "",
-    "posted": "2026-08-11",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4451958763",
     "company": "Sentry",
     "title": "Software Engineer, New Grad (2027)",
@@ -247,6 +236,18 @@
       "San Francisco, CA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4451958763",
+    "sponsorship": "",
+    "posted": "2026-08-11",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4406691082",
+    "company": "Northwood",
+    "title": "Software Engineer \u2013 General (new grad / early career)",
+    "locations": [
+      "Torrance, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4406691082",
     "sponsorship": "",
     "posted": "2026-08-11",
     "source": "LinkedIn"
@@ -264,6 +265,30 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4452446547",
+    "company": "ByteDance",
+    "title": "Software Engineer Graduate (AML-Engine-Orchestration) - 2027 Start",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4452446547",
+    "sponsorship": "",
+    "posted": "2026-08-11",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4451941533",
+    "company": "Scoring Technologies",
+    "title": "Entry/Junior Software Engineer",
+    "locations": [
+      "St George, UT"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4451941533",
+    "sponsorship": "",
+    "posted": "2026-08-11",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4451679968",
     "company": "7 Brew Coffee",
     "title": "Software Engineer II",
@@ -276,18 +301,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4451979067",
-    "company": "Valon",
-    "title": "Software Engineer II",
-    "locations": [
-      "New York, NY"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4451979067",
-    "sponsorship": "",
-    "posted": "2026-08-11",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4446226935",
     "company": "Samsara",
     "title": "Software Engineer I - New Grad, SF",
@@ -295,6 +308,18 @@
       "San Francisco, CA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4446226935",
+    "sponsorship": "",
+    "posted": "2026-08-11",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4451978082",
+    "company": "Valon",
+    "title": "Software Engineer II",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4451978082",
     "sponsorship": "",
     "posted": "2026-08-11",
     "source": "LinkedIn"
@@ -348,25 +373,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4451941533",
-    "company": "Scoring Technologies",
-    "title": "Entry/Junior Software Engineer",
+    "id": "linkedin-4451979067",
+    "company": "Valon",
+    "title": "Software Engineer II",
     "locations": [
-      "St George, UT"
+      "New York, NY"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4451941533",
-    "sponsorship": "",
-    "posted": "2026-08-11",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4452454163",
-    "company": "Microsoft",
-    "title": "Software Engineer I/II",
-    "locations": [
-      "Mountain View, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4452454163",
+    "url": "https://www.linkedin.com/jobs/view/4451979067",
     "sponsorship": "",
     "posted": "2026-08-11",
     "source": "LinkedIn"
@@ -396,13 +409,37 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4451678829",
-    "company": "Pax",
-    "title": "Software Engineer (Early Career)",
+    "id": "linkedin-4451687632",
+    "company": "Emonics LLC",
+    "title": "Entry Level Software Engineer",
     "locations": [
-      "San Francisco, CA"
+      "Seattle, WA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4451678829",
+    "url": "https://www.linkedin.com/jobs/view/4451687632",
+    "sponsorship": "",
+    "posted": "2026-08-11",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4452604119",
+    "company": "State Street",
+    "title": "Software Engineer, CRD- New Graduate",
+    "locations": [
+      "Burlington, MA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4452604119",
+    "sponsorship": "",
+    "posted": "2026-08-11",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4452454163",
+    "company": "Microsoft",
+    "title": "Software Engineer I/II",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4452454163",
     "sponsorship": "",
     "posted": "2026-08-11",
     "source": "LinkedIn"
@@ -546,18 +583,6 @@
     "source": "SimplifyJobs"
   },
   {
-    "id": "linkedin-4451559932",
-    "company": "Beyond New Horizons",
-    "title": "Early Career Software Engineer",
-    "locations": [
-      "Manchester, TN"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4451559932",
-    "sponsorship": "",
-    "posted": "2026-08-10",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4449819917",
     "company": "Varsity Spirit",
     "title": "Software Engineer I",
@@ -601,6 +626,42 @@
       "Mountain View, CA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4451426717",
+    "sponsorship": "",
+    "posted": "2026-08-10",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4451559932",
+    "company": "Beyond New Horizons",
+    "title": "Early Career Software Engineer",
+    "locations": [
+      "Manchester, TN"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4451559932",
+    "sponsorship": "",
+    "posted": "2026-08-10",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4451131132",
+    "company": "Base-2 Solutions",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "Annapolis Junction, MD"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4451131132",
+    "sponsorship": "",
+    "posted": "2026-08-10",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4451123350",
+    "company": "Base-2 Solutions",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "Hanover, MD"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4451123350",
     "sponsorship": "",
     "posted": "2026-08-10",
     "source": "LinkedIn"

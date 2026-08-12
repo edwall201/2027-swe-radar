@@ -1,23 +1,31 @@
 # 📡 2027 SWE Radar
 
 Automated daily scanner for **2027 new-grad software engineering** openings.
-Last scan: **2026-08-12** · Tracking **152** matching postings · 🆕 **2** new today
+Last scan: **2026-08-12** · Tracking **157** matching postings · 🆕 **10** new today
 Only showing **US** postings from **2026-07-01** onward, newest first.
 
 ## 🆕 New today
 
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
-| **Collabera** | Junior Software Developer | Berkeley Lake, GA | 2026-08-12 | [Link](https://www.linkedin.com/jobs/view/4452717648) |
-| **Lyntris** | Software Engineer I | San Diego, CA | 2026-08-12 | [Link](https://www.linkedin.com/jobs/view/4453003859) |
+| **NVIDIA** | GPU Verification Engineer New Grad | Santa Clara, CA; Westford, MA | 2026-08-12 | [Link](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-MA-Westford/GPU-Verification-Engineer---New-College-Grad-2026_JR2023187) |
+| **TP-Link Systems Inc.** | 2026 Early Career Embedded Software Engineer | Irvine, CA | 2026-08-12 | [Link](https://www.linkedin.com/jobs/view/4413763362) |
+| **Uniswap** | Software Engineer - Early Career | New York, NY | 2026-08-12 | [Link](https://www.linkedin.com/jobs/view/4453380670) |
+| **Collins Aerospace** | Software Engineer I (Onsite) | Fulton, MD | 2026-08-12 | [Link](https://www.linkedin.com/jobs/view/4453143561) |
+| **ByteDance** | Software Engineer Graduate (AML-Engine-Orchestration) - 2027 Start | Seattle, WA | 2026-08-11 | [Link](https://www.linkedin.com/jobs/view/4452446547) |
+| **Valon** | Software Engineer II | San Francisco, CA | 2026-08-11 | [Link](https://www.linkedin.com/jobs/view/4451978082) |
+| **Emonics LLC** | Entry Level Software Engineer | Seattle, WA | 2026-08-11 | [Link](https://www.linkedin.com/jobs/view/4451687632) |
+| **State Street** | Software Engineer, CRD- New Graduate | Burlington, MA | 2026-08-11 | [Link](https://www.linkedin.com/jobs/view/4452604119) |
+| **Base-2 Solutions** | Junior Software Engineer | Annapolis Junction, MD | 2026-08-10 | [Link](https://www.linkedin.com/jobs/view/4451131132) |
+| **Base-2 Solutions** | Junior Software Engineer | Hanover, MD | 2026-08-10 | [Link](https://www.linkedin.com/jobs/view/4451123350) |
 
 ## 🎯 Explicit 2027 openings
 
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
 | TikTok | Backend Engineer Graduate - TikTok Vertical Recommendation Architecture - 2027 Start | San Jose, CA | 2026-08-12 | [Link](https://lifeattiktok.com/search/7672532801686571317) |
-| TikTok | Software Engineer Graduate (Recommendation - TikTok AI Search & Visual Search Infra Team) - 2027 Start | San Jose, CA | 2026-08-12 | [Link](https://www.linkedin.com/jobs/view/4452376767) |
 | Sentry | Software Engineer, New Grad (2027) | San Francisco, CA | 2026-08-11 | [Link](https://www.linkedin.com/jobs/view/4451958763) |
+| ByteDance | Software Engineer Graduate (AML-Engine-Orchestration) - 2027 Start | Seattle, WA | 2026-08-11 | [Link](https://www.linkedin.com/jobs/view/4452446547) |
 | DV Trading LLC | 2027 Graduate Software Engineer (DV Commodities) | New York, NY | 2026-08-11 | [Link](https://www.linkedin.com/jobs/view/4451616486) |
 | ByteDance | Software Engineer Graduate - AML Engine Orchestration - 2027 Start | San Jose, CA | 2026-08-10 | [Link](https://jobs.bytedance.com/en/position/7671148355447343365/detail) |
 | TikTok | Software Engineer Graduate - Global E-commerce-Search - 2027 Start | Seattle, WA | 2026-08-06 | [Link](https://lifeattiktok.com/search/7670558992960358661) |
@@ -32,36 +40,39 @@ Only showing **US** postings from **2026-07-01** onward, newest first.
 | 9to9 Software Solutions | Entry Level Software Developer | Randolph AFB, TX | 2026-08-12 | [Link](https://jobs.smartrecruiters.com/9to9SoftwareSolutionsLLC/743999674053935) |
 | Mach Industries | Software Engineer New Grad - Software - GNC | Huntington Beach, CA | 2026-08-12 | [Link](https://jobs.ashbyhq.com/mach/43c8b037-c77d-4efb-9379-52a6c3718bdb/application?embed=true) |
 | TikTok | Backend Engineer Graduate - TikTok Vertical Recommendation Architecture - 2027 Start | San Jose, CA | 2026-08-12 | [Link](https://lifeattiktok.com/search/7672532801686571317) |
-| TikTok | Software Engineer Graduate (Recommendation - TikTok AI Search & Visual Search Infra Team) - 2027 Start | San Jose, CA | 2026-08-12 | [Link](https://www.linkedin.com/jobs/view/4452376767) |
-| General Motors | Software Engineer, Autonomous Vehicles Software Systems - Early Career | Warren, MI | 2026-08-12 | [Link](https://www.linkedin.com/jobs/view/4443510223) |
+| NVIDIA | GPU Verification Engineer New Grad | Santa Clara, CA; Westford, MA | 2026-08-12 | [Link](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-MA-Westford/GPU-Verification-Engineer---New-College-Grad-2026_JR2023187) |
+| MetLife | Junior Software Engineer | Cary, NC | 2026-08-12 | [Link](https://www.linkedin.com/jobs/view/4449444067) |
+| TP-Link Systems Inc. | 2026 Early Career Embedded Software Engineer | Irvine, CA | 2026-08-12 | [Link](https://www.linkedin.com/jobs/view/4413763362) |
 | Stronghold Investment Management | Software Engineer I | Dallas, TX | 2026-08-12 | [Link](https://www.linkedin.com/jobs/view/4452683045) |
 | Revature | Entry Level Software Developer | Syracuse, NY | 2026-08-12 | [Link](https://www.linkedin.com/jobs/view/4452381238) |
 | General Motors | Entry Level Software Engineer | Warren, MI | 2026-08-12 | [Link](https://www.linkedin.com/jobs/view/4453128780) |
-| MetLife | Junior Software Engineer | Cary, NC | 2026-08-12 | [Link](https://www.linkedin.com/jobs/view/4449444067) |
+| Uniswap | Software Engineer - Early Career | New York, NY | 2026-08-12 | [Link](https://www.linkedin.com/jobs/view/4453380670) |
 | Cohesity | Software Engineer (New Grad 2026) | Santa Clara, CA | 2026-08-12 | [Link](https://www.linkedin.com/jobs/view/4451971779) |
 | Collins Aerospace | Software Engineer I (Onsite) | Cedar Rapids, IA | 2026-08-12 | [Link](https://www.linkedin.com/jobs/view/4453135662) |
-| Collabera | Junior Software Developer | Berkeley Lake, GA | 2026-08-12 | [Link](https://www.linkedin.com/jobs/view/4452717648) |
 | Lyntris | Software Engineer I | San Diego, CA | 2026-08-12 | [Link](https://www.linkedin.com/jobs/view/4453003859) |
-| DCS Corp | Junior Software Engineer | Dayton, OH | 2026-08-12 | [Link](https://www.linkedin.com/jobs/view/4443552824) |
+| Collins Aerospace | Software Engineer I (Onsite) | Fulton, MD | 2026-08-12 | [Link](https://www.linkedin.com/jobs/view/4453143561) |
 | State Street | Software Engineer New Grad | Burlington, MA | 2026-08-11 | [Link](https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Software-Engineer--CRD--New-Graduate_R-795953) |
 | The Aerospace Corporation | Junior Software and Data Engineer - Information Systems and Cyber Division - Data Platforms and Architectures Department | El Segundo, CA | 2026-08-11 | [Link](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2026-Jr-Software-and-Data-Engineer_R016066) |
 | Apple | Software Engineer - Information Systems and Technology - Early Career | Austin, TX | 2026-08-11 | [Link](https://jobs.apple.com/en-us/details/200677377) |
 | Cohesity | Software Engineer New Grad | Santa Clara, CA | 2026-08-11 | [Link](https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/Santa-Clara-CA---USA-Office/Software-Engineer_R01282) |
-| Northwood | Software Engineer – General (new grad / early career) | Torrance, CA | 2026-08-11 | [Link](https://www.linkedin.com/jobs/view/4406691082) |
 | Sentry | Software Engineer, New Grad (2027) | San Francisco, CA | 2026-08-11 | [Link](https://www.linkedin.com/jobs/view/4451958763) |
+| Northwood | Software Engineer – General (new grad / early career) | Torrance, CA | 2026-08-11 | [Link](https://www.linkedin.com/jobs/view/4406691082) |
 | Sony Interactive Entertainment | Software Engineer I SDK | San Mateo, CA | 2026-08-11 | [Link](https://www.linkedin.com/jobs/view/4451610670) |
+| ByteDance | Software Engineer Graduate (AML-Engine-Orchestration) - 2027 Start | Seattle, WA | 2026-08-11 | [Link](https://www.linkedin.com/jobs/view/4452446547) |
+| Scoring Technologies | Entry/Junior Software Engineer | St George, UT | 2026-08-11 | [Link](https://www.linkedin.com/jobs/view/4451941533) |
 | 7 Brew Coffee | Software Engineer II | Springdale, AR | 2026-08-11 | [Link](https://www.linkedin.com/jobs/view/4451679968) |
-| Valon | Software Engineer II | New York, NY | 2026-08-11 | [Link](https://www.linkedin.com/jobs/view/4451979067) |
 | Samsara | Software Engineer I - New Grad, SF | San Francisco, CA | 2026-08-11 | [Link](https://www.linkedin.com/jobs/view/4446226935) |
+| Valon | Software Engineer II | San Francisco, CA | 2026-08-11 | [Link](https://www.linkedin.com/jobs/view/4451978082) |
 | SpaceX | New Graduate Engineer, Software | Hawthorne, CA | 2026-08-11 | [Link](https://www.linkedin.com/jobs/view/4397356269) |
 | Coilcraft, Inc. | Junior Software Engineer | Cary, IL | 2026-08-11 | [Link](https://www.linkedin.com/jobs/view/4440237901) |
 | Cox Automotive Inc. | Entry Level Software Engineer Carmel, IN | Carmel, IN | 2026-08-11 | [Link](https://www.linkedin.com/jobs/view/4452436893) |
 | AV | Software Engineer I-2 | Sunrise, FL | 2026-08-11 | [Link](https://www.linkedin.com/jobs/view/4452691474) |
-| Scoring Technologies | Entry/Junior Software Engineer | St George, UT | 2026-08-11 | [Link](https://www.linkedin.com/jobs/view/4451941533) |
-| Microsoft | Software Engineer I/II | Mountain View, CA | 2026-08-11 | [Link](https://www.linkedin.com/jobs/view/4452454163) |
+| Valon | Software Engineer II | New York, NY | 2026-08-11 | [Link](https://www.linkedin.com/jobs/view/4451979067) |
 | AV | Software Engineer I-1 | Sunrise, FL | 2026-08-11 | [Link](https://www.linkedin.com/jobs/view/4452676754) |
 | DV Trading LLC | 2027 Graduate Software Engineer (DV Commodities) | New York, NY | 2026-08-11 | [Link](https://www.linkedin.com/jobs/view/4451616486) |
-| Pax | Software Engineer (Early Career) | San Francisco, CA | 2026-08-11 | [Link](https://www.linkedin.com/jobs/view/4451678829) |
+| Emonics LLC | Entry Level Software Engineer | Seattle, WA | 2026-08-11 | [Link](https://www.linkedin.com/jobs/view/4451687632) |
+| State Street | Software Engineer, CRD- New Graduate | Burlington, MA | 2026-08-11 | [Link](https://www.linkedin.com/jobs/view/4452604119) |
+| Microsoft | Software Engineer I/II | Mountain View, CA | 2026-08-11 | [Link](https://www.linkedin.com/jobs/view/4452454163) |
 | Teledyne | Junior Software Engineer | Huntsville, AL | 2026-08-10 | [Link](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/Jr-Software-Engineer_REQ36188) |
 | Seagate Technology  | Firmware Engineer - Early Career | Longmont, CO | 2026-08-10 | [Link](https://seagatecareers.com/job/Longmont-Firmware-Engineer-Early-Career-CO-80501/1417701800/?ats=successfactors) |
 | LPL Financial Holdings | Software Engineering New Grad | Austin, TX; Fort Mill, SC | 2026-08-10 | [Link](https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/New-Grad-2027---Software-Engineering_R-052475) |
@@ -73,11 +84,8 @@ Only showing **US** postings from **2026-07-01** onward, newest first.
 | Blue Origin | Avionics / Embedded Software Engineer 1 - Early Career | LA; Kent, WA | 2026-08-10 | [Link](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Avionics---Embedded-Software-Engineer-I---Early-Career--2026-Starts-_R70055) |
 | ByteDance | Software Engineer Graduate - AML Engine Orchestration - 2027 Start | San Jose, CA | 2026-08-10 | [Link](https://jobs.bytedance.com/en/position/7671148355447343365/detail) |
 | FSH Technologies | Engineer New Grad | Philadelphia, PA; NYC | 2026-08-10 | [Link](https://jobs.ashbyhq.com/FSH/71b6506a-10c2-4498-9cff-1009e0582bda/application?embed=true) |
-| Beyond New Horizons | Early Career Software Engineer | Manchester, TN | 2026-08-10 | [Link](https://www.linkedin.com/jobs/view/4451559932) |
 | Varsity Spirit | Software Engineer I | Memphis, TN | 2026-08-10 | [Link](https://www.linkedin.com/jobs/view/4449819917) |
 | Cummins Inc. | Software Engineer I | Columbus, IN | 2026-08-10 | [Link](https://www.linkedin.com/jobs/view/4451143083) |
-| Mastercard | Software Engineer I | O'Fallon, MO | 2026-08-10 | [Link](https://www.linkedin.com/jobs/view/4449827286) |
-| Auto-Chlor System | Junior Software Engineer | Mountain View, CA | 2026-08-10 | [Link](https://www.linkedin.com/jobs/view/4451426717) |
 
 ---
 _Sources: SimplifyJobs New-Grad-Positions, Greenhouse/Lever/Ashby boards, LinkedIn search, Adzuna aggregator._
