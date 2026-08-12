@@ -96,6 +96,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4453128780",
+    "company": "General Motors",
+    "title": "Entry Level Software Engineer",
+    "locations": [
+      "Warren, MI"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4453128780",
+    "sponsorship": "",
+    "posted": "2026-08-12",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4449444067",
     "company": "MetLife",
     "title": "Junior Software Engineer",
@@ -120,13 +132,37 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4453003859",
-    "company": "Lyntris",
-    "title": "Software Engineer I",
+    "id": "linkedin-4453135662",
+    "company": "Collins Aerospace",
+    "title": "Software Engineer I (Onsite)",
     "locations": [
-      "San Diego, CA"
+      "Cedar Rapids, IA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4453003859",
+    "url": "https://www.linkedin.com/jobs/view/4453135662",
+    "sponsorship": "",
+    "posted": "2026-08-12",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4453143561",
+    "company": "Collins Aerospace",
+    "title": "Software Engineer I (Onsite)",
+    "locations": [
+      "Fulton, MD"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4453143561",
+    "sponsorship": "",
+    "posted": "2026-08-12",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4443552824",
+    "company": "DCS Corp",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "Dayton, OH"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4443552824",
     "sponsorship": "",
     "posted": "2026-08-12",
     "source": "LinkedIn"
@@ -300,6 +336,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4452676754",
+    "company": "AV",
+    "title": "Software Engineer I-1",
+    "locations": [
+      "Sunrise, FL"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4452676754",
+    "sponsorship": "",
+    "posted": "2026-08-11",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4452691474",
     "company": "AV",
     "title": "Software Engineer I-2",
@@ -307,6 +355,30 @@
       "Sunrise, FL"
     ],
     "url": "https://www.linkedin.com/jobs/view/4452691474",
+    "sponsorship": "",
+    "posted": "2026-08-11",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4451687632",
+    "company": "Emonics LLC",
+    "title": "Entry Level Software Engineer",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4451687632",
+    "sponsorship": "",
+    "posted": "2026-08-11",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4452604119",
+    "company": "State Street",
+    "title": "Software Engineer, CRD- New Graduate",
+    "locations": [
+      "Burlington, MA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4452604119",
     "sponsorship": "",
     "posted": "2026-08-11",
     "source": "LinkedIn"
@@ -324,25 +396,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4451688659",
-    "company": "Haystack",
-    "title": "Junior Software Engineer",
+    "id": "linkedin-4452454163",
+    "company": "Microsoft",
+    "title": "Software Engineer I/II",
     "locations": [
-      "Missouri, United States"
+      "Mountain View, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4451688659",
-    "sponsorship": "",
-    "posted": "2026-08-11",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4452676754",
-    "company": "AV",
-    "title": "Software Engineer I-1",
-    "locations": [
-      "Sunrise, FL"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4452676754",
+    "url": "https://www.linkedin.com/jobs/view/4452454163",
     "sponsorship": "",
     "posted": "2026-08-11",
     "source": "LinkedIn"
@@ -355,18 +415,6 @@
       "New York, NY"
     ],
     "url": "https://www.linkedin.com/jobs/view/4451616486",
-    "sponsorship": "",
-    "posted": "2026-08-11",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4452454163",
-    "company": "Microsoft",
-    "title": "Software Engineer I/II",
-    "locations": [
-      "Mountain View, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4452454163",
     "sponsorship": "",
     "posted": "2026-08-11",
     "source": "LinkedIn"
@@ -510,6 +558,18 @@
     "source": "SimplifyJobs"
   },
   {
+    "id": "linkedin-4451559932",
+    "company": "Beyond New Horizons",
+    "title": "Early Career Software Engineer",
+    "locations": [
+      "Manchester, TN"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4451559932",
+    "sponsorship": "",
+    "posted": "2026-08-10",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4449819917",
     "company": "Varsity Spirit",
     "title": "Software Engineer I",
@@ -553,42 +613,6 @@
       "Mountain View, CA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4451426717",
-    "sponsorship": "",
-    "posted": "2026-08-10",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4451559932",
-    "company": "Beyond New Horizons",
-    "title": "Early Career Software Engineer",
-    "locations": [
-      "Manchester, TN"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4451559932",
-    "sponsorship": "",
-    "posted": "2026-08-10",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4451131132",
-    "company": "Base-2 Solutions",
-    "title": "Junior Software Engineer",
-    "locations": [
-      "Annapolis Junction, MD"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4451131132",
-    "sponsorship": "",
-    "posted": "2026-08-10",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4451123350",
-    "company": "Base-2 Solutions",
-    "title": "Junior Software Engineer",
-    "locations": [
-      "Hanover, MD"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4451123350",
     "sponsorship": "",
     "posted": "2026-08-10",
     "source": "LinkedIn"
@@ -1458,18 +1482,6 @@
     "source": "SimplifyJobs"
   },
   {
-    "id": "gh-duolingo-8628658002",
-    "company": "Duolingo",
-    "title": "Software Engineer II, Android",
-    "locations": [
-      "Pittsburgh, PA"
-    ],
-    "url": "https://careers.duolingo.com/jobs/8628658002?gh_jid=8628658002",
-    "sponsorship": "",
-    "posted": "2026-07-23",
-    "source": "Greenhouse"
-  },
-  {
     "id": "gh-duolingo-8628670002",
     "company": "Duolingo",
     "title": "Software Engineer II, Android",
@@ -1477,6 +1489,18 @@
       "New York, NY"
     ],
     "url": "https://careers.duolingo.com/jobs/8628670002?gh_jid=8628670002",
+    "sponsorship": "",
+    "posted": "2026-07-23",
+    "source": "Greenhouse"
+  },
+  {
+    "id": "gh-duolingo-8628658002",
+    "company": "Duolingo",
+    "title": "Software Engineer II, Android",
+    "locations": [
+      "Pittsburgh, PA"
+    ],
+    "url": "https://careers.duolingo.com/jobs/8628658002?gh_jid=8628658002",
     "sponsorship": "",
     "posted": "2026-07-23",
     "source": "Greenhouse"
