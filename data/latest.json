@@ -36,6 +36,18 @@
     "source": "SimplifyJobs"
   },
   {
+    "id": "simplify-b7fadd8a-1f88-4b03-9fa5-8befef1a3a26",
+    "company": "TikTok",
+    "title": "Backend Engineer Graduate - TikTok Vertical Recommendation Architecture - 2027 Start",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://lifeattiktok.com/search/7672532801686571317",
+    "sponsorship": "Other",
+    "posted": "2026-08-12",
+    "source": "SimplifyJobs"
+  },
+  {
     "id": "linkedin-4452376767",
     "company": "TikTok",
     "title": "Software Engineer Graduate (Recommendation - TikTok AI Search & Visual Search Infra Team) - 2027 Start",
@@ -84,13 +96,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4452383202",
-    "company": "Revature",
-    "title": "Entry Level Software Developer",
+    "id": "linkedin-4449444067",
+    "company": "MetLife",
+    "title": "Junior Software Engineer",
     "locations": [
-      "Dallas, TX"
+      "Cary, NC"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4452383202",
+    "url": "https://www.linkedin.com/jobs/view/4449444067",
     "sponsorship": "",
     "posted": "2026-08-12",
     "source": "LinkedIn"
@@ -252,18 +264,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4451978082",
-    "company": "Valon",
-    "title": "Software Engineer II",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4451978082",
-    "sponsorship": "",
-    "posted": "2026-08-11",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4397356269",
     "company": "SpaceX",
     "title": "New Graduate Engineer, Software",
@@ -336,6 +336,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4452676754",
+    "company": "AV",
+    "title": "Software Engineer I-1",
+    "locations": [
+      "Sunrise, FL"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4452676754",
+    "sponsorship": "",
+    "posted": "2026-08-11",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4451616486",
     "company": "DV Trading LLC",
     "title": "2027 Graduate Software Engineer (DV Commodities)",
@@ -343,6 +355,18 @@
       "New York, NY"
     ],
     "url": "https://www.linkedin.com/jobs/view/4451616486",
+    "sponsorship": "",
+    "posted": "2026-08-11",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4452454163",
+    "company": "Microsoft",
+    "title": "Software Engineer I/II",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4452454163",
     "sponsorship": "",
     "posted": "2026-08-11",
     "source": "LinkedIn"
@@ -522,27 +546,51 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4414684566",
-    "company": "PTC",
+    "id": "linkedin-4451426717",
+    "company": "Auto-Chlor System",
     "title": "Junior Software Engineer",
     "locations": [
-      "San Mateo County, CA"
+      "Mountain View, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4414684566",
+    "url": "https://www.linkedin.com/jobs/view/4451426717",
     "sponsorship": "",
     "posted": "2026-08-10",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4414708053",
-    "company": "Cadence",
-    "title": "Software Engineer I",
+    "id": "linkedin-4451559932",
+    "company": "Beyond New Horizons",
+    "title": "Early Career Software Engineer",
     "locations": [
-      "Austin, TX"
+      "Manchester, TN"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4414708053",
+    "url": "https://www.linkedin.com/jobs/view/4451559932",
     "sponsorship": "",
-    "posted": "2026-08-09",
+    "posted": "2026-08-10",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4451131132",
+    "company": "Base-2 Solutions",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "Annapolis Junction, MD"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4451131132",
+    "sponsorship": "",
+    "posted": "2026-08-10",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4451123350",
+    "company": "Base-2 Solutions",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "Hanover, MD"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4451123350",
+    "sponsorship": "",
+    "posted": "2026-08-10",
     "source": "LinkedIn"
   },
   {
