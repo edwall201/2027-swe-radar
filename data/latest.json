@@ -36,6 +36,18 @@
     "source": "SimplifyJobs"
   },
   {
+    "id": "linkedin-4452376767",
+    "company": "TikTok",
+    "title": "Software Engineer Graduate (Recommendation - TikTok AI Search & Visual Search Infra Team) - 2027 Start",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4452376767",
+    "sponsorship": "",
+    "posted": "2026-08-12",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4452683045",
     "company": "Stronghold Investment Management",
     "title": "Software Engineer I",
@@ -48,6 +60,30 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4452381238",
+    "company": "Revature",
+    "title": "Entry Level Software Developer",
+    "locations": [
+      "Syracuse, NY"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4452381238",
+    "sponsorship": "",
+    "posted": "2026-08-12",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4452383202",
+    "company": "Revature",
+    "title": "Entry Level Software Developer",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4452383202",
+    "sponsorship": "",
+    "posted": "2026-08-12",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4451971779",
     "company": "Cohesity",
     "title": "Software Engineer (New Grad 2026)",
@@ -55,6 +91,18 @@
       "Santa Clara, CA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4451971779",
+    "sponsorship": "",
+    "posted": "2026-08-12",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4450131146",
+    "company": "Logic Jumps",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "New York, United States"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4450131146",
     "sponsorship": "",
     "posted": "2026-08-12",
     "source": "LinkedIn"
@@ -156,6 +204,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4451678829",
+    "company": "Pax",
+    "title": "Software Engineer (Early Career)",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4451678829",
+    "sponsorship": "",
+    "posted": "2026-08-11",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4452441826",
     "company": "7-Eleven",
     "title": "Software Engineer II",
@@ -204,18 +264,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4451678829",
-    "company": "Pax",
-    "title": "Software Engineer (Early Career)",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4451678829",
-    "sponsorship": "",
-    "posted": "2026-08-11",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4451978082",
     "company": "Valon",
     "title": "Software Engineer II",
@@ -235,18 +283,6 @@
       "Hawthorne, CA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4397356269",
-    "sponsorship": "",
-    "posted": "2026-08-11",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4451666338",
-    "company": "Revature",
-    "title": "Entry Level Software Developer",
-    "locations": [
-      "Syracuse, NY"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4451666338",
     "sponsorship": "",
     "posted": "2026-08-11",
     "source": "LinkedIn"
@@ -276,18 +312,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4451673224",
-    "company": "Revature",
-    "title": "Entry Level Software Developer",
-    "locations": [
-      "Dallas, TX"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4451673224",
-    "sponsorship": "",
-    "posted": "2026-08-11",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4452691474",
     "company": "AV",
     "title": "Software Engineer I-2",
@@ -312,25 +336,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4452676754",
-    "company": "AV",
-    "title": "Software Engineer I-1",
+    "id": "linkedin-4451616486",
+    "company": "DV Trading LLC",
+    "title": "2027 Graduate Software Engineer (DV Commodities)",
     "locations": [
-      "Sunrise, FL"
+      "New York, NY"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4452676754",
-    "sponsorship": "",
-    "posted": "2026-08-11",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4452454163",
-    "company": "Microsoft",
-    "title": "Software Engineer I/II",
-    "locations": [
-      "Mountain View, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4452454163",
+    "url": "https://www.linkedin.com/jobs/view/4451616486",
     "sponsorship": "",
     "posted": "2026-08-11",
     "source": "LinkedIn"
@@ -522,18 +534,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4451559932",
-    "company": "Beyond New Horizons",
-    "title": "Early Career Software Engineer",
-    "locations": [
-      "Manchester, TN"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4451559932",
-    "sponsorship": "",
-    "posted": "2026-08-10",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4452472132",
     "company": "FLIGHTSTORY",
     "title": "Junior Software Developer - Python",
@@ -558,13 +558,25 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4451426717",
-    "company": "Auto-Chlor System",
-    "title": "Junior Software Engineer",
+    "id": "linkedin-4449538861",
+    "company": "TikTok USDS Joint Venture",
+    "title": "Software Engineer Graduate (E-Commerce) - 2027 Start",
     "locations": [
-      "Mountain View, CA"
+      "Seattle, WA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4451426717",
+    "url": "https://www.linkedin.com/jobs/view/4449538861",
+    "sponsorship": "",
+    "posted": "2026-08-10",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4451559932",
+    "company": "Beyond New Horizons",
+    "title": "Early Career Software Engineer",
+    "locations": [
+      "Manchester, TN"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4451559932",
     "sponsorship": "",
     "posted": "2026-08-10",
     "source": "LinkedIn"
