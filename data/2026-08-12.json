@@ -144,13 +144,25 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4453143561",
-    "company": "Collins Aerospace",
-    "title": "Software Engineer I (Onsite)",
+    "id": "linkedin-4452717648",
+    "company": "Collabera",
+    "title": "Junior Software Developer",
     "locations": [
-      "Fulton, MD"
+      "Berkeley Lake, GA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4453143561",
+    "url": "https://www.linkedin.com/jobs/view/4452717648",
+    "sponsorship": "",
+    "posted": "2026-08-12",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4453003859",
+    "company": "Lyntris",
+    "title": "Software Engineer I",
+    "locations": [
+      "San Diego, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4453003859",
     "sponsorship": "",
     "posted": "2026-08-12",
     "source": "LinkedIn"
@@ -288,18 +300,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4451678829",
-    "company": "Pax",
-    "title": "Software Engineer (Early Career)",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4451678829",
-    "sponsorship": "",
-    "posted": "2026-08-11",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4397356269",
     "company": "SpaceX",
     "title": "New Graduate Engineer, Software",
@@ -336,18 +336,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4452676754",
-    "company": "AV",
-    "title": "Software Engineer I-1",
-    "locations": [
-      "Sunrise, FL"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4452676754",
-    "sponsorship": "",
-    "posted": "2026-08-11",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4452691474",
     "company": "AV",
     "title": "Software Engineer I-2",
@@ -355,30 +343,6 @@
       "Sunrise, FL"
     ],
     "url": "https://www.linkedin.com/jobs/view/4452691474",
-    "sponsorship": "",
-    "posted": "2026-08-11",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4451687632",
-    "company": "Emonics LLC",
-    "title": "Entry Level Software Engineer",
-    "locations": [
-      "Seattle, WA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4451687632",
-    "sponsorship": "",
-    "posted": "2026-08-11",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4452604119",
-    "company": "State Street",
-    "title": "Software Engineer, CRD- New Graduate",
-    "locations": [
-      "Burlington, MA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4452604119",
     "sponsorship": "",
     "posted": "2026-08-11",
     "source": "LinkedIn"
@@ -408,6 +372,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4452676754",
+    "company": "AV",
+    "title": "Software Engineer I-1",
+    "locations": [
+      "Sunrise, FL"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4452676754",
+    "sponsorship": "",
+    "posted": "2026-08-11",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4451616486",
     "company": "DV Trading LLC",
     "title": "2027 Graduate Software Engineer (DV Commodities)",
@@ -415,6 +391,18 @@
       "New York, NY"
     ],
     "url": "https://www.linkedin.com/jobs/view/4451616486",
+    "sponsorship": "",
+    "posted": "2026-08-11",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4451678829",
+    "company": "Pax",
+    "title": "Software Engineer (Early Career)",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4451678829",
     "sponsorship": "",
     "posted": "2026-08-11",
     "source": "LinkedIn"
@@ -1482,18 +1470,6 @@
     "source": "SimplifyJobs"
   },
   {
-    "id": "gh-duolingo-8628670002",
-    "company": "Duolingo",
-    "title": "Software Engineer II, Android",
-    "locations": [
-      "New York, NY"
-    ],
-    "url": "https://careers.duolingo.com/jobs/8628670002?gh_jid=8628670002",
-    "sponsorship": "",
-    "posted": "2026-07-23",
-    "source": "Greenhouse"
-  },
-  {
     "id": "gh-duolingo-8628658002",
     "company": "Duolingo",
     "title": "Software Engineer II, Android",
@@ -1501,6 +1477,18 @@
       "Pittsburgh, PA"
     ],
     "url": "https://careers.duolingo.com/jobs/8628658002?gh_jid=8628658002",
+    "sponsorship": "",
+    "posted": "2026-07-23",
+    "source": "Greenhouse"
+  },
+  {
+    "id": "gh-duolingo-8628670002",
+    "company": "Duolingo",
+    "title": "Software Engineer II, Android",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://careers.duolingo.com/jobs/8628670002?gh_jid=8628670002",
     "sponsorship": "",
     "posted": "2026-07-23",
     "source": "Greenhouse"
