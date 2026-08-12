@@ -48,6 +48,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4443510223",
+    "company": "General Motors",
+    "title": "Software Engineer, Autonomous Vehicles Software Systems - Early Career",
+    "locations": [
+      "Warren, MI"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4443510223",
+    "sponsorship": "",
+    "posted": "2026-08-12",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4452683045",
     "company": "Stronghold Investment Management",
     "title": "Software Engineer I",
@@ -91,18 +103,6 @@
       "Santa Clara, CA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4451971779",
-    "sponsorship": "",
-    "posted": "2026-08-12",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4450131146",
-    "company": "Logic Jumps",
-    "title": "Junior Software Engineer",
-    "locations": [
-      "New York, United States"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4450131146",
     "sponsorship": "",
     "posted": "2026-08-12",
     "source": "LinkedIn"
@@ -204,30 +204,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4451678829",
-    "company": "Pax",
-    "title": "Software Engineer (Early Career)",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4451678829",
-    "sponsorship": "",
-    "posted": "2026-08-11",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4452441826",
-    "company": "7-Eleven",
-    "title": "Software Engineer II",
-    "locations": [
-      "Irving, TX"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4452441826",
-    "sponsorship": "",
-    "posted": "2026-08-11",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4451679968",
     "company": "7 Brew Coffee",
     "title": "Software Engineer II",
@@ -259,6 +235,18 @@
       "San Francisco, CA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4446226935",
+    "sponsorship": "",
+    "posted": "2026-08-11",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4451678829",
+    "company": "Pax",
+    "title": "Software Engineer (Early Career)",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4451678829",
     "sponsorship": "",
     "posted": "2026-08-11",
     "source": "LinkedIn"
@@ -331,6 +319,18 @@
       "St George, UT"
     ],
     "url": "https://www.linkedin.com/jobs/view/4451941533",
+    "sponsorship": "",
+    "posted": "2026-08-11",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4451688659",
+    "company": "Haystack",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "Missouri, United States"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4451688659",
     "sponsorship": "",
     "posted": "2026-08-11",
     "source": "LinkedIn"
@@ -486,18 +486,6 @@
     "source": "SimplifyJobs"
   },
   {
-    "id": "linkedin-4452468186",
-    "company": "FLIGHTSTORY",
-    "title": "Junior Software Engineer",
-    "locations": [
-      "Los Angeles, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4452468186",
-    "sponsorship": "",
-    "posted": "2026-08-10",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4449819917",
     "company": "Varsity Spirit",
     "title": "Software Engineer I",
@@ -534,73 +522,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4452472132",
-    "company": "FLIGHTSTORY",
-    "title": "Junior Software Developer - Python",
-    "locations": [
-      "Los Angeles, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4452472132",
-    "sponsorship": "",
-    "posted": "2026-08-10",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4452447847",
-    "company": "FLIGHTSTORY",
-    "title": "Junior Software Engineer (Python)",
-    "locations": [
-      "Los Angeles, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4452447847",
-    "sponsorship": "",
-    "posted": "2026-08-10",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4449538861",
-    "company": "TikTok USDS Joint Venture",
-    "title": "Software Engineer Graduate (E-Commerce) - 2027 Start",
-    "locations": [
-      "Seattle, WA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4449538861",
-    "sponsorship": "",
-    "posted": "2026-08-10",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4451559932",
-    "company": "Beyond New Horizons",
-    "title": "Early Career Software Engineer",
-    "locations": [
-      "Manchester, TN"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4451559932",
-    "sponsorship": "",
-    "posted": "2026-08-10",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4451131132",
-    "company": "Base-2 Solutions",
+    "id": "linkedin-4414684566",
+    "company": "PTC",
     "title": "Junior Software Engineer",
     "locations": [
-      "Annapolis Junction, MD"
+      "San Mateo County, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4451131132",
-    "sponsorship": "",
-    "posted": "2026-08-10",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4451123350",
-    "company": "Base-2 Solutions",
-    "title": "Junior Software Engineer",
-    "locations": [
-      "Hanover, MD"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4451123350",
+    "url": "https://www.linkedin.com/jobs/view/4414684566",
     "sponsorship": "",
     "posted": "2026-08-10",
     "source": "LinkedIn"
@@ -613,18 +541,6 @@
       "Austin, TX"
     ],
     "url": "https://www.linkedin.com/jobs/view/4414708053",
-    "sponsorship": "",
-    "posted": "2026-08-09",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4375267309",
-    "company": "Walmart Global Tech",
-    "title": "(USA) Software Engineer III",
-    "locations": [
-      "Bentonville, AR"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4375267309",
     "sponsorship": "",
     "posted": "2026-08-09",
     "source": "LinkedIn"
