@@ -24,6 +24,30 @@
     "source": "SimplifyJobs"
   },
   {
+    "id": "simplify-f2a032d3-8549-4c56-895d-10d70eec9514",
+    "company": "Mach Industries",
+    "title": "Software Engineer New Grad - Software - GNC",
+    "locations": [
+      "Huntington Beach, CA"
+    ],
+    "url": "https://jobs.ashbyhq.com/mach/43c8b037-c77d-4efb-9379-52a6c3718bdb/application?embed=true",
+    "sponsorship": "Other",
+    "posted": "2026-08-12",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "linkedin-4452683045",
+    "company": "Stronghold Investment Management",
+    "title": "Software Engineer I",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4452683045",
+    "sponsorship": "",
+    "posted": "2026-08-12",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4451971779",
     "company": "Cohesity",
     "title": "Software Engineer (New Grad 2026)",
@@ -31,18 +55,6 @@
       "Santa Clara, CA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4451971779",
-    "sponsorship": "",
-    "posted": "2026-08-12",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4453003859",
-    "company": "Lyntris",
-    "title": "Software Engineer I",
-    "locations": [
-      "San Diego, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4453003859",
     "sponsorship": "",
     "posted": "2026-08-12",
     "source": "LinkedIn"
@@ -276,6 +288,30 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4451687632",
+    "company": "Emonics LLC",
+    "title": "Entry Level Software Engineer",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4451687632",
+    "sponsorship": "",
+    "posted": "2026-08-11",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4452604119",
+    "company": "State Street",
+    "title": "Software Engineer, CRD- New Graduate",
+    "locations": [
+      "Burlington, MA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4452604119",
+    "sponsorship": "",
+    "posted": "2026-08-11",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4451941533",
     "company": "Scoring Technologies",
     "title": "Entry/Junior Software Engineer",
@@ -295,54 +331,6 @@
       "Sunrise, FL"
     ],
     "url": "https://www.linkedin.com/jobs/view/4452676754",
-    "sponsorship": "",
-    "posted": "2026-08-11",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4452197678",
-    "company": "Boston Scientific",
-    "title": "Software Engineer I",
-    "locations": [
-      "Maple Grove, MN"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4452197678",
-    "sponsorship": "",
-    "posted": "2026-08-11",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4452680704",
-    "company": "AV",
-    "title": "Software Engineer I-3",
-    "locations": [
-      "Sunrise, FL"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4452680704",
-    "sponsorship": "",
-    "posted": "2026-08-11",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4449857879",
-    "company": "Cargill",
-    "title": "Software Engineer Associate - Technology Development Program 2027, Atlanta, GA 1",
-    "locations": [
-      "Atlanta, GA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4449857879",
-    "sponsorship": "",
-    "posted": "2026-08-11",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4449884407",
-    "company": "PathAI",
-    "title": "Software Engineer I, Fullstack",
-    "locations": [
-      "Boston, MA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4449884407",
     "sponsorship": "",
     "posted": "2026-08-11",
     "source": "LinkedIn"
@@ -558,13 +546,37 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4452472132",
-    "company": "FLIGHTSTORY",
-    "title": "Junior Software Developer - Python",
+    "id": "linkedin-4451426717",
+    "company": "Auto-Chlor System",
+    "title": "Junior Software Engineer",
     "locations": [
-      "Los Angeles, CA"
+      "Mountain View, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4452472132",
+    "url": "https://www.linkedin.com/jobs/view/4451426717",
+    "sponsorship": "",
+    "posted": "2026-08-10",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4451131132",
+    "company": "Base-2 Solutions",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "Annapolis Junction, MD"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4451131132",
+    "sponsorship": "",
+    "posted": "2026-08-10",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4451123350",
+    "company": "Base-2 Solutions",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "Hanover, MD"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4451123350",
     "sponsorship": "",
     "posted": "2026-08-10",
     "source": "LinkedIn"
@@ -577,18 +589,6 @@
       "Los Angeles, CA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4452447847",
-    "sponsorship": "",
-    "posted": "2026-08-10",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4451426717",
-    "company": "Auto-Chlor System",
-    "title": "Junior Software Engineer",
-    "locations": [
-      "Mountain View, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4451426717",
     "sponsorship": "",
     "posted": "2026-08-10",
     "source": "LinkedIn"
@@ -1611,19 +1611,6 @@
       "Santa Clara, CA"
     ],
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Design-Engineer---New-College-Grad-2026_JR2021534",
-    "sponsorship": "Other",
-    "posted": "2026-07-17",
-    "source": "SimplifyJobs"
-  },
-  {
-    "id": "simplify-e9b82842-eb2e-41f4-bfce-c4dd1a68c70d",
-    "company": "KBR",
-    "title": "Junior Software Engineer",
-    "locations": [
-      "Colorado Springs, CO",
-      "Beavercreek, OH"
-    ],
-    "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Colorado-Springs-Colorado/Junior-Software-Engineer_R2126608",
     "sponsorship": "Other",
     "posted": "2026-07-17",
     "source": "SimplifyJobs"
