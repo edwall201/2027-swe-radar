@@ -60,13 +60,37 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4453608635",
-    "company": "Leidos",
-    "title": "Junior Software Engineer - Kinetic Effects",
+    "id": "linkedin-4452921497",
+    "company": "Haystack",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "Alabama, United States"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4452921497",
+    "sponsorship": "",
+    "posted": "2026-08-13",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4452921492",
+    "company": "Haystack",
+    "title": "Junior Software Engineer",
     "locations": [
       "Huntsville, AL"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4453608635",
+    "url": "https://www.linkedin.com/jobs/view/4452921492",
+    "sponsorship": "",
+    "posted": "2026-08-13",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4452197678",
+    "company": "Boston Scientific",
+    "title": "Software Engineer I",
+    "locations": [
+      "Maple Grove, MN"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4452197678",
     "sponsorship": "",
     "posted": "2026-08-13",
     "source": "LinkedIn"
@@ -79,6 +103,18 @@
       "Los Angeles, CA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4450469215",
+    "sponsorship": "",
+    "posted": "2026-08-13",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4453625301",
+    "company": "Uber",
+    "title": "Software Engineer I",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4453625301",
     "sponsorship": "",
     "posted": "2026-08-13",
     "source": "LinkedIn"
@@ -277,18 +313,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4452758237",
-    "company": "Travelers",
-    "title": "Software Engineer I (Typescript, Node, AWS)",
-    "locations": [
-      "Hartford, CT"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4452758237",
-    "sponsorship": "",
-    "posted": "2026-08-12",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4453039940",
     "company": "AbbVie",
     "title": "Associate Software Engineer I",
@@ -301,13 +325,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4450019176",
-    "company": "IXL Learning",
-    "title": "Software Engineer, New Grad",
+    "id": "linkedin-4413763362",
+    "company": "TP-Link Systems Inc.",
+    "title": "2026 Early Career Embedded Software Engineer",
     "locations": [
-      "Raleigh, NC"
+      "Irvine, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4450019176",
+    "url": "https://www.linkedin.com/jobs/view/4413763362",
     "sponsorship": "",
     "posted": "2026-08-12",
     "source": "LinkedIn"
@@ -505,49 +529,37 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4452454163",
-    "company": "Microsoft",
-    "title": "Software Engineer I/II",
-    "locations": [
-      "Mountain View, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4452454163",
-    "sponsorship": "",
-    "posted": "2026-08-11",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4451687632",
-    "company": "Emonics LLC",
-    "title": "Entry Level Software Engineer",
+    "id": "linkedin-4452446547",
+    "company": "ByteDance",
+    "title": "Software Engineer Graduate (AML-Engine-Orchestration) - 2027 Start",
     "locations": [
       "Seattle, WA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4451687632",
+    "url": "https://www.linkedin.com/jobs/view/4452446547",
     "sponsorship": "",
     "posted": "2026-08-11",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4452604119",
-    "company": "State Street",
-    "title": "Software Engineer, CRD- New Graduate",
+    "id": "linkedin-4451498924",
+    "company": "TikTok USDS Joint Venture",
+    "title": "Software Engineer Graduate (E-Commerce) - 2027 Start",
     "locations": [
-      "Burlington, MA"
+      "San Jose, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4452604119",
+    "url": "https://www.linkedin.com/jobs/view/4451498924",
     "sponsorship": "",
     "posted": "2026-08-11",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4451616486",
-    "company": "DV Trading LLC",
-    "title": "2027 Graduate Software Engineer (DV Commodities)",
+    "id": "linkedin-4452676754",
+    "company": "AV",
+    "title": "Software Engineer I-1",
     "locations": [
-      "New York, NY"
+      "Sunrise, FL"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4451616486",
+    "url": "https://www.linkedin.com/jobs/view/4452676754",
     "sponsorship": "",
     "posted": "2026-08-11",
     "source": "LinkedIn"
