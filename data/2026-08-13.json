@@ -48,18 +48,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4453632537",
-    "company": "Lennar",
-    "title": "Software Engineer I",
-    "locations": [
-      "Miami, FL"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4453632537",
-    "sponsorship": "",
-    "posted": "2026-08-13",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4452901177",
     "company": "TikTok",
     "title": "Software Engineer Graduate (Foundation Platform) - 2027 Start",
@@ -139,18 +127,6 @@
       "Huntsville, AL"
     ],
     "url": "https://www.linkedin.com/jobs/view/4453608635",
-    "sponsorship": "",
-    "posted": "2026-08-13",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4453613517",
-    "company": "Leidos",
-    "title": "Junior Software Engineer",
-    "locations": [
-      "Huntsville, AL"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4453613517",
     "sponsorship": "",
     "posted": "2026-08-13",
     "source": "LinkedIn"
@@ -301,30 +277,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4453039940",
-    "company": "AbbVie",
-    "title": "Associate Software Engineer I",
-    "locations": [
-      "North Chicago, IL"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4453039940",
-    "sponsorship": "",
-    "posted": "2026-08-12",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4450019176",
-    "company": "IXL Learning",
-    "title": "Software Engineer, New Grad",
-    "locations": [
-      "Raleigh, NC"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4450019176",
-    "sponsorship": "",
-    "posted": "2026-08-12",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4449444067",
     "company": "MetLife",
     "title": "Junior Software Engineer",
@@ -361,30 +313,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4453003859",
-    "company": "Lyntris",
-    "title": "Software Engineer I",
-    "locations": [
-      "San Diego, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4453003859",
-    "sponsorship": "",
-    "posted": "2026-08-12",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4443552824",
-    "company": "DCS Corp",
-    "title": "Junior Software Engineer",
-    "locations": [
-      "Dayton, OH"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4443552824",
-    "sponsorship": "",
-    "posted": "2026-08-12",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4453135662",
     "company": "Collins Aerospace",
     "title": "Software Engineer I (Onsite)",
@@ -392,6 +320,18 @@
       "Cedar Rapids, IA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4453135662",
+    "sponsorship": "",
+    "posted": "2026-08-12",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4453003859",
+    "company": "Lyntris",
+    "title": "Software Engineer I",
+    "locations": [
+      "San Diego, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4453003859",
     "sponsorship": "",
     "posted": "2026-08-12",
     "source": "LinkedIn"
@@ -481,25 +421,37 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4451687632",
-    "company": "Emonics LLC",
-    "title": "Entry Level Software Engineer",
+    "id": "linkedin-4451679968",
+    "company": "7 Brew Coffee",
+    "title": "Software Engineer II",
     "locations": [
-      "Seattle, WA"
+      "Springdale, AR"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4451687632",
+    "url": "https://www.linkedin.com/jobs/view/4451679968",
     "sponsorship": "",
     "posted": "2026-08-11",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4451616486",
-    "company": "DV Trading LLC",
-    "title": "2027 Graduate Software Engineer (DV Commodities)",
+    "id": "linkedin-4446226935",
+    "company": "Samsara",
+    "title": "Software Engineer I - New Grad, SF",
     "locations": [
-      "New York, NY"
+      "San Francisco, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4451616486",
+    "url": "https://www.linkedin.com/jobs/view/4446226935",
+    "sponsorship": "",
+    "posted": "2026-08-11",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4451678829",
+    "company": "Pax",
+    "title": "Software Engineer (Early Career)",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4451678829",
     "sponsorship": "",
     "posted": "2026-08-11",
     "source": "LinkedIn"
@@ -548,42 +500,6 @@
       "New York, NY"
     ],
     "url": "https://www.linkedin.com/jobs/view/4451979067",
-    "sponsorship": "",
-    "posted": "2026-08-11",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4451941533",
-    "company": "Scoring Technologies",
-    "title": "Entry/Junior Software Engineer",
-    "locations": [
-      "St George, UT"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4451941533",
-    "sponsorship": "",
-    "posted": "2026-08-11",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4452676754",
-    "company": "AV",
-    "title": "Software Engineer I-1",
-    "locations": [
-      "Sunrise, FL"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4452676754",
-    "sponsorship": "",
-    "posted": "2026-08-11",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4452691474",
-    "company": "AV",
-    "title": "Software Engineer I-2",
-    "locations": [
-      "Sunrise, FL"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4452691474",
     "sponsorship": "",
     "posted": "2026-08-11",
     "source": "LinkedIn"
@@ -758,18 +674,6 @@
       "O'Fallon, MO"
     ],
     "url": "https://www.linkedin.com/jobs/view/4449827286",
-    "sponsorship": "",
-    "posted": "2026-08-10",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4451559932",
-    "company": "Beyond New Horizons",
-    "title": "Early Career Software Engineer",
-    "locations": [
-      "Manchester, TN"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4451559932",
     "sponsorship": "",
     "posted": "2026-08-10",
     "source": "LinkedIn"
@@ -2020,5 +1924,922 @@
     "sponsorship": "Other",
     "posted": "2026-07-01",
     "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-267d5473-4baf-4bba-ba9c-ccd65a1c0e30",
+    "company": "Palantir",
+    "title": "Forward Deployed Software Engineer New Grad - Commercial",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "url": "https://jobs.lever.co/palantir/e500bcf3-19d8-4d3c-b340-4d76e4a55b40/apply",
+    "sponsorship": "Other",
+    "posted": "2026-06-29",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-2da60465-c35e-418c-ba70-4bdf052f70b7",
+    "company": "Palantir",
+    "title": "Software Engineer New Grad - Production Infrastructure",
+    "locations": [
+      "Washington, DC"
+    ],
+    "url": "https://jobs.lever.co/palantir/15844944-fb69-4b57-9531-e988650b20c6/apply",
+    "sponsorship": "Other",
+    "posted": "2026-06-29",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-057e0386-1d1a-425c-b6a6-d6e3374a3d52",
+    "company": "Palantir",
+    "title": "Software Engineer New Grad - Defense",
+    "locations": [
+      "Washington, DC"
+    ],
+    "url": "https://jobs.lever.co/palantir/18d901fc-93bb-4d18-9f04-c72031e20d79/apply",
+    "sponsorship": "Other",
+    "posted": "2026-06-29",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-14ef1e83-8c2e-4630-9ce6-257af68d24db",
+    "company": "Integration Innovation (i3)",
+    "title": "Entry Level Software Engineer",
+    "locations": [
+      "Huntsville, AL"
+    ],
+    "url": "https://careers-i3-corps.icims.com/jobs/5175/job?mobile=true&needsRedirect=false",
+    "sponsorship": "Other",
+    "posted": "2026-06-29",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-a2b45a60-8ee3-4c7a-9e53-e95d40fb400c",
+    "company": "GlobalFoundries",
+    "title": "Tapeout Engineer New Grad",
+    "locations": [
+      "Austin, TX"
+    ],
+    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Tapeout-Engineer--2026-New-College-Graduate_JR-2602561",
+    "sponsorship": "Other",
+    "posted": "2026-06-29",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-645100d8-0e6e-414b-aa7c-96ecb3ea36e4",
+    "company": "Palantir",
+    "title": "Software Engineer New Grad - Defense",
+    "locations": [
+      "NYC"
+    ],
+    "url": "https://jobs.lever.co/palantir/0a838e66-1ab0-4fc4-b4d3-4671c0352278/apply",
+    "sponsorship": "Other",
+    "posted": "2026-06-29",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-345a57b5-fae1-45c1-8deb-5bbec4479e03",
+    "company": "Palantir",
+    "title": "Software Engineer New Grad - Defense",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "url": "https://jobs.lever.co/palantir/f362d7aa-360d-4059-ab38-f482742693b3/apply",
+    "sponsorship": "Other",
+    "posted": "2026-06-29",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-fef271f0-0395-41e1-bc64-b0f2f454e58f",
+    "company": "Palantir",
+    "title": "Forward Deployed Software Engineer New Grad - Commercial",
+    "locations": [
+      "NYC"
+    ],
+    "url": "https://jobs.lever.co/palantir/2e6b0ac8-83e9-4be5-a3aa-cf319f751728/apply",
+    "sponsorship": "Other",
+    "posted": "2026-06-29",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-7e134007-3fa8-4732-84ca-e7119c8f4116",
+    "company": "Palantir",
+    "title": "Software Engineer New Grad",
+    "locations": [
+      "Denver, CO"
+    ],
+    "url": "https://jobs.lever.co/palantir/c34b424e-caf2-455a-b104-ae1096ccca29/apply",
+    "sponsorship": "Other",
+    "posted": "2026-06-29",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "lever-palantir-e500bcf3-19d8-4d3c-b340-4d76e4a55b40",
+    "company": "Palantir",
+    "title": "Forward Deployed Software Engineer, New Grad - Commercial",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "url": "https://jobs.lever.co/palantir/e500bcf3-19d8-4d3c-b340-4d76e4a55b40",
+    "sponsorship": "",
+    "posted": "2026-06-29",
+    "source": "Lever"
+  },
+  {
+    "id": "simplify-9c338480-379d-4ca7-b5c9-3cb606516e95",
+    "company": "Cylake",
+    "title": "Software Engineer \u2013 University Grad",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "url": "https://jobs.ashbyhq.com/cylake-inc/1d1ac42e-299c-42af-bd7c-b8c5fb07f735/application",
+    "sponsorship": "Other",
+    "posted": "2026-06-26",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-6f509f3e-5e63-482f-8eb9-7847a0c9d9b6",
+    "company": "Palantir",
+    "title": "Privacy & Civil Liberties Engineer New Grad",
+    "locations": [
+      "NYC"
+    ],
+    "url": "https://jobs.lever.co/palantir/95e0d2b0-437a-4096-a5c6-0f247f426c90/apply",
+    "sponsorship": "Other",
+    "posted": "2026-06-26",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-e2d23a33-2859-4e62-a5a1-9d2672ebeb4e",
+    "company": "Four Hands",
+    "title": "Software Engineer New Grad",
+    "locations": [
+      "Austin, TX"
+    ],
+    "url": "https://job-boards.greenhouse.io/fourhands/jobs/4297618009",
+    "sponsorship": "Other",
+    "posted": "2026-06-25",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "lever-palantir-95e0d2b0-437a-4096-a5c6-0f247f426c90",
+    "company": "Palantir",
+    "title": "Privacy & Civil Liberties Engineer - New Grad",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://jobs.lever.co/palantir/95e0d2b0-437a-4096-a5c6-0f247f426c90",
+    "sponsorship": "",
+    "posted": "2026-06-25",
+    "source": "Lever"
+  },
+  {
+    "id": "simplify-cb1b4088-7336-49cb-9256-5f2f746a9ca9",
+    "company": "Texas Sports Academy",
+    "title": "Junior Software Engineer - AI-Forward",
+    "locations": [
+      "Austin, TX"
+    ],
+    "url": "https://apply.workable.com/texas-sports-academy-main/j/7CA2AC17A5/apply",
+    "sponsorship": "Other",
+    "posted": "2026-06-23",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-034a9d93-f51a-4886-b0fe-c2f771263fa5",
+    "company": "AG Technologies",
+    "title": "Entry Level Software Engineer",
+    "locations": [
+      "Chesterfield, MO"
+    ],
+    "url": "https://jobs.smartrecruiters.com/AGTechnologies1/100730616",
+    "sponsorship": "Other",
+    "posted": "2026-06-22",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-01864a29-f685-449a-8b9a-abcaf7bc9c15",
+    "company": "AG Technologies",
+    "title": "Entry Level Software Engineer",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "url": "https://jobs.smartrecruiters.com/AGTechnologies1/108734797",
+    "sponsorship": "Other",
+    "posted": "2026-06-22",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-6ad88d99-c42d-4bfa-9756-be12473cfa4f",
+    "company": "NVIDIA",
+    "title": "Signal and Power Integrity Engineer New Grad",
+    "locations": [
+      "Austin, TX",
+      "Santa Clara, CA"
+    ],
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/Signal-and-Power-Integrity-Engineer---New-College-Grad-2026_JR2015067",
+    "sponsorship": "Other",
+    "posted": "2026-06-20",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-1f6bee99-9cca-467c-a0b3-899d61139a03",
+    "company": "Palantir",
+    "title": "Forward Deployed Software Engineer New Grad",
+    "locations": [
+      "NYC"
+    ],
+    "url": "https://jobs.lever.co/palantir/d1ac83d0-e923-42a5-8e6d-58dd0cab25ca/apply",
+    "sponsorship": "Other",
+    "posted": "2026-06-16",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-f9825cd4-5a5a-4643-a150-970091875b43",
+    "company": "EXL",
+    "title": "Junior Software Developer",
+    "locations": [
+      "United States"
+    ],
+    "url": "https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/15785",
+    "sponsorship": "Other",
+    "posted": "2026-06-16",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-f6f83b45-cf4c-4a3e-8f32-4c64672610a1",
+    "company": "Palantir",
+    "title": "Forward Deployed Software Engineer New Grad",
+    "locations": [
+      "Washington, DC"
+    ],
+    "url": "https://jobs.lever.co/palantir/cbe90327-3e6e-451c-a54c-1d3cbcef5aeb/apply",
+    "sponsorship": "Other",
+    "posted": "2026-06-16",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-50390a34-333d-471c-9a4b-c2b34ecb25ad",
+    "company": "Palantir",
+    "title": "Forward Deployed Software Engineer New Grad",
+    "locations": [
+      "Washington, DC"
+    ],
+    "url": "https://jobs.lever.co/palantir/fbca0358-083a-4222-bdbb-3bd729b48382/apply",
+    "sponsorship": "Other",
+    "posted": "2026-06-16",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-0566af44-0b11-4d53-b281-6d4eb2e5545f",
+    "company": "Micron Technology",
+    "title": "New Grad Design Engineer - Semiconductor Design Engineer - DRAM Products Group",
+    "locations": [
+      "Boise, ID"
+    ],
+    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Semiconductor-Design-Engineer--DRAM-Products-Group_JR89353",
+    "sponsorship": "Other",
+    "posted": "2026-06-13",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-c85091a2-a380-4492-a9b4-da92fddd4148",
+    "company": "ASM International",
+    "title": "Field Service Engineer - Early Careers",
+    "locations": [
+      "Austin, TX"
+    ],
+    "url": "https://www.asm.com/open-vacancies/?gh_jid=4881845101",
+    "sponsorship": "Other",
+    "posted": "2026-06-09",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-29d56cce-6d8e-4fac-aeb4-7c14135e0b12",
+    "company": "NVIDIA",
+    "title": "Software R&D Engineer New Grad - VLSI Physical Design",
+    "locations": [
+      "Austin, TX"
+    ],
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/Software-R-D-Engineer--VLSI-Physical-Design---New-College-Grad-2026_JR2019330",
+    "sponsorship": "Other",
+    "posted": "2026-06-05",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-28f533ee-77db-4862-babb-7897aa104c42",
+    "company": "NVIDIA",
+    "title": "Cell Modeling and Verification Engineer New Grad",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Cell-Modelling-and-Verification-Engineer---New-College-Grad-2026_JR2011631",
+    "sponsorship": "Other",
+    "posted": "2026-06-03",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-fb8993b6-84c3-4607-801f-ed29b702f2f8",
+    "company": "NVIDIA",
+    "title": "Software Engineer New Grad - Hardware Tools and Methodology",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Hardware-Tools-and-Methodology---New-College-Grad-2026_JR2018659",
+    "sponsorship": "Other",
+    "posted": "2026-06-03",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-a5a4f5d2-e953-462d-a6ea-fd5fe770de44",
+    "company": "NVIDIA",
+    "title": "Low Power ASIC Engineer New Grad",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Low-Power-ASIC-Engineer---New-College-Grad-2026_JR2017005",
+    "sponsorship": "Other",
+    "posted": "2026-06-02",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-246cd778-c7c8-4dd5-88be-30f5e424219b",
+    "company": "Micron Technology",
+    "title": "DRAM Design Engineer New Grad - DRAM Design Engineer",
+    "locations": [
+      "Boise, ID"
+    ],
+    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---DRAM-Design-Engineer_JR103089",
+    "sponsorship": "Other",
+    "posted": "2026-06-01",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-7b26d568-7721-45b7-ad28-66f8775408d4",
+    "company": "Symbotic",
+    "title": "Software Engineer New Grad",
+    "locations": [
+      "Burlington, MA"
+    ],
+    "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/New-Grad--Software-Engineer_R6770",
+    "sponsorship": "Other",
+    "posted": "2026-05-19",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-684c01a1-1150-43b2-81a8-aaf6e5bd06db",
+    "company": "General Dynamics Mission Systems",
+    "title": "Entry Level Software Engineer",
+    "locations": [
+      "Brooklyn, OH"
+    ],
+    "url": "https://careers-gdms.icims.com/jobs/72592/job?mobile=true&needsRedirect=false",
+    "sponsorship": "Other",
+    "posted": "2026-05-18",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-0d7e17ba-1903-46ba-bfa9-bf2aa26a1ba6",
+    "company": "Micron Technology",
+    "title": "Mixed Signal Design Engineer New Grad",
+    "locations": [
+      "Richardson, TX"
+    ],
+    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Staff-Mixed-Signal-Design-Engine--HBM_JR93217",
+    "sponsorship": "Other",
+    "posted": "2026-05-16",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-3c23026b-e562-42db-8a51-e443977cf853",
+    "company": "Susquehanna International Group (SIG)",
+    "title": "Associate Linux/Windows Engineer New Grad",
+    "locations": [
+      "Ardmore, PA"
+    ],
+    "url": "https://careers-sig.icims.com/jobs/9408/job?mobile=true&needsRedirect=false",
+    "sponsorship": "Other",
+    "posted": "2026-05-13",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-76d1071c-8da4-43c1-8ea3-64c0ce8311fd",
+    "company": "NVIDIA",
+    "title": "Systems Software Engineer New Grad",
+    "locations": [
+      "Hillsboro, OR"
+    ],
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-OR-Hillsboro/Systems-Software-Engineer---New-College-Grad-2026_JR2017083",
+    "sponsorship": "Other",
+    "posted": "2026-05-12",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-da84358f-a28a-44a8-a020-4f2133238ad7",
+    "company": "Ciena",
+    "title": "Software Engineer New Grad - Security",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/Software-Engineer--Security----New-Grad_R030880",
+    "sponsorship": "Other",
+    "posted": "2026-05-12",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-e5120578-f019-43c6-9320-1c5f4685d5d8",
+    "company": "Honeywell",
+    "title": "Embedded Engineer 1 New Grad",
+    "locations": [
+      "St. Charles, IL"
+    ],
+    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/140055",
+    "sponsorship": "Other",
+    "posted": "2026-05-12",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-bc73e138-3099-4018-8af3-33f851c19b72",
+    "company": "PTC",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "San Mateo, CA"
+    ],
+    "url": "https://ptc.wd1.myworkdayjobs.com/ptc/job/Foster-City-CA-USA/Junior-Software-Engineer_JR112167",
+    "sponsorship": "Other",
+    "posted": "2026-05-07",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-0f8b69bb-cbbb-4949-b2a7-23aa41726134",
+    "company": "Fortinet",
+    "title": "Software Developer New Grad",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22818",
+    "sponsorship": "Other",
+    "posted": "2026-05-07",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-1530dfa5-7c83-434e-a46e-bead4069bdcd",
+    "company": "Quadric",
+    "title": "Deep Learning Compiler Engineer New Grad",
+    "locations": [
+      "Burlingame, CA"
+    ],
+    "url": "https://apply.workable.com/quadric-dot-i-o-inc/j/43779C9213/apply",
+    "sponsorship": "Other",
+    "posted": "2026-05-06",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-65849b96-f8c1-491c-a19f-a23719bc19ce",
+    "company": "BAE Systems",
+    "title": "Entry Level Software Engineer",
+    "locations": [
+      "Totowa, NJ"
+    ],
+    "url": "https://jobs.baesystems.com/global/en/job/BAE1US124432BREXTERNAL/Entry-Level-Software-Engineer",
+    "sponsorship": "U.S. Citizenship is Required",
+    "posted": "2026-05-04",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-6805a542-b373-4362-a01b-1340de5ba6db",
+    "company": "Northwood Space",
+    "title": "Software Engineer \u2013 New grad / early career",
+    "locations": [
+      "Carson, CA"
+    ],
+    "url": "https://jobs.ashbyhq.com/NorthwoodSpace/b960b661-e1cc-40d0-bde3-290cd1b58ede/application",
+    "sponsorship": "Other",
+    "posted": "2026-04-24",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-59da20b4-89d9-4050-8d93-b79c0953d1c7",
+    "company": "Anduril",
+    "title": "Early Career Software Engineer",
+    "locations": [
+      "Newport Beach, CA"
+    ],
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/4802146007",
+    "sponsorship": "Other",
+    "posted": "2026-04-22",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-040f9329-1f40-4857-8f81-0962e814a9f3",
+    "company": "Rambus",
+    "title": "Digital Design Engineer New Grad - Memory Interface Chip",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://careers-rambus.icims.com/jobs/22434/job?mobile=true&needsRedirect=false",
+    "sponsorship": "Other",
+    "posted": "2026-04-22",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-a3234be6-d59c-401e-85b3-634d691ce11f",
+    "company": "KBR",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "Beavercreek, OH"
+    ],
+    "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Ohio/Junior-Software-Engineer_R2122294",
+    "sponsorship": "Other",
+    "posted": "2026-04-20",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-9cb8a5fd-6975-4674-857b-4f0669ea0515",
+    "company": "Leidos",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "Columbia, MD"
+    ],
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/external/job/Columbia-MD/Junior-Software-Engineer_R-00180476",
+    "sponsorship": "U.S. Citizenship is Required",
+    "posted": "2026-04-13",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-f0c09f25-6461-4b5e-8bce-950aa917c086",
+    "company": "Sigma Computing",
+    "title": "Software Engineer New Grad",
+    "locations": [
+      "NYC"
+    ],
+    "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7690411003",
+    "sponsorship": "Other",
+    "posted": "2026-04-06",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-af8ee11b-8ecb-4e0d-a573-663d2b202291",
+    "company": "FlexAI",
+    "title": "Software Engineer \u2013 New Grad",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://ats.rippling.com/flexai/jobs/93ada67c-8527-427c-b2f6-4a5557b00674",
+    "sponsorship": "Other",
+    "posted": "2026-04-03",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-0fefbf48-517f-4009-b5b3-67f2c2eaaf8f",
+    "company": "SpaceX",
+    "title": "New Graduate Engineer - Software",
+    "locations": [
+      "West Athens, CA"
+    ],
+    "url": "https://boards.greenhouse.io/spacex/jobs/8493079002",
+    "sponsorship": "Other",
+    "posted": "2026-04-03",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-56706b17-a1d7-48dd-bba3-9ffdfd036a04",
+    "company": "Realm",
+    "title": "Software Engineer New Grad",
+    "locations": [
+      "Remote in USA"
+    ],
+    "url": "https://jobs.ashbyhq.com/realmalliance/56d8b433-31ad-43a2-997e-b8538f5f2c9f/application?embed=true",
+    "sponsorship": "Other",
+    "posted": "2026-04-03",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-d54312d4-b724-4f31-8edc-89a45c0f4ef5",
+    "company": "Aquatic Capital Management",
+    "title": "Software Engineer \u2013 Early Career",
+    "locations": [
+      "Chicago, IL",
+      "NYC"
+    ],
+    "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489226002",
+    "sponsorship": "Other",
+    "posted": "2026-04-01",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-9383654e-9231-4cd4-8264-8af3837f9686",
+    "company": "Ellipsis Labs",
+    "title": "Software Engineer \u2013 New Grads - Multiple Teams",
+    "locations": [
+      "NYC"
+    ],
+    "url": "https://jobs.ashbyhq.com/ellipsislabs/256c2ec2-01c8-4ff6-9ad0-b926fe40472d/application",
+    "sponsorship": "Other",
+    "posted": "2026-03-26",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-de2dabaf-389f-4f67-bf9d-1414cfa393fe",
+    "company": "Freedom Technology Solutions Group",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "St. Louis, MO"
+    ],
+    "url": "https://job-boards.greenhouse.io/freedomconsulting/jobs/5089261007",
+    "sponsorship": "Other",
+    "posted": "2026-03-25",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-20ab4e16-195e-4f9b-b9a8-a6651d21e85e",
+    "company": "ASM International",
+    "title": "Engineer - Field Service- Early Career",
+    "locations": [
+      "Boise, ID"
+    ],
+    "url": "https://www.asm.com/open-vacancies/?gh_jid=4806787101",
+    "sponsorship": "Other",
+    "posted": "2026-03-24",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-8c0be7dd-c4ae-4fd4-89fe-775e3e1c919a",
+    "company": "Geneva Trading",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "url": "https://job-boards.greenhouse.io/genevatrading/jobs/5085231007",
+    "sponsorship": "Other",
+    "posted": "2026-03-23",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-566e37cf-7620-4e64-90ea-d25a99bb5f19",
+    "company": "N1",
+    "title": "New Grad Software Engineer - Backend Rust",
+    "locations": [
+      "Remote in USA",
+      "NYC"
+    ],
+    "url": "https://jobs.ashbyhq.com/n1/a3e25c84-0846-454a-b2fc-a356c2a713bd/application",
+    "sponsorship": "Other",
+    "posted": "2026-03-19",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-7f07b83f-6b6f-4722-9fc9-391681b0c844",
+    "company": "General Motors",
+    "title": "Software Engineer \u2013 Early Career - Autonomous Vehicles Software Systems",
+    "locations": [
+      "Sunnyvale, CA",
+      "Warren, MI"
+    ],
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/Software-Engineer--Autonomous-Vehicles-Software-Systems---Early-Career_JR-202604759",
+    "sponsorship": "Other",
+    "posted": "2026-03-06",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-9914352c-4069-42cd-b635-7ab9382b8ae2",
+    "company": "SpaceX",
+    "title": "New Graduate Engineer - Software",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "url": "https://boards.greenhouse.io/spacex/jobs/8446263002",
+    "sponsorship": "Other",
+    "posted": "2026-03-06",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-b013d54d-e343-4859-badb-79f7e0e59c09",
+    "company": "Uare.ai",
+    "title": "Software Engineer \u2013 Early Career",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "url": "https://job-boards.greenhouse.io/uareai/jobs/4036519009",
+    "sponsorship": "Other",
+    "posted": "2026-03-03",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-747ae80c-8fa8-4c88-8563-d5535105608f",
+    "company": "Parallel Web Systems",
+    "title": "Early Career Research Engineer",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "url": "https://jobs.ashbyhq.com/parallel/056e41f8-7d5f-41c1-99fd-bf002dc072fd/application",
+    "sponsorship": "Other",
+    "posted": "2026-01-29",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-87535675-cdd3-44ea-b36f-622b1a2be47b",
+    "company": "Perpay",
+    "title": "Software Engineer \u2013 New Grad",
+    "locations": [
+      "Philadelphia, PA"
+    ],
+    "url": "https://job-boards.greenhouse.io/perpay/jobs/4034578007",
+    "sponsorship": "Other",
+    "posted": "2026-01-23",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-ceb2a9a3-fcd7-4b2b-ae29-f17de014d0f8",
+    "company": "SpaceX",
+    "title": "New Graduate Engineer - Software - Starlink",
+    "locations": [
+      "Redmond, WA"
+    ],
+    "url": "https://boards.greenhouse.io/spacex/jobs/8376990002",
+    "sponsorship": "Other",
+    "posted": "2026-01-16",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-36c9b7b4-9e96-49e9-adda-25c5ec121022",
+    "company": "General Dynamics Information Technology",
+    "title": "Junior Software Developer - Active TS/SCI with Poly Required",
+    "locations": [
+      "Annapolis Junction, MD"
+    ],
+    "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Junior-Software-Developer--Active-TS-SCI-with-Poly-Required-_RQ212931",
+    "sponsorship": "Other",
+    "posted": "2026-01-13",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-279e7051-e541-4865-b50d-cd10a4f29571",
+    "company": "Oklo",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "Santa Clara, CA",
+      "Remote in USA"
+    ],
+    "url": "https://job-boards.greenhouse.io/oklo/jobs/5739861004",
+    "sponsorship": "Other",
+    "posted": "2025-12-22",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-9a86364c-b451-4519-90de-7aa43e7c9e18",
+    "company": "BAE Systems",
+    "title": "Entry Level Software Engineer",
+    "locations": [
+      "Greenlawn, NY"
+    ],
+    "url": "https://jobs.baesystems.com/global/en/job/BAE1US119273BREXTERNAL/Entry-Level-Software-Engineer",
+    "sponsorship": "U.S. Citizenship is Required",
+    "posted": "2025-12-16",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "lever-palantir-33243fb5-6907-40c7-930c-968b25d825d0",
+    "company": "Palantir",
+    "title": "Forward Deployed Infrastructure Engineer, New Grad - US Government",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "url": "https://jobs.lever.co/palantir/33243fb5-6907-40c7-930c-968b25d825d0",
+    "sponsorship": "",
+    "posted": "2025-10-29",
+    "source": "Lever"
+  },
+  {
+    "id": "lever-palantir-91117724-9389-48dc-912f-98e48d4d45d8",
+    "company": "Palantir",
+    "title": "Forward Deployed Infrastructure Engineer, New Grad - US Government",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://jobs.lever.co/palantir/91117724-9389-48dc-912f-98e48d4d45d8",
+    "sponsorship": "",
+    "posted": "2025-10-29",
+    "source": "Lever"
+  },
+  {
+    "id": "lever-palantir-7d75bed5-45d8-4876-840a-2d92ea79c98d",
+    "company": "Palantir",
+    "title": "Software Engineer, New Grad - Infrastructure",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "url": "https://jobs.lever.co/palantir/7d75bed5-45d8-4876-840a-2d92ea79c98d",
+    "sponsorship": "",
+    "posted": "2025-08-19",
+    "source": "Lever"
+  },
+  {
+    "id": "lever-palantir-4abf26b4-795c-420a-bf22-1ab98db268b4",
+    "company": "Palantir",
+    "title": "Software Engineer, New Grad - Infrastructure",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://jobs.lever.co/palantir/4abf26b4-795c-420a-bf22-1ab98db268b4",
+    "sponsorship": "",
+    "posted": "2025-06-26",
+    "source": "Lever"
+  },
+  {
+    "id": "lever-palantir-4d5a144e-87ea-45e2-a68c-3fad590629af",
+    "company": "Palantir",
+    "title": "Software Engineer, New Grad - Production Infrastructure",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "url": "https://jobs.lever.co/palantir/4d5a144e-87ea-45e2-a68c-3fad590629af",
+    "sponsorship": "",
+    "posted": "2025-06-26",
+    "source": "Lever"
+  },
+  {
+    "id": "lever-palantir-e1a6c138-98bf-45e2-97f7-2c70371cc38a",
+    "company": "Palantir",
+    "title": "Software Engineer, New Grad - Production Infrastructure",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://jobs.lever.co/palantir/e1a6c138-98bf-45e2-97f7-2c70371cc38a",
+    "sponsorship": "",
+    "posted": "2025-06-26",
+    "source": "Lever"
+  },
+  {
+    "id": "lever-palantir-0a838e66-1ab0-4fc4-b4d3-4671c0352278",
+    "company": "Palantir",
+    "title": "Software Engineer, New Grad - Defense",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://jobs.lever.co/palantir/0a838e66-1ab0-4fc4-b4d3-4671c0352278",
+    "sponsorship": "",
+    "posted": "2025-06-19",
+    "source": "Lever"
+  },
+  {
+    "id": "lever-palantir-f362d7aa-360d-4059-ab38-f482742693b3",
+    "company": "Palantir",
+    "title": "Software Engineer, New Grad - Defense",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "url": "https://jobs.lever.co/palantir/f362d7aa-360d-4059-ab38-f482742693b3",
+    "sponsorship": "",
+    "posted": "2025-06-19",
+    "source": "Lever"
+  },
+  {
+    "id": "lever-palantir-2e6b0ac8-83e9-4be5-a3aa-cf319f751728",
+    "company": "Palantir",
+    "title": "Forward Deployed Software Engineer, New Grad - Commercial",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://jobs.lever.co/palantir/2e6b0ac8-83e9-4be5-a3aa-cf319f751728",
+    "sponsorship": "",
+    "posted": "2025-06-13",
+    "source": "Lever"
+  },
+  {
+    "id": "lever-palantir-d1ac83d0-e923-42a5-8e6d-58dd0cab25ca",
+    "company": "Palantir",
+    "title": "Forward Deployed Software Engineer, New Grad - US Government",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://jobs.lever.co/palantir/d1ac83d0-e923-42a5-8e6d-58dd0cab25ca",
+    "sponsorship": "",
+    "posted": "2022-06-30",
+    "source": "Lever"
+  },
+  {
+    "id": "lever-palantir-94984771-0704-446c-88c6-91ce748f6d92",
+    "company": "Palantir",
+    "title": "Software Engineer, New Grad",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://jobs.lever.co/palantir/94984771-0704-446c-88c6-91ce748f6d92",
+    "sponsorship": "",
+    "posted": "2021-07-01",
+    "source": "Lever"
+  },
+  {
+    "id": "lever-palantir-c34b424e-caf2-455a-b104-ae1096ccca29",
+    "company": "Palantir",
+    "title": "Software Engineer, New Grad",
+    "locations": [
+      "Denver, CO"
+    ],
+    "url": "https://jobs.lever.co/palantir/c34b424e-caf2-455a-b104-ae1096ccca29",
+    "sponsorship": "",
+    "posted": "2020-10-27",
+    "source": "Lever"
   }
 ]
