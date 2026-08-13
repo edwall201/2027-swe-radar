@@ -12,6 +12,18 @@
     "source": "SimplifyJobs"
   },
   {
+    "id": "simplify-495c218f-20df-48c5-baef-1726f57e1d01",
+    "company": "Applied Materials",
+    "title": "Software Engineer New Grad - DevOps",
+    "locations": [
+      "Gloucester, MA"
+    ],
+    "url": "https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2027-Software-Engineer--DevOps---New-College-Grad---Bachelor-s--Gloucester--MA-_R2625762",
+    "sponsorship": "Other",
+    "posted": "2026-08-13",
+    "source": "SimplifyJobs"
+  },
+  {
     "id": "linkedin-4452798180",
     "company": "TikTok",
     "title": "Software Engineer Graduate (Media Engine) - 2027 Start",
@@ -19,18 +31,6 @@
       "San Jose, CA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4452798180",
-    "sponsorship": "",
-    "posted": "2026-08-13",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4452901177",
-    "company": "TikTok",
-    "title": "Software Engineer Graduate (Foundation Platform) - 2027 Start",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4452901177",
     "sponsorship": "",
     "posted": "2026-08-13",
     "source": "LinkedIn"
@@ -48,25 +48,25 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4453613517",
-    "company": "Leidos",
-    "title": "Junior Software Engineer",
+    "id": "linkedin-4452901177",
+    "company": "TikTok",
+    "title": "Software Engineer Graduate (Foundation Platform) - 2027 Start",
     "locations": [
-      "Huntsville, AL"
+      "San Jose, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4453613517",
+    "url": "https://www.linkedin.com/jobs/view/4452901177",
     "sponsorship": "",
     "posted": "2026-08-13",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4452921497",
-    "company": "Haystack",
-    "title": "Junior Software Engineer",
+    "id": "linkedin-4452932931",
+    "company": "Revature",
+    "title": "Entry Level Software Developer",
     "locations": [
-      "Alabama, United States"
+      "Syracuse, NY"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4452921497",
+    "url": "https://www.linkedin.com/jobs/view/4452932931",
     "sponsorship": "",
     "posted": "2026-08-13",
     "source": "LinkedIn"
@@ -84,13 +84,73 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4452197678",
-    "company": "Boston Scientific",
-    "title": "Software Engineer I",
+    "id": "linkedin-4452921497",
+    "company": "Haystack",
+    "title": "Junior Software Engineer",
     "locations": [
-      "Maple Grove, MN"
+      "Alabama, United States"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4452197678",
+    "url": "https://www.linkedin.com/jobs/view/4452921497",
+    "sponsorship": "",
+    "posted": "2026-08-13",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4452930644",
+    "company": "Haystack",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "Huntsville, AL"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4452930644",
+    "sponsorship": "",
+    "posted": "2026-08-13",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4453608635",
+    "company": "Leidos",
+    "title": "Junior Software Engineer - Kinetic Effects",
+    "locations": [
+      "Huntsville, AL"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4453608635",
+    "sponsorship": "",
+    "posted": "2026-08-13",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4453613517",
+    "company": "Leidos",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "Huntsville, AL"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4453613517",
+    "sponsorship": "",
+    "posted": "2026-08-13",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4452925623",
+    "company": "Base-2 Solutions",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "Annapolis Junction, MD"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4452925623",
+    "sponsorship": "",
+    "posted": "2026-08-13",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4452915684",
+    "company": "Base-2 Solutions",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "Hanover, MD"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4452915684",
     "sponsorship": "",
     "posted": "2026-08-13",
     "source": "LinkedIn"
@@ -229,18 +289,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4452381238",
-    "company": "Revature",
-    "title": "Entry Level Software Developer",
-    "locations": [
-      "Syracuse, NY"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4452381238",
-    "sponsorship": "",
-    "posted": "2026-08-12",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4453128780",
     "company": "General Motors",
     "title": "Entry Level Software Engineer",
@@ -260,6 +308,18 @@
       "Cary, NC"
     ],
     "url": "https://www.linkedin.com/jobs/view/4449444067",
+    "sponsorship": "",
+    "posted": "2026-08-12",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4452746725",
+    "company": "Sable Systems International",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "Las Vegas, NV"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4452746725",
     "sponsorship": "",
     "posted": "2026-08-12",
     "source": "LinkedIn"
@@ -313,25 +373,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4453039940",
-    "company": "AbbVie",
-    "title": "Associate Software Engineer I",
+    "id": "linkedin-4452683045",
+    "company": "Stronghold Investment Management",
+    "title": "Software Engineer I",
     "locations": [
-      "North Chicago, IL"
+      "Dallas, TX"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4453039940",
-    "sponsorship": "",
-    "posted": "2026-08-12",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4413763362",
-    "company": "TP-Link Systems Inc.",
-    "title": "2026 Early Career Embedded Software Engineer",
-    "locations": [
-      "Irvine, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4413763362",
+    "url": "https://www.linkedin.com/jobs/view/4452683045",
     "sponsorship": "",
     "posted": "2026-08-12",
     "source": "LinkedIn"
@@ -433,6 +481,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4451616486",
+    "company": "DV Trading LLC",
+    "title": "2027 Graduate Software Engineer (DV Commodities)",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4451616486",
+    "sponsorship": "",
+    "posted": "2026-08-11",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4446226935",
     "company": "Samsara",
     "title": "Software Engineer I - New Grad, SF",
@@ -493,18 +553,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4452691474",
-    "company": "AV",
-    "title": "Software Engineer I-2",
-    "locations": [
-      "Sunrise, FL"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4452691474",
-    "sponsorship": "",
-    "posted": "2026-08-11",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4451979067",
     "company": "Valon",
     "title": "Software Engineer II",
@@ -529,49 +577,25 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4452446547",
-    "company": "ByteDance",
-    "title": "Software Engineer Graduate (AML-Engine-Orchestration) - 2027 Start",
-    "locations": [
-      "Seattle, WA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4452446547",
-    "sponsorship": "",
-    "posted": "2026-08-11",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4451498924",
-    "company": "TikTok USDS Joint Venture",
-    "title": "Software Engineer Graduate (E-Commerce) - 2027 Start",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4451498924",
-    "sponsorship": "",
-    "posted": "2026-08-11",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4452676754",
+    "id": "linkedin-4452691474",
     "company": "AV",
-    "title": "Software Engineer I-1",
+    "title": "Software Engineer I-2",
     "locations": [
       "Sunrise, FL"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4452676754",
+    "url": "https://www.linkedin.com/jobs/view/4452691474",
     "sponsorship": "",
     "posted": "2026-08-11",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4449884407",
-    "company": "PathAI",
-    "title": "Software Engineer I, Fullstack",
+    "id": "linkedin-4452454163",
+    "company": "Microsoft",
+    "title": "Software Engineer I/II",
     "locations": [
-      "Boston, MA"
+      "Mountain View, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4449884407",
+    "url": "https://www.linkedin.com/jobs/view/4452454163",
     "sponsorship": "",
     "posted": "2026-08-11",
     "source": "LinkedIn"
@@ -722,18 +746,6 @@
       "Memphis, TN"
     ],
     "url": "https://www.linkedin.com/jobs/view/4449819917",
-    "sponsorship": "",
-    "posted": "2026-08-10",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4451143083",
-    "company": "Cummins Inc.",
-    "title": "Software Engineer I",
-    "locations": [
-      "Columbus, IN"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4451143083",
     "sponsorship": "",
     "posted": "2026-08-10",
     "source": "LinkedIn"
