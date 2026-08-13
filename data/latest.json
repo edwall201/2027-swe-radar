@@ -12,6 +12,42 @@
     "source": "SimplifyJobs"
   },
   {
+    "id": "linkedin-4452798180",
+    "company": "TikTok",
+    "title": "Software Engineer Graduate (Media Engine) - 2027 Start",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4452798180",
+    "sponsorship": "",
+    "posted": "2026-08-13",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4452901177",
+    "company": "TikTok",
+    "title": "Software Engineer Graduate (Foundation Platform) - 2027 Start",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4452901177",
+    "sponsorship": "",
+    "posted": "2026-08-13",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4453643353",
+    "company": "Sapphire Partners",
+    "title": "Software Engineer (New Grad 2026)",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4453643353",
+    "sponsorship": "",
+    "posted": "2026-08-13",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4453613517",
     "company": "Leidos",
     "title": "Junior Software Engineer",
@@ -36,25 +72,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4453632537",
-    "company": "Lennar",
-    "title": "Software Engineer I",
+    "id": "linkedin-4450469215",
+    "company": "Alumni Founders",
+    "title": "Software Engineer (New Grad)",
     "locations": [
-      "Miami, FL"
+      "Los Angeles, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4453632537",
-    "sponsorship": "",
-    "posted": "2026-08-13",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4453625301",
-    "company": "Uber",
-    "title": "Software Engineer I",
-    "locations": [
-      "Sunnyvale, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4453625301",
+    "url": "https://www.linkedin.com/jobs/view/4450469215",
     "sponsorship": "",
     "posted": "2026-08-13",
     "source": "LinkedIn"
@@ -169,30 +193,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4452376767",
-    "company": "TikTok",
-    "title": "Software Engineer Graduate (Recommendation - TikTok AI Search & Visual Search Infra Team) - 2027 Start",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4452376767",
-    "sponsorship": "",
-    "posted": "2026-08-12",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4452683045",
-    "company": "Stronghold Investment Management",
-    "title": "Software Engineer I",
-    "locations": [
-      "Dallas, TX"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4452683045",
-    "sponsorship": "",
-    "posted": "2026-08-12",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4452381238",
     "company": "Revature",
     "title": "Entry Level Software Developer",
@@ -277,13 +277,37 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4453143561",
-    "company": "Collins Aerospace",
-    "title": "Software Engineer I (Onsite)",
+    "id": "linkedin-4452758237",
+    "company": "Travelers",
+    "title": "Software Engineer I (Typescript, Node, AWS)",
     "locations": [
-      "Fulton, MD"
+      "Hartford, CT"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4453143561",
+    "url": "https://www.linkedin.com/jobs/view/4452758237",
+    "sponsorship": "",
+    "posted": "2026-08-12",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4453039940",
+    "company": "AbbVie",
+    "title": "Associate Software Engineer I",
+    "locations": [
+      "North Chicago, IL"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4453039940",
+    "sponsorship": "",
+    "posted": "2026-08-12",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4450019176",
+    "company": "IXL Learning",
+    "title": "Software Engineer, New Grad",
+    "locations": [
+      "Raleigh, NC"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4450019176",
     "sponsorship": "",
     "posted": "2026-08-12",
     "source": "LinkedIn"
@@ -296,18 +320,6 @@
       "Burlington, MA"
     ],
     "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Software-Engineer--CRD--New-Graduate_R-795953",
-    "sponsorship": "Other",
-    "posted": "2026-08-11",
-    "source": "SimplifyJobs"
-  },
-  {
-    "id": "simplify-8df3ef17-9939-4e3f-83ab-a9c5f0cddcc8",
-    "company": "The Aerospace Corporation",
-    "title": "Junior Software and Data Engineer - Information Systems and Cyber Division - Data Platforms and Architectures Department",
-    "locations": [
-      "El Segundo, CA"
-    ],
-    "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2026-Jr-Software-and-Data-Engineer_R016066",
     "sponsorship": "Other",
     "posted": "2026-08-11",
     "source": "SimplifyJobs"
@@ -409,6 +421,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4451678829",
+    "company": "Pax",
+    "title": "Software Engineer (Early Career)",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4451678829",
+    "sponsorship": "",
+    "posted": "2026-08-11",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4451978082",
     "company": "Valon",
     "title": "Software Engineer II",
@@ -493,18 +517,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4451616486",
-    "company": "DV Trading LLC",
-    "title": "2027 Graduate Software Engineer (DV Commodities)",
-    "locations": [
-      "New York, NY"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4451616486",
-    "sponsorship": "",
-    "posted": "2026-08-11",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4451687632",
     "company": "Emonics LLC",
     "title": "Entry Level Software Engineer",
@@ -524,6 +536,30 @@
       "Burlington, MA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4452604119",
+    "sponsorship": "",
+    "posted": "2026-08-11",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4451616486",
+    "company": "DV Trading LLC",
+    "title": "2027 Graduate Software Engineer (DV Commodities)",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4451616486",
+    "sponsorship": "",
+    "posted": "2026-08-11",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4449884407",
+    "company": "PathAI",
+    "title": "Software Engineer I, Fullstack",
+    "locations": [
+      "Boston, MA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4449884407",
     "sponsorship": "",
     "posted": "2026-08-11",
     "source": "LinkedIn"
@@ -698,54 +734,6 @@
       "O'Fallon, MO"
     ],
     "url": "https://www.linkedin.com/jobs/view/4449827286",
-    "sponsorship": "",
-    "posted": "2026-08-10",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4451426717",
-    "company": "Auto-Chlor System",
-    "title": "Junior Software Engineer",
-    "locations": [
-      "Mountain View, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4451426717",
-    "sponsorship": "",
-    "posted": "2026-08-10",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4451559932",
-    "company": "Beyond New Horizons",
-    "title": "Early Career Software Engineer",
-    "locations": [
-      "Manchester, TN"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4451559932",
-    "sponsorship": "",
-    "posted": "2026-08-10",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4451131132",
-    "company": "Base-2 Solutions",
-    "title": "Junior Software Engineer",
-    "locations": [
-      "Annapolis Junction, MD"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4451131132",
-    "sponsorship": "",
-    "posted": "2026-08-10",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4451123350",
-    "company": "Base-2 Solutions",
-    "title": "Junior Software Engineer",
-    "locations": [
-      "Hanover, MD"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4451123350",
     "sponsorship": "",
     "posted": "2026-08-10",
     "source": "LinkedIn"
