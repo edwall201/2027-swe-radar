@@ -84,6 +84,18 @@
     "source": "SimplifyJobs"
   },
   {
+    "id": "simplify-883f115b-b0ad-4eae-8a80-2bbf523964d4",
+    "company": "Micron Technology",
+    "title": "AI Innovation Research Engineer New Grad",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/New-College-Grad---AI-Innovation-Research-Engineer_JR108594",
+    "sponsorship": "Other",
+    "posted": "2026-08-14",
+    "source": "SimplifyJobs"
+  },
+  {
     "id": "gh-samsara-8036387",
     "company": "Samsara",
     "title": "Software Engineer II",
@@ -96,13 +108,25 @@
     "source": "Greenhouse"
   },
   {
-    "id": "linkedin-4444706533",
-    "company": "Appian",
-    "title": "Associate Application Engineer (2027 Graduates)",
+    "id": "linkedin-4454503166",
+    "company": "Composio",
+    "title": "Fullstack Engineer, Product Team (New Grad)",
     "locations": [
-      "McLean, VA"
+      "San Francisco, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4444706533",
+    "url": "https://www.linkedin.com/jobs/view/4454503166",
+    "sponsorship": "",
+    "posted": "2026-08-14",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4423618885",
+    "company": "Meta",
+    "title": "Production Engineer (University Grad)",
+    "locations": [
+      "Bellevue, WA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4423618885",
     "sponsorship": "",
     "posted": "2026-08-14",
     "source": "LinkedIn"
@@ -156,6 +180,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4451226917",
+    "company": "Solarity",
+    "title": "Software Engineer I",
+    "locations": [
+      "Sioux Falls, SD"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4451226917",
+    "sponsorship": "",
+    "posted": "2026-08-14",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4453507909",
     "company": "BioSpace",
     "title": "Associate Software Engineer I",
@@ -204,6 +240,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4451254255",
+    "company": "United States Cold Storage, Inc.",
+    "title": "SOFTWARE ENGINEER I",
+    "locations": [
+      "Camden, NJ"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4451254255",
+    "sponsorship": "",
+    "posted": "2026-08-14",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4453540118",
     "company": "Haystack",
     "title": "Junior Software Engineer",
@@ -211,30 +259,6 @@
       "Huntsville, AL"
     ],
     "url": "https://www.linkedin.com/jobs/view/4453540118",
-    "sponsorship": "",
-    "posted": "2026-08-14",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4454327798",
-    "company": "Honeywell Technologies",
-    "title": "Software Engineer I",
-    "locations": [
-      "Richmond, VA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4454327798",
-    "sponsorship": "",
-    "posted": "2026-08-14",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4454367151",
-    "company": "Lennar",
-    "title": "Software Engineer I",
-    "locations": [
-      "Miami, FL"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4454367151",
     "sponsorship": "",
     "posted": "2026-08-14",
     "source": "LinkedIn"
@@ -290,25 +314,13 @@
     "source": "SimplifyJobs"
   },
   {
-    "id": "linkedin-4437324460",
-    "company": "Kansas City National Security Campus",
-    "title": "Software Engineer I - System Knowledge",
+    "id": "linkedin-4452798180",
+    "company": "TikTok",
+    "title": "Software Engineer Graduate (Media Engine) - 2027 Start",
     "locations": [
-      "Kansas City, MO"
+      "San Jose, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4437324460",
-    "sponsorship": "",
-    "posted": "2026-08-13",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4331580484",
-    "company": "Medpace",
-    "title": "Junior Software Engineer",
-    "locations": [
-      "Denver, CO"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4331580484",
+    "url": "https://www.linkedin.com/jobs/view/4452798180",
     "sponsorship": "",
     "posted": "2026-08-13",
     "source": "LinkedIn"
@@ -345,6 +357,18 @@
       "St Louis, MO"
     ],
     "url": "https://www.linkedin.com/jobs/view/4450482821",
+    "sponsorship": "",
+    "posted": "2026-08-13",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4437324460",
+    "company": "Kansas City National Security Campus",
+    "title": "Software Engineer I - System Knowledge",
+    "locations": [
+      "Kansas City, MO"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4437324460",
     "sponsorship": "",
     "posted": "2026-08-13",
     "source": "LinkedIn"
@@ -410,18 +434,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4452901177",
-    "company": "TikTok",
-    "title": "Software Engineer Graduate (Foundation Platform) - 2027 Start",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4452901177",
-    "sponsorship": "",
-    "posted": "2026-08-13",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4453625301",
     "company": "Uber",
     "title": "Software Engineer I",
@@ -429,18 +441,6 @@
       "Sunnyvale, CA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4453625301",
-    "sponsorship": "",
-    "posted": "2026-08-13",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4452923607",
-    "company": "TikTok",
-    "title": "Software Engineer Graduate (Recommendation Infrastructure) - 2027 Start",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4452923607",
     "sponsorship": "",
     "posted": "2026-08-13",
     "source": "LinkedIn"
@@ -543,25 +543,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4413763362",
-    "company": "TP-Link Systems Inc.",
-    "title": "2026 Early Career Embedded Software Engineer",
+    "id": "linkedin-4443395661",
+    "company": "General Motors",
+    "title": "Software Engineer, Autonomous Vehicles Software Systems - Early Career",
     "locations": [
-      "Irvine, CA"
+      "Sunnyvale, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4413763362",
-    "sponsorship": "",
-    "posted": "2026-08-12",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4452356584",
-    "company": "Mach Industries",
-    "title": "December 2026 New Graduate Engineer, Software / GNC",
-    "locations": [
-      "Huntington Beach, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4452356584",
+    "url": "https://www.linkedin.com/jobs/view/4443395661",
     "sponsorship": "",
     "posted": "2026-08-12",
     "source": "LinkedIn"
@@ -586,18 +574,6 @@
       "Dallas, TX"
     ],
     "url": "https://www.linkedin.com/jobs/view/4452683045",
-    "sponsorship": "",
-    "posted": "2026-08-12",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4453128780",
-    "company": "General Motors",
-    "title": "Entry Level Software Engineer",
-    "locations": [
-      "Warren, MI"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4453128780",
     "sponsorship": "",
     "posted": "2026-08-12",
     "source": "LinkedIn"
@@ -658,18 +634,6 @@
       "Hartford, CT"
     ],
     "url": "https://www.linkedin.com/jobs/view/4452758237",
-    "sponsorship": "",
-    "posted": "2026-08-12",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4453143561",
-    "company": "Collins Aerospace",
-    "title": "Software Engineer I (Onsite)",
-    "locations": [
-      "Fulton, MD"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4453143561",
     "sponsorship": "",
     "posted": "2026-08-12",
     "source": "LinkedIn"
@@ -747,13 +711,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4451978082",
+    "id": "linkedin-4451979067",
     "company": "Valon",
     "title": "Software Engineer II",
     "locations": [
-      "San Francisco, CA"
+      "New York, NY"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4451978082",
+    "url": "https://www.linkedin.com/jobs/view/4451979067",
     "sponsorship": "",
     "posted": "2026-08-11",
     "source": "LinkedIn"
@@ -778,30 +742,6 @@
       "Sunrise, FL"
     ],
     "url": "https://www.linkedin.com/jobs/view/4452691474",
-    "sponsorship": "",
-    "posted": "2026-08-11",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4451979067",
-    "company": "Valon",
-    "title": "Software Engineer II",
-    "locations": [
-      "New York, NY"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4451979067",
-    "sponsorship": "",
-    "posted": "2026-08-11",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4452604119",
-    "company": "State Street",
-    "title": "Software Engineer, CRD- New Graduate",
-    "locations": [
-      "Burlington, MA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4452604119",
     "sponsorship": "",
     "posted": "2026-08-11",
     "source": "LinkedIn"
@@ -2840,18 +2780,6 @@
     "url": "https://job-boards.greenhouse.io/perpay/jobs/4034578007",
     "sponsorship": "Other",
     "posted": "2026-01-23",
-    "source": "SimplifyJobs"
-  },
-  {
-    "id": "simplify-ceb2a9a3-fcd7-4b2b-ae29-f17de014d0f8",
-    "company": "SpaceX",
-    "title": "New Graduate Engineer - Software - Starlink",
-    "locations": [
-      "Redmond, WA"
-    ],
-    "url": "https://boards.greenhouse.io/spacex/jobs/8376990002",
-    "sponsorship": "Other",
-    "posted": "2026-01-16",
     "source": "SimplifyJobs"
   },
   {
