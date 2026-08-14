@@ -108,18 +108,6 @@
     "source": "Greenhouse"
   },
   {
-    "id": "linkedin-4454503166",
-    "company": "Composio",
-    "title": "Fullstack Engineer, Product Team (New Grad)",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4454503166",
-    "sponsorship": "",
-    "posted": "2026-08-14",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4423618885",
     "company": "Meta",
     "title": "Production Engineer (University Grad)",
@@ -199,6 +187,18 @@
       "North Chicago, IL"
     ],
     "url": "https://www.linkedin.com/jobs/view/4453507909",
+    "sponsorship": "",
+    "posted": "2026-08-14",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4454588318",
+    "company": "SpaceX",
+    "title": "New Graduate Engineer, Software - '26/'27 (Starlink)",
+    "locations": [
+      "Redmond, WA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4454588318",
     "sponsorship": "",
     "posted": "2026-08-14",
     "source": "LinkedIn"
@@ -338,37 +338,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4450827856",
-    "company": "Allen Institute",
-    "title": "Software Engineer II",
+    "id": "linkedin-4454050453",
+    "company": "Raytheon",
+    "title": "Software Engineer I (Onsite)",
     "locations": [
-      "Seattle, WA"
+      "Tucson, AZ"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4450827856",
-    "sponsorship": "",
-    "posted": "2026-08-13",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4450482821",
-    "company": "Interco",
-    "title": "Junior Software Developer",
-    "locations": [
-      "St Louis, MO"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4450482821",
-    "sponsorship": "",
-    "posted": "2026-08-13",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4437324460",
-    "company": "Kansas City National Security Campus",
-    "title": "Software Engineer I - System Knowledge",
-    "locations": [
-      "Kansas City, MO"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4437324460",
+    "url": "https://www.linkedin.com/jobs/view/4454050453",
     "sponsorship": "",
     "posted": "2026-08-13",
     "source": "LinkedIn"
@@ -398,18 +374,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4454050453",
-    "company": "Raytheon",
-    "title": "Software Engineer I (Onsite)",
-    "locations": [
-      "Tucson, AZ"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4454050453",
-    "sponsorship": "",
-    "posted": "2026-08-13",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4452925623",
     "company": "Base-2 Solutions",
     "title": "Junior Software Engineer",
@@ -429,6 +393,18 @@
       "Hanover, MD"
     ],
     "url": "https://www.linkedin.com/jobs/view/4452915684",
+    "sponsorship": "",
+    "posted": "2026-08-13",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4450838428",
+    "company": "Seagate Technology",
+    "title": "Systems Engineer - Early Career",
+    "locations": [
+      "Longmont, CO"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4450838428",
     "sponsorship": "",
     "posted": "2026-08-13",
     "source": "LinkedIn"
@@ -543,6 +519,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4451971779",
+    "company": "Cohesity",
+    "title": "Software Engineer (New Grad 2026)",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4451971779",
+    "sponsorship": "",
+    "posted": "2026-08-12",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4443395661",
     "company": "General Motors",
     "title": "Software Engineer, Autonomous Vehicles Software Systems - Early Career",
@@ -567,13 +555,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4452683045",
-    "company": "Stronghold Investment Management",
-    "title": "Software Engineer I",
+    "id": "linkedin-4443510223",
+    "company": "General Motors",
+    "title": "Software Engineer, Autonomous Vehicles Software Systems - Early Career",
     "locations": [
-      "Dallas, TX"
+      "Warren, MI"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4452683045",
+    "url": "https://www.linkedin.com/jobs/view/4443510223",
     "sponsorship": "",
     "posted": "2026-08-12",
     "source": "LinkedIn"
@@ -603,18 +591,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4453135662",
-    "company": "Collins Aerospace",
-    "title": "Software Engineer I (Onsite)",
-    "locations": [
-      "Cedar Rapids, IA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4453135662",
-    "sponsorship": "",
-    "posted": "2026-08-12",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4453003859",
     "company": "Lyntris",
     "title": "Software Engineer I",
@@ -634,18 +610,6 @@
       "Hartford, CT"
     ],
     "url": "https://www.linkedin.com/jobs/view/4452758237",
-    "sponsorship": "",
-    "posted": "2026-08-12",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4451971779",
-    "company": "Cohesity",
-    "title": "Software Engineer (New Grad 2026)",
-    "locations": [
-      "Santa Clara, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4451971779",
     "sponsorship": "",
     "posted": "2026-08-12",
     "source": "LinkedIn"
@@ -711,6 +675,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4451978082",
+    "company": "Valon",
+    "title": "Software Engineer II",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4451978082",
+    "sponsorship": "",
+    "posted": "2026-08-11",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4451979067",
     "company": "Valon",
     "title": "Software Engineer II",
@@ -742,6 +718,18 @@
       "Sunrise, FL"
     ],
     "url": "https://www.linkedin.com/jobs/view/4452691474",
+    "sponsorship": "",
+    "posted": "2026-08-11",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4452676754",
+    "company": "AV",
+    "title": "Software Engineer I-1",
+    "locations": [
+      "Sunrise, FL"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4452676754",
     "sponsorship": "",
     "posted": "2026-08-11",
     "source": "LinkedIn"
@@ -2730,18 +2718,6 @@
       "Warren, MI"
     ],
     "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/Software-Engineer--Autonomous-Vehicles-Software-Systems---Early-Career_JR-202604759",
-    "sponsorship": "Other",
-    "posted": "2026-03-06",
-    "source": "SimplifyJobs"
-  },
-  {
-    "id": "simplify-9914352c-4069-42cd-b635-7ab9382b8ae2",
-    "company": "SpaceX",
-    "title": "New Graduate Engineer - Software",
-    "locations": [
-      "Sunnyvale, CA"
-    ],
-    "url": "https://boards.greenhouse.io/spacex/jobs/8446263002",
     "sponsorship": "Other",
     "posted": "2026-03-06",
     "source": "SimplifyJobs"
