@@ -133,25 +133,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4454866254",
-    "company": "Northrop Grumman",
-    "title": "2027 Associate Software Engineer/Software Engineer",
+    "id": "linkedin-4454867743",
+    "company": "FELICIS",
+    "title": "Software Engineer, New Grad (Dec 2026)",
     "locations": [
-      "Redondo Beach, CA"
+      "San Francisco, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4454866254",
-    "sponsorship": "",
-    "posted": "2026-08-15",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4454871160",
-    "company": "Northrop Grumman",
-    "title": "2027 Associate Software Engineer/Software Engineer",
-    "locations": [
-      "El Segundo, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4454871160",
+    "url": "https://www.linkedin.com/jobs/view/4454867743",
     "sponsorship": "",
     "posted": "2026-08-15",
     "source": "LinkedIn"
@@ -425,13 +413,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4444061574",
-    "company": "Handshake",
-    "title": "Software Engineer I, Handshake AI",
+    "id": "linkedin-4432734381",
+    "company": "Optiver",
+    "title": "Graduate Software Engineer (2027 Start)",
     "locations": [
-      "San Francisco, CA"
+      "Chicago, IL"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4444061574",
+    "url": "https://www.linkedin.com/jobs/view/4432734381",
     "sponsorship": "",
     "posted": "2026-08-14",
     "source": "LinkedIn"
@@ -473,6 +461,30 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4453507909",
+    "company": "BioSpace",
+    "title": "Associate Software Engineer I",
+    "locations": [
+      "North Chicago, IL"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4453507909",
+    "sponsorship": "",
+    "posted": "2026-08-14",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4453734041",
+    "company": "Wolverine Trading",
+    "title": "Entry Level C++ Software Engineer (Spring 2027 Graduates)",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4453734041",
+    "sponsorship": "",
+    "posted": "2026-08-14",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4454805354",
     "company": "Eagle Eye Networks",
     "title": "Software Engineer- NEW GRAD",
@@ -480,18 +492,6 @@
       "Austin, TX"
     ],
     "url": "https://www.linkedin.com/jobs/view/4454805354",
-    "sponsorship": "",
-    "posted": "2026-08-14",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4432734381",
-    "company": "Optiver",
-    "title": "Graduate Software Engineer (2027 Start)",
-    "locations": [
-      "Chicago, IL"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4432734381",
     "sponsorship": "",
     "posted": "2026-08-14",
     "source": "LinkedIn"
@@ -533,25 +533,25 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4453540118",
-    "company": "Haystack",
-    "title": "Junior Software Engineer",
+    "id": "linkedin-4454327798",
+    "company": "Honeywell Technologies",
+    "title": "Software Engineer I",
     "locations": [
-      "Huntsville, AL"
+      "Richmond, VA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4453540118",
+    "url": "https://www.linkedin.com/jobs/view/4454327798",
     "sponsorship": "",
     "posted": "2026-08-14",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4453734041",
-    "company": "Wolverine Trading",
-    "title": "Entry Level C++ Software Engineer (Spring 2027 Graduates)",
+    "id": "linkedin-4454367151",
+    "company": "Lennar",
+    "title": "Software Engineer I",
     "locations": [
-      "Chicago, IL"
+      "Miami, FL"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4453734041",
+    "url": "https://www.linkedin.com/jobs/view/4454367151",
     "sponsorship": "",
     "posted": "2026-08-14",
     "source": "LinkedIn"
@@ -643,13 +643,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4450827856",
-    "company": "Allen Institute",
-    "title": "Software Engineer II",
+    "id": "linkedin-4437324460",
+    "company": "Kansas City National Security Campus",
+    "title": "Software Engineer I - System Knowledge",
     "locations": [
-      "Seattle, WA"
+      "Kansas City, MO"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4450827856",
+    "url": "https://www.linkedin.com/jobs/view/4437324460",
     "sponsorship": "",
     "posted": "2026-08-13",
     "source": "LinkedIn"
@@ -662,18 +662,6 @@
       "St Louis, MO"
     ],
     "url": "https://www.linkedin.com/jobs/view/4450482821",
-    "sponsorship": "",
-    "posted": "2026-08-13",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4437324460",
-    "company": "Kansas City National Security Campus",
-    "title": "Software Engineer I - System Knowledge",
-    "locations": [
-      "Kansas City, MO"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4437324460",
     "sponsorship": "",
     "posted": "2026-08-13",
     "source": "LinkedIn"
@@ -698,6 +686,18 @@
       "Huntsville, AL"
     ],
     "url": "https://www.linkedin.com/jobs/view/4453613517",
+    "sponsorship": "",
+    "posted": "2026-08-13",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4452901177",
+    "company": "TikTok",
+    "title": "Software Engineer Graduate (Foundation Platform) - 2027 Start",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4452901177",
     "sponsorship": "",
     "posted": "2026-08-13",
     "source": "LinkedIn"
@@ -746,6 +746,18 @@
       "Sunnyvale, CA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4453625301",
+    "sponsorship": "",
+    "posted": "2026-08-13",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4452923607",
+    "company": "TikTok",
+    "title": "Software Engineer Graduate (Recommendation Infrastructure) - 2027 Start",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4452923607",
     "sponsorship": "",
     "posted": "2026-08-13",
     "source": "LinkedIn"
@@ -860,18 +872,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4453603418",
-    "company": "The Walt Disney Company",
-    "title": "Product Software Engineer I",
-    "locations": [
-      "Glendale, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4453603418",
-    "sponsorship": "",
-    "posted": "2026-08-12",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4449444067",
     "company": "MetLife",
     "title": "Junior Software Engineer",
@@ -879,6 +879,18 @@
       "Cary, NC"
     ],
     "url": "https://www.linkedin.com/jobs/view/4449444067",
+    "sponsorship": "",
+    "posted": "2026-08-12",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4413763362",
+    "company": "TP-Link Systems Inc.",
+    "title": "2026 Early Career Embedded Software Engineer",
+    "locations": [
+      "Irvine, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4413763362",
     "sponsorship": "",
     "posted": "2026-08-12",
     "source": "LinkedIn"
@@ -915,6 +927,18 @@
       "Hartford, CT"
     ],
     "url": "https://www.linkedin.com/jobs/view/4452758237",
+    "sponsorship": "",
+    "posted": "2026-08-12",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4453603418",
+    "company": "The Walt Disney Company",
+    "title": "Product Software Engineer I",
+    "locations": [
+      "Glendale, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4453603418",
     "sponsorship": "",
     "posted": "2026-08-12",
     "source": "LinkedIn"
