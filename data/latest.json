@@ -121,6 +121,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4423621718",
+    "company": "Meta",
+    "title": "Production Engineer (University Grad)",
+    "locations": [
+      "Menlo Park, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4423621718",
+    "sponsorship": "",
+    "posted": "2026-08-15",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4454869164",
     "company": "Northrop Grumman",
     "title": "2027 Associate Software Engineer/Software Engineer",
@@ -581,13 +593,25 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4453727934",
-    "company": "Travelers",
-    "title": "Software Engineer I (MERN, AWS)",
+    "id": "linkedin-4432734381",
+    "company": "Optiver",
+    "title": "Graduate Software Engineer (2027 Start)",
     "locations": [
-      "Hartford, CT"
+      "Chicago, IL"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4453727934",
+    "url": "https://www.linkedin.com/jobs/view/4432734381",
+    "sponsorship": "",
+    "posted": "2026-08-14",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4453734041",
+    "company": "Wolverine Trading",
+    "title": "Entry Level C++ Software Engineer (Spring 2027 Graduates)",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4453734041",
     "sponsorship": "",
     "posted": "2026-08-14",
     "source": "LinkedIn"
@@ -710,6 +734,30 @@
       "Huntsville, AL"
     ],
     "url": "https://www.linkedin.com/jobs/view/4453613517",
+    "sponsorship": "",
+    "posted": "2026-08-13",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4450482821",
+    "company": "Interco",
+    "title": "Junior Software Developer",
+    "locations": [
+      "St Louis, MO"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4450482821",
+    "sponsorship": "",
+    "posted": "2026-08-13",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4450838428",
+    "company": "Seagate Technology",
+    "title": "Systems Engineer - Early Career",
+    "locations": [
+      "Longmont, CO"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4450838428",
     "sponsorship": "",
     "posted": "2026-08-13",
     "source": "LinkedIn"
@@ -855,6 +903,18 @@
       "Hartford, CT"
     ],
     "url": "https://www.linkedin.com/jobs/view/4452758237",
+    "sponsorship": "",
+    "posted": "2026-08-12",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4443552824",
+    "company": "DCS Corp",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "Dayton, OH"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4443552824",
     "sponsorship": "",
     "posted": "2026-08-12",
     "source": "LinkedIn"
