@@ -49,6 +49,30 @@
     "source": "SimplifyJobs"
   },
   {
+    "id": "simplify-6dda02da-3ec3-49ed-a963-fa6db627f830",
+    "company": "LiteLLM",
+    "title": "Forward Deployed Engineer New Grad",
+    "locations": [
+      "United States"
+    ],
+    "url": "https://jobs.ashbyhq.com/litellm/769df1b5-70bb-40fe-b2e2-ef052eb3afa3/application?embed=true",
+    "sponsorship": "Other",
+    "posted": "2026-08-15",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-5e2b041d-3b5b-414f-8491-242be06bf425",
+    "company": "Applied Intuition",
+    "title": "Scenario Engineer New Grad",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "url": "https://jobs.ashbyhq.com/applied/f382de9d-d5e4-4dc8-85a0-0bae7125f8cf/application?embed=true",
+    "sponsorship": "Other",
+    "posted": "2026-08-15",
+    "source": "SimplifyJobs"
+  },
+  {
     "id": "linkedin-4453745721",
     "company": "Applied Intuition",
     "title": "Software Engineer - New Grad (December 2026)",
@@ -80,6 +104,54 @@
       "San Francisco, CA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4451279564",
+    "sponsorship": "",
+    "posted": "2026-08-15",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4454869164",
+    "company": "Northrop Grumman",
+    "title": "2027 Associate Software Engineer/Software Engineer",
+    "locations": [
+      "Palmdale, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4454869164",
+    "sponsorship": "",
+    "posted": "2026-08-15",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4454861253",
+    "company": "Northrop Grumman",
+    "title": "2027 Associate Software Engineer/Software Engineer",
+    "locations": [
+      "Oklahoma City, OK"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4454861253",
+    "sponsorship": "",
+    "posted": "2026-08-15",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4454866254",
+    "company": "Northrop Grumman",
+    "title": "2027 Associate Software Engineer/Software Engineer",
+    "locations": [
+      "Redondo Beach, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4454866254",
+    "sponsorship": "",
+    "posted": "2026-08-15",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4454871160",
+    "company": "Northrop Grumman",
+    "title": "2027 Associate Software Engineer/Software Engineer",
+    "locations": [
+      "El Segundo, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4454871160",
     "sponsorship": "",
     "posted": "2026-08-15",
     "source": "LinkedIn"
@@ -401,18 +473,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4453540118",
-    "company": "Haystack",
-    "title": "Junior Software Engineer",
-    "locations": [
-      "Huntsville, AL"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4453540118",
-    "sponsorship": "",
-    "posted": "2026-08-14",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4454805354",
     "company": "Eagle Eye Networks",
     "title": "Software Engineer- NEW GRAD",
@@ -437,42 +497,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4454327798",
-    "company": "Honeywell Technologies",
-    "title": "Software Engineer I",
-    "locations": [
-      "Richmond, VA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4454327798",
-    "sponsorship": "",
-    "posted": "2026-08-14",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4454367151",
-    "company": "Lennar",
-    "title": "Software Engineer I",
-    "locations": [
-      "Miami, FL"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4454367151",
-    "sponsorship": "",
-    "posted": "2026-08-14",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4453727934",
-    "company": "Travelers",
-    "title": "Software Engineer I (MERN, AWS)",
-    "locations": [
-      "Hartford, CT"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4453727934",
-    "sponsorship": "",
-    "posted": "2026-08-14",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4453540123",
     "company": "Haystack",
     "title": "Junior Software Engineer",
@@ -480,6 +504,42 @@
       "Alabama, United States"
     ],
     "url": "https://www.linkedin.com/jobs/view/4453540123",
+    "sponsorship": "",
+    "posted": "2026-08-14",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4450856231",
+    "company": "IBM",
+    "title": "Associate Application Developer AWS - 2027",
+    "locations": [
+      "Baton Rouge, LA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4450856231",
+    "sponsorship": "",
+    "posted": "2026-08-14",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4450861162",
+    "company": "IBM",
+    "title": "Associate Application Developer 2027- ServiceNow",
+    "locations": [
+      "Baton Rouge, LA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4450861162",
+    "sponsorship": "",
+    "posted": "2026-08-14",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4453540118",
+    "company": "Haystack",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "Huntsville, AL"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4453540118",
     "sponsorship": "",
     "posted": "2026-08-14",
     "source": "LinkedIn"
@@ -583,13 +643,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4454050453",
-    "company": "Raytheon",
-    "title": "Software Engineer I (Onsite)",
+    "id": "linkedin-4450827856",
+    "company": "Allen Institute",
+    "title": "Software Engineer II",
     "locations": [
-      "Tucson, AZ"
+      "Seattle, WA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4454050453",
+    "url": "https://www.linkedin.com/jobs/view/4450827856",
     "sponsorship": "",
     "posted": "2026-08-13",
     "source": "LinkedIn"
@@ -619,6 +679,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4452930644",
+    "company": "Haystack",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "Huntsville, AL"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4452930644",
+    "sponsorship": "",
+    "posted": "2026-08-13",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4453613517",
     "company": "Leidos",
     "title": "Junior Software Engineer",
@@ -626,6 +698,18 @@
       "Huntsville, AL"
     ],
     "url": "https://www.linkedin.com/jobs/view/4453613517",
+    "sponsorship": "",
+    "posted": "2026-08-13",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4454050453",
+    "company": "Raytheon",
+    "title": "Software Engineer I (Onsite)",
+    "locations": [
+      "Tucson, AZ"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4454050453",
     "sponsorship": "",
     "posted": "2026-08-13",
     "source": "LinkedIn"
@@ -788,18 +872,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4452683045",
-    "company": "Stronghold Investment Management",
-    "title": "Software Engineer I",
-    "locations": [
-      "Dallas, TX"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4452683045",
-    "sponsorship": "",
-    "posted": "2026-08-12",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4449444067",
     "company": "MetLife",
     "title": "Junior Software Engineer",
@@ -831,18 +903,6 @@
       "Cedar Rapids, IA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4453135662",
-    "sponsorship": "",
-    "posted": "2026-08-12",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4453143561",
-    "company": "Collins Aerospace",
-    "title": "Software Engineer I (Onsite)",
-    "locations": [
-      "Fulton, MD"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4453143561",
     "sponsorship": "",
     "posted": "2026-08-12",
     "source": "LinkedIn"
