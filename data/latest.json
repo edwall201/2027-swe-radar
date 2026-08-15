@@ -317,66 +317,6 @@
     "source": "Greenhouse"
   },
   {
-    "id": "linkedin-4454367151",
-    "company": "Lennar",
-    "title": "Software Engineer I",
-    "locations": [
-      "Miami, FL"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4454367151",
-    "sponsorship": "",
-    "posted": "2026-08-14",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4432153677",
-    "company": "Vertafore",
-    "title": "Software Engineer I",
-    "locations": [
-      "East Lansing, MI"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4432153677",
-    "sponsorship": "",
-    "posted": "2026-08-14",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4454805354",
-    "company": "Eagle Eye Networks",
-    "title": "Software Engineer- NEW GRAD",
-    "locations": [
-      "Austin, TX"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4454805354",
-    "sponsorship": "",
-    "posted": "2026-08-14",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4454327798",
-    "company": "Honeywell Technologies",
-    "title": "Software Engineer I",
-    "locations": [
-      "Richmond, VA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4454327798",
-    "sponsorship": "",
-    "posted": "2026-08-14",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4423618885",
-    "company": "Meta",
-    "title": "Production Engineer (University Grad)",
-    "locations": [
-      "Bellevue, WA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4423618885",
-    "sponsorship": "",
-    "posted": "2026-08-14",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4454805111",
     "company": "Notion",
     "title": "Software Engineer, New Grad (Dec 2026)",
@@ -401,6 +341,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4423618885",
+    "company": "Meta",
+    "title": "Production Engineer (University Grad)",
+    "locations": [
+      "Bellevue, WA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4423618885",
+    "sponsorship": "",
+    "posted": "2026-08-14",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4444061574",
     "company": "Handshake",
     "title": "Software Engineer I, Handshake AI",
@@ -408,6 +360,18 @@
       "San Francisco, CA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4444061574",
+    "sponsorship": "",
+    "posted": "2026-08-14",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4432153677",
+    "company": "Vertafore",
+    "title": "Software Engineer I",
+    "locations": [
+      "East Lansing, MI"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4432153677",
     "sponsorship": "",
     "posted": "2026-08-14",
     "source": "LinkedIn"
@@ -437,18 +401,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4453507909",
-    "company": "BioSpace",
-    "title": "Associate Software Engineer I",
-    "locations": [
-      "North Chicago, IL"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4453507909",
-    "sponsorship": "",
-    "posted": "2026-08-14",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4453540118",
     "company": "Haystack",
     "title": "Junior Software Engineer",
@@ -456,6 +408,18 @@
       "Huntsville, AL"
     ],
     "url": "https://www.linkedin.com/jobs/view/4453540118",
+    "sponsorship": "",
+    "posted": "2026-08-14",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4454805354",
+    "company": "Eagle Eye Networks",
+    "title": "Software Engineer- NEW GRAD",
+    "locations": [
+      "Austin, TX"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4454805354",
     "sponsorship": "",
     "posted": "2026-08-14",
     "source": "LinkedIn"
@@ -473,37 +437,25 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4453540123",
-    "company": "Haystack",
-    "title": "Junior Software Engineer",
+    "id": "linkedin-4454327798",
+    "company": "Honeywell Technologies",
+    "title": "Software Engineer I",
     "locations": [
-      "Alabama, United States"
+      "Richmond, VA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4453540123",
+    "url": "https://www.linkedin.com/jobs/view/4454327798",
     "sponsorship": "",
     "posted": "2026-08-14",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4450856231",
-    "company": "IBM",
-    "title": "Associate Application Developer AWS - 2027",
+    "id": "linkedin-4454367151",
+    "company": "Lennar",
+    "title": "Software Engineer I",
     "locations": [
-      "Baton Rouge, LA"
+      "Miami, FL"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4450856231",
-    "sponsorship": "",
-    "posted": "2026-08-14",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4450861162",
-    "company": "IBM",
-    "title": "Associate Application Developer 2027- ServiceNow",
-    "locations": [
-      "Baton Rouge, LA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4450861162",
+    "url": "https://www.linkedin.com/jobs/view/4454367151",
     "sponsorship": "",
     "posted": "2026-08-14",
     "source": "LinkedIn"
@@ -516,6 +468,18 @@
       "Hartford, CT"
     ],
     "url": "https://www.linkedin.com/jobs/view/4453727934",
+    "sponsorship": "",
+    "posted": "2026-08-14",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4453540123",
+    "company": "Haystack",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "Alabama, United States"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4453540123",
     "sponsorship": "",
     "posted": "2026-08-14",
     "source": "LinkedIn"
@@ -619,25 +583,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4452930644",
-    "company": "Haystack",
-    "title": "Junior Software Engineer",
+    "id": "linkedin-4454050453",
+    "company": "Raytheon",
+    "title": "Software Engineer I (Onsite)",
     "locations": [
-      "Huntsville, AL"
+      "Tucson, AZ"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4452930644",
-    "sponsorship": "",
-    "posted": "2026-08-13",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4453613517",
-    "company": "Leidos",
-    "title": "Junior Software Engineer",
-    "locations": [
-      "Huntsville, AL"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4453613517",
+    "url": "https://www.linkedin.com/jobs/view/4454050453",
     "sponsorship": "",
     "posted": "2026-08-13",
     "source": "LinkedIn"
@@ -655,13 +607,25 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4452901177",
-    "company": "TikTok",
-    "title": "Software Engineer Graduate (Foundation Platform) - 2027 Start",
+    "id": "linkedin-4437324460",
+    "company": "Kansas City National Security Campus",
+    "title": "Software Engineer I - System Knowledge",
     "locations": [
-      "San Jose, CA"
+      "Kansas City, MO"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4452901177",
+    "url": "https://www.linkedin.com/jobs/view/4437324460",
+    "sponsorship": "",
+    "posted": "2026-08-13",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4453613517",
+    "company": "Leidos",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "Huntsville, AL"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4453613517",
     "sponsorship": "",
     "posted": "2026-08-13",
     "source": "LinkedIn"
@@ -698,18 +662,6 @@
       "Sunnyvale, CA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4453625301",
-    "sponsorship": "",
-    "posted": "2026-08-13",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4452923607",
-    "company": "TikTok",
-    "title": "Software Engineer Graduate (Recommendation Infrastructure) - 2027 Start",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4452923607",
     "sponsorship": "",
     "posted": "2026-08-13",
     "source": "LinkedIn"
@@ -800,13 +752,13 @@
     "source": "SimplifyJobs"
   },
   {
-    "id": "linkedin-4453039940",
-    "company": "AbbVie",
-    "title": "Associate Software Engineer I",
+    "id": "linkedin-4453380670",
+    "company": "Uniswap",
+    "title": "Software Engineer - Early Career",
     "locations": [
-      "North Chicago, IL"
+      "New York, NY"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4453039940",
+    "url": "https://www.linkedin.com/jobs/view/4453380670",
     "sponsorship": "",
     "posted": "2026-08-12",
     "source": "LinkedIn"
@@ -831,18 +783,6 @@
       "Glendale, CA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4453603418",
-    "sponsorship": "",
-    "posted": "2026-08-12",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4453380670",
-    "company": "Uniswap",
-    "title": "Software Engineer - Early Career",
-    "locations": [
-      "New York, NY"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4453380670",
     "sponsorship": "",
     "posted": "2026-08-12",
     "source": "LinkedIn"
@@ -891,6 +831,18 @@
       "Cedar Rapids, IA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4453135662",
+    "sponsorship": "",
+    "posted": "2026-08-12",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4453143561",
+    "company": "Collins Aerospace",
+    "title": "Software Engineer I (Onsite)",
+    "locations": [
+      "Fulton, MD"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4453143561",
     "sponsorship": "",
     "posted": "2026-08-12",
     "source": "LinkedIn"
