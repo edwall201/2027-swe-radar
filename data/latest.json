@@ -12,18 +12,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4455195498",
-    "company": "Asperti Advisory",
-    "title": "Junior Software Engineer",
-    "locations": [
-      "New York, United States"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4455195498",
-    "sponsorship": "",
-    "posted": "2026-08-16",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4453989173",
     "company": "Haystack",
     "title": "Junior Software Engineer",
@@ -31,6 +19,18 @@
       "Huntsville, AL"
     ],
     "url": "https://www.linkedin.com/jobs/view/4453989173",
+    "sponsorship": "",
+    "posted": "2026-08-16",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4406410758",
+    "company": "BAE Systems, Inc.",
+    "title": "Software Engineer II",
+    "locations": [
+      "Totowa, NJ"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4406410758",
     "sponsorship": "",
     "posted": "2026-08-16",
     "source": "LinkedIn"
@@ -193,6 +193,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4427643568",
+    "company": "Anduril Industries",
+    "title": "2027 Early Career Software Engineer",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4427643568",
+    "sponsorship": "",
+    "posted": "2026-08-15",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4454867743",
     "company": "FELICIS",
     "title": "Software Engineer, New Grad (Dec 2026)",
@@ -229,6 +241,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4448267310",
+    "company": "SimpliSafe",
+    "title": "Software Engineer I- User Systems",
+    "locations": [
+      "Boston, MA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4448267310",
+    "sponsorship": "",
+    "posted": "2026-08-15",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4413407011",
     "company": "Raytheon",
     "title": "2026 Raytheon Full Time- Software Engineer I -(Onsite)",
@@ -248,18 +272,6 @@
       "Montgomery, AL"
     ],
     "url": "https://www.linkedin.com/jobs/view/4441884278",
-    "sponsorship": "",
-    "posted": "2026-08-15",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4448267310",
-    "company": "SimpliSafe",
-    "title": "Software Engineer I- User Systems",
-    "locations": [
-      "Boston, MA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4448267310",
     "sponsorship": "",
     "posted": "2026-08-15",
     "source": "LinkedIn"
@@ -497,18 +509,6 @@
     "source": "SimplifyJobs"
   },
   {
-    "id": "simplify-c10fe8de-982b-469d-bd86-4b566b881325",
-    "company": "GlobalFoundries",
-    "title": "Advanced Manufacturing Equipment Engineer New Grad",
-    "locations": [
-      "Malta, NY"
-    ],
-    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Advanced-Manufacturing-Equipment-Engineer--2027-New-College-Graduate-_JR-2604760",
-    "sponsorship": "Other",
-    "posted": "2026-08-14",
-    "source": "SimplifyJobs"
-  },
-  {
     "id": "simplify-6e84f2ec-75d6-4ba3-82d4-55bd220a3995",
     "company": "GlobalFoundries",
     "title": "Advanced Manufacturing Equipment Engineer New Grad",
@@ -569,49 +569,25 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4423618885",
-    "company": "Meta",
-    "title": "Production Engineer (University Grad)",
-    "locations": [
-      "Bellevue, WA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4423618885",
-    "sponsorship": "",
-    "posted": "2026-08-14",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4450856235",
-    "company": "IBM",
-    "title": "Associate Application Developer 2027- ServiceNow",
-    "locations": [
-      "Dallas, TX"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4450856235",
-    "sponsorship": "",
-    "posted": "2026-08-14",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4451251861",
-    "company": "IBM",
-    "title": "Associate Application Developer 2027 - DPE",
-    "locations": [
-      "Chicago, IL"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4451251861",
-    "sponsorship": "",
-    "posted": "2026-08-14",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4453720779",
+    "id": "linkedin-4453532834",
     "company": "TikTok",
-    "title": "Software Engineer Graduate (Foundation Platform) - 2027 Start",
+    "title": "Software Engineer Graduate (Media Engine) - 2027 Start",
     "locations": [
       "San Jose, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4453720779",
+    "url": "https://www.linkedin.com/jobs/view/4453532834",
+    "sponsorship": "",
+    "posted": "2026-08-14",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4432734381",
+    "company": "Optiver",
+    "title": "Graduate Software Engineer (2027 Start)",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4432734381",
     "sponsorship": "",
     "posted": "2026-08-14",
     "source": "LinkedIn"
@@ -629,37 +605,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4454327798",
-    "company": "Honeywell Technologies",
-    "title": "Software Engineer I",
+    "id": "linkedin-4444061574",
+    "company": "Handshake",
+    "title": "Software Engineer I, Handshake AI",
     "locations": [
-      "Richmond, VA"
+      "San Francisco, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4454327798",
-    "sponsorship": "",
-    "posted": "2026-08-14",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4454805354",
-    "company": "Eagle Eye Networks",
-    "title": "Software Engineer- NEW GRAD",
-    "locations": [
-      "Austin, TX"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4454805354",
-    "sponsorship": "",
-    "posted": "2026-08-14",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4454367151",
-    "company": "Lennar",
-    "title": "Software Engineer I",
-    "locations": [
-      "Miami, FL"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4454367151",
+    "url": "https://www.linkedin.com/jobs/view/4444061574",
     "sponsorship": "",
     "posted": "2026-08-14",
     "source": "LinkedIn"
@@ -677,13 +629,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4434750014",
-    "company": "InComm Payments",
-    "title": "Software Engineer I",
+    "id": "linkedin-4453531876",
+    "company": "Revature",
+    "title": "Entry Level Software Developer",
     "locations": [
-      "Utah, United States"
+      "Syracuse, NY"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4434750014",
+    "url": "https://www.linkedin.com/jobs/view/4453531876",
     "sponsorship": "",
     "posted": "2026-08-14",
     "source": "LinkedIn"
@@ -696,6 +648,30 @@
       "Sioux Falls, SD"
     ],
     "url": "https://www.linkedin.com/jobs/view/4451226917",
+    "sponsorship": "",
+    "posted": "2026-08-14",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4453507909",
+    "company": "BioSpace",
+    "title": "Associate Software Engineer I",
+    "locations": [
+      "North Chicago, IL"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4453507909",
+    "sponsorship": "",
+    "posted": "2026-08-14",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4454805354",
+    "company": "Eagle Eye Networks",
+    "title": "Software Engineer- NEW GRAD",
+    "locations": [
+      "Austin, TX"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4454805354",
     "sponsorship": "",
     "posted": "2026-08-14",
     "source": "LinkedIn"
@@ -725,18 +701,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4453727934",
-    "company": "Travelers",
-    "title": "Software Engineer I (MERN, AWS)",
-    "locations": [
-      "Hartford, CT"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4453727934",
-    "sponsorship": "",
-    "posted": "2026-08-14",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4451254255",
     "company": "United States Cold Storage, Inc.",
     "title": "SOFTWARE ENGINEER I",
@@ -749,13 +713,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4453531876",
-    "company": "Revature",
-    "title": "Entry Level Software Developer",
+    "id": "linkedin-4454367151",
+    "company": "Lennar",
+    "title": "Software Engineer I",
     "locations": [
-      "Syracuse, NY"
+      "Miami, FL"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4453531876",
+    "url": "https://www.linkedin.com/jobs/view/4454367151",
     "sponsorship": "",
     "posted": "2026-08-14",
     "source": "LinkedIn"
@@ -780,6 +744,42 @@
       "Baton Rouge, LA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4450862154",
+    "sponsorship": "",
+    "posted": "2026-08-14",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4454327798",
+    "company": "Honeywell Technologies",
+    "title": "Software Engineer I",
+    "locations": [
+      "Richmond, VA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4454327798",
+    "sponsorship": "",
+    "posted": "2026-08-14",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4453720779",
+    "company": "TikTok",
+    "title": "Software Engineer Graduate (Foundation Platform) - 2027 Start",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4453720779",
+    "sponsorship": "",
+    "posted": "2026-08-14",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4454367150",
+    "company": "Lennar",
+    "title": "Software Engineer I",
+    "locations": [
+      "Irving, TX"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4454367150",
     "sponsorship": "",
     "posted": "2026-08-14",
     "source": "LinkedIn"
@@ -842,30 +842,6 @@
       "Seattle, WA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4450827856",
-    "sponsorship": "",
-    "posted": "2026-08-13",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4437324460",
-    "company": "Kansas City National Security Campus",
-    "title": "Software Engineer I - System Knowledge",
-    "locations": [
-      "Kansas City, MO"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4437324460",
-    "sponsorship": "",
-    "posted": "2026-08-13",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4454050453",
-    "company": "Raytheon",
-    "title": "Software Engineer I (Onsite)",
-    "locations": [
-      "Tucson, AZ"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4454050453",
     "sponsorship": "",
     "posted": "2026-08-13",
     "source": "LinkedIn"
