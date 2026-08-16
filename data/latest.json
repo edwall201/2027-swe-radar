@@ -73,30 +73,6 @@
     "source": "SimplifyJobs"
   },
   {
-    "id": "linkedin-4374838577",
-    "company": "Giga",
-    "title": "Software Engineer I / II",
-    "locations": [
-      "New York, NY"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4374838577",
-    "sponsorship": "",
-    "posted": "2026-08-15",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4453745721",
-    "company": "Applied Intuition",
-    "title": "Software Engineer - New Grad (December 2026)",
-    "locations": [
-      "Ann Arbor, MI"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4453745721",
-    "sponsorship": "",
-    "posted": "2026-08-15",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4453756654",
     "company": "Applied Intuition",
     "title": "Software Engineer - New Grad (December 2026)",
@@ -157,25 +133,37 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4441842476",
-    "company": "TGW Logistics",
-    "title": "Software Engineer I (M/F/D)*",
+    "id": "linkedin-4374838577",
+    "company": "Giga",
+    "title": "Software Engineer I / II",
     "locations": [
-      "Grand Rapids, MI"
+      "New York, NY"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4441842476",
+    "url": "https://www.linkedin.com/jobs/view/4374838577",
     "sponsorship": "",
     "posted": "2026-08-15",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4455111316",
-    "company": "Hire Feed",
-    "title": "Junior Software Engineer (Remote)",
+    "id": "linkedin-4454866254",
+    "company": "Northrop Grumman",
+    "title": "2027 Associate Software Engineer/Software Engineer",
     "locations": [
-      "United States"
+      "Redondo Beach, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4455111316",
+    "url": "https://www.linkedin.com/jobs/view/4454866254",
+    "sponsorship": "",
+    "posted": "2026-08-15",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4454871160",
+    "company": "Northrop Grumman",
+    "title": "2027 Associate Software Engineer/Software Engineer",
+    "locations": [
+      "El Segundo, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4454871160",
     "sponsorship": "",
     "posted": "2026-08-15",
     "source": "LinkedIn"
@@ -205,6 +193,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4444963172",
+    "company": "WHOOP",
+    "title": "Software Engineer I (Backend)",
+    "locations": [
+      "Boston, MA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4444963172",
+    "sponsorship": "",
+    "posted": "2026-08-15",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4441884278",
     "company": "MANTECH",
     "title": "Junior Software Developer",
@@ -212,18 +212,6 @@
       "Montgomery, AL"
     ],
     "url": "https://www.linkedin.com/jobs/view/4441884278",
-    "sponsorship": "",
-    "posted": "2026-08-15",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4453791036",
-    "company": "Twitch",
-    "title": "Software Engineer I, Payments",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4453791036",
     "sponsorship": "",
     "posted": "2026-08-15",
     "source": "LinkedIn"
@@ -557,13 +545,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4432734381",
-    "company": "Optiver",
-    "title": "Graduate Software Engineer (2027 Start)",
+    "id": "linkedin-4444061574",
+    "company": "Handshake",
+    "title": "Software Engineer I, Handshake AI",
     "locations": [
-      "Chicago, IL"
+      "San Francisco, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4432734381",
+    "url": "https://www.linkedin.com/jobs/view/4444061574",
     "sponsorship": "",
     "posted": "2026-08-14",
     "source": "LinkedIn"
@@ -629,37 +617,37 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4450856231",
-    "company": "IBM",
-    "title": "Associate Application Developer AWS - 2027",
+    "id": "linkedin-4432734381",
+    "company": "Optiver",
+    "title": "Graduate Software Engineer (2027 Start)",
     "locations": [
-      "Baton Rouge, LA"
+      "Chicago, IL"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4450856231",
+    "url": "https://www.linkedin.com/jobs/view/4432734381",
     "sponsorship": "",
     "posted": "2026-08-14",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4450861162",
-    "company": "IBM",
-    "title": "Associate Application Developer 2027- ServiceNow",
+    "id": "linkedin-4454327798",
+    "company": "Honeywell Technologies",
+    "title": "Software Engineer I",
     "locations": [
-      "Baton Rouge, LA"
+      "Richmond, VA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4450861162",
+    "url": "https://www.linkedin.com/jobs/view/4454327798",
     "sponsorship": "",
     "posted": "2026-08-14",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4453727934",
-    "company": "Travelers",
-    "title": "Software Engineer I (MERN, AWS)",
+    "id": "linkedin-4454367151",
+    "company": "Lennar",
+    "title": "Software Engineer I",
     "locations": [
-      "Hartford, CT"
+      "Miami, FL"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4453727934",
+    "url": "https://www.linkedin.com/jobs/view/4454367151",
     "sponsorship": "",
     "posted": "2026-08-14",
     "source": "LinkedIn"
@@ -751,18 +739,6 @@
     "source": "SimplifyJobs"
   },
   {
-    "id": "linkedin-4444249780",
-    "company": "Rocket Lab",
-    "title": "Software Engineer I/II",
-    "locations": [
-      "Pasadena, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4444249780",
-    "sponsorship": "",
-    "posted": "2026-08-13",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4441092072",
     "company": "Walmart",
     "title": "(USA) Software Engineer III",
@@ -775,25 +751,25 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4331580484",
-    "company": "Medpace",
-    "title": "Junior Software Engineer",
+    "id": "linkedin-4450827856",
+    "company": "Allen Institute",
+    "title": "Software Engineer II",
     "locations": [
-      "Denver, CO"
+      "Seattle, WA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4331580484",
+    "url": "https://www.linkedin.com/jobs/view/4450827856",
     "sponsorship": "",
     "posted": "2026-08-13",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4454050453",
-    "company": "Raytheon",
-    "title": "Software Engineer I (Onsite)",
+    "id": "linkedin-4444249780",
+    "company": "Rocket Lab",
+    "title": "Software Engineer I/II",
     "locations": [
-      "Tucson, AZ"
+      "Pasadena, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4454050453",
+    "url": "https://www.linkedin.com/jobs/view/4444249780",
     "sponsorship": "",
     "posted": "2026-08-13",
     "source": "LinkedIn"
@@ -806,18 +782,6 @@
       "Huntsville, AL"
     ],
     "url": "https://www.linkedin.com/jobs/view/4452930644",
-    "sponsorship": "",
-    "posted": "2026-08-13",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4450482821",
-    "company": "Interco",
-    "title": "Junior Software Developer",
-    "locations": [
-      "St Louis, MO"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4450482821",
     "sponsorship": "",
     "posted": "2026-08-13",
     "source": "LinkedIn"
