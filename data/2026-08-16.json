@@ -12,6 +12,30 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4455181522",
+    "company": "Hire Feed",
+    "title": "Junior Software Engineer (Remote)",
+    "locations": [
+      "United States"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4455181522",
+    "sponsorship": "",
+    "posted": "2026-08-16",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4455191300",
+    "company": "Haystack",
+    "title": "Software Engineer II",
+    "locations": [
+      "Detroit, MI"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4455191300",
+    "sponsorship": "",
+    "posted": "2026-08-16",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4453989173",
     "company": "Haystack",
     "title": "Junior Software Engineer",
@@ -19,18 +43,6 @@
       "Huntsville, AL"
     ],
     "url": "https://www.linkedin.com/jobs/view/4453989173",
-    "sponsorship": "",
-    "posted": "2026-08-16",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4406410758",
-    "company": "BAE Systems, Inc.",
-    "title": "Software Engineer II",
-    "locations": [
-      "Totowa, NJ"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4406410758",
     "sponsorship": "",
     "posted": "2026-08-16",
     "source": "LinkedIn"
@@ -121,49 +133,37 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4453745721",
-    "company": "Applied Intuition",
-    "title": "Software Engineer - New Grad (December 2026)",
+    "id": "linkedin-4441842476",
+    "company": "TGW Logistics",
+    "title": "Software Engineer I (M/F/D)*",
     "locations": [
-      "Ann Arbor, MI"
+      "Grand Rapids, MI"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4453745721",
+    "url": "https://www.linkedin.com/jobs/view/4441842476",
     "sponsorship": "",
     "posted": "2026-08-15",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4453756654",
-    "company": "Applied Intuition",
-    "title": "Software Engineer - New Grad (December 2026)",
+    "id": "linkedin-4448267310",
+    "company": "SimpliSafe",
+    "title": "Software Engineer I- User Systems",
     "locations": [
-      "Sunnyvale, CA"
+      "Boston, MA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4453756654",
+    "url": "https://www.linkedin.com/jobs/view/4448267310",
     "sponsorship": "",
     "posted": "2026-08-15",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4451279564",
-    "company": "Flow Engineering",
-    "title": "Software Engineer, Early Career",
+    "id": "linkedin-4413407011",
+    "company": "Raytheon",
+    "title": "2026 Raytheon Full Time- Software Engineer I -(Onsite)",
     "locations": [
-      "San Francisco, CA"
+      "Fort Wayne, IN"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4451279564",
-    "sponsorship": "",
-    "posted": "2026-08-15",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4423621718",
-    "company": "Meta",
-    "title": "Production Engineer (University Grad)",
-    "locations": [
-      "Menlo Park, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4423621718",
+    "url": "https://www.linkedin.com/jobs/view/4413407011",
     "sponsorship": "",
     "posted": "2026-08-15",
     "source": "LinkedIn"
@@ -193,25 +193,25 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4427643568",
-    "company": "Anduril Industries",
-    "title": "2027 Early Career Software Engineer",
+    "id": "linkedin-4453745721",
+    "company": "Applied Intuition",
+    "title": "Software Engineer - New Grad (December 2026)",
     "locations": [
-      "Seattle, WA"
+      "Ann Arbor, MI"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4427643568",
+    "url": "https://www.linkedin.com/jobs/view/4453745721",
     "sponsorship": "",
     "posted": "2026-08-15",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4454867743",
-    "company": "FELICIS",
-    "title": "Software Engineer, New Grad (Dec 2026)",
+    "id": "linkedin-4453756654",
+    "company": "Applied Intuition",
+    "title": "Software Engineer - New Grad (December 2026)",
     "locations": [
-      "San Francisco, CA"
+      "Sunnyvale, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4454867743",
+    "url": "https://www.linkedin.com/jobs/view/4453756654",
     "sponsorship": "",
     "posted": "2026-08-15",
     "source": "LinkedIn"
@@ -236,30 +236,6 @@
       "El Segundo, CA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4454871160",
-    "sponsorship": "",
-    "posted": "2026-08-15",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4448267310",
-    "company": "SimpliSafe",
-    "title": "Software Engineer I- User Systems",
-    "locations": [
-      "Boston, MA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4448267310",
-    "sponsorship": "",
-    "posted": "2026-08-15",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4413407011",
-    "company": "Raytheon",
-    "title": "2026 Raytheon Full Time- Software Engineer I -(Onsite)",
-    "locations": [
-      "Fort Wayne, IN"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4413407011",
     "sponsorship": "",
     "posted": "2026-08-15",
     "source": "LinkedIn"
@@ -569,25 +545,49 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4453532834",
-    "company": "TikTok",
-    "title": "Software Engineer Graduate (Media Engine) - 2027 Start",
+    "id": "linkedin-4454367151",
+    "company": "Lennar",
+    "title": "Software Engineer I",
     "locations": [
-      "San Jose, CA"
+      "Miami, FL"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4453532834",
+    "url": "https://www.linkedin.com/jobs/view/4454367151",
     "sponsorship": "",
     "posted": "2026-08-14",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4432734381",
-    "company": "Optiver",
-    "title": "Graduate Software Engineer (2027 Start)",
+    "id": "linkedin-4454805354",
+    "company": "Eagle Eye Networks",
+    "title": "Software Engineer- NEW GRAD",
     "locations": [
-      "Chicago, IL"
+      "Austin, TX"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4432734381",
+    "url": "https://www.linkedin.com/jobs/view/4454805354",
+    "sponsorship": "",
+    "posted": "2026-08-14",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4432153677",
+    "company": "Vertafore",
+    "title": "Software Engineer I",
+    "locations": [
+      "East Lansing, MI"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4432153677",
+    "sponsorship": "",
+    "posted": "2026-08-14",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4454327798",
+    "company": "Honeywell Technologies",
+    "title": "Software Engineer I",
+    "locations": [
+      "Richmond, VA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4454327798",
     "sponsorship": "",
     "posted": "2026-08-14",
     "source": "LinkedIn"
@@ -612,18 +612,6 @@
       "San Francisco, CA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4444061574",
-    "sponsorship": "",
-    "posted": "2026-08-14",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4432153677",
-    "company": "Vertafore",
-    "title": "Software Engineer I",
-    "locations": [
-      "East Lansing, MI"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4432153677",
     "sponsorship": "",
     "posted": "2026-08-14",
     "source": "LinkedIn"
@@ -665,13 +653,25 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4454805354",
-    "company": "Eagle Eye Networks",
-    "title": "Software Engineer- NEW GRAD",
+    "id": "linkedin-4453734041",
+    "company": "Wolverine Trading",
+    "title": "Entry Level C++ Software Engineer (Spring 2027 Graduates)",
     "locations": [
-      "Austin, TX"
+      "Chicago, IL"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4454805354",
+    "url": "https://www.linkedin.com/jobs/view/4453734041",
+    "sponsorship": "",
+    "posted": "2026-08-14",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4447257467",
+    "company": "Keurig Dr Pepper Inc.",
+    "title": "Embedded Software Engineer I",
+    "locations": [
+      "Benton Harbor, MI"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4447257467",
     "sponsorship": "",
     "posted": "2026-08-14",
     "source": "LinkedIn"
@@ -708,78 +708,6 @@
       "Camden, NJ"
     ],
     "url": "https://www.linkedin.com/jobs/view/4451254255",
-    "sponsorship": "",
-    "posted": "2026-08-14",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4454367151",
-    "company": "Lennar",
-    "title": "Software Engineer I",
-    "locations": [
-      "Miami, FL"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4454367151",
-    "sponsorship": "",
-    "posted": "2026-08-14",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4447257467",
-    "company": "Keurig Dr Pepper Inc.",
-    "title": "Embedded Software Engineer I",
-    "locations": [
-      "Benton Harbor, MI"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4447257467",
-    "sponsorship": "",
-    "posted": "2026-08-14",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4450862154",
-    "company": "IBM",
-    "title": "Associate Application Developer IBM Tech & Red Hat - 2027",
-    "locations": [
-      "Baton Rouge, LA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4450862154",
-    "sponsorship": "",
-    "posted": "2026-08-14",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4454327798",
-    "company": "Honeywell Technologies",
-    "title": "Software Engineer I",
-    "locations": [
-      "Richmond, VA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4454327798",
-    "sponsorship": "",
-    "posted": "2026-08-14",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4453720779",
-    "company": "TikTok",
-    "title": "Software Engineer Graduate (Foundation Platform) - 2027 Start",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4453720779",
-    "sponsorship": "",
-    "posted": "2026-08-14",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4454367150",
-    "company": "Lennar",
-    "title": "Software Engineer I",
-    "locations": [
-      "Irving, TX"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4454367150",
     "sponsorship": "",
     "posted": "2026-08-14",
     "source": "LinkedIn"
@@ -847,13 +775,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4454086604",
-    "company": "Haystack",
-    "title": "Junior Software Developer",
+    "id": "linkedin-4454332162",
+    "company": "Northrop Grumman",
+    "title": "2027 Associate Software Engineer/Software Engineer",
     "locations": [
-      "Huntsville, AL"
+      "Melbourne, FL"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4454086604",
+    "url": "https://www.linkedin.com/jobs/view/4454332162",
     "sponsorship": "",
     "posted": "2026-08-13",
     "source": "LinkedIn"
