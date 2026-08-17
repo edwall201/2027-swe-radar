@@ -24,13 +24,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4403643287",
-    "company": "Varsity Brands",
-    "title": "Software Engineer - Early Career",
+    "id": "linkedin-4351877495",
+    "company": "Medpace",
+    "title": "Junior Software Engineer",
     "locations": [
-      "Farmers Branch, TX"
+      "Cincinnati, OH"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4403643287",
+    "url": "https://www.linkedin.com/jobs/view/4351877495",
     "sponsorship": "",
     "posted": "2026-08-16",
     "source": "LinkedIn"
@@ -133,49 +133,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4454866254",
-    "company": "Northrop Grumman",
-    "title": "2027 Associate Software Engineer/Software Engineer",
+    "id": "linkedin-4451279564",
+    "company": "Flow Engineering",
+    "title": "Software Engineer, Early Career",
     "locations": [
-      "Redondo Beach, CA"
+      "San Francisco, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4454866254",
-    "sponsorship": "",
-    "posted": "2026-08-15",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4454871160",
-    "company": "Northrop Grumman",
-    "title": "2027 Associate Software Engineer/Software Engineer",
-    "locations": [
-      "El Segundo, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4454871160",
-    "sponsorship": "",
-    "posted": "2026-08-15",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4454869164",
-    "company": "Northrop Grumman",
-    "title": "2027 Associate Software Engineer/Software Engineer",
-    "locations": [
-      "Palmdale, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4454869164",
-    "sponsorship": "",
-    "posted": "2026-08-15",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4454861253",
-    "company": "Northrop Grumman",
-    "title": "2027 Associate Software Engineer/Software Engineer",
-    "locations": [
-      "Oklahoma City, OK"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4454861253",
+    "url": "https://www.linkedin.com/jobs/view/4451279564",
     "sponsorship": "",
     "posted": "2026-08-15",
     "source": "LinkedIn"
@@ -188,6 +152,30 @@
       "Menlo Park, CA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4423621718",
+    "sponsorship": "",
+    "posted": "2026-08-15",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4453745721",
+    "company": "Applied Intuition",
+    "title": "Software Engineer - New Grad (December 2026)",
+    "locations": [
+      "Ann Arbor, MI"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4453745721",
+    "sponsorship": "",
+    "posted": "2026-08-15",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4453756654",
+    "company": "Applied Intuition",
+    "title": "Software Engineer - New Grad (December 2026)",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4453756654",
     "sponsorship": "",
     "posted": "2026-08-15",
     "source": "LinkedIn"
@@ -212,18 +200,6 @@
       "Boston, MA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4448267310",
-    "sponsorship": "",
-    "posted": "2026-08-15",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4413407011",
-    "company": "Raytheon",
-    "title": "2026 Raytheon Full Time- Software Engineer I -(Onsite)",
-    "locations": [
-      "Fort Wayne, IN"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4413407011",
     "sponsorship": "",
     "posted": "2026-08-15",
     "source": "LinkedIn"
@@ -265,13 +241,25 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4453745721",
-    "company": "Applied Intuition",
-    "title": "Software Engineer - New Grad (December 2026)",
+    "id": "linkedin-4413407011",
+    "company": "Raytheon",
+    "title": "2026 Raytheon Full Time- Software Engineer I -(Onsite)",
     "locations": [
-      "Ann Arbor, MI"
+      "Fort Wayne, IN"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4453745721",
+    "url": "https://www.linkedin.com/jobs/view/4413407011",
+    "sponsorship": "",
+    "posted": "2026-08-15",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4453786176",
+    "company": "SynergisticIT",
+    "title": "junior software developer/data scientist",
+    "locations": [
+      "Portland, OR"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4453786176",
     "sponsorship": "",
     "posted": "2026-08-15",
     "source": "LinkedIn"
@@ -569,6 +557,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4453532834",
+    "company": "TikTok",
+    "title": "Software Engineer Graduate (Media Engine) - 2027 Start",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4453532834",
+    "sponsorship": "",
+    "posted": "2026-08-14",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4454805354",
     "company": "Eagle Eye Networks",
     "title": "Software Engineer- NEW GRAD",
@@ -581,25 +581,37 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4432734381",
-    "company": "Optiver",
-    "title": "Graduate Software Engineer (2027 Start)",
+    "id": "linkedin-4432153677",
+    "company": "Vertafore",
+    "title": "Software Engineer I",
     "locations": [
-      "Chicago, IL"
+      "East Lansing, MI"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4432734381",
+    "url": "https://www.linkedin.com/jobs/view/4432153677",
     "sponsorship": "",
     "posted": "2026-08-14",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4454503166",
-    "company": "Composio",
-    "title": "Fullstack Engineer, Product Team (New Grad)",
+    "id": "linkedin-4453734041",
+    "company": "Wolverine Trading",
+    "title": "Entry Level C++ Software Engineer (Spring 2027 Graduates)",
     "locations": [
-      "San Francisco, CA"
+      "Chicago, IL"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4454503166",
+    "url": "https://www.linkedin.com/jobs/view/4453734041",
+    "sponsorship": "",
+    "posted": "2026-08-14",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4444704567",
+    "company": "Appian",
+    "title": "Software Engineer (2027 Graduates)",
+    "locations": [
+      "McLean, VA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4444704567",
     "sponsorship": "",
     "posted": "2026-08-14",
     "source": "LinkedIn"
@@ -629,13 +641,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4432153677",
-    "company": "Vertafore",
-    "title": "Software Engineer I",
+    "id": "linkedin-4432734381",
+    "company": "Optiver",
+    "title": "Graduate Software Engineer (2027 Start)",
     "locations": [
-      "East Lansing, MI"
+      "Chicago, IL"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4432153677",
+    "url": "https://www.linkedin.com/jobs/view/4432734381",
     "sponsorship": "",
     "posted": "2026-08-14",
     "source": "LinkedIn"
@@ -665,42 +677,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4453507909",
-    "company": "BioSpace",
-    "title": "Associate Software Engineer I",
-    "locations": [
-      "North Chicago, IL"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4453507909",
-    "sponsorship": "",
-    "posted": "2026-08-14",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4454588318",
-    "company": "SpaceX",
-    "title": "New Graduate Engineer, Software - '26/'27 (Starlink)",
-    "locations": [
-      "Redmond, WA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4454588318",
-    "sponsorship": "",
-    "posted": "2026-08-14",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4453715831",
-    "company": "TikTok",
-    "title": "Software Engineer Graduate (Ads Infra) - 2027 Start",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4453715831",
-    "sponsorship": "",
-    "posted": "2026-08-14",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4434750014",
     "company": "InComm Payments",
     "title": "Software Engineer I",
@@ -708,18 +684,6 @@
       "Utah, United States"
     ],
     "url": "https://www.linkedin.com/jobs/view/4434750014",
-    "sponsorship": "",
-    "posted": "2026-08-14",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4453734041",
-    "company": "Wolverine Trading",
-    "title": "Entry Level C++ Software Engineer (Spring 2027 Graduates)",
-    "locations": [
-      "Chicago, IL"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4453734041",
     "sponsorship": "",
     "posted": "2026-08-14",
     "source": "LinkedIn"
