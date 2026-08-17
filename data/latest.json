@@ -1,12 +1,12 @@
 [
   {
-    "id": "linkedin-4351877495",
-    "company": "Medpace",
-    "title": "Junior Software Engineer",
+    "id": "linkedin-4399493417",
+    "company": "Zettabyte",
+    "title": "Software Engineer (New Grad)",
     "locations": [
-      "Cincinnati, OH"
+      "Palo Alto, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4351877495",
+    "url": "https://www.linkedin.com/jobs/view/4399493417",
     "sponsorship": "",
     "posted": "2026-08-16",
     "source": "LinkedIn"
@@ -19,6 +19,18 @@
       "Detroit, MI"
     ],
     "url": "https://www.linkedin.com/jobs/view/4455191300",
+    "sponsorship": "",
+    "posted": "2026-08-16",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4403643287",
+    "company": "Varsity Brands",
+    "title": "Software Engineer - Early Career",
+    "locations": [
+      "Farmers Branch, TX"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4403643287",
     "sponsorship": "",
     "posted": "2026-08-16",
     "source": "LinkedIn"
@@ -109,25 +121,37 @@
     "source": "SimplifyJobs"
   },
   {
-    "id": "linkedin-4448267310",
-    "company": "SimpliSafe",
-    "title": "Software Engineer I- User Systems",
+    "id": "linkedin-4374838577",
+    "company": "Giga",
+    "title": "Software Engineer I / II",
     "locations": [
-      "Boston, MA"
+      "New York, NY"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4448267310",
+    "url": "https://www.linkedin.com/jobs/view/4374838577",
     "sponsorship": "",
     "posted": "2026-08-15",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4413407011",
-    "company": "Raytheon",
-    "title": "2026 Raytheon Full Time- Software Engineer I -(Onsite)",
+    "id": "linkedin-4454866254",
+    "company": "Northrop Grumman",
+    "title": "2027 Associate Software Engineer/Software Engineer",
     "locations": [
-      "Fort Wayne, IN"
+      "Redondo Beach, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4413407011",
+    "url": "https://www.linkedin.com/jobs/view/4454866254",
+    "sponsorship": "",
+    "posted": "2026-08-15",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4454871160",
+    "company": "Northrop Grumman",
+    "title": "2027 Associate Software Engineer/Software Engineer",
+    "locations": [
+      "El Segundo, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4454871160",
     "sponsorship": "",
     "posted": "2026-08-15",
     "source": "LinkedIn"
@@ -181,37 +205,37 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4453745721",
-    "company": "Applied Intuition",
-    "title": "Software Engineer - New Grad (December 2026)",
+    "id": "linkedin-4448267310",
+    "company": "SimpliSafe",
+    "title": "Software Engineer I- User Systems",
     "locations": [
-      "Ann Arbor, MI"
+      "Boston, MA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4453745721",
+    "url": "https://www.linkedin.com/jobs/view/4448267310",
     "sponsorship": "",
     "posted": "2026-08-15",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4453791036",
-    "company": "Twitch",
-    "title": "Software Engineer I, Payments",
+    "id": "linkedin-4413407011",
+    "company": "Raytheon",
+    "title": "2026 Raytheon Full Time- Software Engineer I -(Onsite)",
     "locations": [
-      "San Francisco, CA"
+      "Fort Wayne, IN"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4453791036",
+    "url": "https://www.linkedin.com/jobs/view/4413407011",
     "sponsorship": "",
     "posted": "2026-08-15",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4374838577",
-    "company": "Giga",
-    "title": "Software Engineer I / II",
+    "id": "linkedin-4451267864",
+    "company": "IBM",
+    "title": "Associate Application Developer 2027 - ServiceNow",
     "locations": [
-      "New York, NY"
+      "Baton Rouge, LA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4374838577",
+    "url": "https://www.linkedin.com/jobs/view/4451267864",
     "sponsorship": "",
     "posted": "2026-08-15",
     "source": "LinkedIn"
@@ -229,13 +253,25 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4444963172",
-    "company": "WHOOP",
-    "title": "Software Engineer I (Backend)",
+    "id": "linkedin-4451281738",
+    "company": "IBM",
+    "title": "Associate Application Developer - Oracle - 2027",
     "locations": [
-      "Boston, MA"
+      "Baton Rouge, LA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4444963172",
+    "url": "https://www.linkedin.com/jobs/view/4451281738",
+    "sponsorship": "",
+    "posted": "2026-08-15",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4453745721",
+    "company": "Applied Intuition",
+    "title": "Software Engineer - New Grad (December 2026)",
+    "locations": [
+      "Ann Arbor, MI"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4453745721",
     "sponsorship": "",
     "posted": "2026-08-15",
     "source": "LinkedIn"
@@ -533,13 +569,25 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4453715831",
-    "company": "TikTok",
-    "title": "Software Engineer Graduate (Ads Infra) - 2027 Start",
+    "id": "linkedin-4454805354",
+    "company": "Eagle Eye Networks",
+    "title": "Software Engineer- NEW GRAD",
     "locations": [
-      "San Jose, CA"
+      "Austin, TX"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4453715831",
+    "url": "https://www.linkedin.com/jobs/view/4454805354",
+    "sponsorship": "",
+    "posted": "2026-08-14",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4432734381",
+    "company": "Optiver",
+    "title": "Graduate Software Engineer (2027 Start)",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4432734381",
     "sponsorship": "",
     "posted": "2026-08-14",
     "source": "LinkedIn"
@@ -629,73 +677,25 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4453734041",
-    "company": "Wolverine Trading",
-    "title": "Entry Level C++ Software Engineer (Spring 2027 Graduates)",
+    "id": "linkedin-4454588318",
+    "company": "SpaceX",
+    "title": "New Graduate Engineer, Software - '26/'27 (Starlink)",
     "locations": [
-      "Chicago, IL"
+      "Redmond, WA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4453734041",
+    "url": "https://www.linkedin.com/jobs/view/4454588318",
     "sponsorship": "",
     "posted": "2026-08-14",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4447257467",
-    "company": "Keurig Dr Pepper Inc.",
-    "title": "Embedded Software Engineer I",
+    "id": "linkedin-4453715831",
+    "company": "TikTok",
+    "title": "Software Engineer Graduate (Ads Infra) - 2027 Start",
     "locations": [
-      "Benton Harbor, MI"
+      "San Jose, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4447257467",
-    "sponsorship": "",
-    "posted": "2026-08-14",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4451254255",
-    "company": "United States Cold Storage, Inc.",
-    "title": "SOFTWARE ENGINEER I",
-    "locations": [
-      "Camden, NJ"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4451254255",
-    "sponsorship": "",
-    "posted": "2026-08-14",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4450856231",
-    "company": "IBM",
-    "title": "Associate Application Developer AWS - 2027",
-    "locations": [
-      "Baton Rouge, LA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4450856231",
-    "sponsorship": "",
-    "posted": "2026-08-14",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4450861162",
-    "company": "IBM",
-    "title": "Associate Application Developer 2027- ServiceNow",
-    "locations": [
-      "Baton Rouge, LA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4450861162",
-    "sponsorship": "",
-    "posted": "2026-08-14",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4454367151",
-    "company": "Lennar",
-    "title": "Software Engineer I",
-    "locations": [
-      "Miami, FL"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4454367151",
+    "url": "https://www.linkedin.com/jobs/view/4453715831",
     "sponsorship": "",
     "posted": "2026-08-14",
     "source": "LinkedIn"
@@ -713,61 +713,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4432734381",
-    "company": "Optiver",
-    "title": "Graduate Software Engineer (2027 Start)",
+    "id": "linkedin-4453734041",
+    "company": "Wolverine Trading",
+    "title": "Entry Level C++ Software Engineer (Spring 2027 Graduates)",
     "locations": [
       "Chicago, IL"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4432734381",
-    "sponsorship": "",
-    "posted": "2026-08-14",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4450862154",
-    "company": "IBM",
-    "title": "Associate Application Developer IBM Tech & Red Hat - 2027",
-    "locations": [
-      "Baton Rouge, LA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4450862154",
-    "sponsorship": "",
-    "posted": "2026-08-14",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4454805354",
-    "company": "Eagle Eye Networks",
-    "title": "Software Engineer- NEW GRAD",
-    "locations": [
-      "Austin, TX"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4454805354",
-    "sponsorship": "",
-    "posted": "2026-08-14",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4453720779",
-    "company": "TikTok",
-    "title": "Software Engineer Graduate (Foundation Platform) - 2027 Start",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4453720779",
-    "sponsorship": "",
-    "posted": "2026-08-14",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4454367150",
-    "company": "Lennar",
-    "title": "Software Engineer I",
-    "locations": [
-      "Irving, TX"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4454367150",
+    "url": "https://www.linkedin.com/jobs/view/4453734041",
     "sponsorship": "",
     "posted": "2026-08-14",
     "source": "LinkedIn"
@@ -915,18 +867,6 @@
       "Burlington, MA"
     ],
     "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Software-Engineer--CRD--New-Graduate_R-795953",
-    "sponsorship": "Other",
-    "posted": "2026-08-11",
-    "source": "SimplifyJobs"
-  },
-  {
-    "id": "simplify-77d49317-0548-4edd-9353-7f31a94c19c8",
-    "company": "Apple",
-    "title": "Software Engineer - Information Systems and Technology - Early Career",
-    "locations": [
-      "Austin, TX"
-    ],
-    "url": "https://jobs.apple.com/en-us/details/200677377",
     "sponsorship": "Other",
     "posted": "2026-08-11",
     "source": "SimplifyJobs"
