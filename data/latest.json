@@ -24,15 +24,39 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4455191300",
-    "company": "Haystack",
-    "title": "Software Engineer II",
+    "id": "linkedin-4452706000",
+    "company": "BRYCER",
+    "title": "Junior Software Engineer",
     "locations": [
-      "Detroit, MI"
+      "North Aurora, IL"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4455191300",
+    "url": "https://www.linkedin.com/jobs/view/4452706000",
     "sponsorship": "",
-    "posted": "2026-08-16",
+    "posted": "2026-08-17",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4455255895",
+    "company": "Aga Khan Cultural Service - Pakistan",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "New York, United States"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4455255895",
+    "sponsorship": "",
+    "posted": "2026-08-17",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4454245901",
+    "company": "HRK Technologies Inc.",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "Wyoming, United States"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4454245901",
+    "sponsorship": "",
+    "posted": "2026-08-17",
     "source": "LinkedIn"
   },
   {
@@ -43,6 +67,18 @@
       "Palo Alto, CA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4399493417",
+    "sponsorship": "",
+    "posted": "2026-08-16",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4455191300",
+    "company": "Haystack",
+    "title": "Software Engineer II",
+    "locations": [
+      "Detroit, MI"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4455191300",
     "sponsorship": "",
     "posted": "2026-08-16",
     "source": "LinkedIn"
@@ -67,18 +103,6 @@
       "Farmers Branch, TX"
     ],
     "url": "https://www.linkedin.com/jobs/view/4403643287",
-    "sponsorship": "",
-    "posted": "2026-08-16",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4453989173",
-    "company": "Haystack",
-    "title": "Junior Software Engineer",
-    "locations": [
-      "Huntsville, AL"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4453989173",
     "sponsorship": "",
     "posted": "2026-08-16",
     "source": "LinkedIn"
@@ -157,18 +181,6 @@
     "source": "SimplifyJobs"
   },
   {
-    "id": "linkedin-4427643568",
-    "company": "Anduril Industries",
-    "title": "2027 Early Career Software Engineer",
-    "locations": [
-      "Seattle, WA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4427643568",
-    "sponsorship": "",
-    "posted": "2026-08-15",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4374838577",
     "company": "Giga",
     "title": "Software Engineer I / II",
@@ -176,18 +188,6 @@
       "New York, NY"
     ],
     "url": "https://www.linkedin.com/jobs/view/4374838577",
-    "sponsorship": "",
-    "posted": "2026-08-15",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4423621718",
-    "company": "Meta",
-    "title": "Production Engineer (University Grad)",
-    "locations": [
-      "Menlo Park, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4423621718",
     "sponsorship": "",
     "posted": "2026-08-15",
     "source": "LinkedIn"
@@ -205,13 +205,37 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4413407011",
-    "company": "Raytheon",
-    "title": "2026 Raytheon Full Time- Software Engineer I -(Onsite)",
+    "id": "linkedin-4453745721",
+    "company": "Applied Intuition",
+    "title": "Software Engineer - New Grad (December 2026)",
     "locations": [
-      "Fort Wayne, IN"
+      "Ann Arbor, MI"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4413407011",
+    "url": "https://www.linkedin.com/jobs/view/4453745721",
+    "sponsorship": "",
+    "posted": "2026-08-15",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4453756654",
+    "company": "Applied Intuition",
+    "title": "Software Engineer - New Grad (December 2026)",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4453756654",
+    "sponsorship": "",
+    "posted": "2026-08-15",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4427643568",
+    "company": "Anduril Industries",
+    "title": "2027 Early Career Software Engineer",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4427643568",
     "sponsorship": "",
     "posted": "2026-08-15",
     "source": "LinkedIn"
@@ -248,18 +272,6 @@
       "Baton Rouge, LA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4451281738",
-    "sponsorship": "",
-    "posted": "2026-08-15",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4453745721",
-    "company": "Applied Intuition",
-    "title": "Software Engineer - New Grad (December 2026)",
-    "locations": [
-      "Ann Arbor, MI"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4453745721",
     "sponsorship": "",
     "posted": "2026-08-15",
     "source": "LinkedIn"
@@ -545,73 +557,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4444061574",
-    "company": "Handshake",
-    "title": "Software Engineer I, Handshake AI",
+    "id": "linkedin-4454805354",
+    "company": "Eagle Eye Networks",
+    "title": "Software Engineer- NEW GRAD",
     "locations": [
-      "San Francisco, CA"
+      "Austin, TX"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4444061574",
-    "sponsorship": "",
-    "posted": "2026-08-14",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4423618885",
-    "company": "Meta",
-    "title": "Production Engineer (University Grad)",
-    "locations": [
-      "Bellevue, WA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4423618885",
-    "sponsorship": "",
-    "posted": "2026-08-14",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4432153677",
-    "company": "Vertafore",
-    "title": "Software Engineer I",
-    "locations": [
-      "East Lansing, MI"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4432153677",
-    "sponsorship": "",
-    "posted": "2026-08-14",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4451226917",
-    "company": "Solarity",
-    "title": "Software Engineer I",
-    "locations": [
-      "Sioux Falls, SD"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4451226917",
-    "sponsorship": "",
-    "posted": "2026-08-14",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4454588318",
-    "company": "SpaceX",
-    "title": "New Graduate Engineer, Software - '26/'27 (Starlink)",
-    "locations": [
-      "Redmond, WA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4454588318",
-    "sponsorship": "",
-    "posted": "2026-08-14",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4454591302",
-    "company": "SpaceX",
-    "title": "New Graduate Engineer, Software - '26/'27 (Starlink)",
-    "locations": [
-      "Bastrop, TX"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4454591302",
+    "url": "https://www.linkedin.com/jobs/view/4454805354",
     "sponsorship": "",
     "posted": "2026-08-14",
     "source": "LinkedIn"
@@ -629,13 +581,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4434750014",
-    "company": "InComm Payments",
+    "id": "linkedin-4432153677",
+    "company": "Vertafore",
     "title": "Software Engineer I",
     "locations": [
-      "Utah, United States"
+      "East Lansing, MI"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4434750014",
+    "url": "https://www.linkedin.com/jobs/view/4432153677",
     "sponsorship": "",
     "posted": "2026-08-14",
     "source": "LinkedIn"
@@ -653,6 +605,42 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4451254255",
+    "company": "United States Cold Storage, Inc.",
+    "title": "SOFTWARE ENGINEER I",
+    "locations": [
+      "Camden, NJ"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4451254255",
+    "sponsorship": "",
+    "posted": "2026-08-14",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4451226917",
+    "company": "Solarity",
+    "title": "Software Engineer I",
+    "locations": [
+      "Sioux Falls, SD"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4451226917",
+    "sponsorship": "",
+    "posted": "2026-08-14",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4434750014",
+    "company": "InComm Payments",
+    "title": "Software Engineer I",
+    "locations": [
+      "Utah, United States"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4434750014",
+    "sponsorship": "",
+    "posted": "2026-08-14",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4453720779",
     "company": "TikTok",
     "title": "Software Engineer Graduate (Foundation Platform) - 2027 Start",
@@ -665,13 +653,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4451254255",
-    "company": "United States Cold Storage, Inc.",
-    "title": "SOFTWARE ENGINEER I",
+    "id": "linkedin-4454803207",
+    "company": "SpaceX",
+    "title": "New Graduate Engineer, Software Security - '26/'27 (Starlink)",
     "locations": [
-      "Camden, NJ"
+      "Bastrop, TX"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4451254255",
+    "url": "https://www.linkedin.com/jobs/view/4454803207",
     "sponsorship": "",
     "posted": "2026-08-14",
     "source": "LinkedIn"
