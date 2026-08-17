@@ -157,30 +157,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4453745721",
-    "company": "Applied Intuition",
-    "title": "Software Engineer - New Grad (December 2026)",
-    "locations": [
-      "Ann Arbor, MI"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4453745721",
-    "sponsorship": "",
-    "posted": "2026-08-15",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4453756654",
-    "company": "Applied Intuition",
-    "title": "Software Engineer - New Grad (December 2026)",
-    "locations": [
-      "Sunnyvale, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4453756654",
-    "sponsorship": "",
-    "posted": "2026-08-15",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4427643568",
     "company": "Anduril Industries",
     "title": "2027 Early Career Software Engineer",
@@ -248,18 +224,6 @@
       "Fort Wayne, IN"
     ],
     "url": "https://www.linkedin.com/jobs/view/4413407011",
-    "sponsorship": "",
-    "posted": "2026-08-15",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4453786176",
-    "company": "SynergisticIT",
-    "title": "junior software developer/data scientist",
-    "locations": [
-      "Portland, OR"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4453786176",
     "sponsorship": "",
     "posted": "2026-08-15",
     "source": "LinkedIn"
@@ -581,37 +545,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4432153677",
-    "company": "Vertafore",
-    "title": "Software Engineer I",
+    "id": "linkedin-4444061574",
+    "company": "Handshake",
+    "title": "Software Engineer I, Handshake AI",
     "locations": [
-      "East Lansing, MI"
+      "San Francisco, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4432153677",
-    "sponsorship": "",
-    "posted": "2026-08-14",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4453734041",
-    "company": "Wolverine Trading",
-    "title": "Entry Level C++ Software Engineer (Spring 2027 Graduates)",
-    "locations": [
-      "Chicago, IL"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4453734041",
-    "sponsorship": "",
-    "posted": "2026-08-14",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4444704567",
-    "company": "Appian",
-    "title": "Software Engineer (2027 Graduates)",
-    "locations": [
-      "McLean, VA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4444704567",
+    "url": "https://www.linkedin.com/jobs/view/4444061574",
     "sponsorship": "",
     "posted": "2026-08-14",
     "source": "LinkedIn"
@@ -629,25 +569,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4454591302",
-    "company": "SpaceX",
-    "title": "New Graduate Engineer, Software - '26/'27 (Starlink)",
+    "id": "linkedin-4432153677",
+    "company": "Vertafore",
+    "title": "Software Engineer I",
     "locations": [
-      "Bastrop, TX"
+      "East Lansing, MI"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4454591302",
-    "sponsorship": "",
-    "posted": "2026-08-14",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4432734381",
-    "company": "Optiver",
-    "title": "Graduate Software Engineer (2027 Start)",
-    "locations": [
-      "Chicago, IL"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4432734381",
+    "url": "https://www.linkedin.com/jobs/view/4432153677",
     "sponsorship": "",
     "posted": "2026-08-14",
     "source": "LinkedIn"
@@ -677,6 +605,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4432734381",
+    "company": "Optiver",
+    "title": "Graduate Software Engineer (2027 Start)",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4432734381",
+    "sponsorship": "",
+    "posted": "2026-08-14",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4434750014",
     "company": "InComm Payments",
     "title": "Software Engineer I",
@@ -684,6 +624,30 @@
       "Utah, United States"
     ],
     "url": "https://www.linkedin.com/jobs/view/4434750014",
+    "sponsorship": "",
+    "posted": "2026-08-14",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4454803207",
+    "company": "SpaceX",
+    "title": "New Graduate Engineer, Software Security - '26/'27 (Starlink)",
+    "locations": [
+      "Bastrop, TX"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4454803207",
+    "sponsorship": "",
+    "posted": "2026-08-14",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4451254255",
+    "company": "United States Cold Storage, Inc.",
+    "title": "SOFTWARE ENGINEER I",
+    "locations": [
+      "Camden, NJ"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4451254255",
     "sponsorship": "",
     "posted": "2026-08-14",
     "source": "LinkedIn"
