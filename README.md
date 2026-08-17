@@ -1,16 +1,22 @@
 # 📡 2027 SWE Radar
 
 Automated daily scanner for **2027 new-grad software engineering** openings.
-Last scan: **2026-08-17** · Tracking **250** matching postings · 🆕 **3** new today
+Last scan: **2026-08-17** · Tracking **251** matching postings · 🆕 **9** new today
 Showing **US** postings, newest first.
 
 ## 🆕 New today
 
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
-| **Handshake** | Software Engineer I, Handshake AI | San Francisco, CA | 2026-08-14 | [Link](https://www.linkedin.com/jobs/view/4444061574) |
-| **SpaceX** | New Graduate Engineer, Software Security - '26/'27 (Starlink) | Bastrop, TX | 2026-08-14 | [Link](https://www.linkedin.com/jobs/view/4454803207) |
-| **United States Cold Storage, Inc.** | SOFTWARE ENGINEER I | Camden, NJ | 2026-08-14 | [Link](https://www.linkedin.com/jobs/view/4451254255) |
+| **TD** | Software Engineer II (US) | Mount Laurel, NJ | 2026-08-17 | [Link](https://www.linkedin.com/jobs/view/4455261313) |
+| **Revature** | Entry Level Software Developer | Syracuse, NY | 2026-08-17 | [Link](https://www.linkedin.com/jobs/view/4454240577) |
+| **Varsity Brands** | Software Engineer - Early Career | Farmers Branch, TX | 2026-08-16 | [Link](https://www.linkedin.com/jobs/view/4403643287) |
+| **Applied Intuition** | Software Engineer - New Grad (December 2026) | Ann Arbor, MI | 2026-08-15 | [Link](https://www.linkedin.com/jobs/view/4453745721) |
+| **SpaceX** | New Graduate Engineer, Software - '26/'27 (Starlink) | Redmond, WA | 2026-08-14 | [Link](https://www.linkedin.com/jobs/view/4454588318) |
+| **SpaceX** | New Graduate Engineer, Software - '26/'27 (Starlink) | Bastrop, TX | 2026-08-14 | [Link](https://www.linkedin.com/jobs/view/4454591302) |
+| **TikTok** | Software Engineer Graduate (Ads Infra) - 2027 Start | San Jose, CA | 2026-08-14 | [Link](https://www.linkedin.com/jobs/view/4453715831) |
+| **Wolverine Trading** | Entry Level C++ Software Engineer (Spring 2027 Graduates) | Chicago, IL | 2026-08-14 | [Link](https://www.linkedin.com/jobs/view/4453734041) |
+| **TikTok** | Software Engineer Graduate (Foundation Platform) - 2027 Start | San Jose, CA | 2026-08-14 | [Link](https://www.linkedin.com/jobs/view/4453720779) |
 
 ## 🎯 Explicit 2027 openings
 
@@ -19,9 +25,9 @@ Showing **US** postings, newest first.
 | Anduril Industries | 2027 Early Career Software Engineer | Seattle, WA | 2026-08-15 | [Link](https://www.linkedin.com/jobs/view/4427643568) |
 | IBM | Associate Application Developer 2027 - ServiceNow | Baton Rouge, LA | 2026-08-15 | [Link](https://www.linkedin.com/jobs/view/4451267864) |
 | IBM | Associate Application Developer - Oracle - 2027 | Baton Rouge, LA | 2026-08-15 | [Link](https://www.linkedin.com/jobs/view/4451281738) |
-| Optiver | Graduate Software Engineer (2027 Start) | Austin, TX | 2026-08-14 | [Link](https://www.linkedin.com/jobs/view/4432711572) |
-| TikTok | Software Engineer Graduate (Media Engine) - 2027 Start | San Jose, CA | 2026-08-14 | [Link](https://www.linkedin.com/jobs/view/4453532834) |
-| Optiver | Graduate Software Engineer (2027 Start) | Chicago, IL | 2026-08-14 | [Link](https://www.linkedin.com/jobs/view/4432734381) |
+| TikTok | Software Engineer Graduate (Ads Infra) - 2027 Start | San Jose, CA | 2026-08-14 | [Link](https://www.linkedin.com/jobs/view/4453715831) |
+| Wolverine Trading | Entry Level C++ Software Engineer (Spring 2027 Graduates) | Chicago, IL | 2026-08-14 | [Link](https://www.linkedin.com/jobs/view/4453734041) |
+| TikTok | Software Engineer Graduate (Foundation Platform) - 2027 Start | San Jose, CA | 2026-08-14 | [Link](https://www.linkedin.com/jobs/view/4453720779) |
 | TikTok | Backend Engineer Graduate - TikTok Vertical Recommendation Architecture - 2027 Start | San Jose, CA | 2026-08-12 | [Link](https://lifeattiktok.com/search/7672532801686571317) |
 | ByteDance | Software Engineer Graduate - AML Engine Orchestration - 2027 Start | San Jose, CA | 2026-08-10 | [Link](https://jobs.bytedance.com/en/position/7671148355447343365/detail) |
 | TikTok | Software Engineer Graduate - Global E-commerce-Search - 2027 Start | Seattle, WA | 2026-08-06 | [Link](https://lifeattiktok.com/search/7670558992960358661) |
@@ -32,9 +38,12 @@ Showing **US** postings, newest first.
 
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
-| Zettabyte | Software Engineer (New Grad) | Palo Alto, CA | 2026-08-16 | [Link](https://www.linkedin.com/jobs/view/4399493417) |
+| TD | Software Engineer II (US) | Mount Laurel, NJ | 2026-08-17 | [Link](https://www.linkedin.com/jobs/view/4455261313) |
+| Revature | Entry Level Software Developer | Syracuse, NY | 2026-08-17 | [Link](https://www.linkedin.com/jobs/view/4454240577) |
 | Haystack | Software Engineer II | Detroit, MI | 2026-08-16 | [Link](https://www.linkedin.com/jobs/view/4455191300) |
+| Zettabyte | Software Engineer (New Grad) | Palo Alto, CA | 2026-08-16 | [Link](https://www.linkedin.com/jobs/view/4399493417) |
 | Medpace | Junior Software Engineer | Cincinnati, OH | 2026-08-16 | [Link](https://www.linkedin.com/jobs/view/4351877495) |
+| Varsity Brands | Software Engineer - Early Career | Farmers Branch, TX | 2026-08-16 | [Link](https://www.linkedin.com/jobs/view/4403643287) |
 | Haystack | Junior Software Engineer | Huntsville, AL | 2026-08-16 | [Link](https://www.linkedin.com/jobs/view/4453989173) |
 | Applied Intuition | Software Engineer New Grad - December 2026 | Ann Arbor, MI; Sunnyvale, CA | 2026-08-15 | [Link](https://jobs.ashbyhq.com/applied/a837cbd6-9fe4-4d74-a2dc-84f602c40694/application?embed=true) |
 | Applied Intuition | Research Engineer New Grad | Sunnyvale, CA | 2026-08-15 | [Link](https://jobs.ashbyhq.com/applied/45fc41cd-8280-4010-ba1f-def6114b3e39/application?embed=true) |
@@ -42,15 +51,15 @@ Showing **US** postings, newest first.
 | Applied Intuition | Embedded Software Engineer New Grad | Sunnyvale, CA | 2026-08-15 | [Link](https://jobs.ashbyhq.com/applied/6971d533-1536-448b-96b8-544ad5383f44/application?embed=true) |
 | LiteLLM | Forward Deployed Engineer New Grad | United States | 2026-08-15 | [Link](https://jobs.ashbyhq.com/litellm/769df1b5-70bb-40fe-b2e2-ef052eb3afa3/application?embed=true) |
 | Applied Intuition | Scenario Engineer New Grad | Sunnyvale, CA | 2026-08-15 | [Link](https://jobs.ashbyhq.com/applied/f382de9d-d5e4-4dc8-85a0-0bae7125f8cf/application?embed=true) |
-| Giga | Software Engineer I / II | New York, NY | 2026-08-15 | [Link](https://www.linkedin.com/jobs/view/4374838577) |
-| Flow Engineering | Software Engineer, Early Career | San Francisco, CA | 2026-08-15 | [Link](https://www.linkedin.com/jobs/view/4451279564) |
-| Meta | Production Engineer (University Grad) | Menlo Park, CA | 2026-08-15 | [Link](https://www.linkedin.com/jobs/view/4423621718) |
 | Anduril Industries | 2027 Early Career Software Engineer | Seattle, WA | 2026-08-15 | [Link](https://www.linkedin.com/jobs/view/4427643568) |
+| Giga | Software Engineer I / II | New York, NY | 2026-08-15 | [Link](https://www.linkedin.com/jobs/view/4374838577) |
+| Meta | Production Engineer (University Grad) | Menlo Park, CA | 2026-08-15 | [Link](https://www.linkedin.com/jobs/view/4423621718) |
 | SimpliSafe | Software Engineer I- User Systems | Boston, MA | 2026-08-15 | [Link](https://www.linkedin.com/jobs/view/4448267310) |
+| Raytheon | 2026 Raytheon Full Time- Software Engineer I -(Onsite) | Fort Wayne, IN | 2026-08-15 | [Link](https://www.linkedin.com/jobs/view/4413407011) |
 | IBM | Associate Application Developer 2027 - ServiceNow | Baton Rouge, LA | 2026-08-15 | [Link](https://www.linkedin.com/jobs/view/4451267864) |
 | MANTECH | Junior Software Developer | Montgomery, AL | 2026-08-15 | [Link](https://www.linkedin.com/jobs/view/4441884278) |
 | IBM | Associate Application Developer - Oracle - 2027 | Baton Rouge, LA | 2026-08-15 | [Link](https://www.linkedin.com/jobs/view/4451281738) |
-| Raytheon | 2026 Raytheon Full Time- Software Engineer I -(Onsite) | Fort Wayne, IN | 2026-08-15 | [Link](https://www.linkedin.com/jobs/view/4413407011) |
+| Applied Intuition | Software Engineer - New Grad (December 2026) | Ann Arbor, MI | 2026-08-15 | [Link](https://www.linkedin.com/jobs/view/4453745721) |
 | Seagate Technology  | Systems Engineer - Early Career | Longmont, CO | 2026-08-14 | [Link](https://seagatecareers.com/job/Longmont-Systems-Engineer-Early-Career-CO-80501/1419329400/?ats=successfactors) |
 | Johns Hopkins Applied Physics Laboratory | Systems Engineer/Analyst New Grad - Multi-Mission Planning Development | Laurel, MD | 2026-08-14 | [Link](https://careers.jhuapl.edu/jobs/58164?icims=1) |
 | Johns Hopkins Applied Physics Laboratory | AI/ML Data Scientist/Engineer New Grad - Analytic Capabilities | Laurel, MD | 2026-08-14 | [Link](https://careers.jhuapl.edu/jobs/57801?icims=1) |
@@ -74,20 +83,18 @@ Showing **US** postings, newest first.
 | GlobalFoundries | Advanced Manufacturing Equipment Engineer New Grad | Malta, NY | 2026-08-14 | [Link](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Advanced-Manufacturing-Equipment-Engineer--2027-New-College-Graduate-_JR-2604704) |
 | Samsara | Software Engineer II | Remote - US | 2026-08-14 | [Link](https://www.samsara.com/company/careers/roles/8036387?gh_jid=8036387) |
 | Notion | Software Engineer, New Grad (Dec 2026) | San Francisco, CA | 2026-08-14 | [Link](https://www.linkedin.com/jobs/view/4454805111) |
-| Optiver | Graduate Software Engineer (2027 Start) | Austin, TX | 2026-08-14 | [Link](https://www.linkedin.com/jobs/view/4432711572) |
-| TikTok | Software Engineer Graduate (Media Engine) - 2027 Start | San Jose, CA | 2026-08-14 | [Link](https://www.linkedin.com/jobs/view/4453532834) |
-| Eagle Eye Networks | Software Engineer- NEW GRAD | Austin, TX | 2026-08-14 | [Link](https://www.linkedin.com/jobs/view/4454805354) |
 | Handshake | Software Engineer I, Handshake AI | San Francisco, CA | 2026-08-14 | [Link](https://www.linkedin.com/jobs/view/4444061574) |
 | Meta | Production Engineer (University Grad) | Bellevue, WA | 2026-08-14 | [Link](https://www.linkedin.com/jobs/view/4423618885) |
 | Vertafore | Software Engineer I | East Lansing, MI | 2026-08-14 | [Link](https://www.linkedin.com/jobs/view/4432153677) |
-| Revature | Entry Level Software Developer | Syracuse, NY | 2026-08-14 | [Link](https://www.linkedin.com/jobs/view/4453531876) |
 | Solarity | Software Engineer I | Sioux Falls, SD | 2026-08-14 | [Link](https://www.linkedin.com/jobs/view/4451226917) |
-| Optiver | Graduate Software Engineer (2027 Start) | Chicago, IL | 2026-08-14 | [Link](https://www.linkedin.com/jobs/view/4432734381) |
+| SpaceX | New Graduate Engineer, Software - '26/'27 (Starlink) | Redmond, WA | 2026-08-14 | [Link](https://www.linkedin.com/jobs/view/4454588318) |
+| SpaceX | New Graduate Engineer, Software - '26/'27 (Starlink) | Bastrop, TX | 2026-08-14 | [Link](https://www.linkedin.com/jobs/view/4454591302) |
+| TikTok | Software Engineer Graduate (Ads Infra) - 2027 Start | San Jose, CA | 2026-08-14 | [Link](https://www.linkedin.com/jobs/view/4453715831) |
 | InComm Payments | Software Engineer I | Utah, United States | 2026-08-14 | [Link](https://www.linkedin.com/jobs/view/4434750014) |
-| SpaceX | New Graduate Engineer, Software Security - '26/'27 (Starlink) | Bastrop, TX | 2026-08-14 | [Link](https://www.linkedin.com/jobs/view/4454803207) |
+| Wolverine Trading | Entry Level C++ Software Engineer (Spring 2027 Graduates) | Chicago, IL | 2026-08-14 | [Link](https://www.linkedin.com/jobs/view/4453734041) |
+| TikTok | Software Engineer Graduate (Foundation Platform) - 2027 Start | San Jose, CA | 2026-08-14 | [Link](https://www.linkedin.com/jobs/view/4453720779) |
 | United States Cold Storage, Inc. | SOFTWARE ENGINEER I | Camden, NJ | 2026-08-14 | [Link](https://www.linkedin.com/jobs/view/4451254255) |
 | TikTok | Backend Software Engineer New Grad - Creator Strategy | San Jose, CA | 2026-08-13 | [Link](https://lifeattiktok.com/search/7672976491146004741) |
-| Applied Materials | Software Engineer New Grad - DevOps | Gloucester, MA | 2026-08-13 | [Link](https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2027-Software-Engineer--DevOps---New-College-Grad---Bachelor-s--Gloucester--MA-_R2625762) |
 | Cigna Group | Technology Development Program New Grad - Data & Analytics Engineering Track | Morris Plains, NJ; St. Louis, MO | 2026-08-13 | [Link](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bloomfield-CT/Technology-Development-Program--TECDP----Data---Analytics-Engineering-Track_26009518-1) |
 | Kyndryl | Associate AI Engineer - Early Career Consult Program | Dallas, TX | 2026-08-13 | [Link](https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/USDALFRI---Dallas-Frisco-AI-HUB-FRI/Early-Career-Consult-Program---Associate-AI-Engineer_R-66739) |
 | 9to9 Software Solutions | Entry Level Software Developer | Copperhill, TN | 2026-08-12 | [Link](https://jobs.smartrecruiters.com/9to9SoftwareSolutionsLLC/743999677188473) |
