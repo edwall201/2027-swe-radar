@@ -85,37 +85,61 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4448129838",
+    "id": "linkedin-4452446547",
     "company": "ByteDance",
-    "title": "Software Engineer Graduate (AI Infrastructure-Compute Efficiency & Scheduling) - 2027 Start",
+    "title": "Software Engineer Graduate (AML-Engine-Orchestration) - 2027 Start",
     "locations": [
       "Seattle, WA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4448129838",
+    "url": "https://www.linkedin.com/jobs/view/4452446547",
     "sponsorship": "",
     "posted": "2026-08-18",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4448135804",
+    "id": "linkedin-4417513151",
+    "company": "Eccalon, LLC",
+    "title": "Junior Software Engineer - onsite",
+    "locations": [
+      "Detroit, MI"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4417513151",
+    "sponsorship": "",
+    "posted": "2026-08-18",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4450794697",
     "company": "ByteDance",
-    "title": "Backend Software Engineer Graduate (Platform) - 2027 Start",
+    "title": "Software Development Engineer Graduate (Intent-Based Networking) - 2027 Start",
     "locations": [
       "San Jose, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4448135804",
+    "url": "https://www.linkedin.com/jobs/view/4450794697",
     "sponsorship": "",
     "posted": "2026-08-18",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4437472369",
-    "company": "Notion",
-    "title": "Software Engineer, Early Career (AI)",
+    "id": "linkedin-4454703447",
+    "company": "Veeva Systems",
+    "title": "Associate Software Engineer - 2027 Start Dates",
     "locations": [
-      "San Francisco, CA"
+      "Columbus, OH"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4437472369",
+    "url": "https://www.linkedin.com/jobs/view/4454703447",
+    "sponsorship": "",
+    "posted": "2026-08-18",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4455939114",
+    "company": "7-Eleven",
+    "title": "Software Engineer I",
+    "locations": [
+      "Enon, OH"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4455939114",
     "sponsorship": "",
     "posted": "2026-08-18",
     "source": "LinkedIn"
@@ -145,18 +169,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4417513151",
-    "company": "Eccalon, LLC",
-    "title": "Junior Software Engineer - onsite",
-    "locations": [
-      "Detroit, MI"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4417513151",
-    "sponsorship": "",
-    "posted": "2026-08-18",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4454703695",
     "company": "Revature",
     "title": "Entry Level Software Developer",
@@ -176,18 +188,6 @@
       "Huntsville, AL"
     ],
     "url": "https://www.linkedin.com/jobs/view/4455702191",
-    "sponsorship": "",
-    "posted": "2026-08-18",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4454703447",
-    "company": "Veeva Systems",
-    "title": "Associate Software Engineer - 2027 Start Dates",
-    "locations": [
-      "Columbus, OH"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4454703447",
     "sponsorship": "",
     "posted": "2026-08-18",
     "source": "LinkedIn"
@@ -241,18 +241,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4455769746",
-    "company": "State Street",
-    "title": "Software Engineer, CRD- New Graduate",
-    "locations": [
-      "Burlington, MA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4455769746",
-    "sponsorship": "",
-    "posted": "2026-08-18",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4454496385",
     "company": "Haystack",
     "title": "Junior Software Engineer",
@@ -289,6 +277,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4454789296",
+    "company": "Verita AI",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4454789296",
+    "sponsorship": "",
+    "posted": "2026-08-18",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4454497332",
     "company": "Haystack",
     "title": "Junior Software Engineer",
@@ -296,6 +296,18 @@
       "Huntsville, AL"
     ],
     "url": "https://www.linkedin.com/jobs/view/4454497332",
+    "sponsorship": "",
+    "posted": "2026-08-18",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4455562795",
+    "company": "Vanguard",
+    "title": "Entry Level Application Engineer - 2027 Start Date - Malvern",
+    "locations": [
+      "Malvern, PA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4455562795",
     "sponsorship": "",
     "posted": "2026-08-18",
     "source": "LinkedIn"
@@ -325,18 +337,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4446140930",
-    "company": "Symbotic",
-    "title": "New Grad- Software Engineer",
-    "locations": [
-      "Wilmington, MA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4446140930",
-    "sponsorship": "",
-    "posted": "2026-08-18",
-    "source": "LinkedIn"
-  },
-  {
     "id": "simplify-f296a9f4-0dae-41f4-b15d-ae910f8c8f16",
     "company": "Vanguard",
     "title": "Application Engineer - 2027 Start Date",
@@ -349,18 +349,6 @@
     "source": "SimplifyJobs"
   },
   {
-    "id": "linkedin-4455541325",
-    "company": "San Diego Blood Bank",
-    "title": "Software Engineer I",
-    "locations": [
-      "San Diego, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4455541325",
-    "sponsorship": "",
-    "posted": "2026-08-17",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4455261313",
     "company": "TD",
     "title": "Software Engineer II (US)",
@@ -368,6 +356,18 @@
       "Mount Laurel, NJ"
     ],
     "url": "https://www.linkedin.com/jobs/view/4455261313",
+    "sponsorship": "",
+    "posted": "2026-08-17",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4455541325",
+    "company": "San Diego Blood Bank",
+    "title": "Software Engineer I",
+    "locations": [
+      "San Diego, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4455541325",
     "sponsorship": "",
     "posted": "2026-08-17",
     "source": "LinkedIn"
@@ -385,6 +385,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4454299053",
+    "company": "General Dynamics Electric Boat",
+    "title": "Junior Software Developer",
+    "locations": [
+      "New London County, CT"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4454299053",
+    "sponsorship": "",
+    "posted": "2026-08-17",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4455344445",
     "company": "Honeywell Technologies",
     "title": "Software Engineer I",
@@ -397,13 +409,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4455391126",
-    "company": "John Galt Staffing",
-    "title": "Entry Level Software Engineer",
+    "id": "linkedin-4452502290",
+    "company": "CACI International Inc",
+    "title": "Software Engineer - Early Career - Cloud",
     "locations": [
-      "Columbia, MD"
+      "Hanover, MD"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4455391126",
+    "url": "https://www.linkedin.com/jobs/view/4452502290",
     "sponsorship": "",
     "posted": "2026-08-17",
     "source": "LinkedIn"
@@ -416,6 +428,18 @@
       "Palo Alto, CA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4399493417",
+    "sponsorship": "",
+    "posted": "2026-08-16",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4351877495",
+    "company": "Medpace",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "Cincinnati, OH"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4351877495",
     "sponsorship": "",
     "posted": "2026-08-16",
     "source": "LinkedIn"
@@ -1873,18 +1897,6 @@
     "source": "SimplifyJobs"
   },
   {
-    "id": "gh-duolingo-8628670002",
-    "company": "Duolingo",
-    "title": "Software Engineer II, Android",
-    "locations": [
-      "New York, NY"
-    ],
-    "url": "https://careers.duolingo.com/jobs/8628670002?gh_jid=8628670002",
-    "sponsorship": "",
-    "posted": "2026-07-23",
-    "source": "Greenhouse"
-  },
-  {
     "id": "gh-duolingo-8628658002",
     "company": "Duolingo",
     "title": "Software Engineer II, Android",
@@ -1892,6 +1904,18 @@
       "Pittsburgh, PA"
     ],
     "url": "https://careers.duolingo.com/jobs/8628658002?gh_jid=8628658002",
+    "sponsorship": "",
+    "posted": "2026-07-23",
+    "source": "Greenhouse"
+  },
+  {
+    "id": "gh-duolingo-8628670002",
+    "company": "Duolingo",
+    "title": "Software Engineer II, Android",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://careers.duolingo.com/jobs/8628670002?gh_jid=8628670002",
     "sponsorship": "",
     "posted": "2026-07-23",
     "source": "Greenhouse"
