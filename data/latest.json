@@ -12,6 +12,30 @@
     "source": "SimplifyJobs"
   },
   {
+    "id": "linkedin-4452563402",
+    "company": "Charta Health",
+    "title": "Software Engineer, New Grad",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4452563402",
+    "sponsorship": "",
+    "posted": "2026-08-18",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4455560292",
+    "company": "Uber",
+    "title": "Software Engineer II",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4455560292",
+    "sponsorship": "",
+    "posted": "2026-08-18",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4455558801",
     "company": "Vanguard",
     "title": "Entry Level Application Engineer - 2027 Start Date",
@@ -48,13 +72,25 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4455562795",
-    "company": "Vanguard",
-    "title": "Entry Level Application Engineer - 2027 Start Date - Malvern",
+    "id": "linkedin-4455527948",
+    "company": "Haystack",
+    "title": "Junior Software Engineer",
     "locations": [
-      "Malvern, PA"
+      "Huntsville, AL"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4455562795",
+    "url": "https://www.linkedin.com/jobs/view/4455527948",
+    "sponsorship": "",
+    "posted": "2026-08-18",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4452543585",
+    "company": "Charta Health",
+    "title": "Software Engineer, New Grad",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4452543585",
     "sponsorship": "",
     "posted": "2026-08-18",
     "source": "LinkedIn"
@@ -72,49 +108,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4455389694",
-    "company": "Wayfair",
+    "id": "linkedin-4455541325",
+    "company": "San Diego Blood Bank",
     "title": "Software Engineer I",
     "locations": [
-      "Boston, MA"
+      "San Diego, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4455389694",
-    "sponsorship": "",
-    "posted": "2026-08-17",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4454299053",
-    "company": "General Dynamics Electric Boat",
-    "title": "Junior Software Developer",
-    "locations": [
-      "New London County, CT"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4454299053",
-    "sponsorship": "",
-    "posted": "2026-08-17",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4454421653",
-    "company": "Jobright.ai",
-    "title": "Full Stack Software Engineer, New Grad",
-    "locations": [
-      "United States"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4454421653",
-    "sponsorship": "",
-    "posted": "2026-08-17",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4454426710",
-    "company": "Jobright.ai",
-    "title": "Full Stack Engineer, New Grad",
-    "locations": [
-      "United States"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4454426710",
+    "url": "https://www.linkedin.com/jobs/view/4455541325",
     "sponsorship": "",
     "posted": "2026-08-17",
     "source": "LinkedIn"
@@ -156,18 +156,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4455541325",
-    "company": "San Diego Blood Bank",
-    "title": "Software Engineer I",
-    "locations": [
-      "San Diego, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4455541325",
-    "sponsorship": "",
-    "posted": "2026-08-17",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4452706000",
     "company": "BRYCER",
     "title": "Junior Software Engineer",
@@ -192,30 +180,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4455391126",
-    "company": "John Galt Staffing",
-    "title": "Entry Level Software Engineer",
-    "locations": [
-      "Columbia, MD"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4455391126",
-    "sponsorship": "",
-    "posted": "2026-08-17",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4454245901",
-    "company": "HRK Technologies Inc.",
-    "title": "Junior Software Engineer",
-    "locations": [
-      "Wyoming, United States"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4454245901",
-    "sponsorship": "",
-    "posted": "2026-08-17",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4453797819",
     "company": "Hyra",
     "title": "Junior Software Developer",
@@ -228,13 +192,25 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4455344445",
-    "company": "Honeywell Technologies",
-    "title": "Software Engineer I",
+    "id": "linkedin-4454299053",
+    "company": "General Dynamics Electric Boat",
+    "title": "Junior Software Developer",
     "locations": [
-      "Richmond, VA"
+      "New London County, CT"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4455344445",
+    "url": "https://www.linkedin.com/jobs/view/4454299053",
+    "sponsorship": "",
+    "posted": "2026-08-17",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4455391126",
+    "company": "John Galt Staffing",
+    "title": "Entry Level Software Engineer",
+    "locations": [
+      "Columbia, MD"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4455391126",
     "sponsorship": "",
     "posted": "2026-08-17",
     "source": "LinkedIn"
@@ -252,6 +228,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4455191300",
+    "company": "Haystack",
+    "title": "Software Engineer II",
+    "locations": [
+      "Detroit, MI"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4455191300",
+    "sponsorship": "",
+    "posted": "2026-08-16",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4351877495",
     "company": "Medpace",
     "title": "Junior Software Engineer",
@@ -264,13 +252,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4455191300",
-    "company": "Haystack",
-    "title": "Software Engineer II",
+    "id": "linkedin-4403643287",
+    "company": "Varsity Brands",
+    "title": "Software Engineer - Early Career",
     "locations": [
-      "Detroit, MI"
+      "Farmers Branch, TX"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4455191300",
+    "url": "https://www.linkedin.com/jobs/view/4403643287",
     "sponsorship": "",
     "posted": "2026-08-16",
     "source": "LinkedIn"
@@ -361,18 +349,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4423621718",
-    "company": "Meta",
-    "title": "Production Engineer (University Grad)",
-    "locations": [
-      "Menlo Park, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4423621718",
-    "sponsorship": "",
-    "posted": "2026-08-15",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4448267310",
     "company": "SimpliSafe",
     "title": "Software Engineer I- User Systems",
@@ -380,6 +356,18 @@
       "Boston, MA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4448267310",
+    "sponsorship": "",
+    "posted": "2026-08-15",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4423621718",
+    "company": "Meta",
+    "title": "Production Engineer (University Grad)",
+    "locations": [
+      "Menlo Park, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4423621718",
     "sponsorship": "",
     "posted": "2026-08-15",
     "source": "LinkedIn"
@@ -404,6 +392,30 @@
       "Montgomery, AL"
     ],
     "url": "https://www.linkedin.com/jobs/view/4441884278",
+    "sponsorship": "",
+    "posted": "2026-08-15",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4413407011",
+    "company": "Raytheon",
+    "title": "2026 Raytheon Full Time- Software Engineer I -(Onsite)",
+    "locations": [
+      "Fort Wayne, IN"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4413407011",
+    "sponsorship": "",
+    "posted": "2026-08-15",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4375773802",
+    "company": "Hyundai AutoEver America",
+    "title": "10801 - Software Engineer II, KMNA Development",
+    "locations": [
+      "Costa Mesa, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4375773802",
     "sponsorship": "",
     "posted": "2026-08-15",
     "source": "LinkedIn"
@@ -2728,18 +2740,6 @@
     "url": "https://jobs.ashbyhq.com/ellipsislabs/256c2ec2-01c8-4ff6-9ad0-b926fe40472d/application",
     "sponsorship": "Other",
     "posted": "2026-03-26",
-    "source": "SimplifyJobs"
-  },
-  {
-    "id": "simplify-de2dabaf-389f-4f67-bf9d-1414cfa393fe",
-    "company": "Freedom Technology Solutions Group",
-    "title": "Junior Software Engineer",
-    "locations": [
-      "St. Louis, MO"
-    ],
-    "url": "https://job-boards.greenhouse.io/freedomconsulting/jobs/5089261007",
-    "sponsorship": "Other",
-    "posted": "2026-03-25",
     "source": "SimplifyJobs"
   },
   {
