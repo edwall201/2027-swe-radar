@@ -145,6 +145,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4417513151",
+    "company": "Eccalon, LLC",
+    "title": "Junior Software Engineer - onsite",
+    "locations": [
+      "Detroit, MI"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4417513151",
+    "sponsorship": "",
+    "posted": "2026-08-18",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4454703695",
     "company": "Revature",
     "title": "Entry Level Software Developer",
@@ -229,13 +241,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4446151494",
-    "company": "Honeywell Aerospace",
-    "title": "Software Engineer I",
+    "id": "linkedin-4455769746",
+    "company": "State Street",
+    "title": "Software Engineer, CRD- New Graduate",
     "locations": [
-      "Phoenix, AZ"
+      "Burlington, MA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4446151494",
+    "url": "https://www.linkedin.com/jobs/view/4455769746",
     "sponsorship": "",
     "posted": "2026-08-18",
     "source": "LinkedIn"
@@ -265,6 +277,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4453139292",
+    "company": "SkillStorm",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "Washington, DC"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4453139292",
+    "sponsorship": "",
+    "posted": "2026-08-18",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4454497332",
     "company": "Haystack",
     "title": "Junior Software Engineer",
@@ -277,6 +301,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4448291147",
+    "company": "TikTok",
+    "title": "Backend Software Engineer Graduate (Global E-commerce) - 2027 Start",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4448291147",
+    "sponsorship": "",
+    "posted": "2026-08-18",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4449977475",
     "company": "TikTok",
     "title": "Software Engineer Graduate (Global E-commerce-Search) - 2027 Start",
@@ -284,6 +320,18 @@
       "Seattle, WA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4449977475",
+    "sponsorship": "",
+    "posted": "2026-08-18",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4446140930",
+    "company": "Symbotic",
+    "title": "New Grad- Software Engineer",
+    "locations": [
+      "Wilmington, MA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4446140930",
     "sponsorship": "",
     "posted": "2026-08-18",
     "source": "LinkedIn"
@@ -320,30 +368,6 @@
       "Mount Laurel, NJ"
     ],
     "url": "https://www.linkedin.com/jobs/view/4455261313",
-    "sponsorship": "",
-    "posted": "2026-08-17",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4454285366",
-    "company": "Google",
-    "title": "Software Engineer III",
-    "locations": [
-      "Pittsburgh, PA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4454285366",
-    "sponsorship": "",
-    "posted": "2026-08-17",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4452706000",
-    "company": "BRYCER",
-    "title": "Junior Software Engineer",
-    "locations": [
-      "North Aurora, IL"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4452706000",
     "sponsorship": "",
     "posted": "2026-08-17",
     "source": "LinkedIn"
@@ -1583,6 +1607,18 @@
     "source": "SimplifyJobs"
   },
   {
+    "id": "simplify-6fc7e4af-87e1-4ae0-9903-2066010754a3",
+    "company": "Micron Technology",
+    "title": "Digital Design Engineer New Grad - Mixed Signal Design Engineer - HBM",
+    "locations": [
+      "Richardson, TX"
+    ],
+    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Staff-Physical-Design-Engineer--HBM_JR106821",
+    "sponsorship": "Other",
+    "posted": "2026-08-03",
+    "source": "SimplifyJobs"
+  },
+  {
     "id": "simplify-e3cfe515-6df5-4847-9b31-0a9b950a8524",
     "company": "Lightfield",
     "title": "Early Career Infrastructure Software Engineer",
@@ -1837,18 +1873,6 @@
     "source": "SimplifyJobs"
   },
   {
-    "id": "gh-duolingo-8628658002",
-    "company": "Duolingo",
-    "title": "Software Engineer II, Android",
-    "locations": [
-      "Pittsburgh, PA"
-    ],
-    "url": "https://careers.duolingo.com/jobs/8628658002?gh_jid=8628658002",
-    "sponsorship": "",
-    "posted": "2026-07-23",
-    "source": "Greenhouse"
-  },
-  {
     "id": "gh-duolingo-8628670002",
     "company": "Duolingo",
     "title": "Software Engineer II, Android",
@@ -1856,6 +1880,18 @@
       "New York, NY"
     ],
     "url": "https://careers.duolingo.com/jobs/8628670002?gh_jid=8628670002",
+    "sponsorship": "",
+    "posted": "2026-07-23",
+    "source": "Greenhouse"
+  },
+  {
+    "id": "gh-duolingo-8628658002",
+    "company": "Duolingo",
+    "title": "Software Engineer II, Android",
+    "locations": [
+      "Pittsburgh, PA"
+    ],
+    "url": "https://careers.duolingo.com/jobs/8628658002?gh_jid=8628658002",
     "sponsorship": "",
     "posted": "2026-07-23",
     "source": "Greenhouse"
@@ -2386,6 +2422,18 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/Signal-and-Power-Integrity-Engineer---New-College-Grad-2026_JR2015067",
     "sponsorship": "Other",
     "posted": "2026-06-20",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-eb09190f-823e-42bc-bf52-4ddcaab011b0",
+    "company": "State Street",
+    "title": "Software Engineer New Grad",
+    "locations": [
+      "Burlington, MA"
+    ],
+    "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Software-Engineer--CRD--New-Graduate_R-792647",
+    "sponsorship": "Other",
+    "posted": "2026-06-18",
     "source": "SimplifyJobs"
   },
   {
