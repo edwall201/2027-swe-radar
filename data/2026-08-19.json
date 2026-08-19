@@ -1,17 +1,5 @@
 [
   {
-    "id": "simplify-2ff524c5-b4b5-442e-9bf1-f96ce0366ce5",
-    "company": "OKX",
-    "title": "AI-Native Mobile Engineer New Grad",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "url": "https://job-boards.greenhouse.io/okx/jobs/7897680003",
-    "sponsorship": "Other",
-    "posted": "2026-08-19",
-    "source": "SimplifyJobs"
-  },
-  {
     "id": "linkedin-4452864525",
     "company": "Koah",
     "title": "Software Engineer, Early Career",
@@ -48,6 +36,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4456177660",
+    "company": "Collins Aerospace",
+    "title": "Software Engineer I - Aircraft Interiors (ONSITE)",
+    "locations": [
+      "Jamestown, ND"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4456177660",
+    "sponsorship": "",
+    "posted": "2026-08-19",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4454299053",
     "company": "General Dynamics Electric Boat",
     "title": "Junior Software Developer",
@@ -55,6 +55,18 @@
       "New London County, CT"
     ],
     "url": "https://www.linkedin.com/jobs/view/4454299053",
+    "sponsorship": "",
+    "posted": "2026-08-19",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4456178586",
+    "company": "Raytheon",
+    "title": "Software Engineer I (Onsite)",
+    "locations": [
+      "McKinney, TX"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4456178586",
     "sponsorship": "",
     "posted": "2026-08-19",
     "source": "LinkedIn"
@@ -193,49 +205,25 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4455531962",
-    "company": "USAN, Inc.",
-    "title": "Entry Level Software Engineer - Hybrid - Norcross, GA",
+    "id": "linkedin-4452563402",
+    "company": "Charta Health",
+    "title": "Software Engineer, New Grad",
     "locations": [
-      "Norcross, GA"
+      "San Francisco, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4455531962",
+    "url": "https://www.linkedin.com/jobs/view/4452563402",
     "sponsorship": "",
     "posted": "2026-08-18",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4452282468",
-    "company": "BeaconFire Inc.",
-    "title": "Entry-Level / Junior Software Developer Opportunity",
+    "id": "linkedin-4455774216",
+    "company": "General Matter",
+    "title": "Software Engineer (New Grad)",
     "locations": [
-      "New Jersey, United States"
+      "Los Angeles, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4452282468",
-    "sponsorship": "",
-    "posted": "2026-08-18",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4452901177",
-    "company": "TikTok",
-    "title": "Software Engineer Graduate (Foundation Platform) - 2027 Start",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4452901177",
-    "sponsorship": "",
-    "posted": "2026-08-18",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4445472899",
-    "company": "Jobot",
-    "title": "Hybrid Junior Software Engineer | Full Stack/ Clearable",
-    "locations": [
-      "Manassas, VA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4445472899",
+    "url": "https://www.linkedin.com/jobs/view/4455774216",
     "sponsorship": "",
     "posted": "2026-08-18",
     "source": "LinkedIn"
@@ -313,13 +301,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4452563402",
-    "company": "Charta Health",
-    "title": "Software Engineer, New Grad",
+    "id": "linkedin-4455524933",
+    "company": "Leidos",
+    "title": "Junior Software Engineer",
     "locations": [
-      "San Francisco, CA"
+      "Huntsville, AL"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4452563402",
+    "url": "https://www.linkedin.com/jobs/view/4455524933",
     "sponsorship": "",
     "posted": "2026-08-18",
     "source": "LinkedIn"
@@ -337,42 +325,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4454496385",
-    "company": "Haystack",
-    "title": "Junior Software Engineer",
-    "locations": [
-      "Alabama, United States"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4454496385",
-    "sponsorship": "",
-    "posted": "2026-08-18",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4455524933",
-    "company": "Leidos",
-    "title": "Junior Software Engineer",
-    "locations": [
-      "Huntsville, AL"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4455524933",
-    "sponsorship": "",
-    "posted": "2026-08-18",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4454491409",
-    "company": "Haystack",
-    "title": "Junior Software Engineer",
-    "locations": [
-      "Huntsville, AL"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4454491409",
-    "sponsorship": "",
-    "posted": "2026-08-18",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4452543585",
     "company": "Charta Health",
     "title": "Software Engineer, New Grad",
@@ -380,18 +332,6 @@
       "New York, NY"
     ],
     "url": "https://www.linkedin.com/jobs/view/4452543585",
-    "sponsorship": "",
-    "posted": "2026-08-18",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4455774216",
-    "company": "General Matter",
-    "title": "Software Engineer (New Grad)",
-    "locations": [
-      "Los Angeles, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4455774216",
     "sponsorship": "",
     "posted": "2026-08-18",
     "source": "LinkedIn"
@@ -409,61 +349,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4446140930",
-    "company": "Symbotic",
-    "title": "New Grad- Software Engineer",
-    "locations": [
-      "Wilmington, MA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4446140930",
-    "sponsorship": "",
-    "posted": "2026-08-18",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4452446547",
-    "company": "ByteDance",
-    "title": "Software Engineer Graduate (AML-Engine-Orchestration) - 2027 Start",
+    "id": "linkedin-4448291147",
+    "company": "TikTok",
+    "title": "Backend Software Engineer Graduate (Global E-commerce) - 2027 Start",
     "locations": [
       "Seattle, WA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4452446547",
-    "sponsorship": "",
-    "posted": "2026-08-18",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4446151494",
-    "company": "Honeywell Aerospace",
-    "title": "Software Engineer I",
-    "locations": [
-      "Phoenix, AZ"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4446151494",
-    "sponsorship": "",
-    "posted": "2026-08-18",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4448295048",
-    "company": "TikTok",
-    "title": "Backend Engineer Graduate (User Growth) - 2027 Start",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4448295048",
-    "sponsorship": "",
-    "posted": "2026-08-18",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4449977475",
-    "company": "TikTok",
-    "title": "Software Engineer Graduate (Global E-commerce-Search) - 2027 Start",
-    "locations": [
-      "Seattle, WA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4449977475",
+    "url": "https://www.linkedin.com/jobs/view/4448291147",
     "sponsorship": "",
     "posted": "2026-08-18",
     "source": "LinkedIn"
@@ -481,6 +373,18 @@
     "source": "SimplifyJobs"
   },
   {
+    "id": "linkedin-4455541325",
+    "company": "San Diego Blood Bank",
+    "title": "Software Engineer I",
+    "locations": [
+      "San Diego, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4455541325",
+    "sponsorship": "",
+    "posted": "2026-08-17",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4455344445",
     "company": "Honeywell Technologies",
     "title": "Software Engineer I",
@@ -493,25 +397,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4455362030",
-    "company": "Eagle Eye Networks",
-    "title": "Software Engineer- NEW GRAD",
+    "id": "linkedin-4452502290",
+    "company": "CACI International Inc",
+    "title": "Software Engineer - Early Career - Cloud",
     "locations": [
-      "Bethesda, MD"
+      "Hanover, MD"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4455362030",
-    "sponsorship": "",
-    "posted": "2026-08-17",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4455541325",
-    "company": "San Diego Blood Bank",
-    "title": "Software Engineer I",
-    "locations": [
-      "San Diego, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4455541325",
+    "url": "https://www.linkedin.com/jobs/view/4452502290",
     "sponsorship": "",
     "posted": "2026-08-17",
     "source": "LinkedIn"
@@ -1295,6 +1187,18 @@
       "Atlanta, GA"
     ],
     "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Entry-Level-Software-Engineer---Atlanta--GA_R202680858-1",
+    "sponsorship": "Other",
+    "posted": "2026-08-04",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-567cfc2d-c141-4f57-b4f2-d3426034ba5d",
+    "company": "Micron Technology",
+    "title": "Design Engineer New Grad",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Senior-Design-Engineer_JR106564",
     "sponsorship": "Other",
     "posted": "2026-08-04",
     "source": "SimplifyJobs"
