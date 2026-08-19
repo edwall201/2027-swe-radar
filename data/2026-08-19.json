@@ -36,25 +36,25 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4455423214",
-    "company": "General Dynamics Mission Systems",
-    "title": "Entry Level Software Engineer",
+    "id": "linkedin-4454987944",
+    "company": "Revature",
+    "title": "Entry Level Software Developer",
     "locations": [
-      "Scottsdale, AZ"
+      "Syracuse, NY"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4455423214",
+    "url": "https://www.linkedin.com/jobs/view/4454987944",
     "sponsorship": "",
     "posted": "2026-08-19",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4456197619",
-    "company": "Haystack",
-    "title": "Junior Software Engineer",
+    "id": "linkedin-4446383629",
+    "company": "Yamaha Motor Corporation, USA",
+    "title": "Software Engineer I",
     "locations": [
-      "Huntsville, AL"
+      "Kennesaw, GA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4456197619",
+    "url": "https://www.linkedin.com/jobs/view/4446383629",
     "sponsorship": "",
     "posted": "2026-08-19",
     "source": "LinkedIn"
@@ -84,13 +84,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4454987944",
-    "company": "Revature",
-    "title": "Entry Level Software Developer",
+    "id": "linkedin-4456197619",
+    "company": "Haystack",
+    "title": "Junior Software Engineer",
     "locations": [
-      "Syracuse, NY"
+      "Huntsville, AL"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4454987944",
+    "url": "https://www.linkedin.com/jobs/view/4456197619",
     "sponsorship": "",
     "posted": "2026-08-19",
     "source": "LinkedIn"
@@ -313,66 +313,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4455531962",
-    "company": "USAN, Inc.",
-    "title": "Entry Level Software Engineer - Hybrid - Norcross, GA",
-    "locations": [
-      "Norcross, GA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4455531962",
-    "sponsorship": "",
-    "posted": "2026-08-18",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4452901177",
-    "company": "TikTok",
-    "title": "Software Engineer Graduate (Foundation Platform) - 2027 Start",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4452901177",
-    "sponsorship": "",
-    "posted": "2026-08-18",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4449977475",
-    "company": "TikTok",
-    "title": "Software Engineer Graduate (Global E-commerce-Search) - 2027 Start",
-    "locations": [
-      "Seattle, WA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4449977475",
-    "sponsorship": "",
-    "posted": "2026-08-18",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4446140930",
-    "company": "Symbotic",
-    "title": "New Grad- Software Engineer",
-    "locations": [
-      "Wilmington, MA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4446140930",
-    "sponsorship": "",
-    "posted": "2026-08-18",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4455562795",
-    "company": "Vanguard",
-    "title": "Entry Level Application Engineer - 2027 Start Date - Malvern",
-    "locations": [
-      "Malvern, PA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4455562795",
-    "sponsorship": "",
-    "posted": "2026-08-18",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4417513151",
     "company": "Eccalon, LLC",
     "title": "Junior Software Engineer - onsite",
@@ -392,6 +332,54 @@
       "Huntsville, AL"
     ],
     "url": "https://www.linkedin.com/jobs/view/4455702191",
+    "sponsorship": "",
+    "posted": "2026-08-18",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4446140930",
+    "company": "Symbotic",
+    "title": "New Grad- Software Engineer",
+    "locations": [
+      "Wilmington, MA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4446140930",
+    "sponsorship": "",
+    "posted": "2026-08-18",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4445472899",
+    "company": "Jobot",
+    "title": "Hybrid Junior Software Engineer | Full Stack/ Clearable",
+    "locations": [
+      "Manassas, VA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4445472899",
+    "sponsorship": "",
+    "posted": "2026-08-18",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4455531962",
+    "company": "USAN, Inc.",
+    "title": "Entry Level Software Engineer - Hybrid - Norcross, GA",
+    "locations": [
+      "Norcross, GA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4455531962",
+    "sponsorship": "",
+    "posted": "2026-08-18",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4455769746",
+    "company": "State Street",
+    "title": "Software Engineer, CRD- New Graduate",
+    "locations": [
+      "Burlington, MA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4455769746",
     "sponsorship": "",
     "posted": "2026-08-18",
     "source": "LinkedIn"
@@ -421,6 +409,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4455562795",
+    "company": "Vanguard",
+    "title": "Entry Level Application Engineer - 2027 Start Date - Malvern",
+    "locations": [
+      "Malvern, PA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4455562795",
+    "sponsorship": "",
+    "posted": "2026-08-18",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4448291147",
     "company": "TikTok",
     "title": "Backend Software Engineer Graduate (Global E-commerce) - 2027 Start",
@@ -445,6 +445,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4449977475",
+    "company": "TikTok",
+    "title": "Software Engineer Graduate (Global E-commerce-Search) - 2027 Start",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4449977475",
+    "sponsorship": "",
+    "posted": "2026-08-18",
+    "source": "LinkedIn"
+  },
+  {
     "id": "simplify-f296a9f4-0dae-41f4-b15d-ae910f8c8f16",
     "company": "Vanguard",
     "title": "Application Engineer - 2027 Start Date",
@@ -464,18 +476,6 @@
       "Richmond, VA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4455344445",
-    "sponsorship": "",
-    "posted": "2026-08-17",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4455362030",
-    "company": "Eagle Eye Networks",
-    "title": "Software Engineer- NEW GRAD",
-    "locations": [
-      "Bethesda, MD"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4455362030",
     "sponsorship": "",
     "posted": "2026-08-17",
     "source": "LinkedIn"
@@ -1909,18 +1909,6 @@
     "source": "SimplifyJobs"
   },
   {
-    "id": "gh-duolingo-8628658002",
-    "company": "Duolingo",
-    "title": "Software Engineer II, Android",
-    "locations": [
-      "Pittsburgh, PA"
-    ],
-    "url": "https://careers.duolingo.com/jobs/8628658002?gh_jid=8628658002",
-    "sponsorship": "",
-    "posted": "2026-07-23",
-    "source": "Greenhouse"
-  },
-  {
     "id": "gh-duolingo-8628670002",
     "company": "Duolingo",
     "title": "Software Engineer II, Android",
@@ -1928,6 +1916,18 @@
       "New York, NY"
     ],
     "url": "https://careers.duolingo.com/jobs/8628670002?gh_jid=8628670002",
+    "sponsorship": "",
+    "posted": "2026-07-23",
+    "source": "Greenhouse"
+  },
+  {
+    "id": "gh-duolingo-8628658002",
+    "company": "Duolingo",
+    "title": "Software Engineer II, Android",
+    "locations": [
+      "Pittsburgh, PA"
+    ],
+    "url": "https://careers.duolingo.com/jobs/8628658002?gh_jid=8628658002",
     "sponsorship": "",
     "posted": "2026-07-23",
     "source": "Greenhouse"
