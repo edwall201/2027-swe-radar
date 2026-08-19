@@ -1,17 +1,17 @@
 # 📡 2027 SWE Radar
 
 Automated daily scanner for **2027 new-grad software engineering** openings.
-Last scan: **2026-08-19** · Tracking **258** matching postings · 🆕 **4** new today
+Last scan: **2026-08-19** · Tracking **253** matching postings · 🆕 **4** new today
 Showing **US** postings, newest first.
 
 ## 🆕 New today
 
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
-| **OKX** | AI-Native Mobile Engineer New Grad | San Jose, CA | 2026-08-19 | [Link](https://job-boards.greenhouse.io/okx/jobs/7897680003) |
-| **Koah** | Software Engineer, Early Career | San Francisco, CA | 2026-08-19 | [Link](https://www.linkedin.com/jobs/view/4452864525) |
-| **Walmart** | (USA) Software Engineer III | Bentonville, AR | 2026-08-19 | [Link](https://www.linkedin.com/jobs/view/4452858766) |
-| **ByteDance** | Software Engineer Graduate (AI Infrastructure-Compute Efficiency & Scheduling) - 2027 Start | Seattle, WA | 2026-08-18 | [Link](https://www.linkedin.com/jobs/view/4448129838) |
+| **Veeva Systems** | Associate Software Engineer - 2027 Start Dates | Pleasanton, CA | 2026-08-18 | [Link](https://www.linkedin.com/jobs/view/4454704486) |
+| **ByteDance** | Software Development Engineer Graduate (Intent-Based Networking) - 2027 Start | San Jose, CA | 2026-08-18 | [Link](https://www.linkedin.com/jobs/view/4450794697) |
+| **Haystack** | Junior Software Engineer | Huntsville, AL | 2026-08-18 | [Link](https://www.linkedin.com/jobs/view/4454497332) |
+| **Varsity Brands** | Software Engineer - Early Career | Farmers Branch, TX | 2026-08-16 | [Link](https://www.linkedin.com/jobs/view/4403643287) |
 
 ## 🎯 Explicit 2027 openings
 
@@ -20,12 +20,12 @@ Showing **US** postings, newest first.
 | ByteDance | Software Engineer Graduate (AI Infrastructure-Compute Efficiency & Scheduling) - 2027 Start | Seattle, WA | 2026-08-18 | [Link](https://www.linkedin.com/jobs/view/4448129838) |
 | ByteDance | Backend Software Engineer Graduate (Platform) - 2027 Start | San Jose, CA | 2026-08-18 | [Link](https://www.linkedin.com/jobs/view/4448135804) |
 | ByteDance | Backend Software Engineer Graduate (Platform) - 2027 Start | New York, United States | 2026-08-18 | [Link](https://www.linkedin.com/jobs/view/4448124963) |
-| TikTok | Software Engineer Graduate (Foundation Platform) - 2027 Start | San Jose, CA | 2026-08-18 | [Link](https://www.linkedin.com/jobs/view/4452901177) |
-| TikTok | Software Engineer Graduate (Global E-commerce-Search) - 2027 Start | Seattle, WA | 2026-08-18 | [Link](https://www.linkedin.com/jobs/view/4449977475) |
+| Veeva Systems | Associate Software Engineer - 2027 Start Dates | Pleasanton, CA | 2026-08-18 | [Link](https://www.linkedin.com/jobs/view/4454704486) |
+| ByteDance | Software Development Engineer Graduate (Intent-Based Networking) - 2027 Start | San Jose, CA | 2026-08-18 | [Link](https://www.linkedin.com/jobs/view/4450794697) |
 | Vanguard | Entry Level Application Engineer - 2027 Start Date - Malvern | Malvern, PA | 2026-08-18 | [Link](https://www.linkedin.com/jobs/view/4455562795) |
-| Vanguard | Entry Level Application Engineer - 2027 Start Date | Charlotte, NC | 2026-08-18 | [Link](https://www.linkedin.com/jobs/view/4455558801) |
 | TikTok | Backend Software Engineer Graduate (Global E-commerce) - 2027 Start | Seattle, WA | 2026-08-18 | [Link](https://www.linkedin.com/jobs/view/4448291147) |
 | TikTok | Backend Engineer Graduate (User Growth) - 2027 Start | San Jose, CA | 2026-08-18 | [Link](https://www.linkedin.com/jobs/view/4448295048) |
+| TikTok | Software Engineer Graduate (Global E-commerce-Search) - 2027 Start | Seattle, WA | 2026-08-18 | [Link](https://www.linkedin.com/jobs/view/4449977475) |
 | Vanguard | Application Engineer - 2027 Start Date | Charlotte, NC | 2026-08-17 | [Link](https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Charlotte-NC/Entry-Level-Application-Engineer----2027-Start-Date_180412) |
 | TikTok | Backend Engineer Graduate - TikTok Vertical Recommendation Architecture - 2027 Start | San Jose, CA | 2026-08-12 | [Link](https://lifeattiktok.com/search/7672532801686571317) |
 | ByteDance | Software Engineer Graduate - AML Engine Orchestration - 2027 Start | San Jose, CA | 2026-08-10 | [Link](https://jobs.bytedance.com/en/position/7671148355447343365/detail) |
@@ -41,7 +41,7 @@ Showing **US** postings, newest first.
 | Koah | Software Engineer, Early Career | San Francisco, CA | 2026-08-19 | [Link](https://www.linkedin.com/jobs/view/4452864525) |
 | Forerunner | Software Engineer, Early Career | San Francisco, CA | 2026-08-19 | [Link](https://www.linkedin.com/jobs/view/4455991970) |
 | 7-Eleven | Software Engineer I | Enon, OH | 2026-08-19 | [Link](https://www.linkedin.com/jobs/view/4455939114) |
-| Walmart | (USA) Software Engineer III | Bentonville, AR | 2026-08-19 | [Link](https://www.linkedin.com/jobs/view/4452858766) |
+| General Dynamics Electric Boat | Junior Software Developer | New London County, CT | 2026-08-19 | [Link](https://www.linkedin.com/jobs/view/4454299053) |
 | CACI | Entry Level Software Engineer | Annapolis Junction, MD | 2026-08-18 | [Link](https://jobs.smartrecruiters.com/NextCenturyCorporation/106031601) |
 | Charta Health | Software Engineer New Grad | NYC | 2026-08-18 | [Link](https://jobs.ashbyhq.com/chartahealth/9403a4cc-1bac-4798-9d82-be31ba8b42a0/application?embed=true) |
 | Nexthop.ai | Software Engineer New Grad | Santa Clara, CA | 2026-08-18 | [Link](https://nexthopai.bamboohr.com/careers/24/) |
@@ -55,30 +55,27 @@ Showing **US** postings, newest first.
 | ByteDance | Backend Software Engineer Graduate (Platform) - 2027 Start | San Jose, CA | 2026-08-18 | [Link](https://www.linkedin.com/jobs/view/4448135804) |
 | Charta Health | Software Engineer, New Grad | San Francisco, CA | 2026-08-18 | [Link](https://www.linkedin.com/jobs/view/4452563402) |
 | ByteDance | Backend Software Engineer Graduate (Platform) - 2027 Start | New York, United States | 2026-08-18 | [Link](https://www.linkedin.com/jobs/view/4448124963) |
-| USAN, Inc. | Entry Level Software Engineer - Hybrid - Norcross, GA | Norcross, GA | 2026-08-18 | [Link](https://www.linkedin.com/jobs/view/4455531962) |
-| TikTok | Software Engineer Graduate (Foundation Platform) - 2027 Start | San Jose, CA | 2026-08-18 | [Link](https://www.linkedin.com/jobs/view/4452901177) |
-| TikTok | Software Engineer Graduate (Global E-commerce-Search) - 2027 Start | Seattle, WA | 2026-08-18 | [Link](https://www.linkedin.com/jobs/view/4449977475) |
-| State Street | Software Engineer, CRD- New Graduate | Burlington, MA | 2026-08-18 | [Link](https://www.linkedin.com/jobs/view/4455769746) |
+| Eccalon, LLC | Junior Software Engineer - onsite | Detroit, MI | 2026-08-18 | [Link](https://www.linkedin.com/jobs/view/4417513151) |
+| Revature | Entry Level Software Developer | Syracuse, NY | 2026-08-18 | [Link](https://www.linkedin.com/jobs/view/4454703695) |
+| SAIC | Junior Software Developer | Huntsville, AL | 2026-08-18 | [Link](https://www.linkedin.com/jobs/view/4455702191) |
+| Veeva Systems | Associate Software Engineer - 2027 Start Dates | Pleasanton, CA | 2026-08-18 | [Link](https://www.linkedin.com/jobs/view/4454704486) |
 | Symbotic | New Grad- Software Engineer | Wilmington, MA | 2026-08-18 | [Link](https://www.linkedin.com/jobs/view/4446140930) |
-| Vanguard | Entry Level Application Engineer - 2027 Start Date - Malvern | Malvern, PA | 2026-08-18 | [Link](https://www.linkedin.com/jobs/view/4455562795) |
-| Vanguard | Entry Level Application Engineer - 2027 Start Date | Charlotte, NC | 2026-08-18 | [Link](https://www.linkedin.com/jobs/view/4455558801) |
+| ByteDance | Software Development Engineer Graduate (Intent-Based Networking) - 2027 Start | San Jose, CA | 2026-08-18 | [Link](https://www.linkedin.com/jobs/view/4450794697) |
 | Haystack | Junior Software Engineer | Alabama, United States | 2026-08-18 | [Link](https://www.linkedin.com/jobs/view/4454496385) |
 | Leidos | Junior Software Engineer | Huntsville, AL | 2026-08-18 | [Link](https://www.linkedin.com/jobs/view/4455524933) |
-| Eccalon, LLC | Junior Software Engineer - onsite | Detroit, MI | 2026-08-18 | [Link](https://www.linkedin.com/jobs/view/4417513151) |
 | ECS | Junior Software Engineer | Springfield, VA | 2026-08-18 | [Link](https://www.linkedin.com/jobs/view/4446119228) |
 | Charta Health | Software Engineer, New Grad | New York, NY | 2026-08-18 | [Link](https://www.linkedin.com/jobs/view/4452543585) |
-| Haystack | Junior Software Engineer | Huntsville, AL | 2026-08-18 | [Link](https://www.linkedin.com/jobs/view/4454491409) |
-| SAIC | Junior Software Developer | Huntsville, AL | 2026-08-18 | [Link](https://www.linkedin.com/jobs/view/4455702191) |
+| Haystack | Junior Software Engineer | Huntsville, AL | 2026-08-18 | [Link](https://www.linkedin.com/jobs/view/4454497332) |
 | General Matter | Software Engineer (New Grad) | Los Angeles, CA | 2026-08-18 | [Link](https://www.linkedin.com/jobs/view/4455774216) |
-| Revature | Entry Level Software Developer | Syracuse, NY | 2026-08-18 | [Link](https://www.linkedin.com/jobs/view/4454703695) |
+| Vanguard | Entry Level Application Engineer - 2027 Start Date - Malvern | Malvern, PA | 2026-08-18 | [Link](https://www.linkedin.com/jobs/view/4455562795) |
 | TikTok | Backend Software Engineer Graduate (Global E-commerce) - 2027 Start | Seattle, WA | 2026-08-18 | [Link](https://www.linkedin.com/jobs/view/4448291147) |
 | TikTok | Backend Engineer Graduate (User Growth) - 2027 Start | San Jose, CA | 2026-08-18 | [Link](https://www.linkedin.com/jobs/view/4448295048) |
+| TikTok | Software Engineer Graduate (Global E-commerce-Search) - 2027 Start | Seattle, WA | 2026-08-18 | [Link](https://www.linkedin.com/jobs/view/4449977475) |
 | Vanguard | Application Engineer - 2027 Start Date | Charlotte, NC | 2026-08-17 | [Link](https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Charlotte-NC/Entry-Level-Application-Engineer----2027-Start-Date_180412) |
-| Honeywell Technologies | Software Engineer I | Richmond, VA | 2026-08-17 | [Link](https://www.linkedin.com/jobs/view/4455344445) |
-| Eagle Eye Networks | Software Engineer- NEW GRAD | Bethesda, MD | 2026-08-17 | [Link](https://www.linkedin.com/jobs/view/4455362030) |
 | San Diego Blood Bank | Software Engineer I | San Diego, CA | 2026-08-17 | [Link](https://www.linkedin.com/jobs/view/4455541325) |
-| General Dynamics Electric Boat | Junior Software Developer | New London County, CT | 2026-08-17 | [Link](https://www.linkedin.com/jobs/view/4454299053) |
+| Honeywell Technologies | Software Engineer I | Richmond, VA | 2026-08-17 | [Link](https://www.linkedin.com/jobs/view/4455344445) |
 | Zettabyte | Software Engineer (New Grad) | Palo Alto, CA | 2026-08-16 | [Link](https://www.linkedin.com/jobs/view/4399493417) |
+| Varsity Brands | Software Engineer - Early Career | Farmers Branch, TX | 2026-08-16 | [Link](https://www.linkedin.com/jobs/view/4403643287) |
 | Applied Intuition | Software Engineer New Grad - December 2026 | Ann Arbor, MI; Sunnyvale, CA | 2026-08-15 | [Link](https://jobs.ashbyhq.com/applied/a837cbd6-9fe4-4d74-a2dc-84f602c40694/application?embed=true) |
 | Applied Intuition | Research Engineer New Grad | Sunnyvale, CA | 2026-08-15 | [Link](https://jobs.ashbyhq.com/applied/45fc41cd-8280-4010-ba1f-def6114b3e39/application?embed=true) |
 | Applied Intuition | Software Integration Engineer New Grad | Sunnyvale, CA | 2026-08-15 | [Link](https://jobs.ashbyhq.com/applied/250080bd-10a8-4e5f-82b8-506029292d19/application?embed=true) |
@@ -121,7 +118,6 @@ Showing **US** postings, newest first.
 | LPL Financial Holdings | Data Engineering New Grad | Austin, TX; Fort Mill, SC | 2026-08-10 | [Link](https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/New-Grad---2027---Data-Engineering_R-052493-1) |
 | Cox Automotive | Entry Level Software Engineer | Carmel, IN | 2026-08-10 | [Link](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Carmel-IN/Entry-Level-Software-Engineer-Carmel--IN_R202680859) |
 | Micron Technology | IT Software Support Engineer New Grad | Boise, ID | 2026-08-10 | [Link](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---ID1/New-College-Grad---IT-Software-Support-Engineer_JR108465) |
-| Micron Technology | Electrical Engineer New Grad - DRAM Design Engineering | Boise, ID | 2026-08-10 | [Link](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---DRAM-Design-Engineer_JR107861) |
 | Blue Origin | Software Development Engineer 1 - Early Career | Seattle, WA | 2026-08-10 | [Link](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Software-Development-Engineer-I---Early-Career--2026-Starts-_R70051) |
 | Blue Origin | Avionics / Embedded Software Engineer 1 - Early Career | LA; Kent, WA | 2026-08-10 | [Link](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Avionics---Embedded-Software-Engineer-I---Early-Career--2026-Starts-_R70055) |
 | ByteDance | Software Engineer Graduate - AML Engine Orchestration - 2027 Start | San Jose, CA | 2026-08-10 | [Link](https://jobs.bytedance.com/en/position/7671148355447343365/detail) |
@@ -220,7 +216,6 @@ Showing **US** postings, newest first.
 | Citadel | Software Engineer – University Graduate | Greenwich, CT; Houston, TX | 2026-07-06 | [Link](https://www.citadel.com/careers/details/software-engineer-university-graduate-us/) |
 | Sandisk | Field Application Engineer New Grad | Milpitas, CA | 2026-07-06 | [Link](https://jobs.smartrecruiters.com/Sandisk/744000136097669) |
 | Headlands Tech Holdings | Research Developer New Grad | Chicago, IL; NYC | 2026-07-05 | [Link](https://job-boards.greenhouse.io/headlandstechnologiesllc/jobs/4227566009) |
-| Ciena | Digital Verification Engineer New Grad | Rochester, NY | 2026-07-04 | [Link](https://ciena.wd5.myworkdayjobs.com/Careers/job/US--NY--Pittsford--1250-Pittsford-Victor-Road-Rochester/Digital-Verification-Engineer_R029443) |
 | CACI | Junior Software Engineer | Springfield, VA; St. Louis, MO | 2026-07-02 | [Link](https://caci.wd1.myworkdayjobs.com/external/job/Denver-CO-US/Junior-Software-Engineer_327867) |
 | Applied Materials | Early Career - Installation Team Field Service Engineer | Boise, ID; Phoenix, AZ | 2026-07-02 | [Link](https://amat.wd1.myworkdayjobs.com/External/job/BoiseID/Applied-Early-Career---Installation-Team-Field-Service-Engineer_R2622705) |
 | Confido | Software Engineer New Grad | NYC | 2026-07-01 | [Link](https://jobs.ashbyhq.com/confido/69c0e572-b2f4-442f-beb8-1240155c629e/application) |
