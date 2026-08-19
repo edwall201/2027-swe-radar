@@ -36,6 +36,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4454987944",
+    "company": "Revature",
+    "title": "Entry Level Software Developer",
+    "locations": [
+      "Syracuse, NY"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4454987944",
+    "sponsorship": "",
+    "posted": "2026-08-19",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4456177660",
     "company": "Collins Aerospace",
     "title": "Software Engineer I - Aircraft Interiors (ONSITE)",
@@ -48,13 +60,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4454299053",
-    "company": "General Dynamics Electric Boat",
-    "title": "Junior Software Developer",
+    "id": "linkedin-4456197619",
+    "company": "Haystack",
+    "title": "Junior Software Engineer",
     "locations": [
-      "New London County, CT"
+      "Huntsville, AL"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4454299053",
+    "url": "https://www.linkedin.com/jobs/view/4456197619",
     "sponsorship": "",
     "posted": "2026-08-19",
     "source": "LinkedIn"
@@ -67,6 +79,18 @@
       "McKinney, TX"
     ],
     "url": "https://www.linkedin.com/jobs/view/4456178586",
+    "sponsorship": "",
+    "posted": "2026-08-19",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4437862008",
+    "company": "Nscale",
+    "title": "Systems Engineer - Early Career",
+    "locations": [
+      "Bellevue, WA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4437862008",
     "sponsorship": "",
     "posted": "2026-08-19",
     "source": "LinkedIn"
@@ -181,6 +205,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4455774216",
+    "company": "General Matter",
+    "title": "Software Engineer (New Grad)",
+    "locations": [
+      "Los Angeles, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4455774216",
+    "sponsorship": "",
+    "posted": "2026-08-18",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4448129838",
     "company": "ByteDance",
     "title": "Software Engineer Graduate (AI Infrastructure-Compute Efficiency & Scheduling) - 2027 Start",
@@ -217,18 +253,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4455774216",
-    "company": "General Matter",
-    "title": "Software Engineer (New Grad)",
-    "locations": [
-      "Los Angeles, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4455774216",
-    "sponsorship": "",
-    "posted": "2026-08-18",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4448124963",
     "company": "ByteDance",
     "title": "Backend Software Engineer Graduate (Platform) - 2027 Start",
@@ -253,18 +277,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4454703695",
-    "company": "Revature",
-    "title": "Entry Level Software Developer",
-    "locations": [
-      "Syracuse, NY"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4454703695",
-    "sponsorship": "",
-    "posted": "2026-08-18",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4455702191",
     "company": "SAIC",
     "title": "Junior Software Developer",
@@ -272,6 +284,18 @@
       "Huntsville, AL"
     ],
     "url": "https://www.linkedin.com/jobs/view/4455702191",
+    "sponsorship": "",
+    "posted": "2026-08-18",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4454703447",
+    "company": "Veeva Systems",
+    "title": "Associate Software Engineer - 2027 Start Dates",
+    "locations": [
+      "Columbus, OH"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4454703447",
     "sponsorship": "",
     "posted": "2026-08-18",
     "source": "LinkedIn"
@@ -301,25 +325,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4455524933",
-    "company": "Leidos",
-    "title": "Junior Software Engineer",
+    "id": "linkedin-4442893738",
+    "company": "Rocket",
+    "title": "Software Engineer I",
     "locations": [
-      "Huntsville, AL"
+      "Detroit, MI"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4455524933",
-    "sponsorship": "",
-    "posted": "2026-08-18",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4446119228",
-    "company": "ECS",
-    "title": "Junior Software Engineer",
-    "locations": [
-      "Springfield, VA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4446119228",
+    "url": "https://www.linkedin.com/jobs/view/4442893738",
     "sponsorship": "",
     "posted": "2026-08-18",
     "source": "LinkedIn"
@@ -332,6 +344,18 @@
       "New York, NY"
     ],
     "url": "https://www.linkedin.com/jobs/view/4452543585",
+    "sponsorship": "",
+    "posted": "2026-08-18",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4455935861",
+    "company": "Prescient Edge",
+    "title": "Junior Software Developer",
+    "locations": [
+      "McLean, VA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4455935861",
     "sponsorship": "",
     "posted": "2026-08-18",
     "source": "LinkedIn"
@@ -356,6 +380,42 @@
       "Seattle, WA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4448291147",
+    "sponsorship": "",
+    "posted": "2026-08-18",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4448295048",
+    "company": "TikTok",
+    "title": "Backend Engineer Graduate (User Growth) - 2027 Start",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4448295048",
+    "sponsorship": "",
+    "posted": "2026-08-18",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4449977475",
+    "company": "TikTok",
+    "title": "Software Engineer Graduate (Global E-commerce-Search) - 2027 Start",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4449977475",
+    "sponsorship": "",
+    "posted": "2026-08-18",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4446140930",
+    "company": "Symbotic",
+    "title": "New Grad- Software Engineer",
+    "locations": [
+      "Wilmington, MA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4446140930",
     "sponsorship": "",
     "posted": "2026-08-18",
     "source": "LinkedIn"
@@ -394,30 +454,6 @@
     "url": "https://www.linkedin.com/jobs/view/4455344445",
     "sponsorship": "",
     "posted": "2026-08-17",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4452502290",
-    "company": "CACI International Inc",
-    "title": "Software Engineer - Early Career - Cloud",
-    "locations": [
-      "Hanover, MD"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4452502290",
-    "sponsorship": "",
-    "posted": "2026-08-17",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4399493417",
-    "company": "Zettabyte",
-    "title": "Software Engineer (New Grad)",
-    "locations": [
-      "Palo Alto, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4399493417",
-    "sponsorship": "",
-    "posted": "2026-08-16",
     "source": "LinkedIn"
   },
   {
@@ -2887,19 +2923,6 @@
     "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Junior-Software-Developer--Active-TS-SCI-with-Poly-Required-_RQ212931",
     "sponsorship": "Other",
     "posted": "2026-01-13",
-    "source": "SimplifyJobs"
-  },
-  {
-    "id": "simplify-279e7051-e541-4865-b50d-cd10a4f29571",
-    "company": "Oklo",
-    "title": "Junior Software Engineer",
-    "locations": [
-      "Santa Clara, CA",
-      "Remote in USA"
-    ],
-    "url": "https://job-boards.greenhouse.io/oklo/jobs/5739861004",
-    "sponsorship": "Other",
-    "posted": "2025-12-22",
     "source": "SimplifyJobs"
   },
   {
