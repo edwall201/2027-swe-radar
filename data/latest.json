@@ -12,13 +12,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4455991970",
-    "company": "Forerunner",
-    "title": "Software Engineer, Early Career",
+    "id": "linkedin-4434143445",
+    "company": "Palantir Technologies",
+    "title": "Software Engineer, New Grad - Defense",
     "locations": [
-      "San Francisco, CA"
+      "New York, NY"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4455991970",
+    "url": "https://www.linkedin.com/jobs/view/4434143445",
     "sponsorship": "",
     "posted": "2026-08-19",
     "source": "LinkedIn"
@@ -48,13 +48,25 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4456177660",
-    "company": "Collins Aerospace",
-    "title": "Software Engineer I - Aircraft Interiors (ONSITE)",
+    "id": "linkedin-4434145450",
+    "company": "Palantir Technologies",
+    "title": "Software Engineer, New Grad - Production Infrastructure",
     "locations": [
-      "Jamestown, ND"
+      "New York, NY"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4456177660",
+    "url": "https://www.linkedin.com/jobs/view/4434145450",
+    "sponsorship": "",
+    "posted": "2026-08-19",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4455402819",
+    "company": "SHIFT IT CONSULTING",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "New York, United States"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4455402819",
     "sponsorship": "",
     "posted": "2026-08-19",
     "source": "LinkedIn"
@@ -84,13 +96,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4437862008",
-    "company": "Nscale",
-    "title": "Systems Engineer - Early Career",
+    "id": "linkedin-4456177660",
+    "company": "Collins Aerospace",
+    "title": "Software Engineer I - Aircraft Interiors (ONSITE)",
     "locations": [
-      "Bellevue, WA"
+      "Jamestown, ND"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4437862008",
+    "url": "https://www.linkedin.com/jobs/view/4456177660",
     "sponsorship": "",
     "posted": "2026-08-19",
     "source": "LinkedIn"
@@ -241,6 +253,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4448277614",
+    "company": "TikTok",
+    "title": "Backend Software Engineer Graduate (TikTok-PGC-Digital Content Center) - 2027 Start",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4448277614",
+    "sponsorship": "",
+    "posted": "2026-08-18",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4452563402",
     "company": "Charta Health",
     "title": "Software Engineer, New Grad",
@@ -325,18 +349,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4442893738",
-    "company": "Rocket",
-    "title": "Software Engineer I",
-    "locations": [
-      "Detroit, MI"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4442893738",
-    "sponsorship": "",
-    "posted": "2026-08-18",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4452543585",
     "company": "Charta Health",
     "title": "Software Engineer, New Grad",
@@ -344,6 +356,18 @@
       "New York, NY"
     ],
     "url": "https://www.linkedin.com/jobs/view/4452543585",
+    "sponsorship": "",
+    "posted": "2026-08-18",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4442893738",
+    "company": "Rocket",
+    "title": "Software Engineer I",
+    "locations": [
+      "Detroit, MI"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4442893738",
     "sponsorship": "",
     "posted": "2026-08-18",
     "source": "LinkedIn"
@@ -385,13 +409,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4448295048",
+    "id": "linkedin-4452901177",
     "company": "TikTok",
-    "title": "Backend Engineer Graduate (User Growth) - 2027 Start",
+    "title": "Software Engineer Graduate (Foundation Platform) - 2027 Start",
     "locations": [
       "San Jose, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4448295048",
+    "url": "https://www.linkedin.com/jobs/view/4452901177",
     "sponsorship": "",
     "posted": "2026-08-18",
     "source": "LinkedIn"
@@ -404,6 +428,42 @@
       "Seattle, WA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4449977475",
+    "sponsorship": "",
+    "posted": "2026-08-18",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4455531962",
+    "company": "USAN, Inc.",
+    "title": "Entry Level Software Engineer - Hybrid - Norcross, GA",
+    "locations": [
+      "Norcross, GA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4455531962",
+    "sponsorship": "",
+    "posted": "2026-08-18",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4445472899",
+    "company": "Jobot",
+    "title": "Hybrid Junior Software Engineer | Full Stack/ Clearable",
+    "locations": [
+      "Manassas, VA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4445472899",
+    "sponsorship": "",
+    "posted": "2026-08-18",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4448295048",
+    "company": "TikTok",
+    "title": "Backend Engineer Graduate (User Growth) - 2027 Start",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4448295048",
     "sponsorship": "",
     "posted": "2026-08-18",
     "source": "LinkedIn"
