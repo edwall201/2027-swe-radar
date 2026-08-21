@@ -1,12 +1,12 @@
 [
   {
-    "id": "linkedin-4457069280",
-    "company": "CGI",
-    "title": "Junior Software Engineer",
+    "id": "linkedin-4457047359",
+    "company": "Deloitte",
+    "title": "Agentic Software Engineer III",
     "locations": [
-      "Greenville, SC"
+      "Fresno, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4457069280",
+    "url": "https://www.linkedin.com/jobs/view/4457047359",
     "sponsorship": "",
     "posted": "2026-08-21",
     "source": "LinkedIn"
@@ -19,6 +19,18 @@
       "Huntsville, AL"
     ],
     "url": "https://www.linkedin.com/jobs/view/4457073352",
+    "sponsorship": "",
+    "posted": "2026-08-21",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4457069280",
+    "company": "CGI",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "Greenville, SC"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4457069280",
     "sponsorship": "",
     "posted": "2026-08-21",
     "source": "LinkedIn"
@@ -48,37 +60,13 @@
     "source": "Greenhouse"
   },
   {
-    "id": "linkedin-4446745306",
-    "company": "Nooks",
+    "id": "linkedin-4434138603",
+    "company": "Palantir Technologies",
     "title": "Software Engineer, New Grad",
     "locations": [
-      "San Francisco, CA"
+      "New York, NY"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4446745306",
-    "sponsorship": "",
-    "posted": "2026-08-20",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4457015235",
-    "company": "Raytheon",
-    "title": "Software Engineer I -(Onsite)",
-    "locations": [
-      "Fort Wayne, IN"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4457015235",
-    "sponsorship": "",
-    "posted": "2026-08-20",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4456768761",
-    "company": "TD",
-    "title": "Software Engineer II (US)",
-    "locations": [
-      "Mount Laurel, NJ"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4456768761",
+    "url": "https://www.linkedin.com/jobs/view/4434138603",
     "sponsorship": "",
     "posted": "2026-08-20",
     "source": "LinkedIn"
@@ -96,13 +84,37 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4434138603",
-    "company": "Palantir Technologies",
-    "title": "Software Engineer, New Grad",
+    "id": "linkedin-4317707969",
+    "company": "Nuro",
+    "title": "Software Engineer, AI Platform - New Grad",
     "locations": [
-      "New York, NY"
+      "Mountain View, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4434138603",
+    "url": "https://www.linkedin.com/jobs/view/4317707969",
+    "sponsorship": "",
+    "posted": "2026-08-20",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4455680415",
+    "company": "Revature",
+    "title": "Entry Level Software Developer",
+    "locations": [
+      "Syracuse, NY"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4455680415",
+    "sponsorship": "",
+    "posted": "2026-08-20",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4457015235",
+    "company": "Raytheon",
+    "title": "Software Engineer I -(Onsite)",
+    "locations": [
+      "Fort Wayne, IN"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4457015235",
     "sponsorship": "",
     "posted": "2026-08-20",
     "source": "LinkedIn"
@@ -120,37 +132,25 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4435609225",
-    "company": "BAE Systems, Inc.",
-    "title": "Entry Level Software Engineer",
-    "locations": [
-      "Hudson, NH"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4435609225",
-    "sponsorship": "",
-    "posted": "2026-08-20",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4438292999",
-    "company": "Confido",
-    "title": "New Grad Software Engineer",
+    "id": "linkedin-4443430086",
+    "company": "Traba",
+    "title": "Software Engineer (New Grad)",
     "locations": [
       "New York, NY"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4438292999",
+    "url": "https://www.linkedin.com/jobs/view/4443430086",
     "sponsorship": "",
     "posted": "2026-08-20",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4437856254",
-    "company": "Nscale",
-    "title": "Systems Engineer - Early Career",
+    "id": "linkedin-4446745306",
+    "company": "Nooks",
+    "title": "Software Engineer, New Grad",
     "locations": [
-      "Seattle, WA"
+      "San Francisco, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4437856254",
+    "url": "https://www.linkedin.com/jobs/view/4446745306",
     "sponsorship": "",
     "posted": "2026-08-20",
     "source": "LinkedIn"
@@ -232,78 +232,6 @@
     "source": "SimplifyJobs"
   },
   {
-    "id": "linkedin-4452864525",
-    "company": "Koah",
-    "title": "Software Engineer, Early Career",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4452864525",
-    "sponsorship": "",
-    "posted": "2026-08-19",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4434149314",
-    "company": "Palantir Technologies",
-    "title": "Software Engineer, New Grad - Infrastructure",
-    "locations": [
-      "Palo Alto, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4434149314",
-    "sponsorship": "",
-    "posted": "2026-08-19",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4456178586",
-    "company": "Raytheon",
-    "title": "Software Engineer I (Onsite)",
-    "locations": [
-      "McKinney, TX"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4456178586",
-    "sponsorship": "",
-    "posted": "2026-08-19",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4455453920",
-    "company": "Freeform",
-    "title": "Software Engineer (New Grad Summer 2027)",
-    "locations": [
-      "Los Angeles, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4455453920",
-    "sponsorship": "",
-    "posted": "2026-08-19",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4456396402",
-    "company": "Point72",
-    "title": "2027 Cubist Quant Academy \u2013 Developers",
-    "locations": [
-      "New York, United States"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4456396402",
-    "sponsorship": "",
-    "posted": "2026-08-19",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4455454263",
-    "company": "Tokenworks Inc",
-    "title": "Junior Software Developer",
-    "locations": [
-      "Bronxville, NY"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4455454263",
-    "sponsorship": "",
-    "posted": "2026-08-19",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4455423214",
     "company": "General Dynamics Mission Systems",
     "title": "Entry Level Software Engineer",
@@ -316,25 +244,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4453495056",
-    "company": "IBM",
-    "title": "Entry Level Software Developer 2027",
+    "id": "linkedin-4455454263",
+    "company": "Tokenworks Inc",
+    "title": "Junior Software Developer",
     "locations": [
-      "Poughkeepsie, AR"
+      "Bronxville, NY"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4453495056",
-    "sponsorship": "",
-    "posted": "2026-08-19",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4456197619",
-    "company": "Haystack",
-    "title": "Junior Software Engineer",
-    "locations": [
-      "Huntsville, AL"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4456197619",
+    "url": "https://www.linkedin.com/jobs/view/4455454263",
     "sponsorship": "",
     "posted": "2026-08-19",
     "source": "LinkedIn"
@@ -364,6 +280,30 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4453495056",
+    "company": "IBM",
+    "title": "Entry Level Software Developer 2027",
+    "locations": [
+      "Poughkeepsie, AR"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4453495056",
+    "sponsorship": "",
+    "posted": "2026-08-19",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4456197619",
+    "company": "Haystack",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "Huntsville, AL"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4456197619",
+    "sponsorship": "",
+    "posted": "2026-08-19",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4434136634",
     "company": "Palantir Technologies",
     "title": "Software Engineer, New Grad",
@@ -376,13 +316,49 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4450838428",
-    "company": "Seagate Technology",
-    "title": "Systems Engineer - Early Career",
+    "id": "linkedin-4453489109",
+    "company": "IBM",
+    "title": "Entry Level Software Developer 2027",
     "locations": [
-      "Longmont, CO"
+      "Durham, NC"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4450838428",
+    "url": "https://www.linkedin.com/jobs/view/4453489109",
+    "sponsorship": "",
+    "posted": "2026-08-19",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4456373787",
+    "company": "SpaceX",
+    "title": "New Graduate Engineer, Software (Application Software)",
+    "locations": [
+      "Hawthorne, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4456373787",
+    "sponsorship": "",
+    "posted": "2026-08-19",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4434143445",
+    "company": "Palantir Technologies",
+    "title": "Software Engineer, New Grad - Defense",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4434143445",
+    "sponsorship": "",
+    "posted": "2026-08-19",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4455453920",
+    "company": "Freeform",
+    "title": "Software Engineer (New Grad Summer 2027)",
+    "locations": [
+      "Los Angeles, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4455453920",
     "sponsorship": "",
     "posted": "2026-08-19",
     "source": "LinkedIn"
@@ -473,42 +449,6 @@
     "source": "SimplifyJobs"
   },
   {
-    "id": "linkedin-4437461678",
-    "company": "Notion",
-    "title": "Software Engineer, Early Career",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4437461678",
-    "sponsorship": "",
-    "posted": "2026-08-18",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4450794697",
-    "company": "ByteDance",
-    "title": "Software Development Engineer Graduate (Intent-Based Networking) - 2027 Start",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4450794697",
-    "sponsorship": "",
-    "posted": "2026-08-18",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4454703447",
-    "company": "Veeva Systems",
-    "title": "Associate Software Engineer - 2027 Start Dates",
-    "locations": [
-      "Columbus, OH"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4454703447",
-    "sponsorship": "",
-    "posted": "2026-08-18",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4452901177",
     "company": "TikTok",
     "title": "Software Engineer Graduate (Foundation Platform) - 2027 Start",
@@ -516,54 +456,6 @@
       "San Jose, CA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4452901177",
-    "sponsorship": "",
-    "posted": "2026-08-18",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4445472899",
-    "company": "Jobot",
-    "title": "Hybrid Junior Software Engineer | Full Stack/ Clearable",
-    "locations": [
-      "Manassas, VA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4445472899",
-    "sponsorship": "",
-    "posted": "2026-08-18",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4452563402",
-    "company": "Charta Health",
-    "title": "Software Engineer, New Grad",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4452563402",
-    "sponsorship": "",
-    "posted": "2026-08-18",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4452543585",
-    "company": "Charta Health",
-    "title": "Software Engineer, New Grad",
-    "locations": [
-      "New York, NY"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4452543585",
-    "sponsorship": "",
-    "posted": "2026-08-18",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4448135804",
-    "company": "ByteDance",
-    "title": "Backend Software Engineer Graduate (Platform) - 2027 Start",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4448135804",
     "sponsorship": "",
     "posted": "2026-08-18",
     "source": "LinkedIn"
@@ -581,13 +473,85 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4454704486",
+    "id": "linkedin-4445472899",
+    "company": "Jobot",
+    "title": "Hybrid Junior Software Engineer | Full Stack/ Clearable",
+    "locations": [
+      "Manassas, VA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4445472899",
+    "sponsorship": "",
+    "posted": "2026-08-18",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4448129838",
+    "company": "ByteDance",
+    "title": "Software Engineer Graduate (AI Infrastructure-Compute Efficiency & Scheduling) - 2027 Start",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4448129838",
+    "sponsorship": "",
+    "posted": "2026-08-18",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4454703447",
     "company": "Veeva Systems",
     "title": "Associate Software Engineer - 2027 Start Dates",
     "locations": [
-      "Pleasanton, CA"
+      "Columbus, OH"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4454704486",
+    "url": "https://www.linkedin.com/jobs/view/4454703447",
+    "sponsorship": "",
+    "posted": "2026-08-18",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4454489584",
+    "company": "Veeva Systems",
+    "title": "Associate Software Engineer - 2027 Start Dates",
+    "locations": [
+      "Boston, MA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4454489584",
+    "sponsorship": "",
+    "posted": "2026-08-18",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4447912196",
+    "company": "TikTok",
+    "title": "Software Engineer Graduate (Business Integrity) - 2027 Start",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4447912196",
+    "sponsorship": "",
+    "posted": "2026-08-18",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4448135804",
+    "company": "ByteDance",
+    "title": "Backend Software Engineer Graduate (Platform) - 2027 Start",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4448135804",
+    "sponsorship": "",
+    "posted": "2026-08-18",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4450794697",
+    "company": "ByteDance",
+    "title": "Software Development Engineer Graduate (Intent-Based Networking) - 2027 Start",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4450794697",
     "sponsorship": "",
     "posted": "2026-08-18",
     "source": "LinkedIn"
@@ -617,25 +581,61 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4432862311",
-    "company": "SkillStorm",
-    "title": "Entry Level Software Developer",
+    "id": "linkedin-4454704486",
+    "company": "Veeva Systems",
+    "title": "Associate Software Engineer - 2027 Start Dates",
     "locations": [
-      "San Antonio, TX"
+      "Pleasanton, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4432862311",
+    "url": "https://www.linkedin.com/jobs/view/4454704486",
     "sponsorship": "",
     "posted": "2026-08-18",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4443552824",
-    "company": "DCS Corp",
-    "title": "Junior Software Engineer",
+    "id": "linkedin-4446140930",
+    "company": "Symbotic",
+    "title": "New Grad- Software Engineer",
     "locations": [
-      "Dayton, OH"
+      "Wilmington, MA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4443552824",
+    "url": "https://www.linkedin.com/jobs/view/4446140930",
+    "sponsorship": "",
+    "posted": "2026-08-18",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4455935861",
+    "company": "Prescient Edge",
+    "title": "Junior Software Developer",
+    "locations": [
+      "McLean, VA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4455935861",
+    "sponsorship": "",
+    "posted": "2026-08-18",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4452446547",
+    "company": "ByteDance",
+    "title": "Software Engineer Graduate (AML-Engine-Orchestration) - 2027 Start",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4452446547",
+    "sponsorship": "",
+    "posted": "2026-08-18",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4448295048",
+    "company": "TikTok",
+    "title": "Backend Engineer Graduate (User Growth) - 2027 Start",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4448295048",
     "sponsorship": "",
     "posted": "2026-08-18",
     "source": "LinkedIn"
