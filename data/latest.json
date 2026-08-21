@@ -1,12 +1,24 @@
 [
   {
-    "id": "linkedin-4457355110",
-    "company": "Mercury Insurance",
-    "title": "Software Engineer I",
+    "id": "simplify-eb3814c7-6fd3-4e58-852c-6cc00005cf9a",
+    "company": "Susquehanna International Group",
+    "title": "Trading System Engineer New Grad",
     "locations": [
-      "Brea, CA"
+      "Bala Cynwyd, PA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4457355110",
+    "url": "https://careers-sig.icims.com/jobs/11349/job?mobile=true&needsRedirect=false",
+    "sponsorship": "Other",
+    "posted": "2026-08-21",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "linkedin-4454129125",
+    "company": "BeaconFire Inc.",
+    "title": "Entry-Level / Junior Software Developer Opportunity",
+    "locations": [
+      "New Jersey, United States"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4454129125",
     "sponsorship": "",
     "posted": "2026-08-21",
     "source": "LinkedIn"
@@ -48,25 +60,25 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4457073352",
-    "company": "SAIC",
-    "title": "Junior Software Engineer",
+    "id": "linkedin-4457355110",
+    "company": "Mercury Insurance",
+    "title": "Software Engineer I",
     "locations": [
-      "Huntsville, AL"
+      "Brea, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4457073352",
+    "url": "https://www.linkedin.com/jobs/view/4457355110",
     "sponsorship": "",
     "posted": "2026-08-21",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4438537525",
-    "company": "Honeywell Aerospace",
-    "title": "Embedded Software Engineer I - Flight Mgmt Systems",
+    "id": "linkedin-4457330604",
+    "company": "Highlight",
+    "title": "Early Career Product Engineer",
     "locations": [
-      "Phoenix, AZ"
+      "San Francisco, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4438537525",
+    "url": "https://www.linkedin.com/jobs/view/4457330604",
     "sponsorship": "",
     "posted": "2026-08-21",
     "source": "LinkedIn"
@@ -120,25 +132,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4317707969",
-    "company": "Nuro",
-    "title": "Software Engineer, AI Platform - New Grad",
+    "id": "linkedin-4457015235",
+    "company": "Raytheon",
+    "title": "Software Engineer I -(Onsite)",
     "locations": [
-      "Mountain View, CA"
+      "Fort Wayne, IN"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4317707969",
-    "sponsorship": "",
-    "posted": "2026-08-20",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4438292999",
-    "company": "Confido",
-    "title": "New Grad Software Engineer",
-    "locations": [
-      "New York, NY"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4438292999",
+    "url": "https://www.linkedin.com/jobs/view/4457015235",
     "sponsorship": "",
     "posted": "2026-08-20",
     "source": "LinkedIn"
@@ -156,13 +156,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4457015235",
-    "company": "Raytheon",
-    "title": "Software Engineer I -(Onsite)",
+    "id": "linkedin-4438292999",
+    "company": "Confido",
+    "title": "New Grad Software Engineer",
     "locations": [
-      "Fort Wayne, IN"
+      "New York, NY"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4457015235",
+    "url": "https://www.linkedin.com/jobs/view/4438292999",
     "sponsorship": "",
     "posted": "2026-08-20",
     "source": "LinkedIn"
@@ -180,13 +180,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4455604092",
-    "company": "Base-2 Solutions",
-    "title": "Junior Software Engineer",
+    "id": "linkedin-4437856254",
+    "company": "Nscale",
+    "title": "Systems Engineer - Early Career",
     "locations": [
-      "Annapolis Junction, MD"
+      "Seattle, WA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4455604092",
+    "url": "https://www.linkedin.com/jobs/view/4437856254",
     "sponsorship": "",
     "posted": "2026-08-20",
     "source": "LinkedIn"
@@ -278,6 +278,30 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4455453920",
+    "company": "Freeform",
+    "title": "Software Engineer (New Grad Summer 2027)",
+    "locations": [
+      "Los Angeles, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4455453920",
+    "sponsorship": "",
+    "posted": "2026-08-19",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4455454263",
+    "company": "Tokenworks Inc",
+    "title": "Junior Software Developer",
+    "locations": [
+      "Bronxville, NY"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4455454263",
+    "sponsorship": "",
+    "posted": "2026-08-19",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4455423214",
     "company": "General Dynamics Mission Systems",
     "title": "Entry Level Software Engineer",
@@ -338,6 +362,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4446383629",
+    "company": "Yamaha Motor Corporation, USA",
+    "title": "Software Engineer I",
+    "locations": [
+      "Kennesaw, GA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4446383629",
+    "sponsorship": "",
+    "posted": "2026-08-19",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4453495056",
     "company": "IBM",
     "title": "Entry Level Software Developer 2027",
@@ -345,18 +381,6 @@
       "Poughkeepsie, AR"
     ],
     "url": "https://www.linkedin.com/jobs/view/4453495056",
-    "sponsorship": "",
-    "posted": "2026-08-19",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4455454263",
-    "company": "Tokenworks Inc",
-    "title": "Junior Software Developer",
-    "locations": [
-      "Bronxville, NY"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4455454263",
     "sponsorship": "",
     "posted": "2026-08-19",
     "source": "LinkedIn"
@@ -374,25 +398,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4434143445",
-    "company": "Palantir Technologies",
-    "title": "Software Engineer, New Grad - Defense",
+    "id": "linkedin-4437862008",
+    "company": "Nscale",
+    "title": "Systems Engineer - Early Career",
     "locations": [
-      "New York, NY"
+      "Bellevue, WA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4434143445",
-    "sponsorship": "",
-    "posted": "2026-08-19",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4456373787",
-    "company": "SpaceX",
-    "title": "New Graduate Engineer, Software (Application Software)",
-    "locations": [
-      "Hawthorne, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4456373787",
+    "url": "https://www.linkedin.com/jobs/view/4437862008",
     "sponsorship": "",
     "posted": "2026-08-19",
     "source": "LinkedIn"
@@ -405,18 +417,6 @@
       "Annapolis Junction, MD"
     ],
     "url": "https://jobs.smartrecruiters.com/NextCenturyCorporation/106031601",
-    "sponsorship": "Other",
-    "posted": "2026-08-18",
-    "source": "SimplifyJobs"
-  },
-  {
-    "id": "simplify-64052d4d-54da-4d7c-b3aa-b49f99dfb1a3",
-    "company": "Charta Health",
-    "title": "Software Engineer New Grad",
-    "locations": [
-      "NYC"
-    ],
-    "url": "https://jobs.ashbyhq.com/chartahealth/9403a4cc-1bac-4798-9d82-be31ba8b42a0/application?embed=true",
     "sponsorship": "Other",
     "posted": "2026-08-18",
     "source": "SimplifyJobs"
