@@ -13,6 +13,18 @@
     "source": "SimplifyJobs"
   },
   {
+    "id": "linkedin-4457535606",
+    "company": "H-E-B",
+    "title": "Software Engineer I -Digital Emerging Tech & Innovation (D - ETI Team) - San Antonio, Tx. or Austin, Tx.",
+    "locations": [
+      "San Antonio, TX"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4457535606",
+    "sponsorship": "",
+    "posted": "2026-08-22",
+    "source": "LinkedIn"
+  },
+  {
     "id": "simplify-eb3814c7-6fd3-4e58-852c-6cc00005cf9a",
     "company": "Susquehanna International Group",
     "title": "Trading System Engineer New Grad",
@@ -121,18 +133,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4456299517",
-    "company": "TSMC",
-    "title": "Software Engineer (New Graduate) - North America Software Center",
-    "locations": [
-      "Vancouver, WA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4456299517",
-    "sponsorship": "",
-    "posted": "2026-08-21",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4456218825",
     "company": "Revature",
     "title": "Entry Level Software Developer",
@@ -157,6 +157,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4457069280",
+    "company": "CGI",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "Greenville, SC"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4457069280",
+    "sponsorship": "",
+    "posted": "2026-08-21",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4454670030",
     "company": "BAE Systems, Inc.",
     "title": "Junior Software Engineer",
@@ -164,18 +176,6 @@
       "Greenlawn, NY"
     ],
     "url": "https://www.linkedin.com/jobs/view/4454670030",
-    "sponsorship": "",
-    "posted": "2026-08-21",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4457330604",
-    "company": "Highlight",
-    "title": "Early Career Product Engineer",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4457330604",
     "sponsorship": "",
     "posted": "2026-08-21",
     "source": "LinkedIn"
@@ -301,13 +301,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4453863874",
-    "company": "RedBalloon",
-    "title": "Junior Software Developer",
+    "id": "linkedin-4455562795",
+    "company": "Vanguard",
+    "title": "Entry Level Application Engineer - 2027 Start Date - Malvern",
     "locations": [
-      "Southern Pines, NC"
+      "Malvern, PA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4453863874",
+    "url": "https://www.linkedin.com/jobs/view/4455562795",
     "sponsorship": "",
     "posted": "2026-08-20",
     "source": "LinkedIn"
@@ -332,6 +332,18 @@
       "Hanover, MD"
     ],
     "url": "https://www.linkedin.com/jobs/view/4455498184",
+    "sponsorship": "",
+    "posted": "2026-08-20",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4444924825",
+    "company": "Raytheon",
+    "title": "Software Engineer I (Onsite)",
+    "locations": [
+      "Marlborough, MA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4444924825",
     "sponsorship": "",
     "posted": "2026-08-20",
     "source": "LinkedIn"
@@ -471,13 +483,25 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4453489109",
-    "company": "IBM",
-    "title": "Entry Level Software Developer 2027",
+    "id": "linkedin-4456178586",
+    "company": "Raytheon",
+    "title": "Software Engineer I (Onsite)",
     "locations": [
-      "Durham, NC"
+      "McKinney, TX"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4453489109",
+    "url": "https://www.linkedin.com/jobs/view/4456178586",
+    "sponsorship": "",
+    "posted": "2026-08-19",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4455466146",
+    "company": "LexisNexis",
+    "title": "Software Engineer I",
+    "locations": [
+      "Raleigh, NC"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4455466146",
     "sponsorship": "",
     "posted": "2026-08-19",
     "source": "LinkedIn"
@@ -507,18 +531,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4456363948",
-    "company": "John Galt Staffing",
-    "title": "Entry Level Software Engineer",
-    "locations": [
-      "Columbia, MD"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4456363948",
-    "sponsorship": "",
-    "posted": "2026-08-19",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4453495056",
     "company": "IBM",
     "title": "Entry Level Software Developer 2027",
@@ -526,6 +538,30 @@
       "Poughkeepsie, AR"
     ],
     "url": "https://www.linkedin.com/jobs/view/4453495056",
+    "sponsorship": "",
+    "posted": "2026-08-19",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4456177660",
+    "company": "Collins Aerospace",
+    "title": "Software Engineer I - Aircraft Interiors (ONSITE)",
+    "locations": [
+      "Jamestown, ND"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4456177660",
+    "sponsorship": "",
+    "posted": "2026-08-19",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4453489109",
+    "company": "IBM",
+    "title": "Entry Level Software Developer 2027",
+    "locations": [
+      "Durham, NC"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4453489109",
     "sponsorship": "",
     "posted": "2026-08-19",
     "source": "LinkedIn"
