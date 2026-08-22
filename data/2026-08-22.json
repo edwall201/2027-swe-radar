@@ -13,6 +13,30 @@
     "source": "SimplifyJobs"
   },
   {
+    "id": "linkedin-4447579049",
+    "company": "Mimecast",
+    "title": "Software Engineer I",
+    "locations": [
+      "Minneapolis, MN"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4447579049",
+    "sponsorship": "",
+    "posted": "2026-08-22",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4455025547",
+    "company": "Mediation Mastery",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "New York, United States"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4455025547",
+    "sponsorship": "",
+    "posted": "2026-08-22",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4457535606",
     "company": "H-E-B",
     "title": "Software Engineer I -Digital Emerging Tech & Innovation (D - ETI Team) - San Antonio, Tx. or Austin, Tx.",
@@ -97,13 +121,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4456299517",
-    "company": "TSMC",
-    "title": "Software Engineer (New Graduate) - North America Software Center",
+    "id": "linkedin-4457355110",
+    "company": "Mercury Insurance",
+    "title": "Software Engineer I",
     "locations": [
-      "Vancouver, WA"
+      "Brea, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4456299517",
+    "url": "https://www.linkedin.com/jobs/view/4457355110",
     "sponsorship": "",
     "posted": "2026-08-21",
     "source": "LinkedIn"
@@ -121,13 +145,37 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4457047359",
-    "company": "Deloitte",
-    "title": "Agentic Software Engineer III",
+    "id": "linkedin-4456218825",
+    "company": "Revature",
+    "title": "Entry Level Software Developer",
     "locations": [
-      "Fresno, CA"
+      "Syracuse, NY"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4457047359",
+    "url": "https://www.linkedin.com/jobs/view/4456218825",
+    "sponsorship": "",
+    "posted": "2026-08-21",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4457073352",
+    "company": "SAIC",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "Huntsville, AL"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4457073352",
+    "sponsorship": "",
+    "posted": "2026-08-21",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4456299517",
+    "company": "TSMC",
+    "title": "Software Engineer (New Graduate) - North America Software Center",
+    "locations": [
+      "Vancouver, WA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4456299517",
     "sponsorship": "",
     "posted": "2026-08-21",
     "source": "LinkedIn"
@@ -140,18 +188,6 @@
       "Greenville, SC"
     ],
     "url": "https://www.linkedin.com/jobs/view/4457069280",
-    "sponsorship": "",
-    "posted": "2026-08-21",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4456218825",
-    "company": "Revature",
-    "title": "Entry Level Software Developer",
-    "locations": [
-      "Syracuse, NY"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4456218825",
     "sponsorship": "",
     "posted": "2026-08-21",
     "source": "LinkedIn"
@@ -217,18 +253,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4438292999",
-    "company": "Confido",
-    "title": "New Grad Software Engineer",
-    "locations": [
-      "New York, NY"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4438292999",
-    "sponsorship": "",
-    "posted": "2026-08-20",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4434584642",
     "company": "Walmart",
     "title": "(USA) Software Engineer III",
@@ -253,49 +277,49 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4317707969",
-    "company": "Nuro",
-    "title": "Software Engineer, AI Platform - New Grad",
+    "id": "linkedin-4457015235",
+    "company": "Raytheon",
+    "title": "Software Engineer I -(Onsite)",
     "locations": [
-      "Mountain View, CA"
+      "Fort Wayne, IN"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4317707969",
+    "url": "https://www.linkedin.com/jobs/view/4457015235",
     "sponsorship": "",
     "posted": "2026-08-20",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4453863874",
-    "company": "RedBalloon",
-    "title": "Junior Software Developer",
+    "id": "linkedin-4438292999",
+    "company": "Confido",
+    "title": "New Grad Software Engineer",
     "locations": [
-      "Southern Pines, NC"
+      "New York, NY"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4453863874",
+    "url": "https://www.linkedin.com/jobs/view/4438292999",
     "sponsorship": "",
     "posted": "2026-08-20",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4455604092",
-    "company": "Base-2 Solutions",
-    "title": "Junior Software Engineer",
+    "id": "linkedin-4455562795",
+    "company": "Vanguard",
+    "title": "Entry Level Application Engineer - 2027 Start Date - Malvern",
     "locations": [
-      "Annapolis Junction, MD"
+      "Malvern, PA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4455604092",
+    "url": "https://www.linkedin.com/jobs/view/4455562795",
     "sponsorship": "",
     "posted": "2026-08-20",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4455498184",
-    "company": "Base-2 Solutions",
-    "title": "Junior Software Engineer",
+    "id": "linkedin-4443430086",
+    "company": "Traba",
+    "title": "Software Engineer (New Grad)",
     "locations": [
-      "Hanover, MD"
+      "New York, NY"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4455498184",
+    "url": "https://www.linkedin.com/jobs/view/4443430086",
     "sponsorship": "",
     "posted": "2026-08-20",
     "source": "LinkedIn"
@@ -411,6 +435,30 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4455466146",
+    "company": "LexisNexis",
+    "title": "Software Engineer I",
+    "locations": [
+      "Raleigh, NC"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4455466146",
+    "sponsorship": "",
+    "posted": "2026-08-19",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4434136634",
+    "company": "Palantir Technologies",
+    "title": "Software Engineer, New Grad",
+    "locations": [
+      "Denver, CO"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4434136634",
+    "sponsorship": "",
+    "posted": "2026-08-19",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4453495056",
     "company": "IBM",
     "title": "Entry Level Software Developer 2027",
@@ -430,66 +478,6 @@
       "Durham, NC"
     ],
     "url": "https://www.linkedin.com/jobs/view/4453489109",
-    "sponsorship": "",
-    "posted": "2026-08-19",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4455466146",
-    "company": "LexisNexis",
-    "title": "Software Engineer I",
-    "locations": [
-      "Raleigh, NC"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4455466146",
-    "sponsorship": "",
-    "posted": "2026-08-19",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4446383629",
-    "company": "Yamaha Motor Corporation, USA",
-    "title": "Software Engineer I",
-    "locations": [
-      "Kennesaw, GA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4446383629",
-    "sponsorship": "",
-    "posted": "2026-08-19",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4456373787",
-    "company": "SpaceX",
-    "title": "New Graduate Engineer, Software (Application Software)",
-    "locations": [
-      "Hawthorne, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4456373787",
-    "sponsorship": "",
-    "posted": "2026-08-19",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4456363948",
-    "company": "John Galt Staffing",
-    "title": "Entry Level Software Engineer",
-    "locations": [
-      "Columbia, MD"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4456363948",
-    "sponsorship": "",
-    "posted": "2026-08-19",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4434136634",
-    "company": "Palantir Technologies",
-    "title": "Software Engineer, New Grad",
-    "locations": [
-      "Denver, CO"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4434136634",
     "sponsorship": "",
     "posted": "2026-08-19",
     "source": "LinkedIn"
