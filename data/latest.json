@@ -49,6 +49,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4457805931",
+    "company": "Collins Aerospace",
+    "title": "Software Engineer I, Onsite",
+    "locations": [
+      "Fort Wayne, IN"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4457805931",
+    "sponsorship": "",
+    "posted": "2026-08-22",
+    "source": "LinkedIn"
+  },
+  {
     "id": "simplify-eb3814c7-6fd3-4e58-852c-6cc00005cf9a",
     "company": "Susquehanna International Group",
     "title": "Trading System Engineer New Grad",
@@ -121,13 +133,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4457355110",
-    "company": "Mercury Insurance",
-    "title": "Software Engineer I",
+    "id": "linkedin-4456299517",
+    "company": "TSMC",
+    "title": "Software Engineer (New Graduate) - North America Software Center",
     "locations": [
-      "Brea, CA"
+      "Vancouver, WA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4457355110",
+    "url": "https://www.linkedin.com/jobs/view/4456299517",
     "sponsorship": "",
     "posted": "2026-08-21",
     "source": "LinkedIn"
@@ -157,6 +169,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4457355110",
+    "company": "Mercury Insurance",
+    "title": "Software Engineer I",
+    "locations": [
+      "Brea, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4457355110",
+    "sponsorship": "",
+    "posted": "2026-08-21",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4457073352",
     "company": "SAIC",
     "title": "Junior Software Engineer",
@@ -164,18 +188,6 @@
       "Huntsville, AL"
     ],
     "url": "https://www.linkedin.com/jobs/view/4457073352",
-    "sponsorship": "",
-    "posted": "2026-08-21",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4456299517",
-    "company": "TSMC",
-    "title": "Software Engineer (New Graduate) - North America Software Center",
-    "locations": [
-      "Vancouver, WA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4456299517",
     "sponsorship": "",
     "posted": "2026-08-21",
     "source": "LinkedIn"
@@ -253,6 +265,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4438292999",
+    "company": "Confido",
+    "title": "New Grad Software Engineer",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4438292999",
+    "sponsorship": "",
+    "posted": "2026-08-20",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4434584642",
     "company": "Walmart",
     "title": "(USA) Software Engineer III",
@@ -277,6 +301,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4317707969",
+    "company": "Nuro",
+    "title": "Software Engineer, AI Platform - New Grad",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4317707969",
+    "sponsorship": "",
+    "posted": "2026-08-20",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4457015235",
     "company": "Raytheon",
     "title": "Software Engineer I -(Onsite)",
@@ -289,49 +325,37 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4438292999",
-    "company": "Confido",
-    "title": "New Grad Software Engineer",
+    "id": "linkedin-4455604092",
+    "company": "Base-2 Solutions",
+    "title": "Junior Software Engineer",
     "locations": [
-      "New York, NY"
+      "Annapolis Junction, MD"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4438292999",
+    "url": "https://www.linkedin.com/jobs/view/4455604092",
     "sponsorship": "",
     "posted": "2026-08-20",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4455562795",
-    "company": "Vanguard",
-    "title": "Entry Level Application Engineer - 2027 Start Date - Malvern",
+    "id": "linkedin-4455498184",
+    "company": "Base-2 Solutions",
+    "title": "Junior Software Engineer",
     "locations": [
-      "Malvern, PA"
+      "Hanover, MD"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4455562795",
+    "url": "https://www.linkedin.com/jobs/view/4455498184",
     "sponsorship": "",
     "posted": "2026-08-20",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4443430086",
-    "company": "Traba",
-    "title": "Software Engineer (New Grad)",
+    "id": "linkedin-4446745306",
+    "company": "Nooks",
+    "title": "Software Engineer, New Grad",
     "locations": [
-      "New York, NY"
+      "San Francisco, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4443430086",
-    "sponsorship": "",
-    "posted": "2026-08-20",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4437856254",
-    "company": "Nscale",
-    "title": "Systems Engineer - Early Career",
-    "locations": [
-      "Seattle, WA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4437856254",
+    "url": "https://www.linkedin.com/jobs/view/4446745306",
     "sponsorship": "",
     "posted": "2026-08-20",
     "source": "LinkedIn"
@@ -423,13 +447,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4434143445",
-    "company": "Palantir Technologies",
-    "title": "Software Engineer, New Grad - Defense",
+    "id": "linkedin-4455453920",
+    "company": "Freeform",
+    "title": "Software Engineer (New Grad Summer 2027)",
     "locations": [
-      "New York, NY"
+      "Los Angeles, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4434143445",
+    "url": "https://www.linkedin.com/jobs/view/4455453920",
     "sponsorship": "",
     "posted": "2026-08-19",
     "source": "LinkedIn"
@@ -483,13 +507,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4434145450",
-    "company": "Palantir Technologies",
-    "title": "Software Engineer, New Grad - Production Infrastructure",
+    "id": "linkedin-4456373787",
+    "company": "SpaceX",
+    "title": "New Graduate Engineer, Software (Application Software)",
     "locations": [
-      "New York, NY"
+      "Hawthorne, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4434145450",
+    "url": "https://www.linkedin.com/jobs/view/4456373787",
     "sponsorship": "",
     "posted": "2026-08-19",
     "source": "LinkedIn"
