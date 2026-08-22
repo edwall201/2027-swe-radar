@@ -13,6 +13,18 @@
     "source": "SimplifyJobs"
   },
   {
+    "id": "gh-samsara-8036387",
+    "company": "Samsara",
+    "title": "Software Engineer II",
+    "locations": [
+      "Remote - US"
+    ],
+    "url": "https://www.samsara.com/company/careers/roles/8036387?gh_jid=8036387",
+    "sponsorship": "",
+    "posted": "2026-08-22",
+    "source": "Greenhouse"
+  },
+  {
     "id": "linkedin-4456664025",
     "company": "Eventual",
     "title": "Software Engineer, New Grad",
@@ -25,13 +37,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4447579049",
-    "company": "Mimecast",
-    "title": "Software Engineer I",
+    "id": "linkedin-4455048056",
+    "company": "Applied Materials",
+    "title": "Software Engineer II (New College Grad - Santa Clara, CA)",
     "locations": [
-      "Minneapolis, MN"
+      "Santa Clara, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4447579049",
+    "url": "https://www.linkedin.com/jobs/view/4455048056",
     "sponsorship": "",
     "posted": "2026-08-22",
     "source": "LinkedIn"
@@ -44,6 +56,30 @@
       "Kalispell, MT"
     ],
     "url": "https://www.linkedin.com/jobs/view/4455066057",
+    "sponsorship": "",
+    "posted": "2026-08-22",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4457535606",
+    "company": "H-E-B",
+    "title": "Software Engineer I -Digital Emerging Tech & Innovation (D - ETI Team) - San Antonio, Tx. or Austin, Tx.",
+    "locations": [
+      "San Antonio, TX"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4457535606",
+    "sponsorship": "",
+    "posted": "2026-08-22",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4457805931",
+    "company": "Collins Aerospace",
+    "title": "Software Engineer I, Onsite",
+    "locations": [
+      "Fort Wayne, IN"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4457805931",
     "sponsorship": "",
     "posted": "2026-08-22",
     "source": "LinkedIn"
@@ -97,6 +133,18 @@
     "source": "SimplifyJobs"
   },
   {
+    "id": "linkedin-4454129125",
+    "company": "BeaconFire Inc.",
+    "title": "Entry-Level / Junior Software Developer Opportunity",
+    "locations": [
+      "New Jersey, United States"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4454129125",
+    "sponsorship": "",
+    "posted": "2026-08-21",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4456299517",
     "company": "TSMC",
     "title": "Software Engineer (New Graduate) - North America Software Center",
@@ -109,61 +157,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4456297081",
-    "company": "Integration Innovation, Inc.",
-    "title": "Entry Level Software Engineer",
-    "locations": [
-      "Huntsville, AL"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4456297081",
-    "sponsorship": "",
-    "posted": "2026-08-21",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4457047359",
-    "company": "Deloitte",
-    "title": "Agentic Software Engineer III",
-    "locations": [
-      "Fresno, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4457047359",
-    "sponsorship": "",
-    "posted": "2026-08-21",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4456218825",
-    "company": "Revature",
-    "title": "Entry Level Software Developer",
-    "locations": [
-      "Syracuse, NY"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4456218825",
-    "sponsorship": "",
-    "posted": "2026-08-21",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4457355110",
-    "company": "Mercury Insurance",
-    "title": "Software Engineer I",
-    "locations": [
-      "Brea, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4457355110",
-    "sponsorship": "",
-    "posted": "2026-08-21",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4457073352",
-    "company": "SAIC",
+    "id": "linkedin-4457069280",
+    "company": "CGI",
     "title": "Junior Software Engineer",
     "locations": [
-      "Huntsville, AL"
+      "Greenville, SC"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4457073352",
+    "url": "https://www.linkedin.com/jobs/view/4457069280",
     "sponsorship": "",
     "posted": "2026-08-21",
     "source": "LinkedIn"
@@ -176,6 +176,18 @@
       "Greenlawn, NY"
     ],
     "url": "https://www.linkedin.com/jobs/view/4454670030",
+    "sponsorship": "",
+    "posted": "2026-08-21",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4457073352",
+    "company": "SAIC",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "Huntsville, AL"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4457073352",
     "sponsorship": "",
     "posted": "2026-08-21",
     "source": "LinkedIn"
@@ -205,49 +217,25 @@
     "source": "SimplifyJobs"
   },
   {
-    "id": "gh-samsara-8036387",
-    "company": "Samsara",
-    "title": "Software Engineer II",
-    "locations": [
-      "Remote - US"
-    ],
-    "url": "https://www.samsara.com/company/careers/roles/8036387?gh_jid=8036387",
-    "sponsorship": "",
-    "posted": "2026-08-20",
-    "source": "Greenhouse"
-  },
-  {
-    "id": "linkedin-4446745306",
-    "company": "Nooks",
+    "id": "linkedin-4434138603",
+    "company": "Palantir Technologies",
     "title": "Software Engineer, New Grad",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4446745306",
-    "sponsorship": "",
-    "posted": "2026-08-20",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4443430086",
-    "company": "Traba",
-    "title": "Software Engineer (New Grad)",
     "locations": [
       "New York, NY"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4443430086",
+    "url": "https://www.linkedin.com/jobs/view/4434138603",
     "sponsorship": "",
     "posted": "2026-08-20",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4434155092",
-    "company": "Palantir Technologies",
-    "title": "Software Engineer, New Grad - Production Infrastructure",
+    "id": "linkedin-4457015235",
+    "company": "Raytheon",
+    "title": "Software Engineer I -(Onsite)",
     "locations": [
-      "Seattle, WA"
+      "Fort Wayne, IN"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4434155092",
+    "url": "https://www.linkedin.com/jobs/view/4457015235",
     "sponsorship": "",
     "posted": "2026-08-20",
     "source": "LinkedIn"
@@ -277,6 +265,30 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4446745306",
+    "company": "Nooks",
+    "title": "Software Engineer, New Grad",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4446745306",
+    "sponsorship": "",
+    "posted": "2026-08-20",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4443430086",
+    "company": "Traba",
+    "title": "Software Engineer (New Grad)",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4443430086",
+    "sponsorship": "",
+    "posted": "2026-08-20",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4438292999",
     "company": "Confido",
     "title": "New Grad Software Engineer",
@@ -289,25 +301,25 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4457015235",
-    "company": "Raytheon",
-    "title": "Software Engineer I -(Onsite)",
+    "id": "linkedin-4317707969",
+    "company": "Nuro",
+    "title": "Software Engineer, AI Platform - New Grad",
     "locations": [
-      "Fort Wayne, IN"
+      "Mountain View, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4457015235",
+    "url": "https://www.linkedin.com/jobs/view/4317707969",
     "sponsorship": "",
     "posted": "2026-08-20",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4453863874",
-    "company": "RedBalloon",
-    "title": "Junior Software Developer",
+    "id": "linkedin-4455562795",
+    "company": "Vanguard",
+    "title": "Entry Level Application Engineer - 2027 Start Date - Malvern",
     "locations": [
-      "Southern Pines, NC"
+      "Malvern, PA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4453863874",
+    "url": "https://www.linkedin.com/jobs/view/4455562795",
     "sponsorship": "",
     "posted": "2026-08-20",
     "source": "LinkedIn"
@@ -325,18 +337,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4434138603",
-    "company": "Palantir Technologies",
-    "title": "Software Engineer, New Grad",
-    "locations": [
-      "New York, NY"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4434138603",
-    "sponsorship": "",
-    "posted": "2026-08-20",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4455498184",
     "company": "Base-2 Solutions",
     "title": "Junior Software Engineer",
@@ -344,18 +344,6 @@
       "Hanover, MD"
     ],
     "url": "https://www.linkedin.com/jobs/view/4455498184",
-    "sponsorship": "",
-    "posted": "2026-08-20",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4455562795",
-    "company": "Vanguard",
-    "title": "Entry Level Application Engineer - 2027 Start Date - Malvern",
-    "locations": [
-      "Malvern, PA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4455562795",
     "sponsorship": "",
     "posted": "2026-08-20",
     "source": "LinkedIn"
@@ -423,13 +411,25 @@
     "source": "SimplifyJobs"
   },
   {
-    "id": "linkedin-4456373787",
-    "company": "SpaceX",
-    "title": "New Graduate Engineer, Software (Application Software)",
+    "id": "linkedin-4455423214",
+    "company": "General Dynamics Mission Systems",
+    "title": "Entry Level Software Engineer",
     "locations": [
-      "Hawthorne, CA"
+      "Scottsdale, AZ"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4456373787",
+    "url": "https://www.linkedin.com/jobs/view/4455423214",
+    "sponsorship": "",
+    "posted": "2026-08-19",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4455454263",
+    "company": "Tokenworks Inc",
+    "title": "Junior Software Developer",
+    "locations": [
+      "Bronxville, NY"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4455454263",
     "sponsorship": "",
     "posted": "2026-08-19",
     "source": "LinkedIn"
@@ -447,49 +447,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4455466146",
-    "company": "LexisNexis",
-    "title": "Software Engineer I",
+    "id": "linkedin-4456373787",
+    "company": "SpaceX",
+    "title": "New Graduate Engineer, Software (Application Software)",
     "locations": [
-      "Raleigh, NC"
+      "Hawthorne, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4455466146",
-    "sponsorship": "",
-    "posted": "2026-08-19",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4456363948",
-    "company": "John Galt Staffing",
-    "title": "Entry Level Software Engineer",
-    "locations": [
-      "Columbia, MD"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4456363948",
-    "sponsorship": "",
-    "posted": "2026-08-19",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4453495056",
-    "company": "IBM",
-    "title": "Entry Level Software Developer 2027",
-    "locations": [
-      "Poughkeepsie, AR"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4453495056",
-    "sponsorship": "",
-    "posted": "2026-08-19",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4455423214",
-    "company": "General Dynamics Mission Systems",
-    "title": "Entry Level Software Engineer",
-    "locations": [
-      "Scottsdale, AZ"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4455423214",
+    "url": "https://www.linkedin.com/jobs/view/4456373787",
     "sponsorship": "",
     "posted": "2026-08-19",
     "source": "LinkedIn"
@@ -502,6 +466,18 @@
       "Durham, NC"
     ],
     "url": "https://www.linkedin.com/jobs/view/4453489109",
+    "sponsorship": "",
+    "posted": "2026-08-19",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4453495056",
+    "company": "IBM",
+    "title": "Entry Level Software Developer 2027",
+    "locations": [
+      "Poughkeepsie, AR"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4453495056",
     "sponsorship": "",
     "posted": "2026-08-19",
     "source": "LinkedIn"
@@ -856,18 +832,6 @@
       "Malta, NY"
     ],
     "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Advanced-Manufacturing-Equipment-Engineer--2027-New-College-Graduate-_JR-2604706",
-    "sponsorship": "Other",
-    "posted": "2026-08-14",
-    "source": "SimplifyJobs"
-  },
-  {
-    "id": "simplify-112e1e85-ad6a-40b6-ab73-cbc1622e77d5",
-    "company": "GlobalFoundries",
-    "title": "Advanced Manufacturing Equipment Engineer New Grad",
-    "locations": [
-      "Malta, NY"
-    ],
-    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Advanced-Manufacturing-Equipment-Engineer--2027-New-College-Graduate-_JR-2604704",
     "sponsorship": "Other",
     "posted": "2026-08-14",
     "source": "SimplifyJobs"
