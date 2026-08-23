@@ -1,5 +1,17 @@
 [
   {
+    "id": "linkedin-4456822365",
+    "company": "Jobright.ai",
+    "title": "Full Stack Software Engineer, New Grad",
+    "locations": [
+      "United States"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4456822365",
+    "sponsorship": "",
+    "posted": "2026-08-23",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4455080687",
     "company": "Jobot",
     "title": "Hybrid Junior Software Engineer | Full Stack/ Clearable",
@@ -80,18 +92,6 @@
       "Fort Wayne, IN"
     ],
     "url": "https://www.linkedin.com/jobs/view/4457805931",
-    "sponsorship": "",
-    "posted": "2026-08-22",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4456667573",
-    "company": "Jobright.ai",
-    "title": "Full Stack Software Engineer, New Grad",
-    "locations": [
-      "United States"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4456667573",
     "sponsorship": "",
     "posted": "2026-08-22",
     "source": "LinkedIn"
@@ -181,6 +181,18 @@
     "source": "SimplifyJobs"
   },
   {
+    "id": "linkedin-4456299517",
+    "company": "TSMC",
+    "title": "Software Engineer (New Graduate) - North America Software Center",
+    "locations": [
+      "Vancouver, WA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4456299517",
+    "sponsorship": "",
+    "posted": "2026-08-21",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4456297081",
     "company": "Integration Innovation, Inc.",
     "title": "Entry Level Software Engineer",
@@ -217,25 +229,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4456299517",
-    "company": "TSMC",
-    "title": "Software Engineer (New Graduate) - North America Software Center",
+    "id": "linkedin-4457069280",
+    "company": "CGI",
+    "title": "Junior Software Engineer",
     "locations": [
-      "Vancouver, WA"
+      "Greenville, SC"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4456299517",
-    "sponsorship": "",
-    "posted": "2026-08-21",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4457355110",
-    "company": "Mercury Insurance",
-    "title": "Software Engineer I",
-    "locations": [
-      "Brea, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4457355110",
+    "url": "https://www.linkedin.com/jobs/view/4457069280",
     "sponsorship": "",
     "posted": "2026-08-21",
     "source": "LinkedIn"
@@ -253,6 +253,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4457355110",
+    "company": "Mercury Insurance",
+    "title": "Software Engineer I",
+    "locations": [
+      "Brea, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4457355110",
+    "sponsorship": "",
+    "posted": "2026-08-21",
+    "source": "LinkedIn"
+  },
+  {
     "id": "simplify-52d714b0-b625-4783-b857-83034faa144c",
     "company": "Freeform",
     "title": "Software Engineer New Grad - Summer 2027",
@@ -263,18 +275,6 @@
     "sponsorship": "Other",
     "posted": "2026-08-20",
     "source": "SimplifyJobs"
-  },
-  {
-    "id": "linkedin-4434155092",
-    "company": "Palantir Technologies",
-    "title": "Software Engineer, New Grad - Production Infrastructure",
-    "locations": [
-      "Seattle, WA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4434155092",
-    "sponsorship": "",
-    "posted": "2026-08-20",
-    "source": "LinkedIn"
   },
   {
     "id": "linkedin-4434138603",
@@ -289,18 +289,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4454146761",
-    "company": "Arcfield",
-    "title": "Software Engineer II",
-    "locations": [
-      "Rome, NY"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4454146761",
-    "sponsorship": "",
-    "posted": "2026-08-20",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4456024368",
     "company": "Life Cycle Engineering",
     "title": "Junior Software Developer Pipeline",
@@ -308,6 +296,18 @@
       "Philadelphia, PA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4456024368",
+    "sponsorship": "",
+    "posted": "2026-08-20",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4454146761",
+    "company": "Arcfield",
+    "title": "Software Engineer II",
+    "locations": [
+      "Rome, NY"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4454146761",
     "sponsorship": "",
     "posted": "2026-08-20",
     "source": "LinkedIn"
@@ -332,18 +332,6 @@
       "Malvern, PA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4455562795",
-    "sponsorship": "",
-    "posted": "2026-08-20",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4444924825",
-    "company": "Raytheon",
-    "title": "Software Engineer I (Onsite)",
-    "locations": [
-      "Marlborough, MA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4444924825",
     "sponsorship": "",
     "posted": "2026-08-20",
     "source": "LinkedIn"
