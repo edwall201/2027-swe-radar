@@ -1,5 +1,17 @@
 [
   {
+    "id": "linkedin-4455080687",
+    "company": "Jobot",
+    "title": "Hybrid Junior Software Engineer | Full Stack/ Clearable",
+    "locations": [
+      "Manassas, VA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4455080687",
+    "sponsorship": "",
+    "posted": "2026-08-23",
+    "source": "LinkedIn"
+  },
+  {
     "id": "simplify-7a70a260-965f-4aec-902f-7d5704f201a2",
     "company": "True Anomaly",
     "title": "Software Engineer 1 New Grad - QA",
@@ -61,37 +73,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4456667573",
-    "company": "Jobright.ai",
-    "title": "Full Stack Software Engineer, New Grad",
-    "locations": [
-      "United States"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4456667573",
-    "sponsorship": "",
-    "posted": "2026-08-22",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4455048056",
+    "id": "linkedin-4455066057",
     "company": "Applied Materials",
-    "title": "Software Engineer II (New College Grad - Santa Clara, CA)",
+    "title": "Software Engineer I - New College Grad (Bachelors - Kalispell, MT)",
     "locations": [
-      "Santa Clara, CA"
+      "Kalispell, MT"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4455048056",
-    "sponsorship": "",
-    "posted": "2026-08-22",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4447579049",
-    "company": "Mimecast",
-    "title": "Software Engineer I",
-    "locations": [
-      "Minneapolis, MN"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4447579049",
+    "url": "https://www.linkedin.com/jobs/view/4455066057",
     "sponsorship": "",
     "posted": "2026-08-22",
     "source": "LinkedIn"
@@ -109,13 +97,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4455066057",
-    "company": "Applied Materials",
-    "title": "Software Engineer I - New College Grad (Bachelors - Kalispell, MT)",
+    "id": "linkedin-4390703326",
+    "company": "Twitch",
+    "title": "Software Engineer I, Commerce Engineering",
     "locations": [
-      "Kalispell, MT"
+      "San Francisco, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4455066057",
+    "url": "https://www.linkedin.com/jobs/view/4390703326",
     "sponsorship": "",
     "posted": "2026-08-22",
     "source": "LinkedIn"
@@ -169,6 +157,18 @@
     "source": "SimplifyJobs"
   },
   {
+    "id": "linkedin-4456299517",
+    "company": "TSMC",
+    "title": "Software Engineer (New Graduate) - North America Software Center",
+    "locations": [
+      "Vancouver, WA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4456299517",
+    "sponsorship": "",
+    "posted": "2026-08-21",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4456297081",
     "company": "Integration Innovation, Inc.",
     "title": "Entry Level Software Engineer",
@@ -193,61 +193,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4456218825",
-    "company": "Revature",
-    "title": "Entry Level Software Developer",
+    "id": "linkedin-4454129125",
+    "company": "BeaconFire Inc.",
+    "title": "Entry-Level / Junior Software Developer Opportunity",
     "locations": [
-      "Syracuse, NY"
+      "New Jersey, United States"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4456218825",
-    "sponsorship": "",
-    "posted": "2026-08-21",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4457355110",
-    "company": "Mercury Insurance",
-    "title": "Software Engineer I",
-    "locations": [
-      "Brea, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4457355110",
-    "sponsorship": "",
-    "posted": "2026-08-21",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4457073352",
-    "company": "SAIC",
-    "title": "Junior Software Engineer",
-    "locations": [
-      "Huntsville, AL"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4457073352",
-    "sponsorship": "",
-    "posted": "2026-08-21",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4447229272",
-    "company": "Amerisure Insurance",
-    "title": "Software Engineer I",
-    "locations": [
-      "Farmington Hills, MI"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4447229272",
-    "sponsorship": "",
-    "posted": "2026-08-21",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4456299517",
-    "company": "TSMC",
-    "title": "Software Engineer (New Graduate) - North America Software Center",
-    "locations": [
-      "Vancouver, WA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4456299517",
+    "url": "https://www.linkedin.com/jobs/view/4454129125",
     "sponsorship": "",
     "posted": "2026-08-21",
     "source": "LinkedIn"
@@ -265,13 +217,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4457330604",
-    "company": "Highlight",
-    "title": "Early Career Product Engineer",
+    "id": "linkedin-4457073352",
+    "company": "SAIC",
+    "title": "Junior Software Engineer",
     "locations": [
-      "San Francisco, CA"
+      "Huntsville, AL"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4457330604",
+    "url": "https://www.linkedin.com/jobs/view/4457073352",
     "sponsorship": "",
     "posted": "2026-08-21",
     "source": "LinkedIn"
@@ -325,61 +277,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4434584642",
-    "company": "Walmart",
-    "title": "(USA) Software Engineer III",
+    "id": "linkedin-4455562795",
+    "company": "Vanguard",
+    "title": "Entry Level Application Engineer - 2027 Start Date - Malvern",
     "locations": [
-      "Bentonville, AR"
+      "Malvern, PA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4434584642",
-    "sponsorship": "",
-    "posted": "2026-08-20",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4454146761",
-    "company": "Arcfield",
-    "title": "Software Engineer II",
-    "locations": [
-      "Rome, NY"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4454146761",
-    "sponsorship": "",
-    "posted": "2026-08-20",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4438292999",
-    "company": "Confido",
-    "title": "New Grad Software Engineer",
-    "locations": [
-      "New York, NY"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4438292999",
-    "sponsorship": "",
-    "posted": "2026-08-20",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4434138603",
-    "company": "Palantir Technologies",
-    "title": "Software Engineer, New Grad",
-    "locations": [
-      "New York, NY"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4434138603",
-    "sponsorship": "",
-    "posted": "2026-08-20",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4317707969",
-    "company": "Nuro",
-    "title": "Software Engineer, AI Platform - New Grad",
-    "locations": [
-      "Mountain View, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4317707969",
+    "url": "https://www.linkedin.com/jobs/view/4455562795",
     "sponsorship": "",
     "posted": "2026-08-20",
     "source": "LinkedIn"
@@ -397,37 +301,73 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4456024368",
-    "company": "Life Cycle Engineering",
-    "title": "Junior Software Developer Pipeline",
+    "id": "linkedin-4434138603",
+    "company": "Palantir Technologies",
+    "title": "Software Engineer, New Grad",
     "locations": [
-      "Philadelphia, PA"
+      "New York, NY"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4456024368",
+    "url": "https://www.linkedin.com/jobs/view/4434138603",
     "sponsorship": "",
     "posted": "2026-08-20",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4453863874",
-    "company": "RedBalloon",
-    "title": "Junior Software Developer",
+    "id": "linkedin-4457015238",
+    "company": "Raytheon",
+    "title": "Software Engineer I (Onsite)",
     "locations": [
-      "Southern Pines, NC"
+      "Indianapolis, IN"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4453863874",
+    "url": "https://www.linkedin.com/jobs/view/4457015238",
     "sponsorship": "",
     "posted": "2026-08-20",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4455562795",
+    "id": "linkedin-4455558801",
     "company": "Vanguard",
-    "title": "Entry Level Application Engineer - 2027 Start Date - Malvern",
+    "title": "Entry Level Application Engineer - 2027 Start Date",
     "locations": [
-      "Malvern, PA"
+      "Charlotte, NC"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4455562795",
+    "url": "https://www.linkedin.com/jobs/view/4455558801",
+    "sponsorship": "",
+    "posted": "2026-08-20",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4454146761",
+    "company": "Arcfield",
+    "title": "Software Engineer II",
+    "locations": [
+      "Rome, NY"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4454146761",
+    "sponsorship": "",
+    "posted": "2026-08-20",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4444924825",
+    "company": "Raytheon",
+    "title": "Software Engineer I (Onsite)",
+    "locations": [
+      "Marlborough, MA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4444924825",
+    "sponsorship": "",
+    "posted": "2026-08-20",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4438292999",
+    "company": "Confido",
+    "title": "New Grad Software Engineer",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4438292999",
     "sponsorship": "",
     "posted": "2026-08-20",
     "source": "LinkedIn"
@@ -440,6 +380,18 @@
       "Seattle, WA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4437856254",
+    "sponsorship": "",
+    "posted": "2026-08-20",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4456024368",
+    "company": "Life Cycle Engineering",
+    "title": "Junior Software Developer Pipeline",
+    "locations": [
+      "Philadelphia, PA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4456024368",
     "sponsorship": "",
     "posted": "2026-08-20",
     "source": "LinkedIn"
