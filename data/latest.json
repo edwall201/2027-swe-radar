@@ -61,25 +61,37 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4390703326",
-    "company": "Twitch",
-    "title": "Software Engineer I, Commerce Engineering",
+    "id": "linkedin-4447579049",
+    "company": "Mimecast",
+    "title": "Software Engineer I",
     "locations": [
-      "San Francisco, CA"
+      "Minneapolis, MN"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4390703326",
+    "url": "https://www.linkedin.com/jobs/view/4447579049",
     "sponsorship": "",
     "posted": "2026-08-22",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4457805931",
-    "company": "Collins Aerospace",
-    "title": "Software Engineer I, Onsite",
+    "id": "linkedin-4455066057",
+    "company": "Applied Materials",
+    "title": "Software Engineer I - New College Grad (Bachelors - Kalispell, MT)",
     "locations": [
-      "Fort Wayne, IN"
+      "Kalispell, MT"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4457805931",
+    "url": "https://www.linkedin.com/jobs/view/4455066057",
+    "sponsorship": "",
+    "posted": "2026-08-22",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4457535606",
+    "company": "H-E-B",
+    "title": "Software Engineer I -Digital Emerging Tech & Innovation (D - ETI Team) - San Antonio, Tx. or Austin, Tx.",
+    "locations": [
+      "San Antonio, TX"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4457535606",
     "sponsorship": "",
     "posted": "2026-08-22",
     "source": "LinkedIn"
@@ -169,18 +181,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4456297081",
-    "company": "Integration Innovation, Inc.",
-    "title": "Entry Level Software Engineer",
-    "locations": [
-      "Huntsville, AL"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4456297081",
-    "sponsorship": "",
-    "posted": "2026-08-21",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4456299517",
     "company": "TSMC",
     "title": "Software Engineer (New Graduate) - North America Software Center",
@@ -193,6 +193,66 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4456218825",
+    "company": "Revature",
+    "title": "Entry Level Software Developer",
+    "locations": [
+      "Syracuse, NY"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4456218825",
+    "sponsorship": "",
+    "posted": "2026-08-21",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4457073352",
+    "company": "SAIC",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "Huntsville, AL"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4457073352",
+    "sponsorship": "",
+    "posted": "2026-08-21",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4447229272",
+    "company": "Amerisure Insurance",
+    "title": "Software Engineer I",
+    "locations": [
+      "Farmington Hills, MI"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4447229272",
+    "sponsorship": "",
+    "posted": "2026-08-21",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4456297081",
+    "company": "Integration Innovation, Inc.",
+    "title": "Entry Level Software Engineer",
+    "locations": [
+      "Huntsville, AL"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4456297081",
+    "sponsorship": "",
+    "posted": "2026-08-21",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4457069280",
+    "company": "CGI",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "Greenville, SC"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4457069280",
+    "sponsorship": "",
+    "posted": "2026-08-21",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4454670030",
     "company": "BAE Systems, Inc.",
     "title": "Junior Software Engineer",
@@ -200,6 +260,18 @@
       "Greenlawn, NY"
     ],
     "url": "https://www.linkedin.com/jobs/view/4454670030",
+    "sponsorship": "",
+    "posted": "2026-08-21",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4457330604",
+    "company": "Highlight",
+    "title": "Early Career Product Engineer",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4457330604",
     "sponsorship": "",
     "posted": "2026-08-21",
     "source": "LinkedIn"
@@ -229,6 +301,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4434584642",
+    "company": "Walmart",
+    "title": "(USA) Software Engineer III",
+    "locations": [
+      "Bentonville, AR"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4434584642",
+    "sponsorship": "",
+    "posted": "2026-08-20",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4454146761",
     "company": "Arcfield",
     "title": "Software Engineer II",
@@ -253,18 +337,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4456024368",
-    "company": "Life Cycle Engineering",
-    "title": "Junior Software Developer Pipeline",
-    "locations": [
-      "Philadelphia, PA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4456024368",
-    "sponsorship": "",
-    "posted": "2026-08-20",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4457015235",
     "company": "Raytheon",
     "title": "Software Engineer I -(Onsite)",
@@ -277,73 +349,37 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4434155092",
-    "company": "Palantir Technologies",
-    "title": "Software Engineer, New Grad - Production Infrastructure",
-    "locations": [
-      "Seattle, WA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4434155092",
-    "sponsorship": "",
-    "posted": "2026-08-20",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4443430086",
-    "company": "Traba",
-    "title": "Software Engineer (New Grad)",
-    "locations": [
-      "New York, NY"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4443430086",
-    "sponsorship": "",
-    "posted": "2026-08-20",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4444924825",
+    "id": "linkedin-4457015238",
     "company": "Raytheon",
     "title": "Software Engineer I (Onsite)",
     "locations": [
-      "Marlborough, MA"
+      "Indianapolis, IN"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4444924825",
+    "url": "https://www.linkedin.com/jobs/view/4457015238",
     "sponsorship": "",
     "posted": "2026-08-20",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4438292999",
-    "company": "Confido",
-    "title": "New Grad Software Engineer",
+    "id": "linkedin-4455558801",
+    "company": "Vanguard",
+    "title": "Entry Level Application Engineer - 2027 Start Date",
     "locations": [
-      "New York, NY"
+      "Charlotte, NC"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4438292999",
+    "url": "https://www.linkedin.com/jobs/view/4455558801",
     "sponsorship": "",
     "posted": "2026-08-20",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4437856254",
-    "company": "Nscale",
-    "title": "Systems Engineer - Early Career",
+    "id": "linkedin-4453863874",
+    "company": "RedBalloon",
+    "title": "Junior Software Developer",
     "locations": [
-      "Seattle, WA"
+      "Southern Pines, NC"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4437856254",
-    "sponsorship": "",
-    "posted": "2026-08-20",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4455600054",
-    "company": "TikTok",
-    "title": "Software Engineer Graduate (TikTok Search Data Infra) - 2027 Start",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4455600054",
+    "url": "https://www.linkedin.com/jobs/view/4453863874",
     "sponsorship": "",
     "posted": "2026-08-20",
     "source": "LinkedIn"
