@@ -47,13 +47,37 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4458206723",
-    "company": "Revature",
-    "title": "Entry Level Software Developer",
+    "id": "linkedin-4458256703",
+    "company": "Nightwing",
+    "title": "Software Engineer I",
     "locations": [
-      "Syracuse, NY"
+      "Sterling, VA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4458206723",
+    "url": "https://www.linkedin.com/jobs/view/4458256703",
+    "sponsorship": "",
+    "posted": "2026-08-24",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4458271339",
+    "company": "GeniusXLab LLC",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "Avalon, TX"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4458271339",
+    "sponsorship": "",
+    "posted": "2026-08-24",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4457148778",
+    "company": "Lightfield",
+    "title": "Software Engineer, Infrastructure (Early Career)",
+    "locations": [
+      "Cambridge, MA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4457148778",
     "sponsorship": "",
     "posted": "2026-08-24",
     "source": "LinkedIn"
@@ -83,13 +107,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4380944856",
-    "company": "TRM Labs",
-    "title": "University Grad \u2013 Product Engineer (2026-2027) - Los Angeles Only",
+    "id": "linkedin-4455080687",
+    "company": "Jobot",
+    "title": "Hybrid Junior Software Engineer | Full Stack/ Clearable",
     "locations": [
-      "Los Angeles, CA"
+      "Manassas, VA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4380944856",
+    "url": "https://www.linkedin.com/jobs/view/4455080687",
     "sponsorship": "",
     "posted": "2026-08-23",
     "source": "LinkedIn"
@@ -114,30 +138,6 @@
       "Seattle, WA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4390488405",
-    "sponsorship": "",
-    "posted": "2026-08-23",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4424963243",
-    "company": "CGI",
-    "title": "Junior Software Developer",
-    "locations": [
-      "Lafayette, LA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4424963243",
-    "sponsorship": "",
-    "posted": "2026-08-23",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4455080687",
-    "company": "Jobot",
-    "title": "Hybrid Junior Software Engineer | Full Stack/ Clearable",
-    "locations": [
-      "Manassas, VA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4455080687",
     "sponsorship": "",
     "posted": "2026-08-23",
     "source": "LinkedIn"
@@ -192,30 +192,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4456664025",
-    "company": "Eventual",
-    "title": "Software Engineer, New Grad",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4456664025",
-    "sponsorship": "",
-    "posted": "2026-08-22",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4457535606",
-    "company": "H-E-B",
-    "title": "Software Engineer I -Digital Emerging Tech & Innovation (D - ETI Team) - San Antonio, Tx. or Austin, Tx.",
-    "locations": [
-      "San Antonio, TX"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4457535606",
-    "sponsorship": "",
-    "posted": "2026-08-22",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4390703326",
     "company": "Twitch",
     "title": "Software Engineer I, Commerce Engineering",
@@ -223,18 +199,6 @@
       "San Francisco, CA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4390703326",
-    "sponsorship": "",
-    "posted": "2026-08-22",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4457805931",
-    "company": "Collins Aerospace",
-    "title": "Software Engineer I, Onsite",
-    "locations": [
-      "Fort Wayne, IN"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4457805931",
     "sponsorship": "",
     "posted": "2026-08-22",
     "source": "LinkedIn"
@@ -252,18 +216,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4457552513",
-    "company": "Lumanu",
-    "title": "Junior Software Engineer",
-    "locations": [
-      "United States"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4457552513",
-    "sponsorship": "",
-    "posted": "2026-08-22",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4455066057",
     "company": "Applied Materials",
     "title": "Software Engineer I - New College Grad (Bachelors - Kalispell, MT)",
@@ -271,6 +223,30 @@
       "Kalispell, MT"
     ],
     "url": "https://www.linkedin.com/jobs/view/4455066057",
+    "sponsorship": "",
+    "posted": "2026-08-22",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4457535606",
+    "company": "H-E-B",
+    "title": "Software Engineer I -Digital Emerging Tech & Innovation (D - ETI Team) - San Antonio, Tx. or Austin, Tx.",
+    "locations": [
+      "San Antonio, TX"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4457535606",
+    "sponsorship": "",
+    "posted": "2026-08-22",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4457805931",
+    "company": "Collins Aerospace",
+    "title": "Software Engineer I, Onsite",
+    "locations": [
+      "Fort Wayne, IN"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4457805931",
     "sponsorship": "",
     "posted": "2026-08-22",
     "source": "LinkedIn"
@@ -2544,18 +2520,6 @@
     "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22818",
     "sponsorship": "Other",
     "posted": "2026-05-07",
-    "source": "SimplifyJobs"
-  },
-  {
-    "id": "simplify-1530dfa5-7c83-434e-a46e-bead4069bdcd",
-    "company": "Quadric",
-    "title": "Deep Learning Compiler Engineer New Grad",
-    "locations": [
-      "Burlingame, CA"
-    ],
-    "url": "https://apply.workable.com/quadric-dot-i-o-inc/j/43779C9213/apply",
-    "sponsorship": "Other",
-    "posted": "2026-05-06",
     "source": "SimplifyJobs"
   },
   {

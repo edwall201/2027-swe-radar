@@ -1,22 +1,21 @@
 # 📡 2027 SWE Radar
 
 Automated daily scanner for **2027 new-grad software engineering** openings.
-Last scan: **2026-08-24** · Tracking **241** matching postings · 🆕 **3** new today
+Last scan: **2026-08-24** · Tracking **238** matching postings · 🆕 **3** new today
 Showing **US** postings, newest first.
 
 ## 🆕 New today
 
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
-| **Garner Health** | Software Engineer III | New York, NY | 2026-08-23 | [Link](https://www.linkedin.com/jobs/view/4379614164) |
-| **CGI** | Junior Software Developer | Lafayette, LA | 2026-08-23 | [Link](https://www.linkedin.com/jobs/view/4424963243) |
-| **Lumanu** | Junior Software Engineer | United States | 2026-08-22 | [Link](https://www.linkedin.com/jobs/view/4457552513) |
+| **Nightwing** | Software Engineer I | Sterling, VA | 2026-08-24 | [Link](https://www.linkedin.com/jobs/view/4458256703) |
+| **GeniusXLab LLC** | Junior Software Engineer | Avalon, TX | 2026-08-24 | [Link](https://www.linkedin.com/jobs/view/4458271339) |
+| **Lightfield** | Software Engineer, Infrastructure (Early Career) | Cambridge, MA | 2026-08-24 | [Link](https://www.linkedin.com/jobs/view/4457148778) |
 
 ## 🎯 Explicit 2027 openings
 
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
-| TRM Labs | University Grad – Product Engineer (2026-2027) - Los Angeles Only | Los Angeles, CA | 2026-08-23 | [Link](https://www.linkedin.com/jobs/view/4380944856) |
 | Freeform | Software Engineer New Grad - Summer 2027 | LA | 2026-08-20 | [Link](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895902003) |
 | Vanguard | Application Engineer - 2027 Start Date | Charlotte, NC | 2026-08-17 | [Link](https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Charlotte-NC/Entry-Level-Application-Engineer----2027-Start-Date_180412) |
 | TikTok | Backend Engineer Graduate - TikTok Vertical Recommendation Architecture - 2027 Start | San Jose, CA | 2026-08-12 | [Link](https://lifeattiktok.com/search/7672532801686571317) |
@@ -32,25 +31,23 @@ Showing **US** postings, newest first.
 | Google | Software Engineer Early Career - Multiple Teams | Madison, WI; Seattle, WA | 2026-08-24 | [Link](https://www.google.com/about/careers/applications/jobs/results/84680705375642310) |
 | BeaconFire Inc. | Entry-Level / Junior Software Developer | New Jersey, United States | 2026-08-24 | [Link](https://www.linkedin.com/jobs/view/4454129125) |
 | Stealth Startup | Software Engineer – New Grad [33457] | San Francisco, CA | 2026-08-24 | [Link](https://www.linkedin.com/jobs/view/4455862955) |
-| Revature | Entry Level Software Developer | Syracuse, NY | 2026-08-24 | [Link](https://www.linkedin.com/jobs/view/4458206723) |
+| Nightwing | Software Engineer I | Sterling, VA | 2026-08-24 | [Link](https://www.linkedin.com/jobs/view/4458256703) |
+| GeniusXLab LLC | Junior Software Engineer | Avalon, TX | 2026-08-24 | [Link](https://www.linkedin.com/jobs/view/4458271339) |
+| Lightfield | Software Engineer, Infrastructure (Early Career) | Cambridge, MA | 2026-08-24 | [Link](https://www.linkedin.com/jobs/view/4457148778) |
 | Hire Feed | Junior Software Engineer (Remote) | United States | 2026-08-24 | [Link](https://www.linkedin.com/jobs/view/4458218187) |
 | Garner Health | Software Engineer III | New York, NY | 2026-08-23 | [Link](https://www.linkedin.com/jobs/view/4379614164) |
-| TRM Labs | University Grad – Product Engineer (2026-2027) - Los Angeles Only | Los Angeles, CA | 2026-08-23 | [Link](https://www.linkedin.com/jobs/view/4380944856) |
+| Jobot | Hybrid Junior Software Engineer | Full Stack/ Clearable | Manassas, VA | 2026-08-23 | [Link](https://www.linkedin.com/jobs/view/4455080687) |
 | York Space Systems | Software Engineer I | Greenwood Village, CO | 2026-08-23 | [Link](https://www.linkedin.com/jobs/view/4428293134) |
 | Twitch | Software Engineer I, Commerce Engineering | Seattle, WA | 2026-08-23 | [Link](https://www.linkedin.com/jobs/view/4390488405) |
-| CGI | Junior Software Developer | Lafayette, LA | 2026-08-23 | [Link](https://www.linkedin.com/jobs/view/4424963243) |
-| Jobot | Hybrid Junior Software Engineer | Full Stack/ Clearable | Manassas, VA | 2026-08-23 | [Link](https://www.linkedin.com/jobs/view/4455080687) |
 | True Anomaly | Software Engineer 1 New Grad - QA | Long Beach, CA; Denver, CO | 2026-08-22 | [Link](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5219057007) |
 | GlobalFoundries | Technology Architecture and Competitiveness Engineer New Grad - Structural Analysis | Santa Clara, CA | 2026-08-22 | [Link](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---California---Santa-Clara/Technology-Architecture-and-Competitiveness-Engineer--2027-New-College-Graduate-_JR-2604319) |
 | Samsara | Software Engineer II | Remote - US | 2026-08-22 | [Link](https://www.samsara.com/company/careers/roles/8036387?gh_jid=8036387) |
 | Mimecast | Software Engineer I | Minneapolis, MN | 2026-08-22 | [Link](https://www.linkedin.com/jobs/view/4447579049) |
-| Eventual | Software Engineer, New Grad | San Francisco, CA | 2026-08-22 | [Link](https://www.linkedin.com/jobs/view/4456664025) |
-| H-E-B | Software Engineer I -Digital Emerging Tech & Innovation (D - ETI Team) - San Antonio, Tx. or Austin, Tx. | San Antonio, TX | 2026-08-22 | [Link](https://www.linkedin.com/jobs/view/4457535606) |
 | Twitch | Software Engineer I, Commerce Engineering | San Francisco, CA | 2026-08-22 | [Link](https://www.linkedin.com/jobs/view/4390703326) |
-| Collins Aerospace | Software Engineer I, Onsite | Fort Wayne, IN | 2026-08-22 | [Link](https://www.linkedin.com/jobs/view/4457805931) |
 | Haystack | Junior Software Engineer | Huntsville, AL | 2026-08-22 | [Link](https://www.linkedin.com/jobs/view/4457800741) |
-| Lumanu | Junior Software Engineer | United States | 2026-08-22 | [Link](https://www.linkedin.com/jobs/view/4457552513) |
 | Applied Materials | Software Engineer I - New College Grad (Bachelors - Kalispell, MT) | Kalispell, MT | 2026-08-22 | [Link](https://www.linkedin.com/jobs/view/4455066057) |
+| H-E-B | Software Engineer I -Digital Emerging Tech & Innovation (D - ETI Team) - San Antonio, Tx. or Austin, Tx. | San Antonio, TX | 2026-08-22 | [Link](https://www.linkedin.com/jobs/view/4457535606) |
+| Collins Aerospace | Software Engineer I, Onsite | Fort Wayne, IN | 2026-08-22 | [Link](https://www.linkedin.com/jobs/view/4457805931) |
 | Susquehanna International Group | Trading System Engineer New Grad | Bala Cynwyd, PA | 2026-08-21 | [Link](https://careers-sig.icims.com/jobs/11349/job?mobile=true&needsRedirect=false) |
 | Hyve Solutions | Software Engineer New Grad | Fremont, CA | 2026-08-21 | [Link](https://synnex.wd5.myworkdayjobs.com/hyvecareers/job/Fremont-CA/Software-Engineer--New-College-Grad-_R55432) |
 | NVIDIA | Research Engineer New Grad - Interactive World Models | Santa Clara, CA | 2026-08-21 | [Link](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Engineer--Interactive-World-Models---New-College-Grad-2026_JR2023950) |
@@ -237,7 +234,6 @@ Showing **US** postings, newest first.
 | NVIDIA | Systems Software Engineer New Grad | Hillsboro, OR | 2026-05-12 | [Link](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-OR-Hillsboro/Systems-Software-Engineer---New-College-Grad-2026_JR2017083) |
 | Honeywell | Embedded Engineer 1 New Grad | St. Charles, IL | 2026-05-12 | [Link](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/140055) |
 | Fortinet | Software Developer New Grad | Sunnyvale, CA | 2026-05-07 | [Link](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22818) |
-| Quadric | Deep Learning Compiler Engineer New Grad | Burlingame, CA | 2026-05-06 | [Link](https://apply.workable.com/quadric-dot-i-o-inc/j/43779C9213/apply) |
 | BAE Systems | Entry Level Software Engineer | Totowa, NJ | 2026-05-04 | [Link](https://jobs.baesystems.com/global/en/job/BAE1US124432BREXTERNAL/Entry-Level-Software-Engineer) |
 | Northwood Space | Software Engineer – New grad / early career | Carson, CA | 2026-04-24 | [Link](https://jobs.ashbyhq.com/NorthwoodSpace/b960b661-e1cc-40d0-bde3-290cd1b58ede/application) |
 | Anduril | Early Career Software Engineer | Newport Beach, CA | 2026-04-22 | [Link](https://boards.greenhouse.io/andurilindustries/jobs/4802146007) |
