@@ -36,6 +36,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4379614164",
+    "company": "Garner Health",
+    "title": "Software Engineer III",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4379614164",
+    "sponsorship": "",
+    "posted": "2026-08-23",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4455080687",
     "company": "Jobot",
     "title": "Hybrid Junior Software Engineer | Full Stack/ Clearable",
@@ -43,30 +55,6 @@
       "Manassas, VA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4455080687",
-    "sponsorship": "",
-    "posted": "2026-08-23",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4424963243",
-    "company": "CGI",
-    "title": "Junior Software Developer",
-    "locations": [
-      "Lafayette, LA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4424963243",
-    "sponsorship": "",
-    "posted": "2026-08-23",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4435996969",
-    "company": "BAE Systems, Inc.",
-    "title": "Software Engineer II",
-    "locations": [
-      "Totowa, NJ"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4435996969",
     "sponsorship": "",
     "posted": "2026-08-23",
     "source": "LinkedIn"
@@ -169,6 +157,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4457800741",
+    "company": "Haystack",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "Huntsville, AL"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4457800741",
+    "sponsorship": "",
+    "posted": "2026-08-22",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4457805931",
     "company": "Collins Aerospace",
     "title": "Software Engineer I, Onsite",
@@ -241,42 +241,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4454670030",
-    "company": "BAE Systems, Inc.",
-    "title": "Junior Software Engineer",
-    "locations": [
-      "Greenlawn, NY"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4454670030",
-    "sponsorship": "",
-    "posted": "2026-08-21",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4454651818",
-    "company": "Leonardo DRS",
-    "title": "Software Engineer II",
-    "locations": [
-      "Beavercreek, OH"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4454651818",
-    "sponsorship": "",
-    "posted": "2026-08-21",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4454679097",
-    "company": "Walmart",
-    "title": "(USA) Software Engineer III",
-    "locations": [
-      "Hoboken, NJ"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4454679097",
-    "sponsorship": "",
-    "posted": "2026-08-21",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4454129125",
     "company": "BeaconFire Inc.",
     "title": "Entry-Level / Junior Software Developer Opportunity",
@@ -284,18 +248,6 @@
       "New Jersey, United States"
     ],
     "url": "https://www.linkedin.com/jobs/view/4454129125",
-    "sponsorship": "",
-    "posted": "2026-08-21",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4456299517",
-    "company": "TSMC",
-    "title": "Software Engineer (New Graduate) - North America Software Center",
-    "locations": [
-      "Vancouver, WA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4456299517",
     "sponsorship": "",
     "posted": "2026-08-21",
     "source": "LinkedIn"
@@ -313,18 +265,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4438850428",
-    "company": "Pylon",
-    "title": "Software Engineer, New Grad",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4438850428",
-    "sponsorship": "",
-    "posted": "2026-08-21",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4456297081",
     "company": "Integration Innovation, Inc.",
     "title": "Entry Level Software Engineer",
@@ -332,6 +272,18 @@
       "Huntsville, AL"
     ],
     "url": "https://www.linkedin.com/jobs/view/4456297081",
+    "sponsorship": "",
+    "posted": "2026-08-21",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4438850428",
+    "company": "Pylon",
+    "title": "Software Engineer, New Grad",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4438850428",
     "sponsorship": "",
     "posted": "2026-08-21",
     "source": "LinkedIn"
@@ -1465,6 +1417,18 @@
       "San Jose, CA"
     ],
     "url": "https://jobs.bytedance.com/en/position/7667894766036322565/detail",
+    "sponsorship": "Other",
+    "posted": "2026-08-03",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-830d601a-f246-424f-8b08-23956510de08",
+    "company": "Maven Securities",
+    "title": "Developer New Grad",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "url": "https://job-boards.greenhouse.io/emergingtalent/jobs/8048802",
     "sponsorship": "Other",
     "posted": "2026-08-03",
     "source": "SimplifyJobs"
