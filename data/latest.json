@@ -1,12 +1,24 @@
 [
   {
-    "id": "linkedin-4455080687",
-    "company": "Jobot",
-    "title": "Hybrid Junior Software Engineer | Full Stack/ Clearable",
+    "id": "linkedin-4379614164",
+    "company": "Garner Health",
+    "title": "Software Engineer III",
     "locations": [
-      "Manassas, VA"
+      "New York, NY"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4455080687",
+    "url": "https://www.linkedin.com/jobs/view/4379614164",
+    "sponsorship": "",
+    "posted": "2026-08-23",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4380944856",
+    "company": "TRM Labs",
+    "title": "University Grad \u2013 Product Engineer (2026-2027) - Los Angeles Only",
+    "locations": [
+      "Los Angeles, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4380944856",
     "sponsorship": "",
     "posted": "2026-08-23",
     "source": "LinkedIn"
@@ -36,18 +48,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4380944856",
-    "company": "TRM Labs",
-    "title": "University Grad \u2013 Product Engineer (2026-2027) - Los Angeles Only",
-    "locations": [
-      "Los Angeles, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4380944856",
-    "sponsorship": "",
-    "posted": "2026-08-23",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4428293134",
     "company": "York Space Systems",
     "title": "Software Engineer I",
@@ -60,13 +60,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4424963243",
-    "company": "CGI",
-    "title": "Junior Software Developer",
+    "id": "linkedin-4455080687",
+    "company": "Jobot",
+    "title": "Hybrid Junior Software Engineer | Full Stack/ Clearable",
     "locations": [
-      "Lafayette, LA"
+      "Manassas, VA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4424963243",
+    "url": "https://www.linkedin.com/jobs/view/4455080687",
     "sponsorship": "",
     "posted": "2026-08-23",
     "source": "LinkedIn"
@@ -157,18 +157,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4457805931",
-    "company": "Collins Aerospace",
-    "title": "Software Engineer I, Onsite",
-    "locations": [
-      "Fort Wayne, IN"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4457805931",
-    "sponsorship": "",
-    "posted": "2026-08-22",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4390703326",
     "company": "Twitch",
     "title": "Software Engineer I, Commerce Engineering",
@@ -176,6 +164,30 @@
       "San Francisco, CA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4390703326",
+    "sponsorship": "",
+    "posted": "2026-08-22",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4457800741",
+    "company": "Haystack",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "Huntsville, AL"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4457800741",
+    "sponsorship": "",
+    "posted": "2026-08-22",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4457805931",
+    "company": "Collins Aerospace",
+    "title": "Software Engineer I, Onsite",
+    "locations": [
+      "Fort Wayne, IN"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4457805931",
     "sponsorship": "",
     "posted": "2026-08-22",
     "source": "LinkedIn"
@@ -241,18 +253,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4454129125",
-    "company": "BeaconFire Inc.",
-    "title": "Entry-Level / Junior Software Developer Opportunity",
-    "locations": [
-      "New Jersey, United States"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4454129125",
-    "sponsorship": "",
-    "posted": "2026-08-21",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4454670030",
     "company": "BAE Systems, Inc.",
     "title": "Junior Software Engineer",
@@ -265,37 +265,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4456299517",
-    "company": "TSMC",
-    "title": "Software Engineer (New Graduate) - North America Software Center",
+    "id": "linkedin-4454129125",
+    "company": "BeaconFire Inc.",
+    "title": "Entry-Level / Junior Software Developer Opportunity",
     "locations": [
-      "Vancouver, WA"
+      "New Jersey, United States"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4456299517",
-    "sponsorship": "",
-    "posted": "2026-08-21",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4457073352",
-    "company": "SAIC",
-    "title": "Junior Software Engineer",
-    "locations": [
-      "Huntsville, AL"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4457073352",
-    "sponsorship": "",
-    "posted": "2026-08-21",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4457069280",
-    "company": "CGI",
-    "title": "Junior Software Engineer",
-    "locations": [
-      "Greenville, SC"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4457069280",
+    "url": "https://www.linkedin.com/jobs/view/4454129125",
     "sponsorship": "",
     "posted": "2026-08-21",
     "source": "LinkedIn"
@@ -332,6 +308,18 @@
       "Huntsville, AL"
     ],
     "url": "https://www.linkedin.com/jobs/view/4456297081",
+    "sponsorship": "",
+    "posted": "2026-08-21",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4456299517",
+    "company": "TSMC",
+    "title": "Software Engineer (New Graduate) - North America Software Center",
+    "locations": [
+      "Vancouver, WA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4456299517",
     "sponsorship": "",
     "posted": "2026-08-21",
     "source": "LinkedIn"
