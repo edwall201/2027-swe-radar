@@ -1,25 +1,28 @@
 # 📡 2027 SWE Radar
 
 Automated daily scanner for **2027 new-grad software engineering** openings.
-Last scan: **2026-08-25** · Tracking **245** matching postings · 🆕 **4** new today
+Last scan: **2026-08-25** · Tracking **243** matching postings · 🆕 **8** new today
 Showing **US** postings, newest first.
 
 ## 🆕 New today
 
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
-| **Lightfield** | Software Engineer, Applied AI (Early Career) | San Francisco, CA | 2026-08-24 | [Link](https://www.linkedin.com/jobs/view/4457155749) |
-| **Revature** | Entry Level Software Developer | Syracuse, NY | 2026-08-24 | [Link](https://www.linkedin.com/jobs/view/4458206723) |
-| **BAE Systems, Inc.** | Software Engineer II | Totowa, NJ | 2026-08-23 | [Link](https://www.linkedin.com/jobs/view/4435996969) |
-| **TRM Labs** | University Grad – Product Engineer (2026-2027) - Los Angeles Only | Los Angeles, CA | 2026-08-23 | [Link](https://www.linkedin.com/jobs/view/4380944856) |
+| **Raytheon** | Software Engineer I | Tucson, AZ | 2026-08-25 | [Link](https://www.linkedin.com/jobs/view/4458712972) |
+| **JPMorganChase** | 2027 Software Engineer Program - Full-Time - United States - July Start | Chicago, IL | 2026-08-25 | [Link](https://www.linkedin.com/jobs/view/4448194736) |
+| **JPMorganChase** | 2027 Software Engineer Program - Full-Time - United States - February Start | Chicago, IL | 2026-08-25 | [Link](https://www.linkedin.com/jobs/view/4448304463) |
+| **Uber** | Software Engineer I | San Francisco, CA | 2026-08-25 | [Link](https://www.linkedin.com/jobs/view/4458558206) |
+| **IBM** | Entry Level Software Developer | San Jose, CA | 2026-08-24 | [Link](https://www.linkedin.com/jobs/view/4456531064) |
+| **Base-2 Solutions** | Junior Software Engineer | Annapolis Junction, MD | 2026-08-24 | [Link](https://www.linkedin.com/jobs/view/4456882208) |
+| **Base-2 Solutions** | Junior Software Engineer | Hanover, MD | 2026-08-24 | [Link](https://www.linkedin.com/jobs/view/4456881217) |
+| **Twitch** | Software Engineer I, Commerce Engineering | San Francisco, CA | 2026-08-22 | [Link](https://www.linkedin.com/jobs/view/4390703326) |
 
 ## 🎯 Explicit 2027 openings
 
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
-| IBM | ELH Software Engineer / Agent Engineer - EDA - Austin 2027 | Austin, TX | 2026-08-25 | [Link](https://www.linkedin.com/jobs/view/4456561375) |
-| Procter & Gamble | IT Engineering (Software, Platform, & Network) (2027 Grads) | Cincinnati, OH | 2026-08-25 | [Link](https://www.linkedin.com/jobs/view/4456556367) |
-| GE Appliances, a Haier company | Edison Engineering Development Program (EEDP) - Software – July 2027 | Louisville, KY | 2026-08-24 | [Link](https://www.linkedin.com/jobs/view/4458215602) |
+| JPMorganChase | 2027 Software Engineer Program - Full-Time - United States - July Start | Chicago, IL | 2026-08-25 | [Link](https://www.linkedin.com/jobs/view/4448194736) |
+| JPMorganChase | 2027 Software Engineer Program - Full-Time - United States - February Start | Chicago, IL | 2026-08-25 | [Link](https://www.linkedin.com/jobs/view/4448304463) |
 | TRM Labs | University Grad – Product Engineer (2026-2027) - Los Angeles Only | Los Angeles, CA | 2026-08-23 | [Link](https://www.linkedin.com/jobs/view/4380944856) |
 | Freeform | Software Engineer New Grad - Summer 2027 | LA | 2026-08-20 | [Link](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895902003) |
 | Vanguard | Application Engineer - 2027 Start Date | Charlotte, NC | 2026-08-17 | [Link](https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Charlotte-NC/Entry-Level-Application-Engineer----2027-Start-Date_180412) |
@@ -33,39 +36,38 @@ Showing **US** postings, newest first.
 
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
-| Uber | Software Engineer I | Sunnyvale, CA | 2026-08-25 | [Link](https://www.linkedin.com/jobs/view/4458544999) |
-| IBM | ELH Software Engineer / Agent Engineer - EDA - Austin 2027 | Austin, TX | 2026-08-25 | [Link](https://www.linkedin.com/jobs/view/4456561375) |
-| Procter & Gamble | IT Engineering (Software, Platform, & Network) (2027 Grads) | Cincinnati, OH | 2026-08-25 | [Link](https://www.linkedin.com/jobs/view/4456556367) |
 | Boston Scientific | Software Engineer I | Arden Hills, MN | 2026-08-25 | [Link](https://www.linkedin.com/jobs/view/4458536503) |
+| Uber | Software Engineer I | Sunnyvale, CA | 2026-08-25 | [Link](https://www.linkedin.com/jobs/view/4458544999) |
+| Raytheon | Software Engineer I | Tucson, AZ | 2026-08-25 | [Link](https://www.linkedin.com/jobs/view/4458712972) |
+| JPMorganChase | 2027 Software Engineer Program - Full-Time - United States - July Start | Chicago, IL | 2026-08-25 | [Link](https://www.linkedin.com/jobs/view/4448194736) |
+| JPMorganChase | 2027 Software Engineer Program - Full-Time - United States - February Start | Chicago, IL | 2026-08-25 | [Link](https://www.linkedin.com/jobs/view/4448304463) |
+| Uber | Software Engineer I | San Francisco, CA | 2026-08-25 | [Link](https://www.linkedin.com/jobs/view/4458558206) |
 | Google | Software Engineer Early Career - Multiple Teams | Madison, WI; Seattle, WA | 2026-08-24 | [Link](https://www.google.com/about/careers/applications/jobs/results/84680705375642310) |
 | GlobalFoundries | Packaging Integration Engineer New Grad | Malta, NY | 2026-08-24 | [Link](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Packaging-Integration-Engineer--2027-New-College-Graduate-_JR-2604302) |
 | SteerBridge | Junior Software Engineer | Vienna, VA | 2026-08-24 | [Link](https://jobs.lever.co/steerbridge/718b3135-d15d-4cbc-9541-1cbb8a6f5ec5/apply) |
 | Procter & Gamble | Data and AI Engineering New Grad | Cincinnati, OH | 2026-08-24 | [Link](https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/Data---AI-Engineering--2027-Grads-_R000157913) |
 | SpaceX | Software Security Engineer New Grad - Software Security - Starlink | Hawthorne, CA | 2026-08-24 | [Link](https://boards.greenhouse.io/spacex/jobs/8724316002) |
 | KBR | Junior Software Engineer | King of Prussia, PA; Chantilly, VA | 2026-08-24 | [Link](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chantilly-Virginia/JR-Software-Engineer_R2128745) |
-| Lightfield | Software Engineer, Applied AI (Early Career) | San Francisco, CA | 2026-08-24 | [Link](https://www.linkedin.com/jobs/view/4457155749) |
+| Lennar | Software Engineer I | Miami, FL | 2026-08-24 | [Link](https://www.linkedin.com/jobs/view/4458282928) |
+| IBM | Entry Level Software Developer | Tucson, AZ | 2026-08-24 | [Link](https://www.linkedin.com/jobs/view/4456511924) |
 | Lightfield | Software Engineer, Infrastructure (Early Career) | Cambridge, MA | 2026-08-24 | [Link](https://www.linkedin.com/jobs/view/4457148778) |
 | Nightwing | Software Engineer I | Sterling, VA | 2026-08-24 | [Link](https://www.linkedin.com/jobs/view/4458256703) |
 | Stealth Startup | Software Engineer – New Grad [33457] | San Francisco, CA | 2026-08-24 | [Link](https://www.linkedin.com/jobs/view/4455862955) |
-| Lennar | Software Engineer I | Miami, FL | 2026-08-24 | [Link](https://www.linkedin.com/jobs/view/4458282928) |
-| Cisco | Software Engineer I (Full Time) - United States | Milpitas, CA | 2026-08-24 | [Link](https://www.linkedin.com/jobs/view/4458506394) |
-| Cisco | Software Engineer I (Full Time) - United States | San Jose, CA | 2026-08-24 | [Link](https://www.linkedin.com/jobs/view/4458524141) |
+| Lightfield | Software Engineer, Applied AI (Early Career) | San Francisco, CA | 2026-08-24 | [Link](https://www.linkedin.com/jobs/view/4457155749) |
+| IBM | Entry Level Software Developer | San Jose, CA | 2026-08-24 | [Link](https://www.linkedin.com/jobs/view/4456531064) |
 | Revature | Entry Level Software Developer | Syracuse, NY | 2026-08-24 | [Link](https://www.linkedin.com/jobs/view/4458206723) |
 | IBM | Entry Level Software Developer | Rochester, MN | 2026-08-24 | [Link](https://www.linkedin.com/jobs/view/4456513989) |
-| IBM | Entry Level Software Developer | Tucson, AZ | 2026-08-24 | [Link](https://www.linkedin.com/jobs/view/4456511924) |
-| TraceLink | Software Engineer I | Wilmington, MA | 2026-08-24 | [Link](https://www.linkedin.com/jobs/view/4455896221) |
-| GE Appliances, a Haier company | Edison Engineering Development Program (EEDP) - Software – July 2027 | Louisville, KY | 2026-08-24 | [Link](https://www.linkedin.com/jobs/view/4458215602) |
-| IBM | Entry Level Software Developer | Poughkeepsie, AR | 2026-08-24 | [Link](https://www.linkedin.com/jobs/view/4456522192) |
-| SimpliSafe | Software Engineer II- User Systems | Boston, MA | 2026-08-24 | [Link](https://www.linkedin.com/jobs/view/4448267311) |
-| Jobot | Hybrid Junior Software Engineer | Full Stack/ Clearable | Manassas, VA | 2026-08-23 | [Link](https://www.linkedin.com/jobs/view/4455080687) |
+| Base-2 Solutions | Junior Software Engineer | Annapolis Junction, MD | 2026-08-24 | [Link](https://www.linkedin.com/jobs/view/4456882208) |
+| Base-2 Solutions | Junior Software Engineer | Hanover, MD | 2026-08-24 | [Link](https://www.linkedin.com/jobs/view/4456881217) |
 | York Space Systems | Software Engineer I | Austin, TX | 2026-08-23 | [Link](https://www.linkedin.com/jobs/view/4428293134) |
-| BAE Systems, Inc. | Software Engineer II | Totowa, NJ | 2026-08-23 | [Link](https://www.linkedin.com/jobs/view/4435996969) |
 | TRM Labs | University Grad – Product Engineer (2026-2027) - Los Angeles Only | Los Angeles, CA | 2026-08-23 | [Link](https://www.linkedin.com/jobs/view/4380944856) |
+| Jobot | Hybrid Junior Software Engineer | Full Stack/ Clearable | Manassas, VA | 2026-08-23 | [Link](https://www.linkedin.com/jobs/view/4455080687) |
+| BAE Systems, Inc. | Software Engineer II | Totowa, NJ | 2026-08-23 | [Link](https://www.linkedin.com/jobs/view/4435996969) |
 | True Anomaly | Software Engineer 1 New Grad - QA | Long Beach, CA; Denver, CO | 2026-08-22 | [Link](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5219057007) |
 | GlobalFoundries | Technology Architecture and Competitiveness Engineer New Grad - Structural Analysis | Santa Clara, CA | 2026-08-22 | [Link](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---California---Santa-Clara/Technology-Architecture-and-Competitiveness-Engineer--2027-New-College-Graduate-_JR-2604319) |
 | Samsara | Software Engineer II | Remote - US | 2026-08-22 | [Link](https://www.samsara.com/company/careers/roles/8036387?gh_jid=8036387) |
+| Twitch | Software Engineer I, Commerce Engineering | San Francisco, CA | 2026-08-22 | [Link](https://www.linkedin.com/jobs/view/4390703326) |
 | Collins Aerospace | Software Engineer I, Onsite | Fort Wayne, IN | 2026-08-22 | [Link](https://www.linkedin.com/jobs/view/4457805931) |
-| Mimecast | Software Engineer I | Minneapolis, MN | 2026-08-22 | [Link](https://www.linkedin.com/jobs/view/4447579049) |
 | Applied Materials | Software Engineer I - New College Grad (Bachelors - Kalispell, MT) | Kalispell, MT | 2026-08-22 | [Link](https://www.linkedin.com/jobs/view/4455066057) |
 | Susquehanna International Group | Trading System Engineer New Grad | Bala Cynwyd, PA | 2026-08-21 | [Link](https://careers-sig.icims.com/jobs/11349/job?mobile=true&needsRedirect=false) |
 | NVIDIA | Research Engineer New Grad - Interactive World Models | Santa Clara, CA | 2026-08-21 | [Link](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Engineer--Interactive-World-Models---New-College-Grad-2026_JR2023950) |
@@ -162,7 +164,6 @@ Showing **US** postings, newest first.
 | ByteDance | Software Engineer New Grad - AI Infrastructure-Compute Efficiency & Scheduling | Seattle, WA | 2026-08-03 | [Link](https://jobs.bytedance.com/en/position/7668799020705679669/detail) |
 | ByteDance | Software Engineer New Grad - AI Infra Compute | Seattle, WA | 2026-08-03 | [Link](https://jobs.bytedance.com/en/position/7667303429264115973/detail) |
 | ByteDance | Backend and Infrastructure Software Engineer New Grad - Dev Infra | San Jose, CA | 2026-08-03 | [Link](https://jobs.bytedance.com/en/position/7667894766036322565/detail) |
-| Maven Securities | Developer New Grad | Chicago, IL | 2026-08-03 | [Link](https://job-boards.greenhouse.io/emergingtalent/jobs/8048802) |
 | TikTok | Research Engineer New Grad - Multiple Teams | San Jose, CA | 2026-08-03 | [Link](https://lifeattiktok.com/search/7667767820142643461) |
 | TikTok | Machine Learning Engineer New Grad - Trust and Safety | San Jose, CA | 2026-08-03 | [Link](https://lifeattiktok.com/search/7665991852209932597) |
 | TikTok | Machine Learning Engineer New Grad - Recommendation | San Jose, CA | 2026-08-03 | [Link](https://lifeattiktok.com/search/7663389745178757429) |

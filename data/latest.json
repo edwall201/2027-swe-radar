@@ -1,5 +1,17 @@
 [
   {
+    "id": "linkedin-4458536503",
+    "company": "Boston Scientific",
+    "title": "Software Engineer I",
+    "locations": [
+      "Arden Hills, MN"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4458536503",
+    "sponsorship": "",
+    "posted": "2026-08-25",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4458544999",
     "company": "Uber",
     "title": "Software Engineer I",
@@ -12,37 +24,49 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4456561375",
-    "company": "IBM",
-    "title": "ELH Software Engineer / Agent Engineer - EDA - Austin 2027",
-    "locations": [
-      "Austin, TX"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4456561375",
-    "sponsorship": "",
-    "posted": "2026-08-25",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4456556367",
-    "company": "Procter & Gamble",
-    "title": "IT Engineering (Software, Platform, & Network) (2027 Grads)",
-    "locations": [
-      "Cincinnati, OH"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4456556367",
-    "sponsorship": "",
-    "posted": "2026-08-25",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4458536503",
-    "company": "Boston Scientific",
+    "id": "linkedin-4458712972",
+    "company": "Raytheon",
     "title": "Software Engineer I",
     "locations": [
-      "Arden Hills, MN"
+      "Tucson, AZ"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4458536503",
+    "url": "https://www.linkedin.com/jobs/view/4458712972",
+    "sponsorship": "",
+    "posted": "2026-08-25",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4448194736",
+    "company": "JPMorganChase",
+    "title": "2027 Software Engineer Program - Full-Time - United States - July Start",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4448194736",
+    "sponsorship": "",
+    "posted": "2026-08-25",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4448304463",
+    "company": "JPMorganChase",
+    "title": "2027 Software Engineer Program - Full-Time - United States - February Start",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4448304463",
+    "sponsorship": "",
+    "posted": "2026-08-25",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4458558206",
+    "company": "Uber",
+    "title": "Software Engineer I",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4458558206",
     "sponsorship": "",
     "posted": "2026-08-25",
     "source": "LinkedIn"
@@ -137,13 +161,25 @@
     "source": "SimplifyJobs"
   },
   {
-    "id": "linkedin-4457155749",
-    "company": "Lightfield",
-    "title": "Software Engineer, Applied AI (Early Career)",
+    "id": "linkedin-4458282928",
+    "company": "Lennar",
+    "title": "Software Engineer I",
     "locations": [
-      "San Francisco, CA"
+      "Miami, FL"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4457155749",
+    "url": "https://www.linkedin.com/jobs/view/4458282928",
+    "sponsorship": "",
+    "posted": "2026-08-24",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4456511924",
+    "company": "IBM",
+    "title": "Entry Level Software Developer",
+    "locations": [
+      "Tucson, AZ"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4456511924",
     "sponsorship": "",
     "posted": "2026-08-24",
     "source": "LinkedIn"
@@ -185,37 +221,25 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4458282928",
-    "company": "Lennar",
-    "title": "Software Engineer I",
+    "id": "linkedin-4457155749",
+    "company": "Lightfield",
+    "title": "Software Engineer, Applied AI (Early Career)",
     "locations": [
-      "Miami, FL"
+      "San Francisco, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4458282928",
+    "url": "https://www.linkedin.com/jobs/view/4457155749",
     "sponsorship": "",
     "posted": "2026-08-24",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4458506394",
-    "company": "Cisco",
-    "title": "Software Engineer I (Full Time) - United States",
-    "locations": [
-      "Milpitas, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4458506394",
-    "sponsorship": "",
-    "posted": "2026-08-24",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4458524141",
-    "company": "Cisco",
-    "title": "Software Engineer I (Full Time) - United States",
+    "id": "linkedin-4456531064",
+    "company": "IBM",
+    "title": "Entry Level Software Developer",
     "locations": [
       "San Jose, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4458524141",
+    "url": "https://www.linkedin.com/jobs/view/4456531064",
     "sponsorship": "",
     "posted": "2026-08-24",
     "source": "LinkedIn"
@@ -245,75 +269,27 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4456511924",
-    "company": "IBM",
-    "title": "Entry Level Software Developer",
+    "id": "linkedin-4456882208",
+    "company": "Base-2 Solutions",
+    "title": "Junior Software Engineer",
     "locations": [
-      "Tucson, AZ"
+      "Annapolis Junction, MD"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4456511924",
+    "url": "https://www.linkedin.com/jobs/view/4456882208",
     "sponsorship": "",
     "posted": "2026-08-24",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4455896221",
-    "company": "TraceLink",
-    "title": "Software Engineer I",
+    "id": "linkedin-4456881217",
+    "company": "Base-2 Solutions",
+    "title": "Junior Software Engineer",
     "locations": [
-      "Wilmington, MA"
+      "Hanover, MD"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4455896221",
+    "url": "https://www.linkedin.com/jobs/view/4456881217",
     "sponsorship": "",
     "posted": "2026-08-24",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4458215602",
-    "company": "GE Appliances, a Haier company",
-    "title": "Edison Engineering Development Program (EEDP) - Software \u2013 July 2027",
-    "locations": [
-      "Louisville, KY"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4458215602",
-    "sponsorship": "",
-    "posted": "2026-08-24",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4456522192",
-    "company": "IBM",
-    "title": "Entry Level Software Developer",
-    "locations": [
-      "Poughkeepsie, AR"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4456522192",
-    "sponsorship": "",
-    "posted": "2026-08-24",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4448267311",
-    "company": "SimpliSafe",
-    "title": "Software Engineer II- User Systems",
-    "locations": [
-      "Boston, MA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4448267311",
-    "sponsorship": "",
-    "posted": "2026-08-24",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4455080687",
-    "company": "Jobot",
-    "title": "Hybrid Junior Software Engineer | Full Stack/ Clearable",
-    "locations": [
-      "Manassas, VA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4455080687",
-    "sponsorship": "",
-    "posted": "2026-08-23",
     "source": "LinkedIn"
   },
   {
@@ -329,18 +305,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4435996969",
-    "company": "BAE Systems, Inc.",
-    "title": "Software Engineer II",
-    "locations": [
-      "Totowa, NJ"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4435996969",
-    "sponsorship": "",
-    "posted": "2026-08-23",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4380944856",
     "company": "TRM Labs",
     "title": "University Grad \u2013 Product Engineer (2026-2027) - Los Angeles Only",
@@ -348,6 +312,30 @@
       "Los Angeles, CA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4380944856",
+    "sponsorship": "",
+    "posted": "2026-08-23",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4455080687",
+    "company": "Jobot",
+    "title": "Hybrid Junior Software Engineer | Full Stack/ Clearable",
+    "locations": [
+      "Manassas, VA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4455080687",
+    "sponsorship": "",
+    "posted": "2026-08-23",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4435996969",
+    "company": "BAE Systems, Inc.",
+    "title": "Software Engineer II",
+    "locations": [
+      "Totowa, NJ"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4435996969",
     "sponsorship": "",
     "posted": "2026-08-23",
     "source": "LinkedIn"
@@ -390,6 +378,18 @@
     "source": "Greenhouse"
   },
   {
+    "id": "linkedin-4390703326",
+    "company": "Twitch",
+    "title": "Software Engineer I, Commerce Engineering",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4390703326",
+    "sponsorship": "",
+    "posted": "2026-08-22",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4457805931",
     "company": "Collins Aerospace",
     "title": "Software Engineer I, Onsite",
@@ -397,18 +397,6 @@
       "Fort Wayne, IN"
     ],
     "url": "https://www.linkedin.com/jobs/view/4457805931",
-    "sponsorship": "",
-    "posted": "2026-08-22",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4447579049",
-    "company": "Mimecast",
-    "title": "Software Engineer I",
-    "locations": [
-      "Minneapolis, MN"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4447579049",
     "sponsorship": "",
     "posted": "2026-08-22",
     "source": "LinkedIn"
@@ -1578,18 +1566,6 @@
       "San Jose, CA"
     ],
     "url": "https://jobs.bytedance.com/en/position/7667894766036322565/detail",
-    "sponsorship": "Other",
-    "posted": "2026-08-03",
-    "source": "SimplifyJobs"
-  },
-  {
-    "id": "simplify-830d601a-f246-424f-8b08-23956510de08",
-    "company": "Maven Securities",
-    "title": "Developer New Grad",
-    "locations": [
-      "Chicago, IL"
-    ],
-    "url": "https://job-boards.greenhouse.io/emergingtalent/jobs/8048802",
     "sponsorship": "Other",
     "posted": "2026-08-03",
     "source": "SimplifyJobs"
