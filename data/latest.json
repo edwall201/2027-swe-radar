@@ -1,12 +1,25 @@
 [
   {
-    "id": "linkedin-4446630171",
-    "company": "TikTok USDS Joint Venture",
-    "title": "Software Engineer Graduate (Tech and Product, USDS) - 2027 Start",
+    "id": "simplify-501a5d9d-54bb-4a8b-a3a5-2c6efd18d963",
+    "company": "Fidelity Investments",
+    "title": "Software Engineer New Grad - LEAP",
     "locations": [
-      "San Jose, CA"
+      "Westlake, TX",
+      "Merrimack, NH"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4446630171",
+    "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/Westlake-TX/XMLNAME-2026-Undergraduate---LEAP--Software-Engineer_2134380",
+    "sponsorship": "Other",
+    "posted": "2026-08-25",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "linkedin-4448653008",
+    "company": "SOCOTEC US",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4448653008",
     "sponsorship": "",
     "posted": "2026-08-25",
     "source": "LinkedIn"
@@ -24,73 +37,25 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4448194736",
-    "company": "JPMorganChase",
-    "title": "2027 Software Engineer Program - Full-Time - United States - July Start",
-    "locations": [
-      "Chicago, IL"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4448194736",
-    "sponsorship": "",
-    "posted": "2026-08-25",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4448304463",
-    "company": "JPMorganChase",
-    "title": "2027 Software Engineer Program - Full-Time - United States - February Start",
-    "locations": [
-      "Chicago, IL"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4448304463",
-    "sponsorship": "",
-    "posted": "2026-08-25",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4457465929",
-    "company": "Revature",
-    "title": "Entry Level Software Developer",
-    "locations": [
-      "Syracuse, NY"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4457465929",
-    "sponsorship": "",
-    "posted": "2026-08-25",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4458712972",
-    "company": "Raytheon",
-    "title": "Software Engineer I",
-    "locations": [
-      "Tucson, AZ"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4458712972",
-    "sponsorship": "",
-    "posted": "2026-08-25",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4456943301",
-    "company": "Associazione Piccole e Medie Industrie di Novara, VCO, Vercelli e Valsesia",
-    "title": "Junior Software Engineer",
-    "locations": [
-      "New York, United States"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4456943301",
-    "sponsorship": "",
-    "posted": "2026-08-25",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4458558206",
-    "company": "Uber",
-    "title": "Software Engineer I",
+    "id": "linkedin-4456941649",
+    "company": "Stealth Startup",
+    "title": "Software Engineer \u2013 New Grad",
     "locations": [
       "San Francisco, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4458558206",
+    "url": "https://www.linkedin.com/jobs/view/4456941649",
+    "sponsorship": "",
+    "posted": "2026-08-25",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4448243270",
+    "company": "SOCOTEC",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4448243270",
     "sponsorship": "",
     "posted": "2026-08-25",
     "source": "LinkedIn"
@@ -108,13 +73,97 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4458536503",
-    "company": "Boston Scientific",
+    "id": "linkedin-4457465929",
+    "company": "Revature",
+    "title": "Entry Level Software Developer",
+    "locations": [
+      "Syracuse, NY"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4457465929",
+    "sponsorship": "",
+    "posted": "2026-08-25",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4448304463",
+    "company": "JPMorganChase",
+    "title": "2027 Software Engineer Program - Full-Time - United States - February Start",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4448304463",
+    "sponsorship": "",
+    "posted": "2026-08-25",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4458712972",
+    "company": "Raytheon",
     "title": "Software Engineer I",
     "locations": [
-      "Arden Hills, MN"
+      "Tucson, AZ"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4458536503",
+    "url": "https://www.linkedin.com/jobs/view/4458712972",
+    "sponsorship": "",
+    "posted": "2026-08-25",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4458544999",
+    "company": "Uber",
+    "title": "Software Engineer I",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4458544999",
+    "sponsorship": "",
+    "posted": "2026-08-25",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4458748601",
+    "company": "Haystack",
+    "title": "Junior Software Developer",
+    "locations": [
+      "Annapolis Junction, MD"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4458748601",
+    "sponsorship": "",
+    "posted": "2026-08-25",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4446630171",
+    "company": "TikTok USDS Joint Venture",
+    "title": "Software Engineer Graduate (Tech and Product, USDS) - 2027 Start",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4446630171",
+    "sponsorship": "",
+    "posted": "2026-08-25",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4448194736",
+    "company": "JPMorganChase",
+    "title": "2027 Software Engineer Program - Full-Time - United States - July Start",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4448194736",
+    "sponsorship": "",
+    "posted": "2026-08-25",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4458558206",
+    "company": "Uber",
+    "title": "Software Engineer I",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4458558206",
     "sponsorship": "",
     "posted": "2026-08-25",
     "source": "LinkedIn"
@@ -233,6 +282,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4458282928",
+    "company": "Lennar",
+    "title": "Software Engineer I",
+    "locations": [
+      "Miami, FL"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4458282928",
+    "sponsorship": "",
+    "posted": "2026-08-24",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4456531064",
     "company": "IBM",
     "title": "Entry Level Software Developer",
@@ -305,51 +366,39 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4458524141",
-    "company": "Cisco",
-    "title": "Software Engineer I (Full Time) - United States",
+    "id": "linkedin-4448267311",
+    "company": "SimpliSafe",
+    "title": "Software Engineer II- User Systems",
     "locations": [
-      "San Jose, CA"
+      "Boston, MA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4458524141",
+    "url": "https://www.linkedin.com/jobs/view/4448267311",
     "sponsorship": "",
     "posted": "2026-08-24",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4458282928",
-    "company": "Lennar",
-    "title": "Software Engineer I",
+    "id": "linkedin-4456882208",
+    "company": "Base-2 Solutions",
+    "title": "Junior Software Engineer",
     "locations": [
-      "Miami, FL"
+      "Annapolis Junction, MD"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4458282928",
+    "url": "https://www.linkedin.com/jobs/view/4456882208",
     "sponsorship": "",
     "posted": "2026-08-24",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4380944856",
-    "company": "TRM Labs",
-    "title": "University Grad \u2013 Product Engineer (2026-2027) - Los Angeles Only",
+    "id": "linkedin-4456881217",
+    "company": "Base-2 Solutions",
+    "title": "Junior Software Engineer",
     "locations": [
-      "Los Angeles, CA"
+      "Hanover, MD"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4380944856",
+    "url": "https://www.linkedin.com/jobs/view/4456881217",
     "sponsorship": "",
-    "posted": "2026-08-23",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4390488405",
-    "company": "Twitch",
-    "title": "Software Engineer I, Commerce Engineering",
-    "locations": [
-      "Seattle, WA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4390488405",
-    "sponsorship": "",
-    "posted": "2026-08-23",
+    "posted": "2026-08-24",
     "source": "LinkedIn"
   },
   {
@@ -357,7 +406,7 @@
     "company": "York Space Systems",
     "title": "Software Engineer I",
     "locations": [
-      "Greenwood Village, CO"
+      "Laurel, MD"
     ],
     "url": "https://www.linkedin.com/jobs/view/4428293134",
     "sponsorship": "",
@@ -412,30 +461,6 @@
     "sponsorship": "",
     "posted": "2026-08-22",
     "source": "Greenhouse"
-  },
-  {
-    "id": "linkedin-4390703326",
-    "company": "Twitch",
-    "title": "Software Engineer I, Commerce Engineering",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4390703326",
-    "sponsorship": "",
-    "posted": "2026-08-22",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4455066057",
-    "company": "Applied Materials",
-    "title": "Software Engineer I - New College Grad (Bachelors - Kalispell, MT)",
-    "locations": [
-      "Kalispell, MT"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4455066057",
-    "sponsorship": "",
-    "posted": "2026-08-22",
-    "source": "LinkedIn"
   },
   {
     "id": "simplify-eb3814c7-6fd3-4e58-852c-6cc00005cf9a",
@@ -1155,21 +1180,6 @@
       "San Jose, CA"
     ],
     "url": "https://jobs.bytedance.com/en/position/7669789046777940229/detail",
-    "sponsorship": "Other",
-    "posted": "2026-08-06",
-    "source": "SimplifyJobs"
-  },
-  {
-    "id": "simplify-5b58ae21-c56b-47a7-92cd-cfae937732a1",
-    "company": "Atoms",
-    "title": "Software Engineer New Grad",
-    "locations": [
-      "Seattle, WA",
-      "LA",
-      "NYC",
-      "Mountain View, CA"
-    ],
-    "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8687930002",
     "sponsorship": "Other",
     "posted": "2026-08-06",
     "source": "SimplifyJobs"
