@@ -25,6 +25,18 @@
     "source": "SimplifyJobs"
   },
   {
+    "id": "linkedin-4457947299",
+    "company": "Revature",
+    "title": "Entry Level Software Developer",
+    "locations": [
+      "Texas, United States"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4457947299",
+    "sponsorship": "",
+    "posted": "2026-08-26",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4457912660",
     "company": "SAIC",
     "title": "Junior Software Engineer",
@@ -37,29 +49,16 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4459116032",
-    "company": "Vanguard",
-    "title": "Entry Level Application Engineer - Dallas - 2027 Start Date",
+    "id": "linkedin-4459157276",
+    "company": "Uber",
+    "title": "Software Engineer I",
     "locations": [
-      "Dallas, TX"
+      "New York, NY"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4459116032",
+    "url": "https://www.linkedin.com/jobs/view/4459157276",
     "sponsorship": "",
     "posted": "2026-08-26",
     "source": "LinkedIn"
-  },
-  {
-    "id": "simplify-501a5d9d-54bb-4a8b-a3a5-2c6efd18d963",
-    "company": "Fidelity Investments",
-    "title": "Software Engineer New Grad - LEAP",
-    "locations": [
-      "Westlake, TX",
-      "Merrimack, NH"
-    ],
-    "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/Westlake-TX/XMLNAME-2026-Undergraduate---LEAP--Software-Engineer_2134380",
-    "sponsorship": "Other",
-    "posted": "2026-08-25",
-    "source": "SimplifyJobs"
   },
   {
     "id": "simplify-38c27a23-7876-45aa-b3c9-dc90974d6625",
@@ -272,37 +271,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4446630171",
-    "company": "TikTok USDS Joint Venture",
-    "title": "Software Engineer Graduate (Tech and Product, USDS) - 2027 Start",
+    "id": "linkedin-4459046533",
+    "company": "Zip",
+    "title": "Software Engineer, New Grad (2027 Start)",
     "locations": [
-      "San Jose, CA"
+      "San Francisco, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4446630171",
-    "sponsorship": "",
-    "posted": "2026-08-25",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4448243270",
-    "company": "SOCOTEC",
-    "title": "Junior Software Engineer",
-    "locations": [
-      "New York, NY"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4448243270",
-    "sponsorship": "",
-    "posted": "2026-08-25",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4459058143",
-    "company": "Prophet Security",
-    "title": "Software Engineer New Grad",
-    "locations": [
-      "Palo Alto, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4459058143",
+    "url": "https://www.linkedin.com/jobs/view/4459046533",
     "sponsorship": "",
     "posted": "2026-08-25",
     "source": "LinkedIn"
@@ -332,6 +307,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4459058143",
+    "company": "Prophet Security",
+    "title": "Software Engineer New Grad",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4459058143",
+    "sponsorship": "",
+    "posted": "2026-08-25",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4458712972",
     "company": "Raytheon",
     "title": "Software Engineer I",
@@ -344,37 +331,37 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4458544999",
-    "company": "Uber",
-    "title": "Software Engineer I",
+    "id": "linkedin-4448243270",
+    "company": "SOCOTEC",
+    "title": "Junior Software Engineer",
     "locations": [
-      "Sunnyvale, CA"
+      "New York, NY"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4458544999",
+    "url": "https://www.linkedin.com/jobs/view/4448243270",
     "sponsorship": "",
     "posted": "2026-08-25",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4458747289",
-    "company": "Amazon",
-    "title": "Software Development Engineer, Amazon Leo, Early Career - 2026",
+    "id": "linkedin-4448653008",
+    "company": "SOCOTEC US",
+    "title": "Junior Software Engineer",
     "locations": [
-      "Redmond, WA"
+      "New York, NY"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4458747289",
+    "url": "https://www.linkedin.com/jobs/view/4448653008",
     "sponsorship": "",
     "posted": "2026-08-25",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4458558206",
-    "company": "Uber",
-    "title": "Software Engineer I",
+    "id": "linkedin-4459018695",
+    "company": "ECS",
+    "title": "Junior Software Engineer",
     "locations": [
-      "San Francisco, CA"
+      "Springfield, VA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4458558206",
+    "url": "https://www.linkedin.com/jobs/view/4459018695",
     "sponsorship": "",
     "posted": "2026-08-25",
     "source": "LinkedIn"
@@ -392,13 +379,49 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4459018695",
-    "company": "ECS",
-    "title": "Junior Software Engineer",
+    "id": "linkedin-4458747289",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Amazon Leo, Early Career - 2026",
     "locations": [
-      "Springfield, VA"
+      "Redmond, WA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4459018695",
+    "url": "https://www.linkedin.com/jobs/view/4458747289",
+    "sponsorship": "",
+    "posted": "2026-08-25",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4458746537",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Amazon Leo, Early Career - 2026",
+    "locations": [
+      "Los Angeles, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4458746537",
+    "sponsorship": "",
+    "posted": "2026-08-25",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4446630171",
+    "company": "TikTok USDS Joint Venture",
+    "title": "Software Engineer Graduate (Tech and Product, USDS) - 2027 Start",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4446630171",
+    "sponsorship": "",
+    "posted": "2026-08-25",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4458558206",
+    "company": "Uber",
+    "title": "Software Engineer I",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4458558206",
     "sponsorship": "",
     "posted": "2026-08-25",
     "source": "LinkedIn"
@@ -541,13 +564,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4456531064",
-    "company": "IBM",
-    "title": "Entry Level Software Developer",
+    "id": "linkedin-4457155749",
+    "company": "Lightfield",
+    "title": "Software Engineer, Applied AI (Early Career)",
     "locations": [
-      "San Jose, CA"
+      "San Francisco, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4456531064",
+    "url": "https://www.linkedin.com/jobs/view/4457155749",
     "sponsorship": "",
     "posted": "2026-08-24",
     "source": "LinkedIn"
@@ -565,13 +588,37 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4458506394",
-    "company": "Cisco",
-    "title": "Software Engineer I (Full Time) - United States",
+    "id": "linkedin-4456531064",
+    "company": "IBM",
+    "title": "Entry Level Software Developer",
     "locations": [
-      "Milpitas, CA"
+      "San Jose, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4458506394",
+    "url": "https://www.linkedin.com/jobs/view/4456531064",
+    "sponsorship": "",
+    "posted": "2026-08-24",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4456522192",
+    "company": "IBM",
+    "title": "Entry Level Software Developer",
+    "locations": [
+      "Poughkeepsie, AR"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4456522192",
+    "sponsorship": "",
+    "posted": "2026-08-24",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4448267311",
+    "company": "SimpliSafe",
+    "title": "Software Engineer II- User Systems",
+    "locations": [
+      "Boston, MA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4448267311",
     "sponsorship": "",
     "posted": "2026-08-24",
     "source": "LinkedIn"
@@ -593,9 +640,33 @@
     "company": "York Space Systems",
     "title": "Software Engineer I",
     "locations": [
-      "Greenwood Village, CO"
+      "Austin, TX"
     ],
     "url": "https://www.linkedin.com/jobs/view/4428293134",
+    "sponsorship": "",
+    "posted": "2026-08-23",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4380944856",
+    "company": "TRM Labs",
+    "title": "University Grad \u2013 Product Engineer (2026-2027) - Los Angeles Only",
+    "locations": [
+      "Los Angeles, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4380944856",
+    "sponsorship": "",
+    "posted": "2026-08-23",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4424963243",
+    "company": "CGI",
+    "title": "Junior Software Developer",
+    "locations": [
+      "Lafayette, LA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4424963243",
     "sponsorship": "",
     "posted": "2026-08-23",
     "source": "LinkedIn"
