@@ -25,6 +25,42 @@
     "source": "SimplifyJobs"
   },
   {
+    "id": "simplify-2ed80b78-d184-4d1d-b9c2-7150eb9067c2",
+    "company": "Cox Automotive",
+    "title": "Entry Level Software Engineer - Draper, UT",
+    "locations": [
+      "Draper, UT"
+    ],
+    "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Draper-UT/Entry-Level-Software-Engineer--Draper--UT-_R202681804",
+    "sponsorship": "Other",
+    "posted": "2026-08-26",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-7a614b8e-eeeb-467f-a654-af659a1021c7",
+    "company": "Micron Technology",
+    "title": "Electrical Engineer New Grad - DRAM Design Engineering",
+    "locations": [
+      "Boise, ID"
+    ],
+    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---DRAM-Design-Engineer_JR109572",
+    "sponsorship": "Other",
+    "posted": "2026-08-26",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "linkedin-4458536503",
+    "company": "Boston Scientific",
+    "title": "Software Engineer I",
+    "locations": [
+      "Arden Hills, MN"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4458536503",
+    "sponsorship": "",
+    "posted": "2026-08-26",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4459312102",
     "company": "Hire Feed",
     "title": "Junior Software Engineer (Remote)",
@@ -32,6 +68,18 @@
       "United States"
     ],
     "url": "https://www.linkedin.com/jobs/view/4459312102",
+    "sponsorship": "",
+    "posted": "2026-08-26",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4457946482",
+    "company": "Sonata Software",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "Phoenix, AZ"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4457946482",
     "sponsorship": "",
     "posted": "2026-08-26",
     "source": "LinkedIn"
@@ -49,13 +97,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4459157276",
-    "company": "Uber",
-    "title": "Software Engineer I",
+    "id": "linkedin-4457256457",
+    "company": "BeaconFire Inc.",
+    "title": "Entry-Level / Junior Software Developer",
     "locations": [
-      "New York, NY"
+      "New Jersey, United States"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4459157276",
+    "url": "https://www.linkedin.com/jobs/view/4457256457",
     "sponsorship": "",
     "posted": "2026-08-26",
     "source": "LinkedIn"
@@ -199,25 +247,13 @@
     "source": "SimplifyJobs"
   },
   {
-    "id": "linkedin-4459034091",
-    "company": "The Voleon Group",
-    "title": "Software Engineer - University Hire 2027",
+    "id": "linkedin-4446613511",
+    "company": "TikTok USDS Joint Venture",
+    "title": "Software Engineer Graduate (Tech and Product, USDS) - 2027 Start",
     "locations": [
-      "Berkeley, CA"
+      "Seattle, WA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4459034091",
-    "sponsorship": "",
-    "posted": "2026-08-25",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4459046533",
-    "company": "Zip",
-    "title": "Software Engineer, New Grad (2027 Start)",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4459046533",
+    "url": "https://www.linkedin.com/jobs/view/4446613511",
     "sponsorship": "",
     "posted": "2026-08-25",
     "source": "LinkedIn"
@@ -235,13 +271,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4458536503",
-    "company": "Boston Scientific",
-    "title": "Software Engineer I",
+    "id": "linkedin-4459034091",
+    "company": "The Voleon Group",
+    "title": "Software Engineer - University Hire 2027",
     "locations": [
-      "Arden Hills, MN"
+      "Berkeley, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4458536503",
+    "url": "https://www.linkedin.com/jobs/view/4459034091",
     "sponsorship": "",
     "posted": "2026-08-25",
     "source": "LinkedIn"
@@ -271,61 +307,25 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4446630171",
-    "company": "TikTok USDS Joint Venture",
-    "title": "Software Engineer Graduate (Tech and Product, USDS) - 2027 Start",
+    "id": "linkedin-4456954308",
+    "company": "Zebra Technologies",
+    "title": "Software Engineer I",
     "locations": [
-      "San Jose, CA"
+      "Lincolnshire, IL"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4446630171",
+    "url": "https://www.linkedin.com/jobs/view/4456954308",
     "sponsorship": "",
     "posted": "2026-08-25",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4446613511",
-    "company": "TikTok USDS Joint Venture",
-    "title": "Software Engineer Graduate (Tech and Product, USDS) - 2027 Start",
+    "id": "linkedin-4458544999",
+    "company": "Uber",
+    "title": "Software Engineer I",
     "locations": [
-      "Seattle, WA"
+      "Sunnyvale, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4446613511",
-    "sponsorship": "",
-    "posted": "2026-08-25",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4458747289",
-    "company": "Amazon",
-    "title": "Software Development Engineer, Amazon Leo, Early Career - 2026",
-    "locations": [
-      "Redmond, WA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4458747289",
-    "sponsorship": "",
-    "posted": "2026-08-25",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4457692054",
-    "company": "Cox Communications, Inc.",
-    "title": "Entry Level Software Engineer (Burlington, VT)",
-    "locations": [
-      "Burlington, VT"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4457692054",
-    "sponsorship": "",
-    "posted": "2026-08-25",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4459058143",
-    "company": "Prophet Security",
-    "title": "Software Engineer New Grad",
-    "locations": [
-      "Palo Alto, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4459058143",
+    "url": "https://www.linkedin.com/jobs/view/4458544999",
     "sponsorship": "",
     "posted": "2026-08-25",
     "source": "LinkedIn"
@@ -355,25 +355,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4459018695",
-    "company": "ECS",
-    "title": "Junior Software Engineer",
+    "id": "linkedin-4446630171",
+    "company": "TikTok USDS Joint Venture",
+    "title": "Software Engineer Graduate (Tech and Product, USDS) - 2027 Start",
     "locations": [
-      "Springfield, VA"
+      "San Jose, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4459018695",
-    "sponsorship": "",
-    "posted": "2026-08-25",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4456556367",
-    "company": "Procter & Gamble",
-    "title": "IT Engineering (Software, Platform, & Network) (2027 Grads)",
-    "locations": [
-      "Cincinnati, OH"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4456556367",
+    "url": "https://www.linkedin.com/jobs/view/4446630171",
     "sponsorship": "",
     "posted": "2026-08-25",
     "source": "LinkedIn"
@@ -386,6 +374,18 @@
       "San Francisco, CA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4458558206",
+    "sponsorship": "",
+    "posted": "2026-08-25",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4456556367",
+    "company": "Procter & Gamble",
+    "title": "IT Engineering (Software, Platform, & Network) (2027 Grads)",
+    "locations": [
+      "Cincinnati, OH"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4456556367",
     "sponsorship": "",
     "posted": "2026-08-25",
     "source": "LinkedIn"
@@ -480,66 +480,6 @@
     "source": "SimplifyJobs"
   },
   {
-    "id": "linkedin-4457155749",
-    "company": "Lightfield",
-    "title": "Software Engineer, Applied AI (Early Career)",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4457155749",
-    "sponsorship": "",
-    "posted": "2026-08-24",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4457148778",
-    "company": "Lightfield",
-    "title": "Software Engineer, Infrastructure (Early Career)",
-    "locations": [
-      "Cambridge, MA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4457148778",
-    "sponsorship": "",
-    "posted": "2026-08-24",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4458256703",
-    "company": "Nightwing",
-    "title": "Software Engineer I",
-    "locations": [
-      "Sterling, VA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4458256703",
-    "sponsorship": "",
-    "posted": "2026-08-24",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4456531064",
-    "company": "IBM",
-    "title": "Entry Level Software Developer",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4456531064",
-    "sponsorship": "",
-    "posted": "2026-08-24",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4455862955",
-    "company": "Stealth Startup",
-    "title": "Software Engineer \u2013 New Grad [33457]",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4455862955",
-    "sponsorship": "",
-    "posted": "2026-08-24",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4458282928",
     "company": "Lennar",
     "title": "Software Engineer I",
@@ -552,13 +492,25 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4458506394",
-    "company": "Cisco",
-    "title": "Software Engineer I (Full Time) - United States",
+    "id": "linkedin-4456511924",
+    "company": "IBM",
+    "title": "Entry Level Software Developer",
     "locations": [
-      "Milpitas, CA"
+      "Tucson, AZ"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4458506394",
+    "url": "https://www.linkedin.com/jobs/view/4456511924",
+    "sponsorship": "",
+    "posted": "2026-08-24",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4456513989",
+    "company": "IBM",
+    "title": "Entry Level Software Developer",
+    "locations": [
+      "Rochester, MN"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4456513989",
     "sponsorship": "",
     "posted": "2026-08-24",
     "source": "LinkedIn"
@@ -576,27 +528,51 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4448267311",
-    "company": "SimpliSafe",
-    "title": "Software Engineer II- User Systems",
+    "id": "linkedin-4458506394",
+    "company": "Cisco",
+    "title": "Software Engineer I (Full Time) - United States",
     "locations": [
-      "Boston, MA"
+      "Milpitas, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4448267311",
+    "url": "https://www.linkedin.com/jobs/view/4458506394",
     "sponsorship": "",
     "posted": "2026-08-24",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4428293134",
-    "company": "York Space Systems",
-    "title": "Software Engineer I",
+    "id": "linkedin-4458524141",
+    "company": "Cisco",
+    "title": "Software Engineer I (Full Time) - United States",
     "locations": [
-      "Austin, TX"
+      "San Jose, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4428293134",
+    "url": "https://www.linkedin.com/jobs/view/4458524141",
     "sponsorship": "",
-    "posted": "2026-08-23",
+    "posted": "2026-08-24",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4456531064",
+    "company": "IBM",
+    "title": "Entry Level Software Developer",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4456531064",
+    "sponsorship": "",
+    "posted": "2026-08-24",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4457148778",
+    "company": "Lightfield",
+    "title": "Software Engineer, Infrastructure (Early Career)",
+    "locations": [
+      "Cambridge, MA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4457148778",
+    "sponsorship": "",
+    "posted": "2026-08-24",
     "source": "LinkedIn"
   },
   {
@@ -849,18 +825,6 @@
       "United States"
     ],
     "url": "https://jobs.ashbyhq.com/litellm/769df1b5-70bb-40fe-b2e2-ef052eb3afa3/application?embed=true",
-    "sponsorship": "Other",
-    "posted": "2026-08-15",
-    "source": "SimplifyJobs"
-  },
-  {
-    "id": "simplify-5e2b041d-3b5b-414f-8491-242be06bf425",
-    "company": "Applied Intuition",
-    "title": "Scenario Engineer New Grad",
-    "locations": [
-      "Sunnyvale, CA"
-    ],
-    "url": "https://jobs.ashbyhq.com/applied/f382de9d-d5e4-4dc8-85a0-0bae7125f8cf/application?embed=true",
     "sponsorship": "Other",
     "posted": "2026-08-15",
     "source": "SimplifyJobs"
@@ -1340,6 +1304,21 @@
       "San Jose, CA"
     ],
     "url": "https://jobs.bytedance.com/en/position/7669789046777940229/detail",
+    "sponsorship": "Other",
+    "posted": "2026-08-06",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-5b58ae21-c56b-47a7-92cd-cfae937732a1",
+    "company": "Atoms",
+    "title": "Software Engineer New Grad",
+    "locations": [
+      "Seattle, WA",
+      "LA",
+      "NYC",
+      "Mountain View, CA"
+    ],
+    "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8687930002",
     "sponsorship": "Other",
     "posted": "2026-08-06",
     "source": "SimplifyJobs"
@@ -2732,6 +2711,18 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Staff-Mixed-Signal-Design-Engine--HBM_JR93217",
     "sponsorship": "Other",
     "posted": "2026-05-16",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-40955085-af36-47cc-9be4-e7ee3a1ead92",
+    "company": "Cox",
+    "title": "Entry Level Software Engineer",
+    "locations": [
+      "Draper, UT"
+    ],
+    "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Draper-UT/Entry-Level-Software-Engineer--Draper--UT-_R202677231",
+    "sponsorship": "Other",
+    "posted": "2026-05-14",
     "source": "SimplifyJobs"
   },
   {
