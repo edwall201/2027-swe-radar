@@ -12,54 +12,6 @@
     "source": "SimplifyJobs"
   },
   {
-    "id": "linkedin-4460599929",
-    "company": "Hire Feed",
-    "title": "Junior Software Engineer (Remote)",
-    "locations": [
-      "United States"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4460599929",
-    "sponsorship": "",
-    "posted": "2026-08-29",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4450365978",
-    "company": "Freeform",
-    "title": "Software Engineer (New Grad December 2026)",
-    "locations": [
-      "Los Angeles, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4450365978",
-    "sponsorship": "",
-    "posted": "2026-08-29",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4441944930",
-    "company": "Acrisure",
-    "title": "Software Engineer I",
-    "locations": [
-      "Grand Rapids, MI"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4441944930",
-    "sponsorship": "",
-    "posted": "2026-08-29",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4441962253",
-    "company": "Acrisure",
-    "title": "Software Engineer I",
-    "locations": [
-      "Uniondale, NY"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4441962253",
-    "sponsorship": "",
-    "posted": "2026-08-29",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4460550983",
     "company": "MetLife",
     "title": "Junior Software Engineer",
@@ -67,6 +19,54 @@
       "Cary, NC"
     ],
     "url": "https://www.linkedin.com/jobs/view/4460550983",
+    "sponsorship": "",
+    "posted": "2026-08-29",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4438791117",
+    "company": "Sony Interactive Entertainment",
+    "title": "Software Engineer I",
+    "locations": [
+      "San Mateo, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4438791117",
+    "sponsorship": "",
+    "posted": "2026-08-29",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4441947789",
+    "company": "Acrisure",
+    "title": "Software Engineer II",
+    "locations": [
+      "Uniondale, NY"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4441947789",
+    "sponsorship": "",
+    "posted": "2026-08-29",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4441953583",
+    "company": "Acrisure",
+    "title": "Software Engineer I",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4441953583",
+    "sponsorship": "",
+    "posted": "2026-08-29",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4459434916",
+    "company": "Carterra",
+    "title": "Software Engineer I",
+    "locations": [
+      "Salt Lake City, UT"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4459434916",
     "sponsorship": "",
     "posted": "2026-08-29",
     "source": "LinkedIn"
@@ -84,13 +84,37 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4459434916",
-    "company": "Carterra",
+    "id": "linkedin-4441962253",
+    "company": "Acrisure",
     "title": "Software Engineer I",
     "locations": [
-      "Salt Lake City, UT"
+      "Uniondale, NY"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4459434916",
+    "url": "https://www.linkedin.com/jobs/view/4441962253",
+    "sponsorship": "",
+    "posted": "2026-08-29",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4460831560",
+    "company": "FASHIONPHILE",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "Lehi, UT"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4460831560",
+    "sponsorship": "",
+    "posted": "2026-08-29",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4441944930",
+    "company": "Acrisure",
+    "title": "Software Engineer I",
+    "locations": [
+      "Grand Rapids, MI"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4441944930",
     "sponsorship": "",
     "posted": "2026-08-29",
     "source": "LinkedIn"
@@ -136,13 +160,49 @@
     "source": "SimplifyJobs"
   },
   {
-    "id": "linkedin-4448770207",
-    "company": "Google",
-    "title": "Software Engineer, Early Career, Campus",
+    "id": "linkedin-4458410833",
+    "company": "IBM",
+    "title": "Entry Level Software Developer-Tucston-AZ",
     "locations": [
-      "Los Angeles, CA"
+      "Tucson, AZ"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4448770207",
+    "url": "https://www.linkedin.com/jobs/view/4458410833",
+    "sponsorship": "",
+    "posted": "2026-08-28",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4450024039",
+    "company": "IXL Learning",
+    "title": "Software Engineer, New Grad",
+    "locations": [
+      "San Mateo, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4450024039",
+    "sponsorship": "",
+    "posted": "2026-08-28",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4457256457",
+    "company": "BeaconFire Inc.",
+    "title": "Entry-Level / Junior Software Developer",
+    "locations": [
+      "New Jersey, United States"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4457256457",
+    "sponsorship": "",
+    "posted": "2026-08-28",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4460152275",
+    "company": "Integer Technologies",
+    "title": "Software Engineer II",
+    "locations": [
+      "Baton Rouge, LA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4460152275",
     "sponsorship": "",
     "posted": "2026-08-28",
     "source": "LinkedIn"
@@ -155,6 +215,18 @@
       "San Francisco, CA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4438453689",
+    "sponsorship": "",
+    "posted": "2026-08-28",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4448770207",
+    "company": "Google",
+    "title": "Software Engineer, Early Career, Campus",
+    "locations": [
+      "Los Angeles, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4448770207",
     "sponsorship": "",
     "posted": "2026-08-28",
     "source": "LinkedIn"
@@ -220,25 +292,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4458410833",
-    "company": "IBM",
-    "title": "Entry Level Software Developer-Tucston-AZ",
+    "id": "linkedin-4460323536",
+    "company": "Raytheon",
+    "title": "Software Engineer I (Onsite)",
     "locations": [
-      "Tucson, AZ"
+      "Huntsville, AL"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4458410833",
-    "sponsorship": "",
-    "posted": "2026-08-28",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4450024039",
-    "company": "IXL Learning",
-    "title": "Software Engineer, New Grad",
-    "locations": [
-      "San Mateo, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4450024039",
+    "url": "https://www.linkedin.com/jobs/view/4460323536",
     "sponsorship": "",
     "posted": "2026-08-28",
     "source": "LinkedIn"
@@ -292,6 +352,42 @@
     "source": "SimplifyJobs"
   },
   {
+    "id": "linkedin-4438446984",
+    "company": "Netic",
+    "title": "Software Engineer (Agent Platform) - New Grad - 2026-2027",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4438446984",
+    "sponsorship": "",
+    "posted": "2026-08-27",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4458324591",
+    "company": "EvenUp",
+    "title": "Software Engineer (New Grad), Data Products",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4458324591",
+    "sponsorship": "",
+    "posted": "2026-08-27",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4459643299",
+    "company": "Teleskope",
+    "title": "Software Engineer II",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4459643299",
+    "sponsorship": "",
+    "posted": "2026-08-27",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4449138344",
     "company": "Roblox",
     "title": "[2027] Software Engineer, Early Career",
@@ -311,66 +407,6 @@
       "San Francisco, CA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4439959402",
-    "sponsorship": "",
-    "posted": "2026-08-27",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4459690721",
-    "company": "Cox Automotive Inc.",
-    "title": "Entry Level Software Engineer (Draper, UT)",
-    "locations": [
-      "Draper, UT"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4459690721",
-    "sponsorship": "",
-    "posted": "2026-08-27",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4460106817",
-    "company": "General Matter",
-    "title": "Software Engineer, New Grad",
-    "locations": [
-      "Los Angeles, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4460106817",
-    "sponsorship": "",
-    "posted": "2026-08-27",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4438463495",
-    "company": "Netic",
-    "title": "Full-Stack Software Engineer (Product) - New Grad - 2026-2027",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4438463495",
-    "sponsorship": "",
-    "posted": "2026-08-27",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4432441876",
-    "company": "SEI",
-    "title": "Software Engineer II",
-    "locations": [
-      "Chicago, IL"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4432441876",
-    "sponsorship": "",
-    "posted": "2026-08-27",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4438446984",
-    "company": "Netic",
-    "title": "Software Engineer (Agent Platform) - New Grad - 2026-2027",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4438446984",
     "sponsorship": "",
     "posted": "2026-08-27",
     "source": "LinkedIn"
@@ -400,6 +436,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4460106817",
+    "company": "General Matter",
+    "title": "Software Engineer, New Grad",
+    "locations": [
+      "Los Angeles, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4460106817",
+    "sponsorship": "",
+    "posted": "2026-08-27",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4458034583",
     "company": "USAA",
     "title": "Junior Software Engineer",
@@ -412,13 +460,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4458013230",
-    "company": "Sierra Nevada Corporation",
-    "title": "Software Engineer I",
+    "id": "linkedin-4458034584",
+    "company": "USAA",
+    "title": "Junior Software Engineer",
     "locations": [
-      "Dayton, OH"
+      "Plano, TX"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4458013230",
+    "url": "https://www.linkedin.com/jobs/view/4458034584",
     "sponsorship": "",
     "posted": "2026-08-27",
     "source": "LinkedIn"
@@ -485,13 +533,13 @@
     "source": "SimplifyJobs"
   },
   {
-    "id": "linkedin-4459339602",
-    "company": "Cox Automotive Inc.",
-    "title": "Entry Level Software Engineer (Burlington, VT)",
+    "id": "linkedin-4457986953",
+    "company": "Twitch",
+    "title": "Software Engineer I, Memberships",
     "locations": [
-      "Burlington, VT"
+      "San Francisco, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4459339602",
+    "url": "https://www.linkedin.com/jobs/view/4457986953",
     "sponsorship": "",
     "posted": "2026-08-26",
     "source": "LinkedIn"
