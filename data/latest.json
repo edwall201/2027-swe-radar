@@ -1,17 +1,5 @@
 [
   {
-    "id": "linkedin-4460896142",
-    "company": "FASHIONPHILE",
-    "title": "Junior Software Engineer",
-    "locations": [
-      "Lehi, UT"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4460896142",
-    "sponsorship": "",
-    "posted": "2026-08-30",
-    "source": "LinkedIn"
-  },
-  {
     "id": "simplify-3e1957cd-768a-47fc-9140-cae0d35bb273",
     "company": "Cogent Security",
     "title": "Forward Deployed Agent Engineer - Early Career",
@@ -60,13 +48,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4451024488",
-    "company": "IBM",
-    "title": "Federal Associate Developer 2027",
+    "id": "linkedin-4441947789",
+    "company": "Acrisure",
+    "title": "Software Engineer II",
     "locations": [
-      "Herndon, VA"
+      "Uniondale, NY"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4451024488",
+    "url": "https://www.linkedin.com/jobs/view/4441947789",
     "sponsorship": "",
     "posted": "2026-08-29",
     "source": "LinkedIn"
@@ -84,13 +72,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4460815593",
-    "company": "Microsoft",
-    "title": "Software Engineer Intune",
+    "id": "linkedin-4459434916",
+    "company": "Carterra",
+    "title": "Software Engineer I",
     "locations": [
-      "Redmond, WA"
+      "Salt Lake City, UT"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4460815593",
+    "url": "https://www.linkedin.com/jobs/view/4459434916",
     "sponsorship": "",
     "posted": "2026-08-29",
     "source": "LinkedIn"
@@ -108,18 +96,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4459434916",
-    "company": "Carterra",
-    "title": "Software Engineer I",
-    "locations": [
-      "Salt Lake City, UT"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4459434916",
-    "sponsorship": "",
-    "posted": "2026-08-29",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4441944930",
     "company": "Acrisure",
     "title": "Software Engineer I",
@@ -127,6 +103,18 @@
       "Grand Rapids, MI"
     ],
     "url": "https://www.linkedin.com/jobs/view/4441944930",
+    "sponsorship": "",
+    "posted": "2026-08-29",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4449213283",
+    "company": "Belvedere Trading, LLC",
+    "title": "Software Engineer - Entry Level 2027",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4449213283",
     "sponsorship": "",
     "posted": "2026-08-29",
     "source": "LinkedIn"
@@ -144,13 +132,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4450365978",
-    "company": "Freeform",
-    "title": "Software Engineer (New Grad December 2026)",
+    "id": "linkedin-4460815593",
+    "company": "Microsoft",
+    "title": "Software Engineer Intune",
     "locations": [
-      "Los Angeles, CA"
+      "Redmond, WA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4450365978",
+    "url": "https://www.linkedin.com/jobs/view/4460815593",
     "sponsorship": "",
     "posted": "2026-08-29",
     "source": "LinkedIn"
@@ -256,49 +244,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4460385598",
-    "company": "L3Harris Technologies",
-    "title": "Assoc, Software Engineer (New Grad - Salt Lake City, UT) 1 1 1",
+    "id": "linkedin-4460152275",
+    "company": "Integer Technologies",
+    "title": "Software Engineer II",
     "locations": [
-      "Salt Lake City, UT"
+      "Baton Rouge, LA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4460385598",
-    "sponsorship": "",
-    "posted": "2026-08-28",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4460147355",
-    "company": "Boston Scientific",
-    "title": "Software Engineer I",
-    "locations": [
-      "Arden Hills, MN"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4460147355",
-    "sponsorship": "",
-    "posted": "2026-08-28",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4448761504",
-    "company": "Google",
-    "title": "Software Engineer, Early Career, Campus",
-    "locations": [
-      "Kirkland, WA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4448761504",
-    "sponsorship": "",
-    "posted": "2026-08-28",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4460323536",
-    "company": "Raytheon",
-    "title": "Software Engineer I (Onsite)",
-    "locations": [
-      "Huntsville, AL"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4460323536",
+    "url": "https://www.linkedin.com/jobs/view/4460152275",
     "sponsorship": "",
     "posted": "2026-08-28",
     "source": "LinkedIn"
@@ -316,13 +268,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4441946844",
-    "company": "Acrisure",
-    "title": "Software Engineer I",
+    "id": "linkedin-4458950705",
+    "company": "Revature",
+    "title": "Entry Level Software Developer",
     "locations": [
-      "Austin, TX"
+      "New Jersey, United States"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4441946844",
+    "url": "https://www.linkedin.com/jobs/view/4458950705",
     "sponsorship": "",
     "posted": "2026-08-28",
     "source": "LinkedIn"
@@ -335,6 +287,54 @@
       "Irvine, CA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4450745047",
+    "sponsorship": "",
+    "posted": "2026-08-28",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4448448313",
+    "company": "BAE Systems, Inc.",
+    "title": "Software Engineer II",
+    "locations": [
+      "Totowa, NJ"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4448448313",
+    "sponsorship": "",
+    "posted": "2026-08-28",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4448754918",
+    "company": "Google",
+    "title": "Software Engineer, Early Career, Campus",
+    "locations": [
+      "Pittsburgh, PA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4448754918",
+    "sponsorship": "",
+    "posted": "2026-08-28",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4460323536",
+    "company": "Raytheon",
+    "title": "Software Engineer I (Onsite)",
+    "locations": [
+      "Huntsville, AL"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4460323536",
+    "sponsorship": "",
+    "posted": "2026-08-28",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4441946844",
+    "company": "Acrisure",
+    "title": "Software Engineer I",
+    "locations": [
+      "Austin, TX"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4441946844",
     "sponsorship": "",
     "posted": "2026-08-28",
     "source": "LinkedIn"
@@ -388,42 +388,6 @@
     "source": "SimplifyJobs"
   },
   {
-    "id": "linkedin-4459899038",
-    "company": "Inductive Automation",
-    "title": "Software Engineer I",
-    "locations": [
-      "Folsom, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4459899038",
-    "sponsorship": "",
-    "posted": "2026-08-27",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4449138344",
-    "company": "Roblox",
-    "title": "[2027] Software Engineer, Early Career",
-    "locations": [
-      "San Mateo, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4449138344",
-    "sponsorship": "",
-    "posted": "2026-08-27",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4458034098",
-    "company": "Sierra Nevada Corporation",
-    "title": "Software Engineer I",
-    "locations": [
-      "Lone Tree, CO"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4458034098",
-    "sponsorship": "",
-    "posted": "2026-08-27",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4458034583",
     "company": "USAA",
     "title": "Junior Software Engineer",
@@ -431,18 +395,6 @@
       "San Antonio, TX"
     ],
     "url": "https://www.linkedin.com/jobs/view/4458034583",
-    "sponsorship": "",
-    "posted": "2026-08-27",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4458013230",
-    "company": "Sierra Nevada Corporation",
-    "title": "Software Engineer I",
-    "locations": [
-      "Dayton, OH"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4458013230",
     "sponsorship": "",
     "posted": "2026-08-27",
     "source": "LinkedIn"
@@ -460,13 +412,25 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4458019185",
-    "company": "Sierra Nevada Corporation",
-    "title": "Software Engineer I",
+    "id": "linkedin-4458026946",
+    "company": "BAE Systems, Inc.",
+    "title": "Entry Level Software Engineer",
     "locations": [
-      "Dayton, OH"
+      "Hudson, NH"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4458019185",
+    "url": "https://www.linkedin.com/jobs/view/4458026946",
+    "sponsorship": "",
+    "posted": "2026-08-27",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4458674807",
+    "company": "Travelers",
+    "title": "Software Engineer I - Elixir, Python, AWS",
+    "locations": [
+      "Hartford, CT"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4458674807",
     "sponsorship": "",
     "posted": "2026-08-27",
     "source": "LinkedIn"

@@ -1,26 +1,27 @@
 # 📡 2027 SWE Radar
 
 Automated daily scanner for **2027 new-grad software engineering** openings.
-Last scan: **2026-08-30** · Tracking **266** matching postings · 🆕 **6** new today
+Last scan: **2026-08-30** · Tracking **263** matching postings · 🆕 **8** new today
 Showing **US** postings, newest first.
 
 ## 🆕 New today
 
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
-| **FASHIONPHILE** | Junior Software Engineer | Lehi, UT | 2026-08-30 | [Link](https://www.linkedin.com/jobs/view/4460896142) |
-| **IBM** | Federal Associate Developer 2027 | Herndon, VA | 2026-08-29 | [Link](https://www.linkedin.com/jobs/view/4451024488) |
-| **Microsoft** | Software Engineer Intune | Redmond, WA | 2026-08-29 | [Link](https://www.linkedin.com/jobs/view/4460815593) |
-| **Sony Interactive Entertainment** | Software Engineer I | San Mateo, CA | 2026-08-29 | [Link](https://www.linkedin.com/jobs/view/4438791117) |
-| **Helic & Co** | Junior Software Developer | United States | 2026-08-29 | [Link](https://www.linkedin.com/jobs/view/4460814966) |
-| **Sierra Nevada Corporation** | Software Engineer I | Dayton, OH | 2026-08-27 | [Link](https://www.linkedin.com/jobs/view/4458019185) |
+| **Acrisure** | Software Engineer II | Uniondale, NY | 2026-08-29 | [Link](https://www.linkedin.com/jobs/view/4441947789) |
+| **Belvedere Trading, LLC** | Software Engineer - Entry Level 2027 | Chicago, IL | 2026-08-29 | [Link](https://www.linkedin.com/jobs/view/4449213283) |
+| **Integer Technologies** | Software Engineer II | Baton Rouge, LA | 2026-08-28 | [Link](https://www.linkedin.com/jobs/view/4460152275) |
+| **Revature** | Entry Level Software Developer | New Jersey, United States | 2026-08-28 | [Link](https://www.linkedin.com/jobs/view/4458950705) |
+| **BAE Systems, Inc.** | Software Engineer II | Totowa, NJ | 2026-08-28 | [Link](https://www.linkedin.com/jobs/view/4448448313) |
+| **Google** | Software Engineer, Early Career, Campus | Pittsburgh, PA | 2026-08-28 | [Link](https://www.linkedin.com/jobs/view/4448754918) |
+| **BAE Systems, Inc.** | Entry Level Software Engineer | Hudson, NH | 2026-08-27 | [Link](https://www.linkedin.com/jobs/view/4458026946) |
+| **Travelers** | Software Engineer I - Elixir, Python, AWS | Hartford, CT | 2026-08-27 | [Link](https://www.linkedin.com/jobs/view/4458674807) |
 
 ## 🎯 Explicit 2027 openings
 
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
-| IBM | Federal Associate Developer 2027 | Herndon, VA | 2026-08-29 | [Link](https://www.linkedin.com/jobs/view/4451024488) |
-| Roblox | [2027] Software Engineer, Early Career | San Mateo, CA | 2026-08-27 | [Link](https://www.linkedin.com/jobs/view/4449138344) |
+| Belvedere Trading, LLC | Software Engineer - Entry Level 2027 | Chicago, IL | 2026-08-29 | [Link](https://www.linkedin.com/jobs/view/4449213283) |
 | The Voleon Group | Software Engineer - University Hire 2027 | Berkeley, CA; NYC | 2026-08-25 | [Link](https://jobs.ashbyhq.com/voleon/d732fd5a-ac98-4985-9e60-d1d59f02a66c/application?embed=true) |
 | DTCC | Application Developer Analyst - 2027 EDGE Program | Tampa, FL; Dallas, TX | 2026-08-25 | [Link](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214463) |
 | Freeform | Software Engineer New Grad - Summer 2027 | LA | 2026-08-20 | [Link](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895902003) |
@@ -35,19 +36,18 @@ Showing **US** postings, newest first.
 
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
-| FASHIONPHILE | Junior Software Engineer | Lehi, UT | 2026-08-30 | [Link](https://www.linkedin.com/jobs/view/4460896142) |
 | Cogent Security | Forward Deployed Agent Engineer - Early Career | NYC | 2026-08-29 | [Link](https://jobs.ashbyhq.com/cogent-security/0ee6520e-8da8-4498-9580-57e9ff255d21/application?embed=true) |
 | MetLife | Junior Software Engineer | Cary, NC | 2026-08-29 | [Link](https://www.linkedin.com/jobs/view/4460550983) |
 | Acrisure | Software Engineer I | Uniondale, NY | 2026-08-29 | [Link](https://www.linkedin.com/jobs/view/4441962253) |
 | VIZIO | Software Engineer II | Denver, CO | 2026-08-29 | [Link](https://www.linkedin.com/jobs/view/4439611333) |
-| IBM | Federal Associate Developer 2027 | Herndon, VA | 2026-08-29 | [Link](https://www.linkedin.com/jobs/view/4451024488) |
+| Acrisure | Software Engineer II | Uniondale, NY | 2026-08-29 | [Link](https://www.linkedin.com/jobs/view/4441947789) |
 | Acrisure | Software Engineer I | Atlanta, GA | 2026-08-29 | [Link](https://www.linkedin.com/jobs/view/4441953583) |
-| Microsoft | Software Engineer Intune | Redmond, WA | 2026-08-29 | [Link](https://www.linkedin.com/jobs/view/4460815593) |
-| Sony Interactive Entertainment | Software Engineer I | San Mateo, CA | 2026-08-29 | [Link](https://www.linkedin.com/jobs/view/4438791117) |
 | Carterra | Software Engineer I | Salt Lake City, UT | 2026-08-29 | [Link](https://www.linkedin.com/jobs/view/4459434916) |
+| Sony Interactive Entertainment | Software Engineer I | San Mateo, CA | 2026-08-29 | [Link](https://www.linkedin.com/jobs/view/4438791117) |
 | Acrisure | Software Engineer I | Grand Rapids, MI | 2026-08-29 | [Link](https://www.linkedin.com/jobs/view/4441944930) |
+| Belvedere Trading, LLC | Software Engineer - Entry Level 2027 | Chicago, IL | 2026-08-29 | [Link](https://www.linkedin.com/jobs/view/4449213283) |
 | Helic & Co | Junior Software Developer | United States | 2026-08-29 | [Link](https://www.linkedin.com/jobs/view/4460814966) |
-| Freeform | Software Engineer (New Grad December 2026) | Los Angeles, CA | 2026-08-29 | [Link](https://www.linkedin.com/jobs/view/4450365978) |
+| Microsoft | Software Engineer Intune | Redmond, WA | 2026-08-29 | [Link](https://www.linkedin.com/jobs/view/4460815593) |
 | Torch Technologies | Junior Software Engineer - Entry Level | Huntsville, AL | 2026-08-28 | [Link](https://starfish.wd501.myworkdayjobs.com/Careers/job/Huntsville-AL/Entry-Junior-Level-Software-Engineer_R1608) |
 | Empower AI | Junior Software Developer - Systems Software | Remote in USA | 2026-08-28 | [Link](https://careers-empowerai.icims.com/jobs/9489/job?mobile=true&needsRedirect=false) |
 | Barry-Wehmiller | Entry Level Software Engineer | Eau Claire, WI; Dallas, TX | 2026-08-28 | [Link](https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/Dallas-TX/Entry-Level-Software-Engineer_R022649) |
@@ -56,24 +56,22 @@ Showing **US** postings, newest first.
 | BeaconFire Inc. | Entry-Level / Junior Software Developer | New Jersey, United States | 2026-08-28 | [Link](https://www.linkedin.com/jobs/view/4457256457) |
 | Google | Software Engineer, Early Career, Campus | New York, NY | 2026-08-28 | [Link](https://www.linkedin.com/jobs/view/4448758674) |
 | Zof AI | Junior Software Engineer | San Francisco, CA | 2026-08-28 | [Link](https://www.linkedin.com/jobs/view/4460392317) |
-| L3Harris Technologies | Assoc, Software Engineer (New Grad - Salt Lake City, UT) 1 1 1 | Salt Lake City, UT | 2026-08-28 | [Link](https://www.linkedin.com/jobs/view/4460385598) |
-| Boston Scientific | Software Engineer I | Arden Hills, MN | 2026-08-28 | [Link](https://www.linkedin.com/jobs/view/4460147355) |
-| Google | Software Engineer, Early Career, Campus | Kirkland, WA | 2026-08-28 | [Link](https://www.linkedin.com/jobs/view/4448761504) |
-| Raytheon | Software Engineer I (Onsite) | Huntsville, AL | 2026-08-28 | [Link](https://www.linkedin.com/jobs/view/4460323536) |
+| Integer Technologies | Software Engineer II | Baton Rouge, LA | 2026-08-28 | [Link](https://www.linkedin.com/jobs/view/4460152275) |
 | Google | Software Engineer, Early Career, Campus | Los Angeles, CA | 2026-08-28 | [Link](https://www.linkedin.com/jobs/view/4448770207) |
-| Acrisure | Software Engineer I | Austin, TX | 2026-08-28 | [Link](https://www.linkedin.com/jobs/view/4441946844) |
+| Revature | Entry Level Software Developer | New Jersey, United States | 2026-08-28 | [Link](https://www.linkedin.com/jobs/view/4458950705) |
 | CoStar Group | Matterport - Software Engineer I | Irvine, CA | 2026-08-28 | [Link](https://www.linkedin.com/jobs/view/4450745047) |
+| BAE Systems, Inc. | Software Engineer II | Totowa, NJ | 2026-08-28 | [Link](https://www.linkedin.com/jobs/view/4448448313) |
+| Google | Software Engineer, Early Career, Campus | Pittsburgh, PA | 2026-08-28 | [Link](https://www.linkedin.com/jobs/view/4448754918) |
+| Raytheon | Software Engineer I (Onsite) | Huntsville, AL | 2026-08-28 | [Link](https://www.linkedin.com/jobs/view/4460323536) |
+| Acrisure | Software Engineer I | Austin, TX | 2026-08-28 | [Link](https://www.linkedin.com/jobs/view/4441946844) |
 | ASM International | Software Engineer - Early Career - Fall 2026 | Phoenix, AZ | 2026-08-27 | [Link](https://www.asm.com/open-vacancies/?gh_jid=4876722101) |
 | Micron Technology | Software Engineer New Grad | Boise, ID | 2026-08-27 | [Link](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Software-Engineer_JR109692) |
 | L3Harris Technologies | Software Engineer New Grad - Software Engineering | Salt Lake City, UT | 2026-08-27 | [Link](https://jobs.l3harris.com/job/Salt-Lake-City-Assoc,-Software-Engineer-(New-Grad-Salt-Lake-City,-UT)-1-1-1-UT-84117/1424142200/?ats=successfactors) |
 | Noom | Agentic Engineer New Grad | Princeton, NJ | 2026-08-27 | [Link](https://www.noom.com/careers/job-listings/?gh_jid=8092909) |
-| Inductive Automation | Software Engineer I | Folsom, CA | 2026-08-27 | [Link](https://www.linkedin.com/jobs/view/4459899038) |
-| Roblox | [2027] Software Engineer, Early Career | San Mateo, CA | 2026-08-27 | [Link](https://www.linkedin.com/jobs/view/4449138344) |
-| Sierra Nevada Corporation | Software Engineer I | Lone Tree, CO | 2026-08-27 | [Link](https://www.linkedin.com/jobs/view/4458034098) |
 | USAA | Junior Software Engineer | San Antonio, TX | 2026-08-27 | [Link](https://www.linkedin.com/jobs/view/4458034583) |
-| Sierra Nevada Corporation | Software Engineer I | Dayton, OH | 2026-08-27 | [Link](https://www.linkedin.com/jobs/view/4458013230) |
 | USAA | Junior Software Engineer | Plano, TX | 2026-08-27 | [Link](https://www.linkedin.com/jobs/view/4458034584) |
-| Sierra Nevada Corporation | Software Engineer I | Dayton, OH | 2026-08-27 | [Link](https://www.linkedin.com/jobs/view/4458019185) |
+| BAE Systems, Inc. | Entry Level Software Engineer | Hudson, NH | 2026-08-27 | [Link](https://www.linkedin.com/jobs/view/4458026946) |
+| Travelers | Software Engineer I - Elixir, Python, AWS | Hartford, CT | 2026-08-27 | [Link](https://www.linkedin.com/jobs/view/4458674807) |
 | General Matter | Software Engineer, New Grad | Los Angeles, CA | 2026-08-27 | [Link](https://www.linkedin.com/jobs/view/4460106817) |
 | True Anomaly | Software Engineer 1 New Grad - Perception | Long Beach, CA; Denver, CO | 2026-08-26 | [Link](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221970007) |
 | Johns Hopkins Applied Physics Laboratory | Data Scientist/Engineer New Grad - Analytic Capabilities | Laurel, MD | 2026-08-26 | [Link](https://careers.jhuapl.edu/jobs/59818?icims=1) |
