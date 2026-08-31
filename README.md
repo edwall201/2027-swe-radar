@@ -1,26 +1,33 @@
 # 📡 2027 SWE Radar
 
 Automated daily scanner for **2027 new-grad software engineering** openings.
-Last scan: **2026-08-31** · Tracking **262** matching postings · 🆕 **7** new today
+Last scan: **2026-08-31** · Tracking **260** matching postings · 🆕 **14** new today
 Showing **US** postings, newest first.
 
 ## 🆕 New today
 
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
-| **Employia** | Software Engineer (New Grad) | Salt Lake City, UT | 2026-08-31 | [Link](https://www.linkedin.com/jobs/view/4459766794) |
-| **Micron Technology** | R&D Equipment Engineer New Grad - TSE | Boise, ID | 2026-08-30 | [Link](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/TSE-R-D-Equipment-Engineer_JR110198) |
-| **Micron Technology** | R&D Equipment Engineer New Grad - TSE | Boise, ID | 2026-08-30 | [Link](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/TSE-R-D-Equipment-Engineer_JR110192) |
-| **Jobright.ai** | Full Stack Software Engineer, New Grad | United States | 2026-08-30 | [Link](https://www.linkedin.com/jobs/view/4459734803) |
-| **Jobright.ai** | Full Stack Engineer, New Grad | United States | 2026-08-30 | [Link](https://www.linkedin.com/jobs/view/4459745691) |
-| **Acrisure** | Software Engineer I | Austin, TX | 2026-08-28 | [Link](https://www.linkedin.com/jobs/view/4441946844) |
-| **Collins Aerospace** | Embedded Software Engineer I (Onsite) | Cedar Rapids, IA | 2026-08-28 | [Link](https://www.linkedin.com/jobs/view/4460313639) |
+| **Palantir** | Forward Deployed Infrastructure Engineer, New Grad - US Government | Honolulu, HI | 2026-08-31 | [Link](https://jobs.lever.co/palantir/701a9307-0619-45d3-b077-cabe9897cd12) |
+| **Jobright.ai** | Full Stack Software Engineer, New Grad | United States | 2026-08-31 | [Link](https://www.linkedin.com/jobs/view/4460006833) |
+| **Jobright.ai** | Full Stack Engineer, New Grad | United States | 2026-08-31 | [Link](https://www.linkedin.com/jobs/view/4460016865) |
+| **Cummins Inc.** | Software Engineer I | Columbus, IN | 2026-08-31 | [Link](https://www.linkedin.com/jobs/view/4451143083) |
+| **Naval Facilities Engineering Systems Command (NAVFAC)** | Junior Software Developer | San Diego, CA | 2026-08-31 | [Link](https://www.linkedin.com/jobs/view/4461235050) |
+| **TikTok USDS Joint Venture** | Software Engineer Graduate (E-Commerce) - 2027 Start | Seattle, WA | 2026-08-31 | [Link](https://www.linkedin.com/jobs/view/4449538861) |
+| **Walmart Global Tech** | (USA) Software Engineer III | Bentonville, AR | 2026-08-30 | [Link](https://www.linkedin.com/jobs/view/4375267309) |
+| **Abridge** | Software Engineer, Early Career | San Francisco, CA | 2026-08-30 | [Link](https://www.linkedin.com/jobs/view/4440084829) |
+| **Microsoft** | Software Engineer Intune | Redmond, WA | 2026-08-29 | [Link](https://www.linkedin.com/jobs/view/4460815593) |
+| **Acrisure** | Software Engineer II | Uniondale, NY | 2026-08-29 | [Link](https://www.linkedin.com/jobs/view/4441947789) |
+| **Sony Interactive Entertainment** | Software Engineer I | San Mateo, CA | 2026-08-29 | [Link](https://www.linkedin.com/jobs/view/4438791117) |
+| **Freeform** | Software Engineer (New Grad December 2026) | Los Angeles, CA | 2026-08-29 | [Link](https://www.linkedin.com/jobs/view/4450365978) |
+| **Sparton** | Software Engineer I | De Leon Springs, FL | 2026-08-29 | [Link](https://www.linkedin.com/jobs/view/4445955587) |
+| **Maven Securities** | Developer New Grad | Chicago, IL | 2026-08-03 | [Link](https://job-boards.greenhouse.io/emergingtalent/jobs/8048802) |
 
 ## 🎯 Explicit 2027 openings
 
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
-| IBM | Federal Associate Developer 2027 | Herndon, VA | 2026-08-29 | [Link](https://www.linkedin.com/jobs/view/4451024488) |
+| TikTok USDS Joint Venture | Software Engineer Graduate (E-Commerce) - 2027 Start | Seattle, WA | 2026-08-31 | [Link](https://www.linkedin.com/jobs/view/4449538861) |
 | The Voleon Group | Software Engineer - University Hire 2027 | Berkeley, CA; NYC | 2026-08-25 | [Link](https://jobs.ashbyhq.com/voleon/d732fd5a-ac98-4985-9e60-d1d59f02a66c/application?embed=true) |
 | DTCC | Application Developer Analyst - 2027 EDGE Program | Tampa, FL; Dallas, TX | 2026-08-25 | [Link](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214463) |
 | Freeform | Software Engineer New Grad - Summer 2027 | LA | 2026-08-20 | [Link](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895902003) |
@@ -35,39 +42,37 @@ Showing **US** postings, newest first.
 
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
+| Palantir | Forward Deployed Infrastructure Engineer, New Grad - US Government | Honolulu, HI | 2026-08-31 | [Link](https://jobs.lever.co/palantir/701a9307-0619-45d3-b077-cabe9897cd12) |
+| Jobright.ai | Full Stack Software Engineer, New Grad | United States | 2026-08-31 | [Link](https://www.linkedin.com/jobs/view/4460006833) |
+| Jobright.ai | Full Stack Engineer, New Grad | United States | 2026-08-31 | [Link](https://www.linkedin.com/jobs/view/4460016865) |
+| BeaconFire Inc. | Entry-Level / Junior Software Developer | New Jersey, United States | 2026-08-31 | [Link](https://www.linkedin.com/jobs/view/4457256457) |
 | Employia | Software Engineer (New Grad) | Salt Lake City, UT | 2026-08-31 | [Link](https://www.linkedin.com/jobs/view/4459766794) |
+| Cummins Inc. | Software Engineer I | Columbus, IN | 2026-08-31 | [Link](https://www.linkedin.com/jobs/view/4451143083) |
+| Naval Facilities Engineering Systems Command (NAVFAC) | Junior Software Developer | San Diego, CA | 2026-08-31 | [Link](https://www.linkedin.com/jobs/view/4461235050) |
+| TikTok USDS Joint Venture | Software Engineer Graduate (E-Commerce) - 2027 Start | Seattle, WA | 2026-08-31 | [Link](https://www.linkedin.com/jobs/view/4449538861) |
 | Micron Technology | R&D Equipment Engineer New Grad - TSE | Boise, ID | 2026-08-30 | [Link](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/TSE-R-D-Equipment-Engineer_JR110198) |
 | Micron Technology | R&D Equipment Engineer New Grad - TSE | Boise, ID | 2026-08-30 | [Link](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/TSE-R-D-Equipment-Engineer_JR110192) |
-| Jobright.ai | Full Stack Software Engineer, New Grad | United States | 2026-08-30 | [Link](https://www.linkedin.com/jobs/view/4459734803) |
-| Jobright.ai | Full Stack Engineer, New Grad | United States | 2026-08-30 | [Link](https://www.linkedin.com/jobs/view/4459745691) |
+| Walmart Global Tech | (USA) Software Engineer III | Bentonville, AR | 2026-08-30 | [Link](https://www.linkedin.com/jobs/view/4375267309) |
+| Abridge | Software Engineer, Early Career | San Francisco, CA | 2026-08-30 | [Link](https://www.linkedin.com/jobs/view/4440084829) |
 | Cogent Security | Forward Deployed Agent Engineer - Early Career | NYC | 2026-08-29 | [Link](https://jobs.ashbyhq.com/cogent-security/0ee6520e-8da8-4498-9580-57e9ff255d21/application?embed=true) |
+| Microsoft | Software Engineer Intune | Redmond, WA | 2026-08-29 | [Link](https://www.linkedin.com/jobs/view/4460815593) |
+| Acrisure | Software Engineer II | Uniondale, NY | 2026-08-29 | [Link](https://www.linkedin.com/jobs/view/4441947789) |
 | MetLife | Junior Software Engineer | Cary, NC | 2026-08-29 | [Link](https://www.linkedin.com/jobs/view/4460550983) |
-| IBM | Federal Associate Developer 2027 | Herndon, VA | 2026-08-29 | [Link](https://www.linkedin.com/jobs/view/4451024488) |
-| Acrisure | Software Engineer I | Grand Rapids, MI | 2026-08-29 | [Link](https://www.linkedin.com/jobs/view/4441944930) |
-| Acrisure | Software Engineer I | Uniondale, NY | 2026-08-29 | [Link](https://www.linkedin.com/jobs/view/4441962253) |
 | Acrisure | Software Engineer I | Atlanta, GA | 2026-08-29 | [Link](https://www.linkedin.com/jobs/view/4441953583) |
+| Sony Interactive Entertainment | Software Engineer I | San Mateo, CA | 2026-08-29 | [Link](https://www.linkedin.com/jobs/view/4438791117) |
 | Carterra | Software Engineer I | Salt Lake City, UT | 2026-08-29 | [Link](https://www.linkedin.com/jobs/view/4459434916) |
+| Acrisure | Software Engineer I | Grand Rapids, MI | 2026-08-29 | [Link](https://www.linkedin.com/jobs/view/4441944930) |
+| Freeform | Software Engineer (New Grad December 2026) | Los Angeles, CA | 2026-08-29 | [Link](https://www.linkedin.com/jobs/view/4450365978) |
+| Sparton | Software Engineer I | De Leon Springs, FL | 2026-08-29 | [Link](https://www.linkedin.com/jobs/view/4445955587) |
 | Jacobs | Junior Software Developer | Herndon, VA | 2026-08-29 | [Link](https://www.linkedin.com/jobs/view/4460859300) |
 | Jacobs | Junior Software Developer | Chantilly, VA | 2026-08-29 | [Link](https://www.linkedin.com/jobs/view/4460852551) |
 | Empower AI | Junior Software Developer - Systems Software | Remote in USA | 2026-08-28 | [Link](https://careers-empowerai.icims.com/jobs/9489/job?mobile=true&needsRedirect=false) |
 | Barry-Wehmiller | Entry Level Software Engineer | Eau Claire, WI; Dallas, TX | 2026-08-28 | [Link](https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/Dallas-TX/Entry-Level-Software-Engineer_R022649) |
-| IBM | Entry Level Software Developer-Tucston-AZ | Tucson, AZ | 2026-08-28 | [Link](https://www.linkedin.com/jobs/view/4458410833) |
-| IXL Learning | Software Engineer, New Grad | San Mateo, CA | 2026-08-28 | [Link](https://www.linkedin.com/jobs/view/4450024039) |
-| BeaconFire Inc. | Entry-Level / Junior Software Developer | New Jersey, United States | 2026-08-28 | [Link](https://www.linkedin.com/jobs/view/4457256457) |
-| Google | Software Engineer, Early Career, Campus | New York, NY | 2026-08-28 | [Link](https://www.linkedin.com/jobs/view/4448758674) |
-| Raytheon | Software Engineer I (Onsite) | Huntsville, AL | 2026-08-28 | [Link](https://www.linkedin.com/jobs/view/4460323536) |
 | L3Harris Technologies | Assoc, Software Engineer (New Grad - Salt Lake City, UT) 1 1 1 | Salt Lake City, UT | 2026-08-28 | [Link](https://www.linkedin.com/jobs/view/4460385598) |
-| Google | Software Engineer, Early Career, Campus | Los Angeles, CA | 2026-08-28 | [Link](https://www.linkedin.com/jobs/view/4448770207) |
-| Acrisure | Software Engineer I | Austin, TX | 2026-08-28 | [Link](https://www.linkedin.com/jobs/view/4441946844) |
-| Google | Software Engineer, Early Career, Campus | Cambridge, MA | 2026-08-28 | [Link](https://www.linkedin.com/jobs/view/4448757705) |
-| Revature | Entry Level Software Developer | Dallas, TX | 2026-08-28 | [Link](https://www.linkedin.com/jobs/view/4458958554) |
-| Google | Software Engineer, Early Career, Campus | Pittsburgh, PA | 2026-08-28 | [Link](https://www.linkedin.com/jobs/view/4448754918) |
-| Collins Aerospace | Embedded Software Engineer I (Onsite) | Cedar Rapids, IA | 2026-08-28 | [Link](https://www.linkedin.com/jobs/view/4460313639) |
 | MedDots AI | Software Engineer I | Chattanooga, TN | 2026-08-28 | [Link](https://www.linkedin.com/jobs/view/4458675597) |
+| IXL Learning | Software Engineer, New Grad | San Mateo, CA | 2026-08-28 | [Link](https://www.linkedin.com/jobs/view/4450024039) |
+| IBM | Entry Level Software Developer-Tucston-AZ | Tucson, AZ | 2026-08-28 | [Link](https://www.linkedin.com/jobs/view/4458410833) |
 | CoStar Group | Matterport - Software Engineer I | Irvine, CA | 2026-08-28 | [Link](https://www.linkedin.com/jobs/view/4450745047) |
-| BAE Systems, Inc. | Software Engineer II | Totowa, NJ | 2026-08-28 | [Link](https://www.linkedin.com/jobs/view/4448448313) |
-| Johns Hopkins Applied Physics Laboratory | Junior Software Engineer | Laurel, MD | 2026-08-28 | [Link](https://www.linkedin.com/jobs/view/4448494129) |
-| Google | Software Engineer, Early Career, Campus | Kirkland, WA | 2026-08-28 | [Link](https://www.linkedin.com/jobs/view/4448761504) |
 | ASM International | Software Engineer - Early Career - Fall 2026 | Phoenix, AZ | 2026-08-27 | [Link](https://www.asm.com/open-vacancies/?gh_jid=4876722101) |
 | Micron Technology | Software Engineer New Grad | Boise, ID | 2026-08-27 | [Link](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Software-Engineer_JR109692) |
 | L3Harris Technologies | Software Engineer New Grad - Software Engineering | Salt Lake City, UT | 2026-08-27 | [Link](https://jobs.l3harris.com/job/Salt-Lake-City-Assoc,-Software-Engineer-(New-Grad-Salt-Lake-City,-UT)-1-1-1-UT-84117/1424142200/?ats=successfactors) |
@@ -185,6 +190,7 @@ Showing **US** postings, newest first.
 | ByteDance | Software Engineer New Grad - AI Infrastructure-Compute Efficiency & Scheduling | Seattle, WA | 2026-08-03 | [Link](https://jobs.bytedance.com/en/position/7668799020705679669/detail) |
 | ByteDance | Software Engineer New Grad - AI Infra Compute | Seattle, WA | 2026-08-03 | [Link](https://jobs.bytedance.com/en/position/7667303429264115973/detail) |
 | ByteDance | Backend and Infrastructure Software Engineer New Grad - Dev Infra | San Jose, CA | 2026-08-03 | [Link](https://jobs.bytedance.com/en/position/7667894766036322565/detail) |
+| Maven Securities | Developer New Grad | Chicago, IL | 2026-08-03 | [Link](https://job-boards.greenhouse.io/emergingtalent/jobs/8048802) |
 | TikTok | Research Engineer New Grad - Multiple Teams | San Jose, CA | 2026-08-03 | [Link](https://lifeattiktok.com/search/7667767820142643461) |
 | TikTok | Machine Learning Engineer New Grad - Trust and Safety | San Jose, CA | 2026-08-03 | [Link](https://lifeattiktok.com/search/7665991852209932597) |
 | TikTok | Machine Learning Engineer New Grad - Recommendation | San Jose, CA | 2026-08-03 | [Link](https://lifeattiktok.com/search/7663389745178757429) |
@@ -232,7 +238,6 @@ Showing **US** postings, newest first.
 | Citadel | Software Engineer – University Graduate | Greenwich, CT; Houston, TX | 2026-07-06 | [Link](https://www.citadel.com/careers/details/software-engineer-university-graduate-us/) |
 | Sandisk | Field Application Engineer New Grad | Milpitas, CA | 2026-07-06 | [Link](https://jobs.smartrecruiters.com/Sandisk/744000136097669) |
 | Headlands Tech Holdings | Research Developer New Grad | Chicago, IL; NYC | 2026-07-05 | [Link](https://job-boards.greenhouse.io/headlandstechnologiesllc/jobs/4227566009) |
-| CACI | Junior Software Engineer | Springfield, VA; St. Louis, MO | 2026-07-02 | [Link](https://caci.wd1.myworkdayjobs.com/external/job/Denver-CO-US/Junior-Software-Engineer_327867) |
 | Applied Materials | Early Career - Installation Team Field Service Engineer | Boise, ID; Phoenix, AZ | 2026-07-02 | [Link](https://amat.wd1.myworkdayjobs.com/External/job/BoiseID/Applied-Early-Career---Installation-Team-Field-Service-Engineer_R2622705) |
 | Confido | Software Engineer New Grad | NYC | 2026-07-01 | [Link](https://jobs.ashbyhq.com/confido/69c0e572-b2f4-442f-beb8-1240155c629e/application) |
 | Palantir | Forward Deployed Software Engineer New Grad - Commercial | Chicago, IL | 2026-06-29 | [Link](https://jobs.lever.co/palantir/e500bcf3-19d8-4d3c-b340-4d76e4a55b40/apply) |
