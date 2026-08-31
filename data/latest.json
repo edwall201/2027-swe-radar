@@ -1,5 +1,124 @@
 [
   {
+    "id": "simplify-e4824029-8de4-4ad1-9c18-b4c968025116",
+    "company": "LexisNexis Risk Solutions",
+    "title": "Software Engineer New Grad - Risk Solutions Technology Graduate Program",
+    "locations": [
+      "Alpharetta, GA"
+    ],
+    "url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---January-_R117617",
+    "sponsorship": "Other",
+    "posted": "2026-08-31",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-1bcf08bd-5019-4f05-a683-d0799a8bd847",
+    "company": "LexisNexis Risk Solutions",
+    "title": "Software Engineer New Grad - Risk Solutions Technology Graduate Program",
+    "locations": [
+      "Boca Raton, FL"
+    ],
+    "url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Boca-Raton-FL/Tech-Accelerate-Graduate-Program---Software-Engineer--Boca-Raton---June-_R116023-2",
+    "sponsorship": "Other",
+    "posted": "2026-08-31",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-32f14a18-130e-4911-a7f1-80e6010eba5e",
+    "company": "RELX",
+    "title": "Software Engineer New Grad",
+    "locations": [
+      "Alpharetta, GA"
+    ],
+    "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---June-_R117626-2",
+    "sponsorship": "Other",
+    "posted": "2026-08-31",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-37335f53-bff9-416b-8b8a-490d6a68102f",
+    "company": "RELX",
+    "title": "Software Engineer New Grad",
+    "locations": [
+      "Alpharetta, GA"
+    ],
+    "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---January-_R117617-1",
+    "sponsorship": "Other",
+    "posted": "2026-08-31",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-57162ec0-910a-4248-8b4a-85d8b7e6f5bb",
+    "company": "CapTech Consulting",
+    "title": "Software Engineering Associate Consultant - Summer 2027",
+    "locations": [
+      "Philadelphia, PA",
+      "Richmond, VA",
+      "Charlotte, NC",
+      "Reston, VA",
+      "Columbus, OH",
+      "Denver, CO",
+      "Atlanta, GA"
+    ],
+    "url": "https://jobs.smartrecruiters.com/CapTechConsulting/744000146449269",
+    "sponsorship": "Other",
+    "posted": "2026-08-31",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-f573c4ba-c0c2-427b-9b9c-8883e7a6b724",
+    "company": "Micron Technology",
+    "title": "Design Readiness Engineer New Grad",
+    "locations": [
+      "Boise, ID"
+    ],
+    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Design-Readiness-Engineer_JR106372",
+    "sponsorship": "Other",
+    "posted": "2026-08-31",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-ea3f3cbc-74b2-495a-b20d-db469c9ce81e",
+    "company": "NVIDIA",
+    "title": "ASIC Floorplan Design Engineer New Grad",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Floorplan-Design-Engineer---New-College-Grad-2026_JR2024651",
+    "sponsorship": "Other",
+    "posted": "2026-08-31",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-9ff8def7-4cc8-4f59-aadb-ddec79771bfa",
+    "company": "NVIDIA",
+    "title": "AI Developer Technology Engineer New Grad - AI",
+    "locations": [
+      "Salt Lake City, UT",
+      "Austin, TX",
+      "Redmond, WA",
+      "Santa Clara, CA",
+      "Durham, NC",
+      "Boulder, CO"
+    ],
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Technology-Engineer--AI---New-College-Graduate-2026_JR2024557",
+    "sponsorship": "Other",
+    "posted": "2026-08-31",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "gh-stripe-8128744",
+    "company": "Stripe",
+    "title": "Software Engineer, New Grad",
+    "locations": [
+      "San Francisco, Seattle, New York"
+    ],
+    "url": "https://stripe.com/jobs/search?gh_jid=8128744",
+    "sponsorship": "",
+    "posted": "2026-08-31",
+    "source": "Greenhouse"
+  },
+  {
     "id": "lever-palantir-701a9307-0619-45d3-b077-cabe9897cd12",
     "company": "Palantir",
     "title": "Forward Deployed Infrastructure Engineer, New Grad - US Government",
@@ -10,30 +129,6 @@
     "sponsorship": "",
     "posted": "2026-08-31",
     "source": "Lever"
-  },
-  {
-    "id": "linkedin-4460006833",
-    "company": "Jobright.ai",
-    "title": "Full Stack Software Engineer, New Grad",
-    "locations": [
-      "United States"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4460006833",
-    "sponsorship": "",
-    "posted": "2026-08-31",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4460016865",
-    "company": "Jobright.ai",
-    "title": "Full Stack Engineer, New Grad",
-    "locations": [
-      "United States"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4460016865",
-    "sponsorship": "",
-    "posted": "2026-08-31",
-    "source": "LinkedIn"
   },
   {
     "id": "linkedin-4457256457",
@@ -60,6 +155,54 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4461082832",
+    "company": "CapTech",
+    "title": "Software Engineering Associate Consultant (Graduating Dec. 2026 - Summer 2027)",
+    "locations": [
+      "Richmond, VA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4461082832",
+    "sponsorship": "",
+    "posted": "2026-08-31",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4461277804",
+    "company": "ISPA Technology",
+    "title": "Junior Software Developer",
+    "locations": [
+      "Panama City Beach, FL"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4461277804",
+    "sponsorship": "",
+    "posted": "2026-08-31",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4460076236",
+    "company": "Jobright.ai",
+    "title": "Python Engineer, New Grad",
+    "locations": [
+      "United States"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4460076236",
+    "sponsorship": "",
+    "posted": "2026-08-31",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4460072474",
+    "company": "Jobright.ai",
+    "title": "Backend Engineer, New Grad",
+    "locations": [
+      "United States"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4460072474",
+    "sponsorship": "",
+    "posted": "2026-08-31",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4451143083",
     "company": "Cummins Inc.",
     "title": "Software Engineer I",
@@ -67,6 +210,18 @@
       "Columbus, IN"
     ],
     "url": "https://www.linkedin.com/jobs/view/4451143083",
+    "sponsorship": "",
+    "posted": "2026-08-31",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4459201579",
+    "company": "Revature",
+    "title": "Entry Level Software Developer",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4459201579",
     "sponsorship": "",
     "posted": "2026-08-31",
     "source": "LinkedIn"
@@ -84,6 +239,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4449548361",
+    "company": "TikTok USDS Joint Venture",
+    "title": "Software Engineer Graduate (Search) - 2027 Start",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4449548361",
+    "sponsorship": "",
+    "posted": "2026-08-31",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4449538861",
     "company": "TikTok USDS Joint Venture",
     "title": "Software Engineer Graduate (E-Commerce) - 2027 Start",
@@ -91,6 +258,18 @@
       "Seattle, WA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4449538861",
+    "sponsorship": "",
+    "posted": "2026-08-31",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4459212417",
+    "company": "Revature",
+    "title": "Entry Level Software Developer",
+    "locations": [
+      "New Jersey, United States"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4459212417",
     "sponsorship": "",
     "posted": "2026-08-31",
     "source": "LinkedIn"
@@ -120,30 +299,6 @@
     "source": "SimplifyJobs"
   },
   {
-    "id": "linkedin-4375267309",
-    "company": "Walmart Global Tech",
-    "title": "(USA) Software Engineer III",
-    "locations": [
-      "Bentonville, AR"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4375267309",
-    "sponsorship": "",
-    "posted": "2026-08-30",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4440084829",
-    "company": "Abridge",
-    "title": "Software Engineer, Early Career",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4440084829",
-    "sponsorship": "",
-    "posted": "2026-08-30",
-    "source": "LinkedIn"
-  },
-  {
     "id": "simplify-3e1957cd-768a-47fc-9140-cae0d35bb273",
     "company": "Cogent Security",
     "title": "Forward Deployed Agent Engineer - Early Career",
@@ -156,30 +311,6 @@
     "source": "SimplifyJobs"
   },
   {
-    "id": "linkedin-4460815593",
-    "company": "Microsoft",
-    "title": "Software Engineer Intune",
-    "locations": [
-      "Redmond, WA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4460815593",
-    "sponsorship": "",
-    "posted": "2026-08-29",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4441947789",
-    "company": "Acrisure",
-    "title": "Software Engineer II",
-    "locations": [
-      "Uniondale, NY"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4441947789",
-    "sponsorship": "",
-    "posted": "2026-08-29",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4460550983",
     "company": "MetLife",
     "title": "Junior Software Engineer",
@@ -187,30 +318,6 @@
       "Cary, NC"
     ],
     "url": "https://www.linkedin.com/jobs/view/4460550983",
-    "sponsorship": "",
-    "posted": "2026-08-29",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4441953583",
-    "company": "Acrisure",
-    "title": "Software Engineer I",
-    "locations": [
-      "Atlanta, GA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4441953583",
-    "sponsorship": "",
-    "posted": "2026-08-29",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4438791117",
-    "company": "Sony Interactive Entertainment",
-    "title": "Software Engineer I",
-    "locations": [
-      "San Mateo, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4438791117",
     "sponsorship": "",
     "posted": "2026-08-29",
     "source": "LinkedIn"
@@ -228,6 +335,30 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4441953583",
+    "company": "Acrisure",
+    "title": "Software Engineer I",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4441953583",
+    "sponsorship": "",
+    "posted": "2026-08-29",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4451024488",
+    "company": "IBM",
+    "title": "Federal Associate Developer 2027",
+    "locations": [
+      "Herndon, VA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4451024488",
+    "sponsorship": "",
+    "posted": "2026-08-29",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4441944930",
     "company": "Acrisure",
     "title": "Software Engineer I",
@@ -240,13 +371,37 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4450365978",
-    "company": "Freeform",
-    "title": "Software Engineer (New Grad December 2026)",
+    "id": "linkedin-4441962253",
+    "company": "Acrisure",
+    "title": "Software Engineer I",
     "locations": [
-      "Los Angeles, CA"
+      "Uniondale, NY"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4450365978",
+    "url": "https://www.linkedin.com/jobs/view/4441962253",
+    "sponsorship": "",
+    "posted": "2026-08-29",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4449213283",
+    "company": "Belvedere Trading, LLC",
+    "title": "Software Engineer - Entry Level 2027",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4449213283",
+    "sponsorship": "",
+    "posted": "2026-08-29",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4439611333",
+    "company": "VIZIO",
+    "title": "Software Engineer II",
+    "locations": [
+      "Denver, CO"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4439611333",
     "sponsorship": "",
     "posted": "2026-08-29",
     "source": "LinkedIn"
@@ -264,18 +419,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4460859300",
-    "company": "Jacobs",
-    "title": "Junior Software Developer",
-    "locations": [
-      "Herndon, VA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4460859300",
-    "sponsorship": "",
-    "posted": "2026-08-29",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4460852551",
     "company": "Jacobs",
     "title": "Junior Software Developer",
@@ -283,6 +426,18 @@
       "Chantilly, VA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4460852551",
+    "sponsorship": "",
+    "posted": "2026-08-29",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4460859300",
+    "company": "Jacobs",
+    "title": "Junior Software Developer",
+    "locations": [
+      "Herndon, VA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4460859300",
     "sponsorship": "",
     "posted": "2026-08-29",
     "source": "LinkedIn"
@@ -316,66 +471,6 @@
     "source": "SimplifyJobs"
   },
   {
-    "id": "linkedin-4460385598",
-    "company": "L3Harris Technologies",
-    "title": "Assoc, Software Engineer (New Grad - Salt Lake City, UT) 1 1 1",
-    "locations": [
-      "Salt Lake City, UT"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4460385598",
-    "sponsorship": "",
-    "posted": "2026-08-28",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4458675597",
-    "company": "MedDots AI",
-    "title": "Software Engineer I",
-    "locations": [
-      "Chattanooga, TN"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4458675597",
-    "sponsorship": "",
-    "posted": "2026-08-28",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4450024039",
-    "company": "IXL Learning",
-    "title": "Software Engineer, New Grad",
-    "locations": [
-      "San Mateo, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4450024039",
-    "sponsorship": "",
-    "posted": "2026-08-28",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4458410833",
-    "company": "IBM",
-    "title": "Entry Level Software Developer-Tucston-AZ",
-    "locations": [
-      "Tucson, AZ"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4458410833",
-    "sponsorship": "",
-    "posted": "2026-08-28",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4450745047",
-    "company": "CoStar Group",
-    "title": "Matterport - Software Engineer I",
-    "locations": [
-      "Irvine, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4450745047",
-    "sponsorship": "",
-    "posted": "2026-08-28",
-    "source": "LinkedIn"
-  },
-  {
     "id": "simplify-c987a249-3ad3-4d0f-9a08-f0acc968a347",
     "company": "ASM International",
     "title": "Software Engineer - Early Career - Fall 2026",
@@ -383,18 +478,6 @@
       "Phoenix, AZ"
     ],
     "url": "https://www.asm.com/open-vacancies/?gh_jid=4876722101",
-    "sponsorship": "Other",
-    "posted": "2026-08-27",
-    "source": "SimplifyJobs"
-  },
-  {
-    "id": "simplify-2bc345ba-6706-4efb-925f-c449a37bc3d5",
-    "company": "Micron Technology",
-    "title": "Software Engineer New Grad",
-    "locations": [
-      "Boise, ID"
-    ],
-    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Software-Engineer_JR109692",
     "sponsorship": "Other",
     "posted": "2026-08-27",
     "source": "SimplifyJobs"
@@ -720,18 +803,6 @@
       "Bala Cynwyd, PA"
     ],
     "url": "https://careers-sig.icims.com/jobs/11349/job?mobile=true&needsRedirect=false",
-    "sponsorship": "Other",
-    "posted": "2026-08-21",
-    "source": "SimplifyJobs"
-  },
-  {
-    "id": "simplify-253f4a59-14d2-4bf5-8f29-b05e37695e9a",
-    "company": "NVIDIA",
-    "title": "Research Engineer New Grad - Interactive World Models",
-    "locations": [
-      "Santa Clara, CA"
-    ],
-    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Engineer--Interactive-World-Models---New-College-Grad-2026_JR2023950",
     "sponsorship": "Other",
     "posted": "2026-08-21",
     "source": "SimplifyJobs"
@@ -1407,18 +1478,6 @@
       "San Mateo, CA"
     ],
     "url": "https://www.ixl.com/company/jobs?gh_jid=8662881002",
-    "sponsorship": "Other",
-    "posted": "2026-08-06",
-    "source": "SimplifyJobs"
-  },
-  {
-    "id": "simplify-ad93c397-dbd2-49a1-9506-3b3f67b410a7",
-    "company": "IXL Learning",
-    "title": "Software Engineer New Grad",
-    "locations": [
-      "Raleigh, NC"
-    ],
-    "url": "https://www.ixl.com/company/jobs?gh_jid=8663379002",
     "sponsorship": "Other",
     "posted": "2026-08-06",
     "source": "SimplifyJobs"
@@ -2114,6 +2173,18 @@
     "url": "https://apply.workable.com/texas-sports-academy-main/j/009164EC9C/apply",
     "sponsorship": "Other",
     "posted": "2026-07-27",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-e62a24f2-a26c-4cc3-ba1c-2dbc5a29e072",
+    "company": "Blissway",
+    "title": "Embedded Systems Engineer New Grad",
+    "locations": [
+      "Denver, CO"
+    ],
+    "url": "https://jobs.ashbyhq.com/blissway/51d6d839-9801-4436-bfc2-918bae428ed8/application?embed=true",
+    "sponsorship": "Other",
+    "posted": "2026-07-24",
     "source": "SimplifyJobs"
   },
   {
