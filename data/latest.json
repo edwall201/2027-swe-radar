@@ -1,5 +1,65 @@
 [
   {
+    "id": "linkedin-4459766794",
+    "company": "Employia",
+    "title": "Software Engineer (New Grad)",
+    "locations": [
+      "Salt Lake City, UT"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4459766794",
+    "sponsorship": "",
+    "posted": "2026-08-31",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "simplify-74e29beb-3b89-4962-aada-bb8c4b0503e5",
+    "company": "Micron Technology",
+    "title": "R&D Equipment Engineer New Grad - TSE",
+    "locations": [
+      "Boise, ID"
+    ],
+    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/TSE-R-D-Equipment-Engineer_JR110198",
+    "sponsorship": "Other",
+    "posted": "2026-08-30",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-20e5b52f-866c-4751-9606-aeea03d79533",
+    "company": "Micron Technology",
+    "title": "R&D Equipment Engineer New Grad - TSE",
+    "locations": [
+      "Boise, ID"
+    ],
+    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/TSE-R-D-Equipment-Engineer_JR110192",
+    "sponsorship": "Other",
+    "posted": "2026-08-30",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "linkedin-4459734803",
+    "company": "Jobright.ai",
+    "title": "Full Stack Software Engineer, New Grad",
+    "locations": [
+      "United States"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4459734803",
+    "sponsorship": "",
+    "posted": "2026-08-30",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4459745691",
+    "company": "Jobright.ai",
+    "title": "Full Stack Engineer, New Grad",
+    "locations": [
+      "United States"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4459745691",
+    "sponsorship": "",
+    "posted": "2026-08-30",
+    "source": "LinkedIn"
+  },
+  {
     "id": "simplify-3e1957cd-768a-47fc-9140-cae0d35bb273",
     "company": "Cogent Security",
     "title": "Forward Deployed Agent Engineer - Early Career",
@@ -24,18 +84,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4439611333",
-    "company": "VIZIO",
-    "title": "Software Engineer II",
-    "locations": [
-      "Denver, CO"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4439611333",
-    "sponsorship": "",
-    "posted": "2026-08-29",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4451024488",
     "company": "IBM",
     "title": "Federal Associate Developer 2027",
@@ -43,30 +91,6 @@
       "Herndon, VA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4451024488",
-    "sponsorship": "",
-    "posted": "2026-08-29",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4441953583",
-    "company": "Acrisure",
-    "title": "Software Engineer I",
-    "locations": [
-      "Atlanta, GA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4441953583",
-    "sponsorship": "",
-    "posted": "2026-08-29",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4459434916",
-    "company": "Carterra",
-    "title": "Software Engineer I",
-    "locations": [
-      "Salt Lake City, UT"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4459434916",
     "sponsorship": "",
     "posted": "2026-08-29",
     "source": "LinkedIn"
@@ -96,37 +120,25 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4449213283",
-    "company": "Belvedere Trading, LLC",
-    "title": "Software Engineer - Entry Level 2027",
-    "locations": [
-      "Chicago, IL"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4449213283",
-    "sponsorship": "",
-    "posted": "2026-08-29",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4460814966",
-    "company": "Helic & Co",
-    "title": "Junior Software Developer",
-    "locations": [
-      "United States"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4460814966",
-    "sponsorship": "",
-    "posted": "2026-08-29",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4438791117",
-    "company": "Sony Interactive Entertainment",
+    "id": "linkedin-4441953583",
+    "company": "Acrisure",
     "title": "Software Engineer I",
     "locations": [
-      "San Mateo, CA"
+      "Atlanta, GA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4438791117",
+    "url": "https://www.linkedin.com/jobs/view/4441953583",
+    "sponsorship": "",
+    "posted": "2026-08-29",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4459434916",
+    "company": "Carterra",
+    "title": "Software Engineer I",
+    "locations": [
+      "Salt Lake City, UT"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4459434916",
     "sponsorship": "",
     "posted": "2026-08-29",
     "source": "LinkedIn"
@@ -154,18 +166,6 @@
     "sponsorship": "",
     "posted": "2026-08-29",
     "source": "LinkedIn"
-  },
-  {
-    "id": "simplify-9bd1f0ee-ed84-41a2-b228-773d27d10ff2",
-    "company": "Torch Technologies",
-    "title": "Junior Software Engineer - Entry Level",
-    "locations": [
-      "Huntsville, AL"
-    ],
-    "url": "https://starfish.wd501.myworkdayjobs.com/Careers/job/Huntsville-AL/Entry-Junior-Level-Software-Engineer_R1608",
-    "sponsorship": "Other",
-    "posted": "2026-08-28",
-    "source": "SimplifyJobs"
   },
   {
     "id": "simplify-08b99270-74f2-4861-83ed-68f7ac35d850",
@@ -244,13 +244,49 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4460392317",
-    "company": "Zof AI",
-    "title": "Junior Software Engineer",
+    "id": "linkedin-4460323536",
+    "company": "Raytheon",
+    "title": "Software Engineer I (Onsite)",
     "locations": [
-      "San Francisco, CA"
+      "Huntsville, AL"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4460392317",
+    "url": "https://www.linkedin.com/jobs/view/4460323536",
+    "sponsorship": "",
+    "posted": "2026-08-28",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4460385598",
+    "company": "L3Harris Technologies",
+    "title": "Assoc, Software Engineer (New Grad - Salt Lake City, UT) 1 1 1",
+    "locations": [
+      "Salt Lake City, UT"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4460385598",
+    "sponsorship": "",
+    "posted": "2026-08-28",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4448770207",
+    "company": "Google",
+    "title": "Software Engineer, Early Career, Campus",
+    "locations": [
+      "Los Angeles, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4448770207",
+    "sponsorship": "",
+    "posted": "2026-08-28",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4441946844",
+    "company": "Acrisure",
+    "title": "Software Engineer I",
+    "locations": [
+      "Austin, TX"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4441946844",
     "sponsorship": "",
     "posted": "2026-08-28",
     "source": "LinkedIn"
@@ -280,30 +316,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4460385598",
-    "company": "L3Harris Technologies",
-    "title": "Assoc, Software Engineer (New Grad - Salt Lake City, UT) 1 1 1",
-    "locations": [
-      "Salt Lake City, UT"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4460385598",
-    "sponsorship": "",
-    "posted": "2026-08-28",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4460323536",
-    "company": "Raytheon",
-    "title": "Software Engineer I (Onsite)",
-    "locations": [
-      "Huntsville, AL"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4460323536",
-    "sponsorship": "",
-    "posted": "2026-08-28",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4448754918",
     "company": "Google",
     "title": "Software Engineer, Early Career, Campus",
@@ -311,6 +323,30 @@
       "Pittsburgh, PA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4448754918",
+    "sponsorship": "",
+    "posted": "2026-08-28",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4460313639",
+    "company": "Collins Aerospace",
+    "title": "Embedded Software Engineer I (Onsite)",
+    "locations": [
+      "Cedar Rapids, IA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4460313639",
+    "sponsorship": "",
+    "posted": "2026-08-28",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4458675597",
+    "company": "MedDots AI",
+    "title": "Software Engineer I",
+    "locations": [
+      "Chattanooga, TN"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4458675597",
     "sponsorship": "",
     "posted": "2026-08-28",
     "source": "LinkedIn"
@@ -328,18 +364,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4448770207",
-    "company": "Google",
-    "title": "Software Engineer, Early Career, Campus",
-    "locations": [
-      "Los Angeles, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4448770207",
-    "sponsorship": "",
-    "posted": "2026-08-28",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4448448313",
     "company": "BAE Systems, Inc.",
     "title": "Software Engineer II",
@@ -347,18 +371,6 @@
       "Totowa, NJ"
     ],
     "url": "https://www.linkedin.com/jobs/view/4448448313",
-    "sponsorship": "",
-    "posted": "2026-08-28",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4458675597",
-    "company": "MedDots AI",
-    "title": "Software Engineer I",
-    "locations": [
-      "Chattanooga, TN"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4458675597",
     "sponsorship": "",
     "posted": "2026-08-28",
     "source": "LinkedIn"
