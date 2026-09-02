@@ -24,6 +24,42 @@
     "source": "SimplifyJobs"
   },
   {
+    "id": "linkedin-4406691082",
+    "company": "Northwood",
+    "title": "Software Engineer \u2013 General (new grad / early career)",
+    "locations": [
+      "Torrance, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4406691082",
+    "sponsorship": "",
+    "posted": "2026-09-02",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4462156749",
+    "company": "Uber",
+    "title": "Software Engineer I",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4462156749",
+    "sponsorship": "",
+    "posted": "2026-09-02",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4451979067",
+    "company": "Valon",
+    "title": "Software Engineer II",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4451979067",
+    "sponsorship": "",
+    "posted": "2026-09-02",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4462115615",
     "company": "MetLife",
     "title": "Junior Software Engineer",
@@ -36,13 +72,25 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4460922959",
-    "company": "American Express",
-    "title": "Campus Undergraduate Full-Time Engineer - 2027 Software Engineer I, Enterprise Technology Services- Sunrise, FL",
+    "id": "linkedin-4459591078",
+    "company": "Johns Hopkins Applied Physics Laboratory",
+    "title": "2027 Graduate - Software Developer - Tactical System Prototyping and Deployment",
     "locations": [
-      "Sunrise, FL"
+      "Laurel, MD"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4460922959",
+    "url": "https://www.linkedin.com/jobs/view/4459591078",
+    "sponsorship": "",
+    "posted": "2026-09-02",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4459948436",
+    "company": "Alfa Insurance",
+    "title": "Software Engineer I",
+    "locations": [
+      "Montgomery, AL"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4459948436",
     "sponsorship": "",
     "posted": "2026-09-02",
     "source": "LinkedIn"
@@ -60,25 +108,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4460922345",
-    "company": "Collins Aerospace",
-    "title": "Software Engineer I (Onsite)",
+    "id": "linkedin-4460922959",
+    "company": "American Express",
+    "title": "Campus Undergraduate Full-Time Engineer - 2027 Software Engineer I, Enterprise Technology Services- Sunrise, FL",
     "locations": [
-      "Cedar Rapids, IA"
+      "Sunrise, FL"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4460922345",
-    "sponsorship": "",
-    "posted": "2026-09-02",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4459591078",
-    "company": "Johns Hopkins Applied Physics Laboratory",
-    "title": "2027 Graduate - Software Developer - Tactical System Prototyping and Deployment",
-    "locations": [
-      "Laurel, MD"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4459591078",
+    "url": "https://www.linkedin.com/jobs/view/4460922959",
     "sponsorship": "",
     "posted": "2026-09-02",
     "source": "LinkedIn"
@@ -415,25 +451,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4451610670",
-    "company": "Sony Interactive Entertainment",
-    "title": "Software Engineer I SDK",
+    "id": "linkedin-4460209782",
+    "company": "Textron",
+    "title": "2027 - Software Engineer (Sea Systems) - Hunt Valley, MD",
     "locations": [
-      "San Mateo, CA"
+      "Hunt Valley, MD"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4451610670",
-    "sponsorship": "",
-    "posted": "2026-09-01",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4460205602",
-    "company": "Whatnot",
-    "title": "Software Engineer, 2027 New Grad",
-    "locations": [
-      "New York, NY"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4460205602",
+    "url": "https://www.linkedin.com/jobs/view/4460209782",
     "sponsorship": "",
     "posted": "2026-09-01",
     "source": "LinkedIn"
@@ -446,6 +470,30 @@
       "Phoenix, AZ"
     ],
     "url": "https://www.linkedin.com/jobs/view/4460674213",
+    "sponsorship": "",
+    "posted": "2026-09-01",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4460676247",
+    "company": "American Express",
+    "title": "Campus Graduate Masters Full-Time Engineer - 2027 Software Engineer II, Enterprise Technology Services- Phoenix, AZ",
+    "locations": [
+      "Phoenix, AZ"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4460676247",
+    "sponsorship": "",
+    "posted": "2026-09-01",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4460205602",
+    "company": "Whatnot",
+    "title": "Software Engineer, 2027 New Grad",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4460205602",
     "sponsorship": "",
     "posted": "2026-09-01",
     "source": "LinkedIn"
@@ -487,6 +535,66 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4459690721",
+    "company": "Cox Automotive Inc.",
+    "title": "Entry Level Software Engineer (Draper, UT)",
+    "locations": [
+      "Draper, UT"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4459690721",
+    "sponsorship": "",
+    "posted": "2026-09-01",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4449819917",
+    "company": "Varsity Spirit",
+    "title": "Software Engineer I",
+    "locations": [
+      "Memphis, TN"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4449819917",
+    "sponsorship": "",
+    "posted": "2026-09-01",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4462041991",
+    "company": "Stripe",
+    "title": "Software Engineer, New Grad",
+    "locations": [
+      "New York, United States"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4462041991",
+    "sponsorship": "",
+    "posted": "2026-09-01",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4461798935",
+    "company": "Honeywell Aerospace",
+    "title": "Embedded Software Engineer I - Flight Mgmt Systems",
+    "locations": [
+      "Phoenix, AZ"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4461798935",
+    "sponsorship": "",
+    "posted": "2026-09-01",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4459567916",
+    "company": "BAE Systems, Inc.",
+    "title": "Entry Level Software Engineer (Hybrid)",
+    "locations": [
+      "Durham, NC"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4459567916",
+    "sponsorship": "",
+    "posted": "2026-09-01",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4461744532",
     "company": "Helic & Co",
     "title": "Junior Software Developer",
@@ -511,25 +619,25 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4460241388",
-    "company": "Haystack",
-    "title": "Junior Software Engineer",
+    "id": "linkedin-4452758237",
+    "company": "Travelers",
+    "title": "Software Engineer I (Typescript, Node, AWS)",
     "locations": [
-      "Huntsville, AL"
+      "Hartford, CT"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4460241388",
+    "url": "https://www.linkedin.com/jobs/view/4452758237",
     "sponsorship": "",
     "posted": "2026-09-01",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4460676285",
-    "company": "Valon",
-    "title": "Software Engineer New Grad",
+    "id": "linkedin-4461747033",
+    "company": "Vermont Mutual Insurance Group",
+    "title": "Software Engineer I",
     "locations": [
-      "San Francisco, CA"
+      "Montpelier, VT"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4460676285",
+    "url": "https://www.linkedin.com/jobs/view/4461747033",
     "sponsorship": "",
     "posted": "2026-09-01",
     "source": "LinkedIn"
@@ -559,13 +667,37 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4462041991",
-    "company": "Stripe",
-    "title": "Software Engineer, New Grad",
+    "id": "linkedin-4460676285",
+    "company": "Valon",
+    "title": "Software Engineer New Grad",
     "locations": [
-      "New York, United States"
+      "San Francisco, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4462041991",
+    "url": "https://www.linkedin.com/jobs/view/4460676285",
+    "sponsorship": "",
+    "posted": "2026-09-01",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4432862311",
+    "company": "SkillStorm",
+    "title": "Entry Level Software Developer",
+    "locations": [
+      "San Antonio, TX"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4432862311",
+    "sponsorship": "",
+    "posted": "2026-09-01",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4462062720",
+    "company": "General Motors",
+    "title": "Entry Level Software Engineer",
+    "locations": [
+      "Milford, MI"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4462062720",
     "sponsorship": "",
     "posted": "2026-09-01",
     "source": "LinkedIn"
@@ -797,6 +929,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4451143083",
+    "company": "Cummins Inc.",
+    "title": "Software Engineer I",
+    "locations": [
+      "Columbus, IN"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4451143083",
+    "sponsorship": "",
+    "posted": "2026-08-31",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4461235050",
     "company": "Naval Facilities Engineering Systems Command (NAVFAC)",
     "title": "Junior Software Developer",
@@ -821,18 +965,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4461285885",
-    "company": "Nuvo",
-    "title": "New Grad Forward Deployed Engineer",
-    "locations": [
-      "New York, NY"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4461285885",
-    "sponsorship": "",
-    "posted": "2026-08-31",
-    "source": "LinkedIn"
-  },
-  {
     "id": "simplify-20e5b52f-866c-4751-9606-aeea03d79533",
     "company": "Micron Technology",
     "title": "R&D Equipment Engineer New Grad - TSE",
@@ -843,6 +975,30 @@
     "sponsorship": "Other",
     "posted": "2026-08-30",
     "source": "SimplifyJobs"
+  },
+  {
+    "id": "linkedin-4375267309",
+    "company": "Walmart Global Tech",
+    "title": "(USA) Software Engineer III",
+    "locations": [
+      "Bentonville, AR"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4375267309",
+    "sponsorship": "",
+    "posted": "2026-08-30",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4420751851",
+    "company": "BAE Systems, Inc.",
+    "title": "Full-stack Software Engineer I",
+    "locations": [
+      "Nashua, NH"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4420751851",
+    "sponsorship": "",
+    "posted": "2026-08-30",
+    "source": "LinkedIn"
   },
   {
     "id": "simplify-3e1957cd-768a-47fc-9140-cae0d35bb273",
