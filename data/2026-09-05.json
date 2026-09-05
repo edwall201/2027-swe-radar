@@ -1,5 +1,41 @@
 [
   {
+    "id": "linkedin-4454805111",
+    "company": "Notion",
+    "title": "Software Engineer, New Grad (Dec 2026)",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4454805111",
+    "sponsorship": "",
+    "posted": "2026-09-05",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4463774183",
+    "company": "Hire Feed",
+    "title": "Junior Software Engineer (Remote)",
+    "locations": [
+      "United States"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4463774183",
+    "sponsorship": "",
+    "posted": "2026-09-05",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4462359438",
+    "company": "General Dynamics Mission Systems",
+    "title": "Entry Level Software Engineer",
+    "locations": [
+      "Scottsdale, AZ"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4462359438",
+    "sponsorship": "",
+    "posted": "2026-09-05",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4453745721",
     "company": "Applied Intuition",
     "title": "Software Engineer - New Grad (December 2026)",
@@ -24,54 +60,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4453734041",
-    "company": "Wolverine Trading",
-    "title": "Entry Level C++ Software Engineer (Spring 2027 Graduates)",
-    "locations": [
-      "Chicago, IL"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4453734041",
-    "sponsorship": "",
-    "posted": "2026-09-05",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4462359438",
-    "company": "General Dynamics Mission Systems",
-    "title": "Entry Level Software Engineer",
-    "locations": [
-      "Scottsdale, AZ"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4462359438",
-    "sponsorship": "",
-    "posted": "2026-09-05",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4408704089",
-    "company": "McKesson",
-    "title": "Software Engineer III \u2014 Full Stack (Backend-Focused, Core Platform Services)",
-    "locations": [
-      "Minnesota, United States"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4408704089",
-    "sponsorship": "",
-    "posted": "2026-09-05",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4454805111",
-    "company": "Notion",
-    "title": "Software Engineer, New Grad (Dec 2026)",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4454805111",
-    "sponsorship": "",
-    "posted": "2026-09-05",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4463724311",
     "company": "AiPrise",
     "title": "Software Engineer I",
@@ -79,18 +67,6 @@
       "San Jose, CA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4463724311",
-    "sponsorship": "",
-    "posted": "2026-09-05",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4463735807",
-    "company": "Haystack",
-    "title": "Junior Software Developer",
-    "locations": [
-      "Alabama, United States"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4463735807",
     "sponsorship": "",
     "posted": "2026-09-05",
     "source": "LinkedIn"
@@ -132,6 +108,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4463735807",
+    "company": "Haystack",
+    "title": "Junior Software Developer",
+    "locations": [
+      "Alabama, United States"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4463735807",
+    "sponsorship": "",
+    "posted": "2026-09-05",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4463709289",
     "company": "Yara AI",
     "title": "Software Engineer (Early Career)",
@@ -139,6 +127,18 @@
       "New York City Metropolitan Area"
     ],
     "url": "https://www.linkedin.com/jobs/view/4463709289",
+    "sponsorship": "",
+    "posted": "2026-09-05",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4453734041",
+    "company": "Wolverine Trading",
+    "title": "Entry Level C++ Software Engineer (Spring 2027 Graduates)",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4453734041",
     "sponsorship": "",
     "posted": "2026-09-05",
     "source": "LinkedIn"
@@ -206,18 +206,6 @@
     "source": "Greenhouse"
   },
   {
-    "id": "linkedin-4459524666",
-    "company": "BeaconFire Inc.",
-    "title": "Entry-Level / Junior Software Developer",
-    "locations": [
-      "New Jersey, United States"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4459524666",
-    "sponsorship": "",
-    "posted": "2026-09-04",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4461410599",
     "company": "General Dynamics Mission Systems",
     "title": "Entry Level Software Engineer",
@@ -230,49 +218,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4461404285",
-    "company": "IBM",
-    "title": "Entry Level Cloud Infrastructure Network Monitoring and Automation Software Engineer - San Jose, CA - 2027",
+    "id": "linkedin-4459524666",
+    "company": "BeaconFire Inc.",
+    "title": "Entry-Level / Junior Software Developer",
     "locations": [
-      "San Jose, CA"
+      "New Jersey, United States"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4461404285",
-    "sponsorship": "",
-    "posted": "2026-09-04",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4462306919",
-    "company": "Solarity",
-    "title": "Software Engineer I",
-    "locations": [
-      "Sioux Falls, SD"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4462306919",
-    "sponsorship": "",
-    "posted": "2026-09-04",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4462715117",
-    "company": "Boston Scientific",
-    "title": "Software Engineer I",
-    "locations": [
-      "Arden Hills, MN"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4462715117",
-    "sponsorship": "",
-    "posted": "2026-09-04",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4454367150",
-    "company": "Lennar",
-    "title": "Software Engineer I",
-    "locations": [
-      "Irving, TX"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4454367150",
+    "url": "https://www.linkedin.com/jobs/view/4459524666",
     "sponsorship": "",
     "posted": "2026-09-04",
     "source": "LinkedIn"
@@ -290,13 +242,73 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4463351090",
-    "company": "Amazon",
-    "title": "Software Development Engineer, Amazon Dedicated Cloud, Early Career - 2026",
+    "id": "linkedin-4462306919",
+    "company": "Solarity",
+    "title": "Software Engineer I",
     "locations": [
-      "Herndon, VA"
+      "Sioux Falls, SD"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4463351090",
+    "url": "https://www.linkedin.com/jobs/view/4462306919",
+    "sponsorship": "",
+    "posted": "2026-09-04",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4463357579",
+    "company": "Helic & Co",
+    "title": "Junior Software Developer",
+    "locations": [
+      "United States"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4463357579",
+    "sponsorship": "",
+    "posted": "2026-09-04",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4450856231",
+    "company": "IBM",
+    "title": "Associate Application Developer AWS - 2027",
+    "locations": [
+      "Baton Rouge, LA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4450856231",
+    "sponsorship": "",
+    "posted": "2026-09-04",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4450861162",
+    "company": "IBM",
+    "title": "Associate Application Developer 2027- ServiceNow",
+    "locations": [
+      "Baton Rouge, LA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4450861162",
+    "sponsorship": "",
+    "posted": "2026-09-04",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4461950603",
+    "company": "Haystack",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "United States"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4461950603",
+    "sponsorship": "",
+    "posted": "2026-09-04",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4462715117",
+    "company": "Boston Scientific",
+    "title": "Software Engineer I",
+    "locations": [
+      "Arden Hills, MN"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4462715117",
     "sponsorship": "",
     "posted": "2026-09-04",
     "source": "LinkedIn"
@@ -422,13 +434,13 @@
     "source": "SimplifyJobs"
   },
   {
-    "id": "linkedin-4453632537",
-    "company": "Lennar",
-    "title": "Software Engineer I",
+    "id": "linkedin-4453380670",
+    "company": "Uniswap",
+    "title": "Software Engineer - Early Career",
     "locations": [
-      "Miami, FL"
+      "New York, NY"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4453632537",
+    "url": "https://www.linkedin.com/jobs/view/4453380670",
     "sponsorship": "",
     "posted": "2026-09-03",
     "source": "LinkedIn"
@@ -482,13 +494,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4453380670",
-    "company": "Uniswap",
-    "title": "Software Engineer - Early Career",
+    "id": "linkedin-4453632537",
+    "company": "Lennar",
+    "title": "Software Engineer I",
     "locations": [
-      "New York, NY"
+      "Miami, FL"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4453380670",
+    "url": "https://www.linkedin.com/jobs/view/4453632537",
     "sponsorship": "",
     "posted": "2026-09-03",
     "source": "LinkedIn"
@@ -518,18 +530,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4460752391",
-    "company": "IBM",
-    "title": "Entry level Backend Developer - San Jose, CA - 2027",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4460752391",
-    "sponsorship": "",
-    "posted": "2026-09-03",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4461906047",
     "company": "The Tech7 Company",
     "title": "Junior Software Engineer",
@@ -542,13 +542,25 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4413763362",
-    "company": "TP-Link Systems Inc.",
-    "title": "2026 Early Career Embedded Software Engineer",
+    "id": "linkedin-4460752391",
+    "company": "IBM",
+    "title": "Entry level Backend Developer - San Jose, CA - 2027",
     "locations": [
-      "Irvine, CA"
+      "San Jose, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4413763362",
+    "url": "https://www.linkedin.com/jobs/view/4460752391",
+    "sponsorship": "",
+    "posted": "2026-09-03",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4463117210",
+    "company": "Chewy",
+    "title": "Backend Software Engineer I",
+    "locations": [
+      "Boston, MA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4463117210",
     "sponsorship": "",
     "posted": "2026-09-03",
     "source": "LinkedIn"
@@ -597,6 +609,18 @@
       "Chicago, IL"
     ],
     "url": "https://www.linkedin.com/jobs/view/4461340622",
+    "sponsorship": "",
+    "posted": "2026-09-02",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4459998436",
+    "company": "Arch",
+    "title": "Operations Engineer | Early Careers, 2027 Start",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4459998436",
     "sponsorship": "",
     "posted": "2026-09-02",
     "source": "LinkedIn"
