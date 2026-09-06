@@ -1,12 +1,12 @@
 [
   {
-    "id": "linkedin-4374838577",
-    "company": "Giga",
-    "title": "Software Engineer I / II",
+    "id": "linkedin-4464007565",
+    "company": "EngRadar",
+    "title": "Software Engineer I",
     "locations": [
-      "New York, NY"
+      "San Jose, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4374838577",
+    "url": "https://www.linkedin.com/jobs/view/4464007565",
     "sponsorship": "",
     "posted": "2026-09-06",
     "source": "LinkedIn"
@@ -19,18 +19,6 @@
       "Palo Alto, CA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4399493417",
-    "sponsorship": "",
-    "posted": "2026-09-06",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4464007565",
-    "company": "EngRadar",
-    "title": "Software Engineer I",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4464007565",
     "sponsorship": "",
     "posted": "2026-09-06",
     "source": "LinkedIn"
@@ -60,51 +48,75 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4454805111",
-    "company": "Notion",
-    "title": "Software Engineer, New Grad (Dec 2026)",
+    "id": "linkedin-4441884278",
+    "company": "MANTECH",
+    "title": "Junior Software Developer",
     "locations": [
-      "San Francisco, CA"
+      "Montgomery, AL"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4454805111",
+    "url": "https://www.linkedin.com/jobs/view/4441884278",
     "sponsorship": "",
-    "posted": "2026-09-05",
+    "posted": "2026-09-06",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4453734041",
-    "company": "Wolverine Trading",
-    "title": "Entry Level C++ Software Engineer (Spring 2027 Graduates)",
+    "id": "linkedin-4462695814",
+    "company": "Base-2 Solutions",
+    "title": "Junior Software Engineer",
     "locations": [
-      "Chicago, IL"
+      "Annapolis Junction, MD"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4453734041",
+    "url": "https://www.linkedin.com/jobs/view/4462695814",
     "sponsorship": "",
-    "posted": "2026-09-05",
+    "posted": "2026-09-06",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4408704089",
-    "company": "McKesson",
-    "title": "Software Engineer III \u2014 Full Stack (Backend-Focused, Core Platform Services)",
+    "id": "linkedin-4462678938",
+    "company": "Base-2 Solutions",
+    "title": "Junior Software Engineer",
     "locations": [
-      "Minnesota, United States"
+      "Hanover, MD"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4408704089",
+    "url": "https://www.linkedin.com/jobs/view/4462678938",
     "sponsorship": "",
-    "posted": "2026-09-05",
+    "posted": "2026-09-06",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4451251861",
-    "company": "IBM",
-    "title": "Associate Application Developer 2027 - DPE",
+    "id": "linkedin-4374838577",
+    "company": "Giga",
+    "title": "Software Engineer I / II",
     "locations": [
-      "Chicago, IL"
+      "New York, NY"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4451251861",
+    "url": "https://www.linkedin.com/jobs/view/4374838577",
     "sponsorship": "",
-    "posted": "2026-09-05",
+    "posted": "2026-09-06",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4464013753",
+    "company": "Yara AI",
+    "title": "Software Engineer (Early Career)",
+    "locations": [
+      "New York City Metropolitan Area"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4464013753",
+    "sponsorship": "",
+    "posted": "2026-09-06",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4427643568",
+    "company": "Anduril Industries",
+    "title": "2027 Early Career Software Engineer",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4427643568",
+    "sponsorship": "",
+    "posted": "2026-09-06",
     "source": "LinkedIn"
   },
   {
@@ -127,6 +139,78 @@
       "Sunnyvale, CA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4453756654",
+    "sponsorship": "",
+    "posted": "2026-09-05",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4453734041",
+    "company": "Wolverine Trading",
+    "title": "Entry Level C++ Software Engineer (Spring 2027 Graduates)",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4453734041",
+    "sponsorship": "",
+    "posted": "2026-09-05",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4454805111",
+    "company": "Notion",
+    "title": "Software Engineer, New Grad (Dec 2026)",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4454805111",
+    "sponsorship": "",
+    "posted": "2026-09-05",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4408704089",
+    "company": "McKesson",
+    "title": "Software Engineer III \u2014 Full Stack (Backend-Focused, Core Platform Services)",
+    "locations": [
+      "Minnesota, United States"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4408704089",
+    "sponsorship": "",
+    "posted": "2026-09-05",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4463735807",
+    "company": "Haystack",
+    "title": "Junior Software Developer",
+    "locations": [
+      "Alabama, United States"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4463735807",
+    "sponsorship": "",
+    "posted": "2026-09-05",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4454588318",
+    "company": "SpaceX",
+    "title": "New Graduate Engineer, Software - '26/'27 (Starlink)",
+    "locations": [
+      "Redmond, WA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4454588318",
+    "sponsorship": "",
+    "posted": "2026-09-05",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4454591302",
+    "company": "SpaceX",
+    "title": "New Graduate Engineer, Software - '26/'27 (Starlink)",
+    "locations": [
+      "Bastrop, TX"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4454591302",
     "sponsorship": "",
     "posted": "2026-09-05",
     "source": "LinkedIn"
@@ -168,61 +252,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4454588318",
-    "company": "SpaceX",
-    "title": "New Graduate Engineer, Software - '26/'27 (Starlink)",
+    "id": "linkedin-4461422132",
+    "company": "ConstructConnect",
+    "title": "Software Engineer I - (Full Stack)",
     "locations": [
-      "Redmond, WA"
+      "Atlanta, GA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4454588318",
-    "sponsorship": "",
-    "posted": "2026-09-05",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4454591302",
-    "company": "SpaceX",
-    "title": "New Graduate Engineer, Software - '26/'27 (Starlink)",
-    "locations": [
-      "Bastrop, TX"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4454591302",
-    "sponsorship": "",
-    "posted": "2026-09-05",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4463735807",
-    "company": "Haystack",
-    "title": "Junior Software Developer",
-    "locations": [
-      "Alabama, United States"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4463735807",
-    "sponsorship": "",
-    "posted": "2026-09-05",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4453727934",
-    "company": "Travelers",
-    "title": "Software Engineer I (MERN, AWS)",
-    "locations": [
-      "Hartford, CT"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4453727934",
-    "sponsorship": "",
-    "posted": "2026-09-05",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4434750014",
-    "company": "InComm Payments",
-    "title": "Software Engineer I",
-    "locations": [
-      "Utah, United States"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4434750014",
+    "url": "https://www.linkedin.com/jobs/view/4461422132",
     "sponsorship": "",
     "posted": "2026-09-05",
     "source": "LinkedIn"
@@ -240,13 +276,25 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4454584413",
-    "company": "SpaceX",
-    "title": "New Graduate Engineer, Software - '26/'27 (Starlink)",
+    "id": "linkedin-4463724311",
+    "company": "AiPrise",
+    "title": "Software Engineer I",
     "locations": [
-      "Palo Alto, CA"
+      "San Jose, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4454584413",
+    "url": "https://www.linkedin.com/jobs/view/4463724311",
+    "sponsorship": "",
+    "posted": "2026-09-05",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4453791036",
+    "company": "Twitch",
+    "title": "Software Engineer I, Payments",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4453791036",
     "sponsorship": "",
     "posted": "2026-09-05",
     "source": "LinkedIn"
@@ -314,6 +362,18 @@
     "source": "Greenhouse"
   },
   {
+    "id": "linkedin-4459524666",
+    "company": "BeaconFire Inc.",
+    "title": "Entry-Level / Junior Software Developer",
+    "locations": [
+      "New Jersey, United States"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4459524666",
+    "sponsorship": "",
+    "posted": "2026-09-04",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4463352083",
     "company": "Amazon",
     "title": "Software Development Engineer, Amazon Dedicated Cloud, Early Career - 2026",
@@ -350,18 +410,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4459524666",
-    "company": "BeaconFire Inc.",
-    "title": "Entry-Level / Junior Software Developer",
-    "locations": [
-      "New Jersey, United States"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4459524666",
-    "sponsorship": "",
-    "posted": "2026-09-04",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4450826406",
     "company": "IBM",
     "title": "Associate Application Developer - Adobe 2027",
@@ -369,78 +417,6 @@
       "Buffalo, NY"
     ],
     "url": "https://www.linkedin.com/jobs/view/4450826406",
-    "sponsorship": "",
-    "posted": "2026-09-04",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4463351090",
-    "company": "Amazon",
-    "title": "Software Development Engineer, Amazon Dedicated Cloud, Early Career - 2026",
-    "locations": [
-      "Herndon, VA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4463351090",
-    "sponsorship": "",
-    "posted": "2026-09-04",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4462306919",
-    "company": "Solarity",
-    "title": "Software Engineer I",
-    "locations": [
-      "Sioux Falls, SD"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4462306919",
-    "sponsorship": "",
-    "posted": "2026-09-04",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4463357579",
-    "company": "Helic & Co",
-    "title": "Junior Software Developer",
-    "locations": [
-      "United States"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4463357579",
-    "sponsorship": "",
-    "posted": "2026-09-04",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4450856231",
-    "company": "IBM",
-    "title": "Associate Application Developer AWS - 2027",
-    "locations": [
-      "Baton Rouge, LA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4450856231",
-    "sponsorship": "",
-    "posted": "2026-09-04",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4450861162",
-    "company": "IBM",
-    "title": "Associate Application Developer 2027- ServiceNow",
-    "locations": [
-      "Baton Rouge, LA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4450861162",
-    "sponsorship": "",
-    "posted": "2026-09-04",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4461950603",
-    "company": "Haystack",
-    "title": "Junior Software Engineer",
-    "locations": [
-      "United States"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4461950603",
     "sponsorship": "",
     "posted": "2026-09-04",
     "source": "LinkedIn"
@@ -458,6 +434,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4462306919",
+    "company": "Solarity",
+    "title": "Software Engineer I",
+    "locations": [
+      "Sioux Falls, SD"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4462306919",
+    "sponsorship": "",
+    "posted": "2026-09-04",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4454367150",
     "company": "Lennar",
     "title": "Software Engineer I",
@@ -465,6 +453,42 @@
       "Irving, TX"
     ],
     "url": "https://www.linkedin.com/jobs/view/4454367150",
+    "sponsorship": "",
+    "posted": "2026-09-04",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4463351090",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Amazon Dedicated Cloud, Early Career - 2026",
+    "locations": [
+      "Herndon, VA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4463351090",
+    "sponsorship": "",
+    "posted": "2026-09-04",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4463357579",
+    "company": "Helic & Co",
+    "title": "Junior Software Developer",
+    "locations": [
+      "United States"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4463357579",
+    "sponsorship": "",
+    "posted": "2026-09-04",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4450862154",
+    "company": "IBM",
+    "title": "Associate Application Developer IBM Tech & Red Hat - 2027",
+    "locations": [
+      "Baton Rouge, LA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4450862154",
     "sponsorship": "",
     "posted": "2026-09-04",
     "source": "LinkedIn"
@@ -588,18 +612,6 @@
     "sponsorship": "Other",
     "posted": "2026-09-03",
     "source": "SimplifyJobs"
-  },
-  {
-    "id": "linkedin-4460761533",
-    "company": "Leidos",
-    "title": "Junior Software Engineer",
-    "locations": [
-      "Huntsville, AL"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4460761533",
-    "sponsorship": "",
-    "posted": "2026-09-03",
-    "source": "LinkedIn"
   },
   {
     "id": "simplify-6ae22f82-27b2-4c0b-8bb6-c2aba3e8af44",
