@@ -1,12 +1,24 @@
 [
   {
-    "id": "linkedin-4351877495",
-    "company": "Medpace",
-    "title": "Junior Software Engineer",
+    "id": "linkedin-4462974294",
+    "company": "Jobright.ai",
+    "title": "Full Stack Software Engineer, New Grad",
     "locations": [
-      "Cincinnati, OH"
+      "United States"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4351877495",
+    "url": "https://www.linkedin.com/jobs/view/4462974294",
+    "sponsorship": "",
+    "posted": "2026-09-07",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4462967498",
+    "company": "Jobright.ai",
+    "title": "Full Stack Engineer, New Grad",
+    "locations": [
+      "United States"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4462967498",
     "sponsorship": "",
     "posted": "2026-09-07",
     "source": "LinkedIn"
@@ -24,27 +36,15 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4462910339",
-    "company": "Haystack",
+    "id": "linkedin-4462927502",
+    "company": "Base-2 Solutions",
     "title": "Junior Software Engineer",
     "locations": [
-      "United States"
+      "Hanover, MD"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4462910339",
+    "url": "https://www.linkedin.com/jobs/view/4462927502",
     "sponsorship": "",
     "posted": "2026-09-07",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4464007565",
-    "company": "EngRadar",
-    "title": "Software Engineer I",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4464007565",
-    "sponsorship": "",
-    "posted": "2026-09-06",
     "source": "LinkedIn"
   },
   {
@@ -108,6 +108,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4441884278",
+    "company": "MANTECH",
+    "title": "Junior Software Developer",
+    "locations": [
+      "Montgomery, AL"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4441884278",
+    "sponsorship": "",
+    "posted": "2026-09-06",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4453745721",
     "company": "Applied Intuition",
     "title": "Software Engineer - New Grad (December 2026)",
@@ -156,30 +168,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4408704089",
-    "company": "McKesson",
-    "title": "Software Engineer III \u2014 Full Stack (Backend-Focused, Core Platform Services)",
-    "locations": [
-      "Minnesota, United States"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4408704089",
-    "sponsorship": "",
-    "posted": "2026-09-05",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4463735807",
-    "company": "Haystack",
-    "title": "Junior Software Developer",
-    "locations": [
-      "Alabama, United States"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4463735807",
-    "sponsorship": "",
-    "posted": "2026-09-05",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4454588318",
     "company": "SpaceX",
     "title": "New Graduate Engineer, Software - '26/'27 (Starlink)",
@@ -192,25 +180,73 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4454591302",
-    "company": "SpaceX",
-    "title": "New Graduate Engineer, Software - '26/'27 (Starlink)",
+    "id": "linkedin-4408704089",
+    "company": "McKesson",
+    "title": "Software Engineer III \u2014 Full Stack (Backend-Focused, Core Platform Services)",
     "locations": [
-      "Bastrop, TX"
+      "Minnesota, United States"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4454591302",
+    "url": "https://www.linkedin.com/jobs/view/4408704089",
     "sponsorship": "",
     "posted": "2026-09-05",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4462359438",
-    "company": "General Dynamics Mission Systems",
-    "title": "Entry Level Software Engineer",
+    "id": "linkedin-4444061574",
+    "company": "Handshake",
+    "title": "Software Engineer I, Handshake AI",
     "locations": [
-      "Scottsdale, AZ"
+      "San Francisco, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4462359438",
+    "url": "https://www.linkedin.com/jobs/view/4444061574",
+    "sponsorship": "",
+    "posted": "2026-09-05",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4463664747",
+    "company": "Audible",
+    "title": "Software Development Engineer, Early Careers",
+    "locations": [
+      "Cambridge, MA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4463664747",
+    "sponsorship": "",
+    "posted": "2026-09-05",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4463659798",
+    "company": "Audible",
+    "title": "Software Development Engineer, Early Careers",
+    "locations": [
+      "New Jersey, United States"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4463659798",
+    "sponsorship": "",
+    "posted": "2026-09-05",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4441842476",
+    "company": "TGW Logistics",
+    "title": "Software Engineer I (M/F/D)*",
+    "locations": [
+      "Grand Rapids, MI"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4441842476",
+    "sponsorship": "",
+    "posted": "2026-09-05",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4451281738",
+    "company": "IBM",
+    "title": "Associate Application Developer - Oracle - 2027",
+    "locations": [
+      "Baton Rouge, LA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4451281738",
     "sponsorship": "",
     "posted": "2026-09-05",
     "source": "LinkedIn"
@@ -228,25 +264,37 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4454584413",
-    "company": "SpaceX",
-    "title": "New Graduate Engineer, Software - '26/'27 (Starlink)",
+    "id": "linkedin-4453791036",
+    "company": "Twitch",
+    "title": "Software Engineer I, Payments",
     "locations": [
-      "Palo Alto, CA"
+      "San Francisco, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4454584413",
+    "url": "https://www.linkedin.com/jobs/view/4453791036",
     "sponsorship": "",
     "posted": "2026-09-05",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4463724311",
-    "company": "AiPrise",
+    "id": "linkedin-4434750014",
+    "company": "InComm Payments",
     "title": "Software Engineer I",
     "locations": [
-      "San Jose, CA"
+      "Utah, United States"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4463724311",
+    "url": "https://www.linkedin.com/jobs/view/4434750014",
+    "sponsorship": "",
+    "posted": "2026-09-05",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4454803207",
+    "company": "SpaceX",
+    "title": "New Graduate Engineer, Software Security - '26/'27 (Starlink)",
+    "locations": [
+      "Bastrop, TX"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4454803207",
     "sponsorship": "",
     "posted": "2026-09-05",
     "source": "LinkedIn"
@@ -326,37 +374,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4444706533",
-    "company": "Appian",
-    "title": "Associate Application Engineer (2027 Graduates)",
+    "id": "linkedin-4461410599",
+    "company": "General Dynamics Mission Systems",
+    "title": "Entry Level Software Engineer",
     "locations": [
-      "McLean, VA"
+      "Lakewood, OH"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4444706533",
-    "sponsorship": "",
-    "posted": "2026-09-04",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4463329874",
-    "company": "Amazon",
-    "title": "Software Development Engineer, Amazon Dedicated Cloud, Early Career - 2026",
-    "locations": [
-      "Denver, CO"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4463329874",
-    "sponsorship": "",
-    "posted": "2026-09-04",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4456399467",
-    "company": "Viasat",
-    "title": "Embedded Software Engineer, Early Career",
-    "locations": [
-      "Marlborough, MA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4456399467",
+    "url": "https://www.linkedin.com/jobs/view/4461410599",
     "sponsorship": "",
     "posted": "2026-09-04",
     "source": "LinkedIn"
@@ -369,54 +393,6 @@
       "Sioux Falls, SD"
     ],
     "url": "https://www.linkedin.com/jobs/view/4462306919",
-    "sponsorship": "",
-    "posted": "2026-09-04",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4463357579",
-    "company": "Helic & Co",
-    "title": "Junior Software Developer",
-    "locations": [
-      "United States"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4463357579",
-    "sponsorship": "",
-    "posted": "2026-09-04",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4450856231",
-    "company": "IBM",
-    "title": "Associate Application Developer AWS - 2027",
-    "locations": [
-      "Baton Rouge, LA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4450856231",
-    "sponsorship": "",
-    "posted": "2026-09-04",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4450861162",
-    "company": "IBM",
-    "title": "Associate Application Developer 2027- ServiceNow",
-    "locations": [
-      "Baton Rouge, LA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4450861162",
-    "sponsorship": "",
-    "posted": "2026-09-04",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4461404285",
-    "company": "IBM",
-    "title": "Entry Level Cloud Infrastructure Network Monitoring and Automation Software Engineer - San Jose, CA - 2027",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4461404285",
     "sponsorship": "",
     "posted": "2026-09-04",
     "source": "LinkedIn"
@@ -575,18 +551,6 @@
       "NYC"
     ],
     "url": "https://jobs.ashbyhq.com/whatnot/29bad846-de60-4be7-a222-69b97e044930/application?embed=true",
-    "sponsorship": "Other",
-    "posted": "2026-09-01",
-    "source": "SimplifyJobs"
-  },
-  {
-    "id": "simplify-fc8ec374-761e-4c0f-9167-d280862ea8ad",
-    "company": "Eaton",
-    "title": "Engineering Technology Early Career Leadership Development Program - Embedded Systems - Research & Development Engineering",
-    "locations": [
-      "Moon Twp, PA"
-    ],
-    "url": "https://eaton.eightfold.ai/careers/job/687238044194",
     "sponsorship": "Other",
     "posted": "2026-09-01",
     "source": "SimplifyJobs"
