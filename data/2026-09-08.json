@@ -1,24 +1,180 @@
 [
   {
-    "id": "linkedin-4464439774",
-    "company": "Yara AI",
-    "title": "Full Stack Engineer (New Grad)",
+    "id": "simplify-10504711-cbfe-426e-b2c7-d85abee618a4",
+    "company": "Nexthop.ai",
+    "title": "Software Engineer New Grad - Hardware Diagnostics",
     "locations": [
-      "United States"
+      "Santa Clara, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4464439774",
+    "url": "https://nexthopai.bamboohr.com/careers/107/",
+    "sponsorship": "Other",
+    "posted": "2026-09-08",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "linkedin-4452901177",
+    "company": "TikTok",
+    "title": "Software Engineer Graduate (Foundation Platform) - 2027 Start",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4452901177",
     "sponsorship": "",
     "posted": "2026-09-08",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4462946342",
-    "company": "Base-2 Solutions",
-    "title": "Junior Software Engineer",
+    "id": "linkedin-4449977475",
+    "company": "TikTok",
+    "title": "Software Engineer Graduate (Global E-commerce-Search) - 2027 Start",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4449977475",
+    "sponsorship": "",
+    "posted": "2026-09-08",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4449994388",
+    "company": "ByteDance",
+    "title": "Backend Inference Runtime Engineer Graduate (AML Inference) - 2027 Start",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4449994388",
+    "sponsorship": "",
+    "posted": "2026-09-08",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4447912196",
+    "company": "TikTok",
+    "title": "Software Engineer Graduate (Business Integrity) - 2027 Start",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4447912196",
+    "sponsorship": "",
+    "posted": "2026-09-08",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4361680893",
+    "company": "General Dynamics Information Technology",
+    "title": "Junior Software Developer (Active TS/SCI with Poly Required)",
     "locations": [
       "Annapolis Junction, MD"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4462946342",
+    "url": "https://www.linkedin.com/jobs/view/4361680893",
+    "sponsorship": "",
+    "posted": "2026-09-08",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4463288486",
+    "company": "Revature",
+    "title": "Entry Level Software Developer",
+    "locations": [
+      "Denver, CO"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4463288486",
+    "sponsorship": "",
+    "posted": "2026-09-08",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4463287525",
+    "company": "Revature",
+    "title": "Entry Level Software Developer",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4463287525",
+    "sponsorship": "",
+    "posted": "2026-09-08",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4448124963",
+    "company": "ByteDance",
+    "title": "Backend Software Engineer Graduate (Platform) - 2027 Start",
+    "locations": [
+      "New York, United States"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4448124963",
+    "sponsorship": "",
+    "posted": "2026-09-08",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4449987997",
+    "company": "ByteDance",
+    "title": "Backend Development Engineer Graduate (Infrastructure Platform Delivery) - 2027 Start",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4449987997",
+    "sponsorship": "",
+    "posted": "2026-09-08",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4464447480",
+    "company": "Yara AI",
+    "title": "Software Engineer (New Grad)",
+    "locations": [
+      "United States"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4464447480",
+    "sponsorship": "",
+    "posted": "2026-09-08",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4464066352",
+    "company": "Deloitte",
+    "title": "Software Engineer III - Full-stack Developer with Anthropic Experience",
+    "locations": [
+      "Detroit, MI"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4464066352",
+    "sponsorship": "",
+    "posted": "2026-09-07",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4464078334",
+    "company": "Deloitte",
+    "title": "Software Engineer III - Full-stack Developer with Anthropic Experience",
+    "locations": [
+      "Las Vegas, NV"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4464078334",
+    "sponsorship": "",
+    "posted": "2026-09-07",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4462977484",
+    "company": "Jobright.ai",
+    "title": "Python Engineer, New Grad",
+    "locations": [
+      "United States"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4462977484",
+    "sponsorship": "",
+    "posted": "2026-09-07",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4462975718",
+    "company": "Jobright.ai",
+    "title": "Backend Engineer, New Grad",
+    "locations": [
+      "United States"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4462975718",
     "sponsorship": "",
     "posted": "2026-09-07",
     "source": "LinkedIn"
@@ -36,6 +192,66 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4462946342",
+    "company": "Base-2 Solutions",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "Annapolis Junction, MD"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4462946342",
+    "sponsorship": "",
+    "posted": "2026-09-07",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4464304928",
+    "company": "Lodestar Space",
+    "title": "Software Engineer I: Perception",
+    "locations": [
+      "El Segundo, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4464304928",
+    "sponsorship": "",
+    "posted": "2026-09-07",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4462935419",
+    "company": "Base-2 Solutions",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "Annapolis Junction, MD"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4462935419",
+    "sponsorship": "",
+    "posted": "2026-09-07",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4399493417",
+    "company": "Zettabyte",
+    "title": "Software Engineer (New Grad)",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4399493417",
+    "sponsorship": "",
+    "posted": "2026-09-06",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4403643287",
+    "company": "Varsity Brands",
+    "title": "Software Engineer - Early Career",
+    "locations": [
+      "Farmers Branch, TX"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4403643287",
+    "sponsorship": "",
+    "posted": "2026-09-06",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4374838577",
     "company": "Giga",
     "title": "Software Engineer I / II",
@@ -48,13 +264,25 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4399493417",
-    "company": "Zettabyte",
-    "title": "Software Engineer (New Grad)",
+    "id": "linkedin-4441884278",
+    "company": "MANTECH",
+    "title": "Junior Software Developer",
     "locations": [
-      "Palo Alto, CA"
+      "Montgomery, AL"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4399493417",
+    "url": "https://www.linkedin.com/jobs/view/4441884278",
+    "sponsorship": "",
+    "posted": "2026-09-06",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4427643568",
+    "company": "Anduril Industries",
+    "title": "2027 Early Career Software Engineer",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4427643568",
     "sponsorship": "",
     "posted": "2026-09-06",
     "source": "LinkedIn"
@@ -72,54 +300,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4454805111",
-    "company": "Notion",
-    "title": "Software Engineer, New Grad (Dec 2026)",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4454805111",
-    "sponsorship": "",
-    "posted": "2026-09-05",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4444061574",
-    "company": "Handshake",
-    "title": "Software Engineer I, Handshake AI",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4444061574",
-    "sponsorship": "",
-    "posted": "2026-09-05",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4441624820",
-    "company": "7-Eleven",
-    "title": "Software Engineer II - Python and Java",
-    "locations": [
-      "Irving, TX"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4441624820",
-    "sponsorship": "",
-    "posted": "2026-09-05",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4453791036",
-    "company": "Twitch",
-    "title": "Software Engineer I, Payments",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4453791036",
-    "sponsorship": "",
-    "posted": "2026-09-05",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4453745721",
     "company": "Applied Intuition",
     "title": "Software Engineer - New Grad (December 2026)",
@@ -127,54 +307,6 @@
       "Ann Arbor, MI"
     ],
     "url": "https://www.linkedin.com/jobs/view/4453745721",
-    "sponsorship": "",
-    "posted": "2026-09-05",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4461695275",
-    "company": "The Home Depot",
-    "title": "Software Engineer II (REMOTE)",
-    "locations": [
-      "Austin, TX"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4461695275",
-    "sponsorship": "",
-    "posted": "2026-09-05",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4441842476",
-    "company": "TGW Logistics",
-    "title": "Software Engineer I (M/F/D)*",
-    "locations": [
-      "Grand Rapids, MI"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4441842476",
-    "sponsorship": "",
-    "posted": "2026-09-05",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4453734041",
-    "company": "Wolverine Trading",
-    "title": "Entry Level C++ Software Engineer (Spring 2027 Graduates)",
-    "locations": [
-      "Chicago, IL"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4453734041",
-    "sponsorship": "",
-    "posted": "2026-09-05",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4434750014",
-    "company": "InComm Payments",
-    "title": "Software Engineer I",
-    "locations": [
-      "Utah, United States"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4434750014",
     "sponsorship": "",
     "posted": "2026-09-05",
     "source": "LinkedIn"
@@ -192,13 +324,49 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4463779867",
-    "company": "SteerBridge",
-    "title": "Junior Software Engineer",
+    "id": "linkedin-4453734041",
+    "company": "Wolverine Trading",
+    "title": "Entry Level C++ Software Engineer (Spring 2027 Graduates)",
     "locations": [
-      "Vienna, VA"
+      "Chicago, IL"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4463779867",
+    "url": "https://www.linkedin.com/jobs/view/4453734041",
+    "sponsorship": "",
+    "posted": "2026-09-05",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4454805111",
+    "company": "Notion",
+    "title": "Software Engineer, New Grad (Dec 2026)",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4454805111",
+    "sponsorship": "",
+    "posted": "2026-09-05",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4434750014",
+    "company": "InComm Payments",
+    "title": "Software Engineer I",
+    "locations": [
+      "Utah, United States"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4434750014",
+    "sponsorship": "",
+    "posted": "2026-09-05",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4408704089",
+    "company": "McKesson",
+    "title": "Software Engineer III \u2014 Full Stack (Backend-Focused, Core Platform Services)",
+    "locations": [
+      "Minnesota, United States"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4408704089",
     "sponsorship": "",
     "posted": "2026-09-05",
     "source": "LinkedIn"
@@ -216,6 +384,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4454588318",
+    "company": "SpaceX",
+    "title": "New Graduate Engineer, Software - '26/'27 (Starlink)",
+    "locations": [
+      "Redmond, WA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4454588318",
+    "sponsorship": "",
+    "posted": "2026-09-05",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4454591302",
     "company": "SpaceX",
     "title": "New Graduate Engineer, Software - '26/'27 (Starlink)",
@@ -223,6 +403,54 @@
       "Bastrop, TX"
     ],
     "url": "https://www.linkedin.com/jobs/view/4454591302",
+    "sponsorship": "",
+    "posted": "2026-09-05",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4451281738",
+    "company": "IBM",
+    "title": "Associate Application Developer - Oracle - 2027",
+    "locations": [
+      "Baton Rouge, LA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4451281738",
+    "sponsorship": "",
+    "posted": "2026-09-05",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4463731751",
+    "company": "Haystack",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "Los Angeles, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4463731751",
+    "sponsorship": "",
+    "posted": "2026-09-05",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4451286706",
+    "company": "IBM",
+    "title": "Associate Application Developer Oracle - 2027",
+    "locations": [
+      "Baton Rouge, LA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4451286706",
+    "sponsorship": "",
+    "posted": "2026-09-05",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4463779867",
+    "company": "SteerBridge",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "Vienna, VA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4463779867",
     "sponsorship": "",
     "posted": "2026-09-05",
     "source": "LinkedIn"
