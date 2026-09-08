@@ -1,12 +1,36 @@
 [
   {
-    "id": "linkedin-4452237871",
-    "company": "Boom Supersonic",
-    "title": "Software Engineer (Early Career)",
+    "id": "linkedin-4464439774",
+    "company": "Yara AI",
+    "title": "Full Stack Engineer (New Grad)",
     "locations": [
-      "Englewood, CO"
+      "United States"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4452237871",
+    "url": "https://www.linkedin.com/jobs/view/4464439774",
+    "sponsorship": "",
+    "posted": "2026-09-08",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4462946342",
+    "company": "Base-2 Solutions",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "Annapolis Junction, MD"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4462946342",
+    "sponsorship": "",
+    "posted": "2026-09-07",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4351877495",
+    "company": "Medpace",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "Cincinnati, OH"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4351877495",
     "sponsorship": "",
     "posted": "2026-09-07",
     "source": "LinkedIn"
@@ -36,30 +60,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4464013753",
-    "company": "Yara AI",
-    "title": "Software Engineer (Early Career)",
-    "locations": [
-      "New York City Metropolitan Area"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4464013753",
-    "sponsorship": "",
-    "posted": "2026-09-06",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4403643287",
-    "company": "Varsity Brands",
-    "title": "Software Engineer - Early Career",
-    "locations": [
-      "Farmers Branch, TX"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4403643287",
-    "sponsorship": "",
-    "posted": "2026-09-06",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4444963172",
     "company": "WHOOP",
     "title": "Software Engineer I (Backend)",
@@ -67,18 +67,6 @@
       "Boston, MA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4444963172",
-    "sponsorship": "",
-    "posted": "2026-09-06",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4441884278",
-    "company": "MANTECH",
-    "title": "Junior Software Developer",
-    "locations": [
-      "Montgomery, AL"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4441884278",
     "sponsorship": "",
     "posted": "2026-09-06",
     "source": "LinkedIn"
@@ -96,25 +84,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4463724311",
-    "company": "AiPrise",
-    "title": "Software Engineer I",
+    "id": "linkedin-4444061574",
+    "company": "Handshake",
+    "title": "Software Engineer I, Handshake AI",
     "locations": [
-      "San Jose, CA"
+      "San Francisco, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4463724311",
-    "sponsorship": "",
-    "posted": "2026-09-05",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4463685795",
-    "company": "Awetomaton Ltd",
-    "title": "Junior Software Engineer (Full Stack)",
-    "locations": [
-      "Dayton, OH"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4463685795",
+    "url": "https://www.linkedin.com/jobs/view/4444061574",
     "sponsorship": "",
     "posted": "2026-09-05",
     "source": "LinkedIn"
@@ -132,6 +108,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4453791036",
+    "company": "Twitch",
+    "title": "Software Engineer I, Payments",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4453791036",
+    "sponsorship": "",
+    "posted": "2026-09-05",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4453745721",
     "company": "Applied Intuition",
     "title": "Software Engineer - New Grad (December 2026)",
@@ -144,13 +132,25 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4453756654",
-    "company": "Applied Intuition",
-    "title": "Software Engineer - New Grad (December 2026)",
+    "id": "linkedin-4461695275",
+    "company": "The Home Depot",
+    "title": "Software Engineer II (REMOTE)",
     "locations": [
-      "Sunnyvale, CA"
+      "Austin, TX"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4453756654",
+    "url": "https://www.linkedin.com/jobs/view/4461695275",
+    "sponsorship": "",
+    "posted": "2026-09-05",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4441842476",
+    "company": "TGW Logistics",
+    "title": "Software Engineer I (M/F/D)*",
+    "locations": [
+      "Grand Rapids, MI"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4441842476",
     "sponsorship": "",
     "posted": "2026-09-05",
     "source": "LinkedIn"
@@ -180,85 +180,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4463675072",
-    "company": "Audible",
-    "title": "Software Development Engineer, Early Careers",
+    "id": "linkedin-4453756654",
+    "company": "Applied Intuition",
+    "title": "Software Engineer - New Grad (December 2026)",
     "locations": [
-      "Cambridge, MA"
+      "Sunnyvale, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4463675072",
-    "sponsorship": "",
-    "posted": "2026-09-05",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4441842476",
-    "company": "TGW Logistics",
-    "title": "Software Engineer I (M/F/D)*",
-    "locations": [
-      "Grand Rapids, MI"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4441842476",
-    "sponsorship": "",
-    "posted": "2026-09-05",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4461695275",
-    "company": "The Home Depot",
-    "title": "Software Engineer II (REMOTE)",
-    "locations": [
-      "Austin, TX"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4461695275",
-    "sponsorship": "",
-    "posted": "2026-09-05",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4463664747",
-    "company": "Audible",
-    "title": "Software Development Engineer, Early Careers",
-    "locations": [
-      "Cambridge, MA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4463664747",
-    "sponsorship": "",
-    "posted": "2026-09-05",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4463659798",
-    "company": "Audible",
-    "title": "Software Development Engineer, Early Careers",
-    "locations": [
-      "New Jersey, United States"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4463659798",
-    "sponsorship": "",
-    "posted": "2026-09-05",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4462359438",
-    "company": "General Dynamics Mission Systems",
-    "title": "Entry Level Software Engineer",
-    "locations": [
-      "Scottsdale, AZ"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4462359438",
-    "sponsorship": "",
-    "posted": "2026-09-05",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4453791036",
-    "company": "Twitch",
-    "title": "Software Engineer I, Payments",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4453791036",
+    "url": "https://www.linkedin.com/jobs/view/4453756654",
     "sponsorship": "",
     "posted": "2026-09-05",
     "source": "LinkedIn"
@@ -276,37 +204,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4451281738",
+    "id": "linkedin-4451251861",
     "company": "IBM",
-    "title": "Associate Application Developer - Oracle - 2027",
+    "title": "Associate Application Developer 2027 - DPE",
     "locations": [
-      "Baton Rouge, LA"
+      "Chicago, IL"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4451281738",
-    "sponsorship": "",
-    "posted": "2026-09-05",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4463731751",
-    "company": "Haystack",
-    "title": "Junior Software Engineer",
-    "locations": [
-      "Los Angeles, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4463731751",
-    "sponsorship": "",
-    "posted": "2026-09-05",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4451286706",
-    "company": "IBM",
-    "title": "Associate Application Developer Oracle - 2027",
-    "locations": [
-      "Baton Rouge, LA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4451286706",
+    "url": "https://www.linkedin.com/jobs/view/4451251861",
     "sponsorship": "",
     "posted": "2026-09-05",
     "source": "LinkedIn"
@@ -319,30 +223,6 @@
       "Bastrop, TX"
     ],
     "url": "https://www.linkedin.com/jobs/view/4454591302",
-    "sponsorship": "",
-    "posted": "2026-09-05",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4444960287",
-    "company": "WHOOP",
-    "title": "Software Engineer I (Frontend, Growth)",
-    "locations": [
-      "Boston, MA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4444960287",
-    "sponsorship": "",
-    "posted": "2026-09-05",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4461422132",
-    "company": "ConstructConnect",
-    "title": "Software Engineer I - (Full Stack)",
-    "locations": [
-      "Atlanta, GA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4461422132",
     "sponsorship": "",
     "posted": "2026-09-05",
     "source": "LinkedIn"
@@ -367,20 +247,6 @@
       "Laurel, MD"
     ],
     "url": "https://careers.jhuapl.edu/jobs/59974?icims=1",
-    "sponsorship": "Other",
-    "posted": "2026-09-04",
-    "source": "SimplifyJobs"
-  },
-  {
-    "id": "simplify-1391f391-f29c-43d6-8325-a988430b5fe9",
-    "company": "PayPal",
-    "title": "Software Engineer New Grad - Software Engineering",
-    "locations": [
-      "Austin, TX",
-      "San Jose, CA",
-      "Chicago, IL"
-    ],
-    "url": "https://paypal.eightfold.ai/careers/job/274921995088",
     "sponsorship": "Other",
     "posted": "2026-09-04",
     "source": "SimplifyJobs"
@@ -722,6 +588,19 @@
       "Boston, MA"
     ],
     "url": "https://job-boards.greenhouse.io/intersystems/jobs/7827894003",
+    "sponsorship": "Other",
+    "posted": "2026-09-01",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-251dd790-b5bc-48d9-ab3e-9deb38e21b46",
+    "company": "General Motors",
+    "title": "Entry Level Software Design Release Engineer",
+    "locations": [
+      "Milford, MI",
+      "Warren, MI"
+    ],
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/GM-Global-Technical-Center---Cole-Engineering-Center-Tower/Entry-Level-Software-Design-Release-Engineer_JR-202618509",
     "sponsorship": "Other",
     "posted": "2026-09-01",
     "source": "SimplifyJobs"
