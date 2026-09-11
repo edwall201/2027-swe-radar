@@ -24,6 +24,30 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4434138603",
+    "company": "Palantir Technologies",
+    "title": "Software Engineer, New Grad",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4434138603",
+    "sponsorship": "",
+    "posted": "2026-09-11",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4466042164",
+    "company": "Honeywell Aerospace",
+    "title": "Software Engineer I",
+    "locations": [
+      "Phoenix, AZ"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4466042164",
+    "sponsorship": "",
+    "posted": "2026-09-11",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4465624036",
     "company": "Northrop Grumman",
     "title": "2027 Associate Software Engineer / Software Engineer - Roy UT",
@@ -48,25 +72,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4466026234",
-    "company": "Amentum",
-    "title": "Entry Level Software Engineer",
+    "id": "linkedin-4464883434",
+    "company": "Eccalon, LLC",
+    "title": "Junior Software Engineer",
     "locations": [
-      "Dahlgren, VA"
+      "Detroit, MI"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4466026234",
-    "sponsorship": "",
-    "posted": "2026-09-11",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4466042164",
-    "company": "Honeywell Aerospace",
-    "title": "Software Engineer I",
-    "locations": [
-      "Phoenix, AZ"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4466042164",
+    "url": "https://www.linkedin.com/jobs/view/4464883434",
     "sponsorship": "",
     "posted": "2026-09-11",
     "source": "LinkedIn"
@@ -132,6 +144,18 @@
     "source": "Greenhouse"
   },
   {
+    "id": "linkedin-4465698495",
+    "company": "EarthCam",
+    "title": "Junior Software Developer",
+    "locations": [
+      "Upper Saddle River, NJ"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4465698495",
+    "sponsorship": "",
+    "posted": "2026-09-10",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4465602244",
     "company": "Cursor",
     "title": "Software Engineer, New Grad 2027",
@@ -192,13 +216,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4434149314",
-    "company": "Palantir Technologies",
-    "title": "Software Engineer, New Grad - Infrastructure",
+    "id": "linkedin-4465390987",
+    "company": "General Motors",
+    "title": "Software Engineer, AV Frameworks \u2013 Early Career",
     "locations": [
-      "Palo Alto, CA"
+      "Sunnyvale, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4434149314",
+    "url": "https://www.linkedin.com/jobs/view/4465390987",
     "sponsorship": "",
     "posted": "2026-09-10",
     "source": "LinkedIn"
@@ -216,30 +240,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4465698495",
-    "company": "EarthCam",
-    "title": "Junior Software Developer",
-    "locations": [
-      "Upper Saddle River, NJ"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4465698495",
-    "sponsorship": "",
-    "posted": "2026-09-10",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4464568751",
-    "company": "Stillwater Insurance Group",
-    "title": "Java Software Engineer I - Omaha, NE",
-    "locations": [
-      "Omaha, NE"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4464568751",
-    "sponsorship": "",
-    "posted": "2026-09-10",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4453489109",
     "company": "IBM",
     "title": "Entry Level Software Developer 2027",
@@ -247,18 +247,6 @@
       "Durham, NC"
     ],
     "url": "https://www.linkedin.com/jobs/view/4453489109",
-    "sponsorship": "",
-    "posted": "2026-09-10",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4465390987",
-    "company": "General Motors",
-    "title": "Software Engineer, AV Frameworks \u2013 Early Career",
-    "locations": [
-      "Sunnyvale, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4465390987",
     "sponsorship": "",
     "posted": "2026-09-10",
     "source": "LinkedIn"
@@ -384,18 +372,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4434136634",
-    "company": "Palantir Technologies",
-    "title": "Software Engineer, New Grad",
-    "locations": [
-      "Denver, CO"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4434136634",
-    "sponsorship": "",
-    "posted": "2026-09-09",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4434143445",
     "company": "Palantir Technologies",
     "title": "Software Engineer, New Grad - Defense",
@@ -403,6 +379,18 @@
       "New York, NY"
     ],
     "url": "https://www.linkedin.com/jobs/view/4434143445",
+    "sponsorship": "",
+    "posted": "2026-09-09",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4434136634",
+    "company": "Palantir Technologies",
+    "title": "Software Engineer, New Grad",
+    "locations": [
+      "Denver, CO"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4434136634",
     "sponsorship": "",
     "posted": "2026-09-09",
     "source": "LinkedIn"
@@ -427,30 +415,6 @@
       "New York, NY"
     ],
     "url": "https://www.linkedin.com/jobs/view/4464918838",
-    "sponsorship": "",
-    "posted": "2026-09-09",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4465340298",
-    "company": "Raytheon",
-    "title": "Software Engineer I (Onsite)",
-    "locations": [
-      "Woburn, MA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4465340298",
-    "sponsorship": "",
-    "posted": "2026-09-09",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4465332476",
-    "company": "General Motors",
-    "title": "oftware Engineer, AV Launch \u2013 Early Career",
-    "locations": [
-      "Sunnyvale, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4465332476",
     "sponsorship": "",
     "posted": "2026-09-09",
     "source": "LinkedIn"
@@ -505,37 +469,13 @@
     "source": "SimplifyJobs"
   },
   {
-    "id": "linkedin-4417513151",
-    "company": "Eccalon, LLC",
-    "title": "Junior Software Engineer - onsite",
+    "id": "linkedin-4464692272",
+    "company": "Raytheon",
+    "title": "EOIR Advanced Products and Solutions- Software Engineer I (Onsite)",
     "locations": [
-      "Detroit, MI"
+      "McKinney, TX"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4417513151",
-    "sponsorship": "",
-    "posted": "2026-09-08",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4464632509",
-    "company": "Collins Aerospace",
-    "title": "Software Engineer I (Onsite)",
-    "locations": [
-      "Cedar Rapids, IA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4464632509",
-    "sponsorship": "",
-    "posted": "2026-09-08",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4464621818",
-    "company": "AV",
-    "title": "Software Engineer I",
-    "locations": [
-      "Sunrise, FL"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4464621818",
+    "url": "https://www.linkedin.com/jobs/view/4464692272",
     "sponsorship": "",
     "posted": "2026-09-08",
     "source": "LinkedIn"
