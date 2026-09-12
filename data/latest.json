@@ -12,6 +12,18 @@
     "source": "SimplifyJobs"
   },
   {
+    "id": "linkedin-4432711572",
+    "company": "Optiver",
+    "title": "Graduate Software Engineer (2027 Start)",
+    "locations": [
+      "Austin, TX"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4432711572",
+    "sponsorship": "",
+    "posted": "2026-09-12",
+    "source": "LinkedIn"
+  },
+  {
     "id": "simplify-804573fd-c370-4285-9bfb-f4b380ef3924",
     "company": "L3Harris Technologies",
     "title": "Software Engineer New Grad",
@@ -73,18 +85,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4464883434",
-    "company": "Eccalon, LLC",
-    "title": "Junior Software Engineer",
-    "locations": [
-      "Detroit, MI"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4464883434",
-    "sponsorship": "",
-    "posted": "2026-09-11",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4466042164",
     "company": "Honeywell Aerospace",
     "title": "Software Engineer I",
@@ -121,6 +121,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4464883434",
+    "company": "Eccalon, LLC",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "Detroit, MI"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4464883434",
+    "sponsorship": "",
+    "posted": "2026-09-11",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4466398095",
     "company": "Chamberlain Group",
     "title": "Software Engineer I - AI (Hybrid in Oak Brook, IL)",
@@ -128,6 +140,18 @@
       "Oak Brook, IL"
     ],
     "url": "https://www.linkedin.com/jobs/view/4466398095",
+    "sponsorship": "",
+    "posted": "2026-09-11",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4457015235",
+    "company": "Raytheon",
+    "title": "Software Engineer I -(Onsite)",
+    "locations": [
+      "Fort Wayne, IN"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4457015235",
     "sponsorship": "",
     "posted": "2026-09-11",
     "source": "LinkedIn"
@@ -241,25 +265,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4465616625",
-    "company": "Deloitte",
-    "title": "Full Stack Developer - Software Engineer III - Top Secret clearance",
+    "id": "linkedin-4465868315",
+    "company": "MetLife",
+    "title": "Junior Software Engineer",
     "locations": [
-      "Arlington, VA"
+      "Cary, NC"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4465616625",
-    "sponsorship": "",
-    "posted": "2026-09-10",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4453489109",
-    "company": "IBM",
-    "title": "Entry Level Software Developer 2027",
-    "locations": [
-      "Durham, NC"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4453489109",
+    "url": "https://www.linkedin.com/jobs/view/4465868315",
     "sponsorship": "",
     "posted": "2026-09-10",
     "source": "LinkedIn"
@@ -277,13 +289,25 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4465868315",
-    "company": "MetLife",
-    "title": "Junior Software Engineer",
+    "id": "linkedin-4463901232",
+    "company": "BAE Systems, Inc.",
+    "title": "Entry Level Software Engineer (Hybrid)",
     "locations": [
-      "Cary, NC"
+      "Rome, NY"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4465868315",
+    "url": "https://www.linkedin.com/jobs/view/4463901232",
+    "sponsorship": "",
+    "posted": "2026-09-10",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4453489109",
+    "company": "IBM",
+    "title": "Entry Level Software Developer 2027",
+    "locations": [
+      "Durham, NC"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4453489109",
     "sponsorship": "",
     "posted": "2026-09-10",
     "source": "LinkedIn"
@@ -397,25 +421,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4448274877",
-    "company": "TikTok",
-    "title": "Fullstack Software Engineer Graduate (Global E-commerce) - 2027 Start",
-    "locations": [
-      "Seattle, WA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4448274877",
-    "sponsorship": "",
-    "posted": "2026-09-09",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4434136634",
+    "id": "linkedin-4434143445",
     "company": "Palantir Technologies",
-    "title": "Software Engineer, New Grad",
+    "title": "Software Engineer, New Grad - Defense",
     "locations": [
-      "Denver, CO"
+      "New York, NY"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4434136634",
+    "url": "https://www.linkedin.com/jobs/view/4434143445",
     "sponsorship": "",
     "posted": "2026-09-09",
     "source": "LinkedIn"
@@ -428,18 +440,6 @@
       "Dayton, OH"
     ],
     "url": "https://www.linkedin.com/jobs/view/4465094118",
-    "sponsorship": "",
-    "posted": "2026-09-09",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4448291147",
-    "company": "TikTok",
-    "title": "Backend Software Engineer Graduate (Global E-commerce) - 2027 Start",
-    "locations": [
-      "Seattle, WA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4448291147",
     "sponsorship": "",
     "posted": "2026-09-09",
     "source": "LinkedIn"
