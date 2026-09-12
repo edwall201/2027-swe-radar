@@ -49,54 +49,6 @@
     "source": "SimplifyJobs"
   },
   {
-    "id": "linkedin-4463950891",
-    "company": "Nominal",
-    "title": "Software Engineer - New Grad (Summer 2027)",
-    "locations": [
-      "Austin, TX"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4463950891",
-    "sponsorship": "",
-    "posted": "2026-09-11",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4463943949",
-    "company": "Nominal",
-    "title": "Software Engineer - New Grad (Summer 2027)",
-    "locations": [
-      "New York, NY"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4463943949",
-    "sponsorship": "",
-    "posted": "2026-09-11",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4434138603",
-    "company": "Palantir Technologies",
-    "title": "Software Engineer, New Grad",
-    "locations": [
-      "New York, NY"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4434138603",
-    "sponsorship": "",
-    "posted": "2026-09-11",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4466042164",
-    "company": "Honeywell Aerospace",
-    "title": "Software Engineer I",
-    "locations": [
-      "Phoenix, AZ"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4466042164",
-    "sponsorship": "",
-    "posted": "2026-09-11",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4465624036",
     "company": "Northrop Grumman",
     "title": "2027 Associate Software Engineer / Software Engineer - Roy UT",
@@ -121,6 +73,42 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4463950891",
+    "company": "Nominal",
+    "title": "Software Engineer - New Grad (Summer 2027)",
+    "locations": [
+      "Austin, TX"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4463950891",
+    "sponsorship": "",
+    "posted": "2026-09-11",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4463943949",
+    "company": "Nominal",
+    "title": "Software Engineer - New Grad (Summer 2027)",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4463943949",
+    "sponsorship": "",
+    "posted": "2026-09-11",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4466042164",
+    "company": "Honeywell Aerospace",
+    "title": "Software Engineer I",
+    "locations": [
+      "Phoenix, AZ"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4466042164",
+    "sponsorship": "",
+    "posted": "2026-09-11",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4464883434",
     "company": "Eccalon, LLC",
     "title": "Junior Software Engineer",
@@ -133,25 +121,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4466398095",
-    "company": "Chamberlain Group",
-    "title": "Software Engineer I - AI (Hybrid in Oak Brook, IL)",
+    "id": "linkedin-4434138603",
+    "company": "Palantir Technologies",
+    "title": "Software Engineer, New Grad",
     "locations": [
-      "Oak Brook, IL"
+      "New York, NY"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4466398095",
-    "sponsorship": "",
-    "posted": "2026-09-11",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4457015235",
-    "company": "Raytheon",
-    "title": "Software Engineer I -(Onsite)",
-    "locations": [
-      "Fort Wayne, IN"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4457015235",
+    "url": "https://www.linkedin.com/jobs/view/4434138603",
     "sponsorship": "",
     "posted": "2026-09-11",
     "source": "LinkedIn"
@@ -217,6 +193,18 @@
     "source": "Greenhouse"
   },
   {
+    "id": "linkedin-4465616625",
+    "company": "Deloitte",
+    "title": "Full Stack Developer - Software Engineer III - Top Secret clearance",
+    "locations": [
+      "Arlington, VA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4465616625",
+    "sponsorship": "",
+    "posted": "2026-09-10",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4465698495",
     "company": "EarthCam",
     "title": "Junior Software Developer",
@@ -224,102 +212,6 @@
       "Upper Saddle River, NJ"
     ],
     "url": "https://www.linkedin.com/jobs/view/4465698495",
-    "sponsorship": "",
-    "posted": "2026-09-10",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4465602244",
-    "company": "Cursor",
-    "title": "Software Engineer, New Grad 2027",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4465602244",
-    "sponsorship": "",
-    "posted": "2026-09-10",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4465620059",
-    "company": "Cursor",
-    "title": "Software Engineer, New Grad 2027",
-    "locations": [
-      "New York, United States"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4465620059",
-    "sponsorship": "",
-    "posted": "2026-09-10",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4465649835",
-    "company": "Kavaliro",
-    "title": "Junior Software Developer",
-    "locations": [
-      "Orlando, FL"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4465649835",
-    "sponsorship": "",
-    "posted": "2026-09-10",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4465868315",
-    "company": "MetLife",
-    "title": "Junior Software Engineer",
-    "locations": [
-      "Cary, NC"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4465868315",
-    "sponsorship": "",
-    "posted": "2026-09-10",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4465390987",
-    "company": "General Motors",
-    "title": "Software Engineer, AV Frameworks \u2013 Early Career",
-    "locations": [
-      "Sunnyvale, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4465390987",
-    "sponsorship": "",
-    "posted": "2026-09-10",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4463901232",
-    "company": "BAE Systems, Inc.",
-    "title": "Entry Level Software Engineer (Hybrid)",
-    "locations": [
-      "Rome, NY"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4463901232",
-    "sponsorship": "",
-    "posted": "2026-09-10",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4453489109",
-    "company": "IBM",
-    "title": "Entry Level Software Developer 2027",
-    "locations": [
-      "Durham, NC"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4453489109",
-    "sponsorship": "",
-    "posted": "2026-09-10",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4464163116",
-    "company": "Replit",
-    "title": "Software Engineer - New Grad (2027)",
-    "locations": [
-      "Foster City, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4464163116",
     "sponsorship": "",
     "posted": "2026-09-10",
     "source": "LinkedIn"
@@ -416,30 +308,6 @@
       "New York, NY"
     ],
     "url": "https://www.linkedin.com/jobs/view/4464138190",
-    "sponsorship": "",
-    "posted": "2026-09-09",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4434143445",
-    "company": "Palantir Technologies",
-    "title": "Software Engineer, New Grad - Defense",
-    "locations": [
-      "New York, NY"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4434143445",
-    "sponsorship": "",
-    "posted": "2026-09-09",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4465094118",
-    "company": "Radiance Technologies",
-    "title": "Junior Software Engineer",
-    "locations": [
-      "Dayton, OH"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4465094118",
     "sponsorship": "",
     "posted": "2026-09-09",
     "source": "LinkedIn"
@@ -1056,6 +924,18 @@
       "Denver, CO"
     ],
     "url": "https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/Dallas-TX/Entry-Level-Software-Engineer_R022649",
+    "sponsorship": "Other",
+    "posted": "2026-08-28",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-5f62b02a-d87f-4a82-9762-6fdf7588a8f1",
+    "company": "Nerdio",
+    "title": "Solutions Engineer - Early Career",
+    "locations": [
+      "Remote in USA"
+    ],
+    "url": "https://ats.rippling.com/nerdio-careers/jobs/0b82e6f3-fd54-40d7-996a-ca02b4c67f67",
     "sponsorship": "Other",
     "posted": "2026-08-28",
     "source": "SimplifyJobs"
