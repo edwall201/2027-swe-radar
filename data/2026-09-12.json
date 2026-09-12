@@ -24,6 +24,30 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4438850428",
+    "company": "Pylon",
+    "title": "Software Engineer, New Grad",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4438850428",
+    "sponsorship": "",
+    "posted": "2026-09-12",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4454670030",
+    "company": "BAE Systems, Inc.",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "Greenlawn, NY"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4454670030",
+    "sponsorship": "",
+    "posted": "2026-09-12",
+    "source": "LinkedIn"
+  },
+  {
     "id": "simplify-804573fd-c370-4285-9bfb-f4b380ef3924",
     "company": "L3Harris Technologies",
     "title": "Software Engineer New Grad",
@@ -47,30 +71,6 @@
     "sponsorship": "Other",
     "posted": "2026-09-11",
     "source": "SimplifyJobs"
-  },
-  {
-    "id": "linkedin-4465624036",
-    "company": "Northrop Grumman",
-    "title": "2027 Associate Software Engineer / Software Engineer - Roy UT",
-    "locations": [
-      "Roy, UT"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4465624036",
-    "sponsorship": "",
-    "posted": "2026-09-11",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4464808407",
-    "company": "Kansas City National Security Campus",
-    "title": "Software Engineer I",
-    "locations": [
-      "Kansas City, MO"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4464808407",
-    "sponsorship": "",
-    "posted": "2026-09-11",
-    "source": "LinkedIn"
   },
   {
     "id": "linkedin-4463950891",
@@ -97,6 +97,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4434138603",
+    "company": "Palantir Technologies",
+    "title": "Software Engineer, New Grad",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4434138603",
+    "sponsorship": "",
+    "posted": "2026-09-11",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4466042164",
     "company": "Honeywell Aerospace",
     "title": "Software Engineer I",
@@ -104,6 +116,42 @@
       "Phoenix, AZ"
     ],
     "url": "https://www.linkedin.com/jobs/view/4466042164",
+    "sponsorship": "",
+    "posted": "2026-09-11",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4465624036",
+    "company": "Northrop Grumman",
+    "title": "2027 Associate Software Engineer / Software Engineer - Roy UT",
+    "locations": [
+      "Roy, UT"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4465624036",
+    "sponsorship": "",
+    "posted": "2026-09-11",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4464808407",
+    "company": "Kansas City National Security Campus",
+    "title": "Software Engineer I",
+    "locations": [
+      "Kansas City, MO"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4464808407",
+    "sponsorship": "",
+    "posted": "2026-09-11",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4466026234",
+    "company": "Amentum",
+    "title": "Entry Level Software Engineer",
+    "locations": [
+      "Dahlgren, VA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4466026234",
     "sponsorship": "",
     "posted": "2026-09-11",
     "source": "LinkedIn"
@@ -121,13 +169,61 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4434138603",
-    "company": "Palantir Technologies",
-    "title": "Software Engineer, New Grad",
+    "id": "linkedin-4444924825",
+    "company": "Raytheon",
+    "title": "Software Engineer I (Onsite)",
     "locations": [
-      "New York, NY"
+      "Marlborough, MA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4434138603",
+    "url": "https://www.linkedin.com/jobs/view/4444924825",
+    "sponsorship": "",
+    "posted": "2026-09-11",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4466355457",
+    "company": "KBR Careers",
+    "title": "Junior Software Developer",
+    "locations": [
+      "Beavercreek Township, OH"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4466355457",
+    "sponsorship": "",
+    "posted": "2026-09-11",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4466410104",
+    "company": "Commure",
+    "title": "Software Engineer, Early Career 2027",
+    "locations": [
+      "Los Angeles, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4466410104",
+    "sponsorship": "",
+    "posted": "2026-09-11",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4457015235",
+    "company": "Raytheon",
+    "title": "Software Engineer I -(Onsite)",
+    "locations": [
+      "Fort Wayne, IN"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4457015235",
+    "sponsorship": "",
+    "posted": "2026-09-11",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4466398095",
+    "company": "Chamberlain Group",
+    "title": "Software Engineer I - AI (Hybrid in Oak Brook, IL)",
+    "locations": [
+      "Oak Brook, IL"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4466398095",
     "sponsorship": "",
     "posted": "2026-09-11",
     "source": "LinkedIn"
@@ -193,6 +289,66 @@
     "source": "Greenhouse"
   },
   {
+    "id": "linkedin-4465602244",
+    "company": "Cursor",
+    "title": "Software Engineer, New Grad 2027",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4465602244",
+    "sponsorship": "",
+    "posted": "2026-09-10",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4465620059",
+    "company": "Cursor",
+    "title": "Software Engineer, New Grad 2027",
+    "locations": [
+      "New York, United States"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4465620059",
+    "sponsorship": "",
+    "posted": "2026-09-10",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4434149314",
+    "company": "Palantir Technologies",
+    "title": "Software Engineer, New Grad - Infrastructure",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4434149314",
+    "sponsorship": "",
+    "posted": "2026-09-10",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4465649835",
+    "company": "Kavaliro",
+    "title": "Junior Software Developer",
+    "locations": [
+      "Orlando, FL"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4465649835",
+    "sponsorship": "",
+    "posted": "2026-09-10",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4465868315",
+    "company": "MetLife",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "Cary, NC"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4465868315",
+    "sponsorship": "",
+    "posted": "2026-09-10",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4465616625",
     "company": "Deloitte",
     "title": "Full Stack Developer - Software Engineer III - Top Secret clearance",
@@ -205,6 +361,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4465390987",
+    "company": "General Motors",
+    "title": "Software Engineer, AV Frameworks \u2013 Early Career",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4465390987",
+    "sponsorship": "",
+    "posted": "2026-09-10",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4465698495",
     "company": "EarthCam",
     "title": "Junior Software Developer",
@@ -212,6 +380,30 @@
       "Upper Saddle River, NJ"
     ],
     "url": "https://www.linkedin.com/jobs/view/4465698495",
+    "sponsorship": "",
+    "posted": "2026-09-10",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4453489109",
+    "company": "IBM",
+    "title": "Entry Level Software Developer 2027",
+    "locations": [
+      "Durham, NC"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4453489109",
+    "sponsorship": "",
+    "posted": "2026-09-10",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4463901232",
+    "company": "BAE Systems, Inc.",
+    "title": "Entry Level Software Engineer (Hybrid)",
+    "locations": [
+      "Rome, NY"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4463901232",
     "sponsorship": "",
     "posted": "2026-09-10",
     "source": "LinkedIn"
@@ -308,6 +500,18 @@
       "New York, NY"
     ],
     "url": "https://www.linkedin.com/jobs/view/4464138190",
+    "sponsorship": "",
+    "posted": "2026-09-09",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4465332476",
+    "company": "General Motors",
+    "title": "oftware Engineer, AV Launch \u2013 Early Career",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4465332476",
     "sponsorship": "",
     "posted": "2026-09-09",
     "source": "LinkedIn"
