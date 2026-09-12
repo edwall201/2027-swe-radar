@@ -1,5 +1,17 @@
 [
   {
+    "id": "simplify-c922e8d4-2a85-4851-868c-771e8523bb0e",
+    "company": "Retell AI",
+    "title": "Forward Deployed Engineer New Grad",
+    "locations": [
+      "Redwood City, CA"
+    ],
+    "url": "https://jobs.ashbyhq.com/retell-ai/161bcfc9-56dd-4d0c-869d-e5de1431a940/application?embed=true",
+    "sponsorship": "Other",
+    "posted": "2026-09-12",
+    "source": "SimplifyJobs"
+  },
+  {
     "id": "simplify-804573fd-c370-4285-9bfb-f4b380ef3924",
     "company": "L3Harris Technologies",
     "title": "Software Engineer New Grad",
@@ -116,18 +128,6 @@
       "Oak Brook, IL"
     ],
     "url": "https://www.linkedin.com/jobs/view/4466398095",
-    "sponsorship": "",
-    "posted": "2026-09-11",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4466410104",
-    "company": "Commure",
-    "title": "Software Engineer, Early Career 2027",
-    "locations": [
-      "Los Angeles, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4466410104",
     "sponsorship": "",
     "posted": "2026-09-11",
     "source": "LinkedIn"
@@ -409,18 +409,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4434143445",
-    "company": "Palantir Technologies",
-    "title": "Software Engineer, New Grad - Defense",
-    "locations": [
-      "New York, NY"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4434143445",
-    "sponsorship": "",
-    "posted": "2026-09-09",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4434136634",
     "company": "Palantir Technologies",
     "title": "Software Engineer, New Grad",
@@ -440,18 +428,6 @@
       "Dayton, OH"
     ],
     "url": "https://www.linkedin.com/jobs/view/4465094118",
-    "sponsorship": "",
-    "posted": "2026-09-09",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4464918838",
-    "company": "Kustomer",
-    "title": "Software Engineer, Full Stack (Early Career)",
-    "locations": [
-      "New York, NY"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4464918838",
     "sponsorship": "",
     "posted": "2026-09-09",
     "source": "LinkedIn"
