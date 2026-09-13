@@ -1,5 +1,29 @@
 [
   {
+    "id": "simplify-f856788a-97a4-4332-a414-c568ed12438d",
+    "company": "Autostore",
+    "title": "Entry Level Software Engineer",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "url": "https://autostore.wd3.myworkdayjobs.com/autostore/job/Atlanta-GA-USA/Entry-Level-Software-Engineer_JR102691",
+    "sponsorship": "Other",
+    "posted": "2026-09-13",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "linkedin-4464739496",
+    "company": "TalentHop",
+    "title": "Software Engineer - New Grad, 2027",
+    "locations": [
+      "United States"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4464739496",
+    "sponsorship": "",
+    "posted": "2026-09-13",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4401727507",
     "company": "Intuit",
     "title": "Software Engineer 1",
@@ -7,18 +31,6 @@
       "New York, NY"
     ],
     "url": "https://www.linkedin.com/jobs/view/4401727507",
-    "sponsorship": "",
-    "posted": "2026-09-13",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4464740354",
-    "company": "C\u00e1tedra EMERSON-UPM",
-    "title": "Junior Software Engineer",
-    "locations": [
-      "New York, United States"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4464740354",
     "sponsorship": "",
     "posted": "2026-09-13",
     "source": "LinkedIn"
@@ -48,6 +60,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4419858148",
+    "company": "Deloitte",
+    "title": "Forward Deployed Engineer- Palantir",
+    "locations": [
+      "Las Vegas, NV"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4419858148",
+    "sponsorship": "",
+    "posted": "2026-09-13",
+    "source": "LinkedIn"
+  },
+  {
     "id": "simplify-c922e8d4-2a85-4851-868c-771e8523bb0e",
     "company": "Retell AI",
     "title": "Forward Deployed Engineer New Grad",
@@ -72,18 +96,6 @@
     "source": "SimplifyJobs"
   },
   {
-    "id": "linkedin-4438850428",
-    "company": "Pylon",
-    "title": "Software Engineer, New Grad",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4438850428",
-    "sponsorship": "",
-    "posted": "2026-09-12",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4463987792",
     "company": "IBM",
     "title": "ELH Software Engineer / Agent Engineer - EDA - Austin 2027",
@@ -91,18 +103,6 @@
       "Austin, TX"
     ],
     "url": "https://www.linkedin.com/jobs/view/4463987792",
-    "sponsorship": "",
-    "posted": "2026-09-12",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4466483969",
-    "company": "L3Harris Technologies",
-    "title": "Associate, Software Engineer",
-    "locations": [
-      "Salt Lake City, UT"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4466483969",
     "sponsorship": "",
     "posted": "2026-09-12",
     "source": "LinkedIn"
@@ -139,6 +139,18 @@
       "Greenlawn, NY"
     ],
     "url": "https://www.linkedin.com/jobs/view/4454670030",
+    "sponsorship": "",
+    "posted": "2026-09-12",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4466483969",
+    "company": "L3Harris Technologies",
+    "title": "Associate, Software Engineer",
+    "locations": [
+      "Salt Lake City, UT"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4466483969",
     "sponsorship": "",
     "posted": "2026-09-12",
     "source": "LinkedIn"
@@ -199,6 +211,30 @@
       "Marina del Rey, CA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4389433465",
+    "sponsorship": "",
+    "posted": "2026-09-12",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4447711952",
+    "company": "Luma",
+    "title": "Forward Deployed Engineer",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4447711952",
+    "sponsorship": "",
+    "posted": "2026-09-12",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4402758504",
+    "company": "Rowspace",
+    "title": "Forward Deployed Engineer",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4402758504",
     "sponsorship": "",
     "posted": "2026-09-12",
     "source": "LinkedIn"
@@ -445,25 +481,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4465624036",
-    "company": "Northrop Grumman",
-    "title": "2027 Associate Software Engineer / Software Engineer - Roy UT",
+    "id": "linkedin-4432734381",
+    "company": "Optiver",
+    "title": "Graduate Software Engineer (2027 Start)",
     "locations": [
-      "Roy, UT"
+      "Chicago, IL"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4465624036",
-    "sponsorship": "",
-    "posted": "2026-09-11",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4464808407",
-    "company": "Kansas City National Security Campus",
-    "title": "Software Engineer I",
-    "locations": [
-      "Kansas City, MO"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4464808407",
+    "url": "https://www.linkedin.com/jobs/view/4432734381",
     "sponsorship": "",
     "posted": "2026-09-11",
     "source": "LinkedIn"
@@ -493,85 +517,37 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4466410104",
-    "company": "Commure",
-    "title": "Software Engineer, Early Career 2027",
+    "id": "linkedin-4465624036",
+    "company": "Northrop Grumman",
+    "title": "2027 Associate Software Engineer / Software Engineer - Roy UT",
     "locations": [
-      "Los Angeles, CA"
+      "Roy, UT"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4466410104",
+    "url": "https://www.linkedin.com/jobs/view/4465624036",
     "sponsorship": "",
     "posted": "2026-09-11",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4457015235",
-    "company": "Raytheon",
-    "title": "Software Engineer I -(Onsite)",
+    "id": "linkedin-4464808407",
+    "company": "Kansas City National Security Campus",
+    "title": "Software Engineer I",
     "locations": [
-      "Fort Wayne, IN"
+      "Kansas City, MO"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4457015235",
+    "url": "https://www.linkedin.com/jobs/view/4464808407",
     "sponsorship": "",
     "posted": "2026-09-11",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4432734381",
-    "company": "Optiver",
-    "title": "Graduate Software Engineer (2027 Start)",
+    "id": "linkedin-4466026234",
+    "company": "Amentum",
+    "title": "Entry Level Software Engineer",
     "locations": [
-      "Chicago, IL"
+      "Dahlgren, VA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4432734381",
-    "sponsorship": "",
-    "posted": "2026-09-11",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4466099986",
-    "company": "ASSYST",
-    "title": ".NET Developer (Entry Level)",
-    "locations": [
-      "Sterling, VA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4466099986",
-    "sponsorship": "",
-    "posted": "2026-09-11",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4464220303",
-    "company": "Monetate",
-    "title": "Associate Software Engineer",
-    "locations": [
-      "Plano, TX"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4464220303",
-    "sponsorship": "",
-    "posted": "2026-09-11",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4464591970",
-    "company": "Cambia Health Solutions",
-    "title": "Software Development Engineer I \u2013 III",
-    "locations": [
-      "Boise, ID"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4464591970",
-    "sponsorship": "",
-    "posted": "2026-09-11",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4464804877",
-    "company": "Cambia Health Solutions",
-    "title": "Software Development Engineer I \u2013 III",
-    "locations": [
-      "Salt Lake City, UT"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4464804877",
+    "url": "https://www.linkedin.com/jobs/view/4466026234",
     "sponsorship": "",
     "posted": "2026-09-11",
     "source": "LinkedIn"
@@ -584,6 +560,18 @@
       "Phoenix, AZ"
     ],
     "url": "https://www.linkedin.com/jobs/view/4466042164",
+    "sponsorship": "",
+    "posted": "2026-09-11",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4464220303",
+    "company": "Monetate",
+    "title": "Associate Software Engineer",
+    "locations": [
+      "Plano, TX"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4464220303",
     "sponsorship": "",
     "posted": "2026-09-11",
     "source": "LinkedIn"
@@ -608,6 +596,30 @@
       "Marlborough, MA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4444924825",
+    "sponsorship": "",
+    "posted": "2026-09-11",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4457015235",
+    "company": "Raytheon",
+    "title": "Software Engineer I -(Onsite)",
+    "locations": [
+      "Fort Wayne, IN"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4457015235",
+    "sponsorship": "",
+    "posted": "2026-09-11",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4464591970",
+    "company": "Cambia Health Solutions",
+    "title": "Software Development Engineer I \u2013 III",
+    "locations": [
+      "Boise, ID"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4464591970",
     "sponsorship": "",
     "posted": "2026-09-11",
     "source": "LinkedIn"
@@ -649,18 +661,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4466355457",
-    "company": "KBR Careers",
-    "title": "Junior Software Developer",
-    "locations": [
-      "Beavercreek Township, OH"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4466355457",
-    "sponsorship": "",
-    "posted": "2026-09-11",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4461407575",
     "company": "BeaconFire Inc.",
     "title": "Entry Level Java Developer",
@@ -673,13 +673,25 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4401726620",
-    "company": "Intuit",
-    "title": "Software Engineer 1",
+    "id": "linkedin-4466410104",
+    "company": "Commure",
+    "title": "Software Engineer, Early Career 2027",
     "locations": [
-      "Atlanta, GA"
+      "Los Angeles, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4401726620",
+    "url": "https://www.linkedin.com/jobs/view/4466410104",
+    "sponsorship": "",
+    "posted": "2026-09-11",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4466099986",
+    "company": "ASSYST",
+    "title": ".NET Developer (Entry Level)",
+    "locations": [
+      "Sterling, VA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4466099986",
     "sponsorship": "",
     "posted": "2026-09-11",
     "source": "LinkedIn"
@@ -692,6 +704,18 @@
       "Mountain View, CA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4466405139",
+    "sponsorship": "",
+    "posted": "2026-09-11",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4464804877",
+    "company": "Cambia Health Solutions",
+    "title": "Software Development Engineer I \u2013 III",
+    "locations": [
+      "Salt Lake City, UT"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4464804877",
     "sponsorship": "",
     "posted": "2026-09-11",
     "source": "LinkedIn"
@@ -764,6 +788,90 @@
       "Austin, TX"
     ],
     "url": "https://www.linkedin.com/jobs/view/4454132241",
+    "sponsorship": "",
+    "posted": "2026-09-11",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4419849877",
+    "company": "Deloitte",
+    "title": "Forward Deployed Engineer- Palantir",
+    "locations": [
+      "St Louis, MO"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4419849877",
+    "sponsorship": "",
+    "posted": "2026-09-11",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4410291421",
+    "company": "Handshake",
+    "title": "Forward Deployed Engineer, Enterprise AI",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4410291421",
+    "sponsorship": "",
+    "posted": "2026-09-11",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4434841154",
+    "company": "TechTree",
+    "title": "Forward Deployed Engineer",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4434841154",
+    "sponsorship": "",
+    "posted": "2026-09-11",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4463994355",
+    "company": "ScheduleBot",
+    "title": "Forward Deployed Engineer",
+    "locations": [
+      "Rockwall, TX"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4463994355",
+    "sponsorship": "",
+    "posted": "2026-09-11",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4464855747",
+    "company": "Turing",
+    "title": "Forward Deployed Engineer \u2014 Data Engineering & GenAI",
+    "locations": [
+      "Washington, DC"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4464855747",
+    "sponsorship": "",
+    "posted": "2026-09-11",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4464256490",
+    "company": "Code Red Partners",
+    "title": "Forward Deployed Engineer",
+    "locations": [
+      "United States"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4464256490",
+    "sponsorship": "",
+    "posted": "2026-09-11",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4419937957",
+    "company": "Assort Health",
+    "title": "Forward Deployed Engineer",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4419937957",
     "sponsorship": "",
     "posted": "2026-09-11",
     "source": "LinkedIn"
@@ -962,18 +1070,6 @@
     "source": "Greenhouse"
   },
   {
-    "id": "linkedin-4464821341",
-    "company": "Peraton",
-    "title": "Software Engineering, Associate - Herndon, VA",
-    "locations": [
-      "Herndon, VA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4464821341",
-    "sponsorship": "",
-    "posted": "2026-09-10",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4465868315",
     "company": "MetLife",
     "title": "Junior Software Engineer",
@@ -986,13 +1082,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4463901232",
-    "company": "BAE Systems, Inc.",
-    "title": "Entry Level Software Engineer (Hybrid)",
+    "id": "linkedin-4464821341",
+    "company": "Peraton",
+    "title": "Software Engineering, Associate - Herndon, VA",
     "locations": [
-      "Rome, NY"
+      "Herndon, VA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4463901232",
+    "url": "https://www.linkedin.com/jobs/view/4464821341",
     "sponsorship": "",
     "posted": "2026-09-10",
     "source": "LinkedIn"
@@ -1029,6 +1125,30 @@
       "New York, NY"
     ],
     "url": "https://www.linkedin.com/jobs/view/4441419725",
+    "sponsorship": "",
+    "posted": "2026-09-10",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4465847617",
+    "company": "Ease Health",
+    "title": "Forward Deployed Engineer",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4465847617",
+    "sponsorship": "",
+    "posted": "2026-09-10",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4454540410",
+    "company": "Stripe",
+    "title": "Forward Deployed Engineer, Privy",
+    "locations": [
+      "New York, United States"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4454540410",
     "sponsorship": "",
     "posted": "2026-09-10",
     "source": "LinkedIn"
