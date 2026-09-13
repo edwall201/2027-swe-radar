@@ -114,14 +114,39 @@ def filter_us(jobs):
     return kept
 
 
+def _kw_pattern(k):
+    # Word-boundary match so e.g. "engineer i" doesn't hit "engineer ii/iii"
+    # and "engineer 1" doesn't hit "engineer 10". Keywords ending/starting
+    # in punctuation (like "sr.") skip that boundary on the punctuation side.
+    escaped = re.escape(k.lower())
+    prefix = r"\b" if k[0].isalnum() else ""
+    suffix = r"\b" if k[-1].isalnum() else ""
+    return re.compile(prefix + escaped + suffix)
+
+
+def _any_kw(t, keywords):
+    return any(_kw_pattern(k).search(t) for k in keywords)
+
+
 def matches(text, kw):
     t = text.lower()
-    if any(x.lower() in t for x in kw.get("exclude", [])):
+    if _any_kw(t, kw.get("exclude", [])):
         return False
     require = kw.get("require", [])
-    if require and not any(r.lower() in t for r in require):
+    if require and not _any_kw(t, require):
         return False
-    return any(k.lower() in t for k in kw["include"])
+    return _any_kw(t, kw["include"])
+
+
+# Board slugs whose .title() doesn't read as the real company name.
+COMPANY_DISPLAY_NAMES = {
+    "scaleai": "Scale AI",
+    "andurilindustries": "Anduril",
+}
+
+
+def display_name(slug):
+    return COMPANY_DISPLAY_NAMES.get(slug, slug.title())
 
 
 def normalize_simplify(item):
@@ -143,7 +168,7 @@ def normalize_greenhouse(job, company):
     loc = job.get("location", {}).get("name", "")
     return {
         "id": f"gh-{company}-{job['id']}",
-        "company": company.title(),
+        "company": display_name(company),
         "title": job.get("title", ""),
         "locations": [loc] if loc else [],
         "url": job.get("absolute_url", ""),
@@ -158,7 +183,7 @@ def normalize_lever(job, company):
     posted_ms = job.get("createdAt", 0)
     return {
         "id": f"lever-{company}-{job['id']}",
-        "company": company.title(),
+        "company": display_name(company),
         "title": job.get("text", ""),
         "locations": [loc] if loc else [],
         "url": job.get("hostedUrl", ""),
@@ -175,7 +200,7 @@ def normalize_ashby(job, company):
     locs += [s.get("location", "") for s in job.get("secondaryLocations", [])]
     return {
         "id": f"ashby-{company}-{job['id']}",
-        "company": company.title(),
+        "company": display_name(company),
         "title": job.get("title", ""),
         "locations": [loc for loc in locs if loc],
         "url": job.get("jobUrl", ""),

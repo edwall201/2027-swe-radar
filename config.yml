@@ -19,10 +19,16 @@ keywords:
     - "university grad"
     - "early career"
     - "junior software"
-    - "entry level software"
-    - "software engineer i"
+    - "entry level"
+    - "associate"
+    - "engineer i"
+    - "engineer 1"
+    - "developer i"
+    - "developer 1"
+    - "forward deployed"
   exclude:
     - "senior"
+    - "sr."
     - "staff"
     - "principal"
     - "manager"
@@ -38,11 +44,13 @@ greenhouse_boards:
   - duolingo
   - samsara
   - cloudflare
+  - scaleai
+  - andurilindustries
 
 # Companies with public Lever boards: jobs.lever.co/<slug>
 lever_boards:
   - palantir
-  - plaid
+  # plaid moved off Lever -> now under ashby_boards below
 
 # Companies with public Ashby boards: jobs.ashbyhq.com/<slug>
 ashby_boards:
@@ -50,6 +58,7 @@ ashby_boards:
   - ramp
   - linear
   - notion
+  - plaid
 
 # LinkedIn public job searches (guest endpoint — no login or API key needed).
 # Each query scans US postings from the last 3 days, newest first; titles
@@ -62,3 +71,5 @@ linkedin_searches:
   - "junior software engineer"
   - "university graduate software engineer"
   - "early career software engineer"
+  - "forward deployed engineer"
+  - "forward deployed software engineer"
