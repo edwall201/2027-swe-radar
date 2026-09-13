@@ -1,5 +1,17 @@
 [
   {
+    "id": "linkedin-4419858148",
+    "company": "Deloitte",
+    "title": "Forward Deployed Engineer- Palantir",
+    "locations": [
+      "Las Vegas, NV"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4419858148",
+    "sponsorship": "",
+    "posted": "2026-09-13",
+    "source": "LinkedIn"
+  },
+  {
     "id": "simplify-c922e8d4-2a85-4851-868c-771e8523bb0e",
     "company": "Retell AI",
     "title": "Forward Deployed Engineer New Grad",
@@ -31,6 +43,18 @@
       "San Francisco, CA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4438850428",
+    "sponsorship": "",
+    "posted": "2026-09-12",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4464723100",
+    "company": "TalentHop",
+    "title": "Software Engineer - New Grad, 2027",
+    "locations": [
+      "United States"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4464723100",
     "sponsorship": "",
     "posted": "2026-09-12",
     "source": "LinkedIn"
@@ -144,18 +168,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4419846976",
-    "company": "Deloitte",
-    "title": "Forward Deployed Engineer- Palantir",
-    "locations": [
-      "Minneapolis, MN"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4419846976",
-    "sponsorship": "",
-    "posted": "2026-09-12",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4465181375",
     "company": "Greptile",
     "title": "Forward Deployed Engineer",
@@ -211,18 +223,6 @@
       "Salt Lake City, UT"
     ],
     "url": "https://jobs.l3harris.com/job/Salt-Lake-City-Sr-Associate,-Software-Engineer-UT-84116/1429205900/?ats=successfactors",
-    "sponsorship": "Other",
-    "posted": "2026-09-11",
-    "source": "SimplifyJobs"
-  },
-  {
-    "id": "simplify-023889a8-3249-4ef2-85f5-964e6a9ccb91",
-    "company": "RTX",
-    "title": "Software Engineer 1 - Gen4 Tactical Airborne Radar",
-    "locations": [
-      "El Segundo, CA"
-    ],
-    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Software-Engineer-I---Gen4-Tactical-Airborne-Radar_01874418",
     "sponsorship": "Other",
     "posted": "2026-09-11",
     "source": "SimplifyJobs"
@@ -361,6 +361,18 @@
     "source": "SimplifyJobs"
   },
   {
+    "id": "simplify-aeb2d0c2-2d89-43bd-b0a9-28f9116d050f",
+    "company": "Quantinuum",
+    "title": "Optics Engineer 1",
+    "locations": [
+      "Broomfield, CO"
+    ],
+    "url": "https://jobs.eu.lever.co/quantinuum/ebb030b7-6bc2-4807-81da-3afc252d900f/apply",
+    "sponsorship": "Other",
+    "posted": "2026-09-11",
+    "source": "SimplifyJobs"
+  },
+  {
     "id": "ashby-openai-9471b38b-f65c-4a01-9626-bd33fca90f1d",
     "company": "Openai",
     "title": "Forward Deployed Engineer (FDE) - NYC",
@@ -421,6 +433,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4464808407",
+    "company": "Kansas City National Security Campus",
+    "title": "Software Engineer I",
+    "locations": [
+      "Kansas City, MO"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4464808407",
+    "sponsorship": "",
+    "posted": "2026-09-11",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4432734381",
     "company": "Optiver",
     "title": "Graduate Software Engineer (2027 Start)",
@@ -457,13 +481,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4464808407",
-    "company": "Kansas City National Security Campus",
-    "title": "Software Engineer I",
+    "id": "linkedin-4466099986",
+    "company": "ASSYST",
+    "title": ".NET Developer (Entry Level)",
     "locations": [
-      "Kansas City, MO"
+      "Sterling, VA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4464808407",
+    "url": "https://www.linkedin.com/jobs/view/4466099986",
     "sponsorship": "",
     "posted": "2026-09-11",
     "source": "LinkedIn"
@@ -505,6 +529,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4464220303",
+    "company": "Monetate",
+    "title": "Associate Software Engineer",
+    "locations": [
+      "Plano, TX"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4464220303",
+    "sponsorship": "",
+    "posted": "2026-09-11",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4464883434",
     "company": "Eccalon, LLC",
     "title": "Junior Software Engineer",
@@ -512,18 +548,6 @@
       "Detroit, MI"
     ],
     "url": "https://www.linkedin.com/jobs/view/4464883434",
-    "sponsorship": "",
-    "posted": "2026-09-11",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4438117397",
-    "company": "Garmin",
-    "title": "Software Engineer 1 - Aviation Core Java",
-    "locations": [
-      "Olathe, KS"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4438117397",
     "sponsorship": "",
     "posted": "2026-09-11",
     "source": "LinkedIn"
@@ -560,6 +584,18 @@
       "Sterling, VA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4466338010",
+    "sponsorship": "",
+    "posted": "2026-09-11",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4438117397",
+    "company": "Garmin",
+    "title": "Software Engineer 1 - Aviation Core Java",
+    "locations": [
+      "Olathe, KS"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4438117397",
     "sponsorship": "",
     "posted": "2026-09-11",
     "source": "LinkedIn"
@@ -637,18 +673,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4466099986",
-    "company": "ASSYST",
-    "title": ".NET Developer (Entry Level)",
-    "locations": [
-      "Sterling, VA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4466099986",
-    "sponsorship": "",
-    "posted": "2026-09-11",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4466405139",
     "company": "Commure",
     "title": "Software Engineer, Early Career 2027",
@@ -680,18 +704,6 @@
       "Salt Lake City, UT"
     ],
     "url": "https://www.linkedin.com/jobs/view/4464804877",
-    "sponsorship": "",
-    "posted": "2026-09-11",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4464220303",
-    "company": "Monetate",
-    "title": "Associate Software Engineer",
-    "locations": [
-      "Plano, TX"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4464220303",
     "sponsorship": "",
     "posted": "2026-09-11",
     "source": "LinkedIn"
@@ -1034,30 +1046,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4434149314",
-    "company": "Palantir Technologies",
-    "title": "Software Engineer, New Grad - Infrastructure",
-    "locations": [
-      "Palo Alto, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4434149314",
-    "sponsorship": "",
-    "posted": "2026-09-10",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4465649835",
-    "company": "Kavaliro",
-    "title": "Junior Software Developer",
-    "locations": [
-      "Orlando, FL"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4465649835",
-    "sponsorship": "",
-    "posted": "2026-09-10",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4465868315",
     "company": "MetLife",
     "title": "Junior Software Engineer",
@@ -1130,6 +1118,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4465649835",
+    "company": "Kavaliro",
+    "title": "Junior Software Developer",
+    "locations": [
+      "Orlando, FL"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4465649835",
+    "sponsorship": "",
+    "posted": "2026-09-10",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4463424787",
     "company": "IBM",
     "title": "Associate Software Engineer",
@@ -1137,18 +1137,6 @@
       "Raleigh, NC"
     ],
     "url": "https://www.linkedin.com/jobs/view/4463424787",
-    "sponsorship": "",
-    "posted": "2026-09-10",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4436258780",
-    "company": "Applied Systems",
-    "title": "Associate Software Engineer / Software Engineer",
-    "locations": [
-      "Dallas, TX"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4436258780",
     "sponsorship": "",
     "posted": "2026-09-10",
     "source": "LinkedIn"
