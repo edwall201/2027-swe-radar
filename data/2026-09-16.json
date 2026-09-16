@@ -12,16 +12,148 @@
     "source": "SimplifyJobs"
   },
   {
-    "id": "linkedin-4467980655",
-    "company": "Collins Aerospace",
-    "title": "Software Engineer I (Onsite)",
+    "id": "simplify-fe0763db-c658-4003-84f4-cc7e0d8848a4",
+    "company": "ICF International",
+    "title": "Junior Software Engineer",
     "locations": [
-      "St. Petersburg, FL"
+      "Reston, VA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4467980655",
+    "url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/Junior-Software-Engineer--Entry-level---Remote-US-_R2603054",
+    "sponsorship": "Other",
+    "posted": "2026-09-16",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-94863e1d-0d92-43c0-a139-694a550ee676",
+    "company": "GuideStone",
+    "title": "Associate Software Developer",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "url": "https://guidestone.wd1.myworkdayjobs.com/guidestone/job/Dallas-TX/Associate-Software-Developer_R1989",
+    "sponsorship": "Other",
+    "posted": "2026-09-16",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-289798f6-332d-4b16-b177-1466651e2548",
+    "company": "RTX",
+    "title": "Software Engineer 1",
+    "locations": [
+      "Marlborough, MA"
+    ],
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-I--Onsite-_01873299",
+    "sponsorship": "Other",
+    "posted": "2026-09-16",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-467eee64-c19b-4e0c-b1b7-ae88266a5b38",
+    "company": "RTX",
+    "title": "Electrical Engineer 1",
+    "locations": [
+      "McKinney, TX"
+    ],
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/Electrical-Engineer-I_01875600",
+    "sponsorship": "Other",
+    "posted": "2026-09-16",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-36a920b5-5fef-4b56-9386-d35c85e7ae48",
+    "company": "RTX",
+    "title": "Software Engineer 1",
+    "locations": [
+      "Tewksbury, MA"
+    ],
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Engineer-I--Onsite-_01875565",
+    "sponsorship": "Other",
+    "posted": "2026-09-16",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-92dbb10e-7ec8-4b64-9dd9-a1521850b0db",
+    "company": "RTX",
+    "title": "Software Engineer 1",
+    "locations": [
+      "Woburn, MA"
+    ],
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Software-Engineer-I_01875564",
+    "sponsorship": "Other",
+    "posted": "2026-09-16",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "gh-samsara-7624120",
+    "company": "Samsara",
+    "title": "Associate Sales Engineer, SE Desk (French Bilingual)",
+    "locations": [
+      "Remote - US"
+    ],
+    "url": "https://www.samsara.com/company/careers/roles/7624120?gh_jid=7624120",
     "sponsorship": "",
     "posted": "2026-09-16",
-    "source": "LinkedIn"
+    "source": "Greenhouse"
+  },
+  {
+    "id": "gh-samsara-7311761",
+    "company": "Samsara",
+    "title": "Associate Sales Engineer, SE Desk - Mid West",
+    "locations": [
+      "Remote - US"
+    ],
+    "url": "https://www.samsara.com/company/careers/roles/7311761?gh_jid=7311761",
+    "sponsorship": "",
+    "posted": "2026-09-16",
+    "source": "Greenhouse"
+  },
+  {
+    "id": "gh-samsara-7311741",
+    "company": "Samsara",
+    "title": "Associate Sales Engineer, SE Desk - Northeast",
+    "locations": [
+      "Remote - US"
+    ],
+    "url": "https://www.samsara.com/company/careers/roles/7311741?gh_jid=7311741",
+    "sponsorship": "",
+    "posted": "2026-09-16",
+    "source": "Greenhouse"
+  },
+  {
+    "id": "gh-samsara-7848351",
+    "company": "Samsara",
+    "title": "Associate Sales Engineer, SE Desk - Southeast",
+    "locations": [
+      "Remote - US"
+    ],
+    "url": "https://www.samsara.com/company/careers/roles/7848351?gh_jid=7848351",
+    "sponsorship": "",
+    "posted": "2026-09-16",
+    "source": "Greenhouse"
+  },
+  {
+    "id": "gh-samsara-7848363",
+    "company": "Samsara",
+    "title": "Associate Sales Engineer, SE Desk - TOLA",
+    "locations": [
+      "Remote - US"
+    ],
+    "url": "https://www.samsara.com/company/careers/roles/7848363?gh_jid=7848363",
+    "sponsorship": "",
+    "posted": "2026-09-16",
+    "source": "Greenhouse"
+  },
+  {
+    "id": "gh-samsara-7717258",
+    "company": "Samsara",
+    "title": "Associate Specialist Sales Engineer",
+    "locations": [
+      "Remote - US"
+    ],
+    "url": "https://www.samsara.com/company/careers/roles/7717258?gh_jid=7717258",
+    "sponsorship": "",
+    "posted": "2026-09-16",
+    "source": "Greenhouse"
   },
   {
     "id": "linkedin-4467995095",
@@ -48,6 +180,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4459034091",
+    "company": "The Voleon Group",
+    "title": "Software Engineer - University Hire 2027",
+    "locations": [
+      "Berkeley, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4459034091",
+    "sponsorship": "",
+    "posted": "2026-09-16",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4468207822",
     "company": "BNY",
     "title": "2027 BNY Analyst Program - Engineering (Developer) - New York, NY",
@@ -55,6 +199,18 @@
       "New York, NY"
     ],
     "url": "https://www.linkedin.com/jobs/view/4468207822",
+    "sponsorship": "",
+    "posted": "2026-09-16",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4467980655",
+    "company": "Collins Aerospace",
+    "title": "Software Engineer I (Onsite)",
+    "locations": [
+      "St. Petersburg, FL"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4467980655",
     "sponsorship": "",
     "posted": "2026-09-16",
     "source": "LinkedIn"
@@ -72,13 +228,37 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4467929990",
-    "company": "Chewy",
-    "title": "Software Engineer I, Enterprise Financial Technology",
+    "id": "linkedin-4466886919",
+    "company": "ICF",
+    "title": "Junior Software Engineer (Entry level - Remote US)",
     "locations": [
-      "Bellevue, WA"
+      "Reston, VA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4467929990",
+    "url": "https://www.linkedin.com/jobs/view/4466886919",
+    "sponsorship": "",
+    "posted": "2026-09-16",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4458747289",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Amazon Leo, Early Career - 2026",
+    "locations": [
+      "Redmond, WA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4458747289",
+    "sponsorship": "",
+    "posted": "2026-09-16",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4465965370",
+    "company": "Delta Dental of Missouri",
+    "title": "Full Stack Engineer Associate",
+    "locations": [
+      "Fenton, MO"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4465965370",
     "sponsorship": "",
     "posted": "2026-09-16",
     "source": "LinkedIn"
@@ -96,6 +276,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4458746537",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Amazon Leo, Early Career - 2026",
+    "locations": [
+      "Los Angeles, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4458746537",
+    "sponsorship": "",
+    "posted": "2026-09-16",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4467954206",
     "company": "Komatsu",
     "title": "Software Engineer I",
@@ -103,6 +295,18 @@
       "Tucson, AZ"
     ],
     "url": "https://www.linkedin.com/jobs/view/4467954206",
+    "sponsorship": "",
+    "posted": "2026-09-16",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4430589061",
+    "company": "Cohere",
+    "title": "Forward Deployed Engineer, Agentic Platform (West Coast)",
+    "locations": [
+      "Los Angeles, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4430589061",
     "sponsorship": "",
     "posted": "2026-09-16",
     "source": "LinkedIn"
@@ -120,13 +324,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4457193861",
-    "company": "Jack & Jill",
-    "title": "Forward Deployed Engineer at Tavus",
+    "id": "linkedin-4319336681",
+    "company": "Cohere",
+    "title": "Forward Deployed Engineer, Agentic Platform",
     "locations": [
       "San Francisco, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4457193861",
+    "url": "https://www.linkedin.com/jobs/view/4319336681",
     "sponsorship": "",
     "posted": "2026-09-16",
     "source": "LinkedIn"
@@ -156,18 +360,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4319336681",
-    "company": "Cohere",
-    "title": "Forward Deployed Engineer, Agentic Platform",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4319336681",
-    "sponsorship": "",
-    "posted": "2026-09-16",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4461204163",
     "company": "Underdog: Verified engineers. Interview-ready. Searching confidentially. And companies apply to you",
     "title": "Forward Deployed Engineer",
@@ -187,18 +379,6 @@
       "Chicago, IL"
     ],
     "url": "https://www.linkedin.com/jobs/view/4466859851",
-    "sponsorship": "",
-    "posted": "2026-09-16",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4466848365",
-    "company": "Turing",
-    "title": "Forward Deployed Engineer \u2014 Data Engineering & GenAI",
-    "locations": [
-      "Washington, DC"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4466848365",
     "sponsorship": "",
     "posted": "2026-09-16",
     "source": "LinkedIn"
@@ -459,18 +639,6 @@
     "source": "SimplifyJobs"
   },
   {
-    "id": "simplify-f65facdb-07b5-489d-bda0-a527041c6dd5",
-    "company": "Bruno Independent Living Aids",
-    "title": "Junior Software Developer - AI Focus",
-    "locations": [
-      "Oconomowoc, WI"
-    ],
-    "url": "https://careers-bruno.icims.com/jobs/3336/job?mobile=true&needsRedirect=false",
-    "sponsorship": "Other",
-    "posted": "2026-09-15",
-    "source": "SimplifyJobs"
-  },
-  {
     "id": "simplify-ba178d6f-1d3e-46f4-a920-876f0b880c8d",
     "company": "SingleStore",
     "title": "Software Engineer New Grad",
@@ -723,18 +891,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4446249980",
-    "company": "Imprivata",
-    "title": "Software Engineer I",
-    "locations": [
-      "St. Petersburg, FL"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4446249980",
-    "sponsorship": "",
-    "posted": "2026-09-15",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4434750014",
     "company": "InComm Payments",
     "title": "Software Engineer I",
@@ -831,18 +987,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4438117397",
-    "company": "Garmin",
-    "title": "Software Engineer 1 - Aviation Core Java",
-    "locations": [
-      "Olathe, KS"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4438117397",
-    "sponsorship": "",
-    "posted": "2026-09-15",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4466562791",
     "company": "Infinite Campus",
     "title": "SOFTWARE ENGINEER I (205A91526)",
@@ -850,30 +994,6 @@
       "Minneapolis, MN"
     ],
     "url": "https://www.linkedin.com/jobs/view/4466562791",
-    "sponsorship": "",
-    "posted": "2026-09-15",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4456516612",
-    "company": "IBM",
-    "title": "Entry Level Software Developer-Rochester, MN",
-    "locations": [
-      "Rochester, MN"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4456516612",
-    "sponsorship": "",
-    "posted": "2026-09-15",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4467294510",
-    "company": "JeffreyM Consulting",
-    "title": "Forward Deployed Engineer",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4467294510",
     "sponsorship": "",
     "posted": "2026-09-15",
     "source": "LinkedIn"
@@ -934,6 +1054,30 @@
       "Washington, DC"
     ],
     "url": "https://www.linkedin.com/jobs/view/4467440997",
+    "sponsorship": "",
+    "posted": "2026-09-15",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4457412516",
+    "company": "Jack & Jill",
+    "title": "Forward Deployed Engineer ($220k-$300k + Equity) at High-growth defense tech AI startup",
+    "locations": [
+      "United States"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4457412516",
+    "sponsorship": "",
+    "posted": "2026-09-15",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4467458091",
+    "company": "Venn",
+    "title": "Forward Deployed Engineer",
+    "locations": [
+      "Austin, TX"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4467458091",
     "sponsorship": "",
     "posted": "2026-09-15",
     "source": "LinkedIn"
@@ -1265,78 +1409,6 @@
     "source": "SimplifyJobs"
   },
   {
-    "id": "gh-samsara-7624120",
-    "company": "Samsara",
-    "title": "Associate Sales Engineer, SE Desk (French Bilingual)",
-    "locations": [
-      "Remote - US"
-    ],
-    "url": "https://www.samsara.com/company/careers/roles/7624120?gh_jid=7624120",
-    "sponsorship": "",
-    "posted": "2026-09-14",
-    "source": "Greenhouse"
-  },
-  {
-    "id": "gh-samsara-7311761",
-    "company": "Samsara",
-    "title": "Associate Sales Engineer, SE Desk - Mid West",
-    "locations": [
-      "Remote - US"
-    ],
-    "url": "https://www.samsara.com/company/careers/roles/7311761?gh_jid=7311761",
-    "sponsorship": "",
-    "posted": "2026-09-14",
-    "source": "Greenhouse"
-  },
-  {
-    "id": "gh-samsara-7311741",
-    "company": "Samsara",
-    "title": "Associate Sales Engineer, SE Desk - Northeast",
-    "locations": [
-      "Remote - US"
-    ],
-    "url": "https://www.samsara.com/company/careers/roles/7311741?gh_jid=7311741",
-    "sponsorship": "",
-    "posted": "2026-09-14",
-    "source": "Greenhouse"
-  },
-  {
-    "id": "gh-samsara-7848351",
-    "company": "Samsara",
-    "title": "Associate Sales Engineer, SE Desk - Southeast",
-    "locations": [
-      "Remote - US"
-    ],
-    "url": "https://www.samsara.com/company/careers/roles/7848351?gh_jid=7848351",
-    "sponsorship": "",
-    "posted": "2026-09-14",
-    "source": "Greenhouse"
-  },
-  {
-    "id": "gh-samsara-7848363",
-    "company": "Samsara",
-    "title": "Associate Sales Engineer, SE Desk - TOLA",
-    "locations": [
-      "Remote - US"
-    ],
-    "url": "https://www.samsara.com/company/careers/roles/7848363?gh_jid=7848363",
-    "sponsorship": "",
-    "posted": "2026-09-14",
-    "source": "Greenhouse"
-  },
-  {
-    "id": "gh-samsara-7717258",
-    "company": "Samsara",
-    "title": "Associate Specialist Sales Engineer",
-    "locations": [
-      "Remote - US"
-    ],
-    "url": "https://www.samsara.com/company/careers/roles/7717258?gh_jid=7717258",
-    "sponsorship": "",
-    "posted": "2026-09-14",
-    "source": "Greenhouse"
-  },
-  {
     "id": "gh-andurilindustries-5236921007",
     "company": "Anduril",
     "title": "2027 Early Career Industrial Engineer",
@@ -1373,13 +1445,25 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4465250703",
-    "company": "Brivo",
-    "title": "Software Engineer- NEW GRAD",
+    "id": "linkedin-4466111753",
+    "company": "Emonics LLC",
+    "title": "Junior Software Engineer",
     "locations": [
-      "Bethesda, MD"
+      "Manhattan, NY"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4465250703",
+    "url": "https://www.linkedin.com/jobs/view/4466111753",
+    "sponsorship": "",
+    "posted": "2026-09-14",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4465208408",
+    "company": "IBM",
+    "title": "Entry Level Software Developer-Tucson-AZ",
+    "locations": [
+      "Tucson, AZ"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4465208408",
     "sponsorship": "",
     "posted": "2026-09-14",
     "source": "LinkedIn"
@@ -1421,18 +1505,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4466111753",
-    "company": "Emonics LLC",
-    "title": "Junior Software Engineer",
-    "locations": [
-      "Manhattan, NY"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4466111753",
-    "sponsorship": "",
-    "posted": "2026-09-14",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4467266218",
     "company": "Prescient Edge",
     "title": "Junior Software Developer",
@@ -1457,49 +1529,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4467276646",
-    "company": "Raytheon",
-    "title": "Software Engineer I -(Onsite)",
+    "id": "linkedin-4465250703",
+    "company": "Brivo",
+    "title": "Software Engineer- NEW GRAD",
     "locations": [
-      "Fort Wayne, IN"
+      "Bethesda, MD"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4467276646",
-    "sponsorship": "",
-    "posted": "2026-09-14",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4467263506",
-    "company": "Radiance Technologies",
-    "title": "Junior Software Engineer",
-    "locations": [
-      "Dayton, OH"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4467263506",
-    "sponsorship": "",
-    "posted": "2026-09-14",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4467294910",
-    "company": "United Airlines",
-    "title": "Associate Developer - Information Technology",
-    "locations": [
-      "Houston, TX"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4467294910",
-    "sponsorship": "",
-    "posted": "2026-09-14",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4465208408",
-    "company": "IBM",
-    "title": "Entry Level Software Developer-Tucson-AZ",
-    "locations": [
-      "Tucson, AZ"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4465208408",
+    "url": "https://www.linkedin.com/jobs/view/4465250703",
     "sponsorship": "",
     "posted": "2026-09-14",
     "source": "LinkedIn"
@@ -1512,6 +1548,18 @@
       "Los Angeles, CA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4380944856",
+    "sponsorship": "",
+    "posted": "2026-09-14",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4467276646",
+    "company": "Raytheon",
+    "title": "Software Engineer I -(Onsite)",
+    "locations": [
+      "Fort Wayne, IN"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4467276646",
     "sponsorship": "",
     "posted": "2026-09-14",
     "source": "LinkedIn"
@@ -1541,13 +1589,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4402281473",
-    "company": "Nearform",
-    "title": "Forward Deployed Engineer",
+    "id": "linkedin-4410216537",
+    "company": "Sea12",
+    "title": "Forward Deployed Software Engineer",
     "locations": [
-      "United States"
+      "New York, NY"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4402281473",
+    "url": "https://www.linkedin.com/jobs/view/4410216537",
     "sponsorship": "",
     "posted": "2026-09-14",
     "source": "LinkedIn"
@@ -1560,18 +1608,6 @@
       "New York, NY"
     ],
     "url": "https://www.linkedin.com/jobs/view/4465786710",
-    "sponsorship": "",
-    "posted": "2026-09-14",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4410216537",
-    "company": "Sea12",
-    "title": "Forward Deployed Software Engineer",
-    "locations": [
-      "New York, NY"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4410216537",
     "sponsorship": "",
     "posted": "2026-09-14",
     "source": "LinkedIn"
@@ -1601,6 +1637,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4402281473",
+    "company": "Nearform",
+    "title": "Forward Deployed Engineer",
+    "locations": [
+      "United States"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4402281473",
+    "sponsorship": "",
+    "posted": "2026-09-14",
+    "source": "LinkedIn"
+  },
+  {
     "id": "simplify-f856788a-97a4-4332-a414-c568ed12438d",
     "company": "Autostore",
     "title": "Entry Level Software Engineer",
@@ -1620,18 +1668,6 @@
       "Atlanta, GA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4465482277",
-    "sponsorship": "",
-    "posted": "2026-09-13",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4447617231",
-    "company": "Cohere",
-    "title": "Forward Deployed Engineer, Agentic Platform",
-    "locations": [
-      "Washington, DC"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4447617231",
     "sponsorship": "",
     "posted": "2026-09-13",
     "source": "LinkedIn"
@@ -3241,19 +3277,6 @@
       "Warren, MI"
     ],
     "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Milford-Michigan-United-States-of-America/Entry-Level-Software-Engineer_JR-202618501",
-    "sponsorship": "Other",
-    "posted": "2026-09-01",
-    "source": "SimplifyJobs"
-  },
-  {
-    "id": "simplify-262ac01b-863c-497c-9156-b439c07c4a32",
-    "company": "RTX",
-    "title": "Software Engineer 1",
-    "locations": [
-      "Cambridge, MA",
-      "Arlington County, Arlington, VA"
-    ],
-    "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-VA-ARLINGTON-111--1300-17Th-St-N--BBN-ARLINGTON/Software-Engineer-I--Hybrid--Arlington--VA---Cambridge--MA_01870647",
     "sponsorship": "Other",
     "posted": "2026-09-01",
     "source": "SimplifyJobs"
@@ -4938,18 +4961,6 @@
       "San Jose, CA"
     ],
     "url": "https://jobs.lever.co/weride/5a7cbc83-2381-482e-9d6d-e9c9d59ad63b/apply",
-    "sponsorship": "Other",
-    "posted": "2026-08-14",
-    "source": "SimplifyJobs"
-  },
-  {
-    "id": "simplify-a4ec4437-993b-4274-81e5-0ced8ce54e02",
-    "company": "Insperity",
-    "title": "Artificial Intelligence Engineer 1",
-    "locations": [
-      "Kingwood, Houston, TX"
-    ],
-    "url": "https://insperity.wd12.myworkdayjobs.com/NSP/job/Kingwood-TX/Artificial-Intelligence-Engineer-I_JR103100",
     "sponsorship": "Other",
     "posted": "2026-08-14",
     "source": "SimplifyJobs"
@@ -6909,18 +6920,6 @@
     "url": "https://jobs.lever.co/pyka/91c448a1-158a-4cb3-a334-9aa42ddd7d42/apply",
     "sponsorship": "Other",
     "posted": "2026-07-18",
-    "source": "SimplifyJobs"
-  },
-  {
-    "id": "simplify-2d43ba23-b8e2-48fe-8cd1-0897dbcb430f",
-    "company": "Antares Nuclear",
-    "title": "Reactor Software Engineer 1/2",
-    "locations": [
-      "LA"
-    ],
-    "url": "https://jobs.ashbyhq.com/Antares/78234003-fa70-41ab-b3c8-a2e703687f42/application?embed=true",
-    "sponsorship": "Other",
-    "posted": "2026-07-17",
     "source": "SimplifyJobs"
   },
   {
