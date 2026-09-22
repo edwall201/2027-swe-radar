@@ -1,5 +1,41 @@
 [
   {
+    "id": "linkedin-4468180871",
+    "company": "IBM",
+    "title": "Entry Level Software Developer-Tucson-AZ",
+    "locations": [
+      "Tucson, AZ"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4468180871",
+    "sponsorship": "",
+    "posted": "2026-09-22",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4462760620",
+    "company": "Viasat",
+    "title": "Software Engineer - Automation, Early Career",
+    "locations": [
+      "Carlsbad, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4462760620",
+    "sponsorship": "",
+    "posted": "2026-09-22",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4470233610",
+    "company": "Amentum",
+    "title": "Entry Level Software Engineer",
+    "locations": [
+      "Dahlgren, VA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4470233610",
+    "sponsorship": "",
+    "posted": "2026-09-22",
+    "source": "LinkedIn"
+  },
+  {
     "id": "simplify-841914e1-0eb1-451e-8424-c2888a47e394",
     "company": "Northrop Grumman",
     "title": "Associate Digital Engineer",
@@ -175,6 +211,18 @@
       "Greenville, TX"
     ],
     "url": "https://jobs.l3harris.com/job/Greenville-Associate,-Software-Engineering-TX-75402/1431958600/?ats=successfactors",
+    "sponsorship": "Other",
+    "posted": "2026-09-21",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-b75d9a5e-5bbf-4016-8d19-1384e5528fdf",
+    "company": "Amentum",
+    "title": "Entry Level Software Engineer",
+    "locations": [
+      "Dahlgren, VA"
+    ],
+    "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0171030",
     "sponsorship": "Other",
     "posted": "2026-09-21",
     "source": "SimplifyJobs"
@@ -564,18 +612,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4467382808",
-    "company": "Kareer Basycs",
-    "title": "Junior Software Engineer",
-    "locations": [
-      "United States"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4467382808",
-    "sponsorship": "",
-    "posted": "2026-09-21",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4463118982",
     "company": "Northrop Grumman",
     "title": "Associate Software Engineer / Software Engineer",
@@ -648,30 +684,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4469988667",
-    "company": "BAE Systems, Inc.",
-    "title": "Software Engineer I \u2013 Entry Level EO/IR Software Engineer",
-    "locations": [
-      "Merrimack, NH"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4469988667",
-    "sponsorship": "",
-    "posted": "2026-09-21",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4469917146",
-    "company": "Digital Foundry, Inc.",
-    "title": "Software Engineer Associate",
-    "locations": [
-      "Tiburon, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4469917146",
-    "sponsorship": "",
-    "posted": "2026-09-21",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4457263567",
     "company": "BeaconFire Inc.",
     "title": "Entry Level Java Developer",
@@ -691,6 +703,30 @@
       "Cedar Rapids, IA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4469924177",
+    "sponsorship": "",
+    "posted": "2026-09-21",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4420693565",
+    "company": "Deloitte",
+    "title": "Palantir Forward Deployed Engineer - GPS",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4420693565",
+    "sponsorship": "",
+    "posted": "2026-09-21",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4420909019",
+    "company": "Deloitte",
+    "title": "Palantir Forward Deployed Engineer - GPS",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4420909019",
     "sponsorship": "",
     "posted": "2026-09-21",
     "source": "LinkedIn"
@@ -720,30 +756,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4420693565",
-    "company": "Deloitte",
-    "title": "Palantir Forward Deployed Engineer - GPS",
-    "locations": [
-      "Chicago, IL"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4420693565",
-    "sponsorship": "",
-    "posted": "2026-09-21",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4420689730",
-    "company": "Deloitte",
-    "title": "Palantir Forward Deployed Engineer - GPS",
-    "locations": [
-      "New York, NY"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4420689730",
-    "sponsorship": "",
-    "posted": "2026-09-21",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4469895897",
     "company": "MeeBoss",
     "title": "Forward Deployed Engineer",
@@ -763,102 +775,6 @@
       "San Francisco, CA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4468764915",
-    "sponsorship": "",
-    "posted": "2026-09-21",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4469843378",
-    "company": "Pryzm",
-    "title": "Forward Deployed Engineer",
-    "locations": [
-      "Washington, DC"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4469843378",
-    "sponsorship": "",
-    "posted": "2026-09-21",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4466898316",
-    "company": "VeeAR Projects Inc.",
-    "title": "Forward Deployed Engineer",
-    "locations": [
-      "New York, NY"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4466898316",
-    "sponsorship": "",
-    "posted": "2026-09-21",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4467390469",
-    "company": "Scout Global",
-    "title": "Forward Deployed Engineer",
-    "locations": [
-      "New York, NY"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4467390469",
-    "sponsorship": "",
-    "posted": "2026-09-21",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4468715735",
-    "company": "Google",
-    "title": "Partner Forward Deployed Engineer V, GenAI, Google Cloud",
-    "locations": [
-      "Sunnyvale, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4468715735",
-    "sponsorship": "",
-    "posted": "2026-09-21",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4468715736",
-    "company": "Google",
-    "title": "Partner Forward Deployed Engineer V, GenAI, Google Cloud",
-    "locations": [
-      "New York, NY"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4468715736",
-    "sponsorship": "",
-    "posted": "2026-09-21",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4421503819",
-    "company": "C3 AI",
-    "title": "Forward Deployed Engineer, Federal",
-    "locations": [
-      "Redwood City, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4421503819",
-    "sponsorship": "",
-    "posted": "2026-09-21",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4469961518",
-    "company": "Greylock Partners",
-    "title": "Forward Deployed Engineer, Physical AI",
-    "locations": [
-      "New York City Metropolitan Area"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4469961518",
-    "sponsorship": "",
-    "posted": "2026-09-21",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4420909019",
-    "company": "Deloitte",
-    "title": "Palantir Forward Deployed Engineer - GPS",
-    "locations": [
-      "Atlanta, GA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4420909019",
     "sponsorship": "",
     "posted": "2026-09-21",
     "source": "LinkedIn"
@@ -948,18 +864,6 @@
     "source": "SimplifyJobs"
   },
   {
-    "id": "linkedin-4465698495",
-    "company": "EarthCam",
-    "title": "Junior Software Developer",
-    "locations": [
-      "Upper Saddle River, NJ"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4465698495",
-    "sponsorship": "",
-    "posted": "2026-09-20",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4469572730",
     "company": "Northrop Grumman",
     "title": "2026 Associate Embedded Software Engineer - Rolling Meadows IL",
@@ -967,6 +871,18 @@
       "Rolling Meadows, IL"
     ],
     "url": "https://www.linkedin.com/jobs/view/4469572730",
+    "sponsorship": "",
+    "posted": "2026-09-20",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4465698495",
+    "company": "EarthCam",
+    "title": "Junior Software Developer",
+    "locations": [
+      "Upper Saddle River, NJ"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4465698495",
     "sponsorship": "",
     "posted": "2026-09-20",
     "source": "LinkedIn"
@@ -1008,18 +924,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4445955587",
-    "company": "Twenty-Six Defense Maritime",
-    "title": "Software Engineer I",
-    "locations": [
-      "De Leon Springs, FL"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4445955587",
-    "sponsorship": "",
-    "posted": "2026-09-20",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4467330486",
     "company": "Nominal",
     "title": "Mission Dev Engineer - New Grad (Summer 2027)",
@@ -1039,18 +943,6 @@
       "United States"
     ],
     "url": "https://www.linkedin.com/jobs/view/4458438519",
-    "sponsorship": "",
-    "posted": "2026-09-20",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4468426807",
-    "company": "Wren AI",
-    "title": "Forward Deployed Engineer (AI & Data)",
-    "locations": [
-      "Palo Alto, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4468426807",
     "sponsorship": "",
     "posted": "2026-09-20",
     "source": "LinkedIn"
@@ -1141,90 +1033,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4468078979",
-    "company": "Dark Matter Technologies",
-    "title": "Software Engineer I",
-    "locations": [
-      "Jacksonville, FL"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4468078979",
-    "sponsorship": "",
-    "posted": "2026-09-19",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4450365978",
-    "company": "Freeform",
-    "title": "Software Engineer (New Grad December 2026)",
-    "locations": [
-      "Los Angeles, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4450365978",
-    "sponsorship": "",
-    "posted": "2026-09-19",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4450616269",
-    "company": "Garmin",
-    "title": "Embedded Software Engineer 1",
-    "locations": [
-      "Chandler, AZ"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4450616269",
-    "sponsorship": "",
-    "posted": "2026-09-19",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4466986044",
-    "company": "Haystack",
-    "title": "Junior Software Engineer",
-    "locations": [
-      "Washington DC-Baltimore Area"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4466986044",
-    "sponsorship": "",
-    "posted": "2026-09-19",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4450745047",
-    "company": "CoStar Group",
-    "title": "Matterport - Software Engineer I",
-    "locations": [
-      "Irvine, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4450745047",
-    "sponsorship": "",
-    "posted": "2026-09-19",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4458421790",
-    "company": "IBM",
-    "title": "Entry Level Back-End Developer-Houston-TX",
-    "locations": [
-      "Houston, TX"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4458421790",
-    "sponsorship": "",
-    "posted": "2026-09-19",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4469543217",
-    "company": "General Atomics Aeronautical Systems",
-    "title": "Associate Software Developer",
-    "locations": [
-      "Poway, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4469543217",
-    "sponsorship": "",
-    "posted": "2026-09-19",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4448752966",
     "company": "Google",
     "title": "Software Engineer, Early Career, Campus",
@@ -1249,25 +1057,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4469551957",
-    "company": "GILLIG",
-    "title": "AI Forward Deployed Engineer",
+    "id": "linkedin-4438453689",
+    "company": "Netic",
+    "title": "Forward Deployed Engineer (FDE) - New Grad - 2026-2027",
     "locations": [
-      "Livermore, CA"
+      "San Francisco, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4469551957",
-    "sponsorship": "",
-    "posted": "2026-09-19",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4431899827",
-    "company": "Quantifind",
-    "title": "AI Forward Deployed Engineer",
-    "locations": [
-      "Palo Alto, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4431899827",
+    "url": "https://www.linkedin.com/jobs/view/4438453689",
     "sponsorship": "",
     "posted": "2026-09-19",
     "source": "LinkedIn"
@@ -2269,19 +2065,6 @@
       "Towson, MD"
     ],
     "url": "https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Engineer-I--Digital_REQ-1000051830",
-    "sponsorship": "Other",
-    "posted": "2026-09-14",
-    "source": "SimplifyJobs"
-  },
-  {
-    "id": "simplify-bb50809f-40cf-4768-beef-ba71a49c92fc",
-    "company": "RTX",
-    "title": "Research Engineer 1 - Analytics and Machine Intelligence - AMI",
-    "locations": [
-      "Cambridge, MA",
-      "Arlington County, Arlington, VA"
-    ],
-    "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-VA-ARLINGTON-111--1300-17Th-St-N--BBN-ARLINGTON/Engineer-I---RTX-BBN-Analytics-and-Machine-Intelligence--AMI----Arlington--VA-and-Cambridge--MA--Hybrid-_01874936",
     "sponsorship": "Other",
     "posted": "2026-09-14",
     "source": "SimplifyJobs"
