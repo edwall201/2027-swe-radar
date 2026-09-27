@@ -144,6 +144,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4470556705",
+    "company": "Charles Schwab",
+    "title": "Associate - Software Development & Engineering",
+    "locations": [
+      "Orlando, FL"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4470556705",
+    "sponsorship": "",
+    "posted": "2026-09-26",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4454805111",
     "company": "Notion",
     "title": "Software Engineer, New Grad (Dec 2026)",
@@ -168,18 +180,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4470556705",
-    "company": "Charles Schwab",
-    "title": "Associate - Software Development & Engineering",
-    "locations": [
-      "Orlando, FL"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4470556705",
-    "sponsorship": "",
-    "posted": "2026-09-26",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4470531459",
     "company": "Clearwater Analytics",
     "title": "Quantitative Developer I",
@@ -187,6 +187,18 @@
       "New York, NY"
     ],
     "url": "https://www.linkedin.com/jobs/view/4470531459",
+    "sponsorship": "",
+    "posted": "2026-09-26",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4462369311",
+    "company": "Garner Health",
+    "title": "Associate Software Engineer",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4462369311",
     "sponsorship": "",
     "posted": "2026-09-26",
     "source": "LinkedIn"
@@ -259,18 +271,6 @@
       "Southlake, TX"
     ],
     "url": "https://www.linkedin.com/jobs/view/4470557642",
-    "sponsorship": "",
-    "posted": "2026-09-26",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4462369311",
-    "company": "Garner Health",
-    "title": "Associate Software Engineer",
-    "locations": [
-      "New York, NY"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4462369311",
     "sponsorship": "",
     "posted": "2026-09-26",
     "source": "LinkedIn"
@@ -409,18 +409,6 @@
     "source": "SimplifyJobs"
   },
   {
-    "id": "simplify-777dc751-d5f0-4f2d-97c7-9d205411e8c1",
-    "company": "RTX",
-    "title": "Software Engineer 1 - Gen4 Airborne Radar",
-    "locations": [
-      "El Segundo, CA"
-    ],
-    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Software-Engineer-I--Gen4-Airborne-Radar_01877039",
-    "sponsorship": "Other",
-    "posted": "2026-09-25",
-    "source": "SimplifyJobs"
-  },
-  {
     "id": "gh-stripe-7230452",
     "company": "Stripe",
     "title": "Forward Deployed Engineer, Privy",
@@ -541,18 +529,6 @@
     "source": "Greenhouse"
   },
   {
-    "id": "linkedin-4331580484",
-    "company": "Medpace",
-    "title": "Junior Software Engineer",
-    "locations": [
-      "Denver, CO"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4331580484",
-    "sponsorship": "",
-    "posted": "2026-09-25",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4463352083",
     "company": "Amazon",
     "title": "Software Development Engineer, Amazon Dedicated Cloud, Early Career - 2026",
@@ -572,6 +548,30 @@
       "Denver, CO"
     ],
     "url": "https://www.linkedin.com/jobs/view/4463329874",
+    "sponsorship": "",
+    "posted": "2026-09-25",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4470172162",
+    "company": "Lockheed Martin",
+    "title": "Software Engineering Associate - Early Career",
+    "locations": [
+      "Mount Laurel, NJ"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4470172162",
+    "sponsorship": "",
+    "posted": "2026-09-25",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4472279751",
+    "company": "GliaCell Technologies",
+    "title": "Entry Level Software Programmer / Developer (.NET, C#)",
+    "locations": [
+      "Howard County, MD"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4472279751",
     "sponsorship": "",
     "posted": "2026-09-25",
     "source": "LinkedIn"
@@ -685,13 +685,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4470172162",
-    "company": "Lockheed Martin",
-    "title": "Software Engineering Associate - Early Career",
+    "id": "linkedin-4331580484",
+    "company": "Medpace",
+    "title": "Junior Software Engineer",
     "locations": [
-      "Mount Laurel, NJ"
+      "Denver, CO"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4470172162",
+    "url": "https://www.linkedin.com/jobs/view/4331580484",
     "sponsorship": "",
     "posted": "2026-09-25",
     "source": "LinkedIn"
@@ -817,18 +817,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4470043820",
-    "company": "Google",
-    "title": "Forward Deployed Engineer III, Generative AI, Geo",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4470043820",
-    "sponsorship": "",
-    "posted": "2026-09-25",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4468628202",
     "company": "Underdog: Verified engineers. Interview-ready. Searching confidentially. And companies apply to you",
     "title": "Forward Deployed Engineer",
@@ -848,6 +836,18 @@
       "New York, United States"
     ],
     "url": "https://www.linkedin.com/jobs/view/4470330203",
+    "sponsorship": "",
+    "posted": "2026-09-25",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4440117511",
+    "company": "Edra",
+    "title": "Forward Deployed AI Engineer (New York)",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4440117511",
     "sponsorship": "",
     "posted": "2026-09-25",
     "source": "LinkedIn"
@@ -1403,18 +1403,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4471163946",
-    "company": "SeatGeek",
-    "title": "Software Engineer - New Grad",
-    "locations": [
-      "New York, NY"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4471163946",
-    "sponsorship": "",
-    "posted": "2026-09-24",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4413763362",
     "company": "TP-Link Systems Inc.",
     "title": "2026 Early Career Embedded Software Engineer",
@@ -1463,18 +1451,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4471122640",
-    "company": "Audible",
-    "title": "Software Development Engineer, Early Career",
-    "locations": [
-      "Cambridge, MA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4471122640",
-    "sponsorship": "",
-    "posted": "2026-09-24",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4471637029",
     "company": "REI Systems",
     "title": "Associate Software Engineer- Java full stack",
@@ -1482,18 +1458,6 @@
       "Sterling, VA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4471637029",
-    "sponsorship": "",
-    "posted": "2026-09-24",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4470045093",
-    "company": "General Dynamics Mission Systems",
-    "title": "Entry Level Software Engineer",
-    "locations": [
-      "Port Orchard, WA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4470045093",
     "sponsorship": "",
     "posted": "2026-09-24",
     "source": "LinkedIn"
@@ -1523,18 +1487,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4469676076",
-    "company": "Conversion",
-    "title": "Forward Deployed Engineer",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4469676076",
-    "sponsorship": "",
-    "posted": "2026-09-24",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4471679226",
     "company": "Trunk Tools",
     "title": "Forward Deployed Engineer",
@@ -1547,13 +1499,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4471682964",
-    "company": "Sia",
-    "title": "Forward Deployed Engineer",
+    "id": "linkedin-4344631994",
+    "company": "Reflection",
+    "title": "Forward Deployed Engineer - AI Engineer",
     "locations": [
       "San Francisco, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4471682964",
+    "url": "https://www.linkedin.com/jobs/view/4344631994",
     "sponsorship": "",
     "posted": "2026-09-24",
     "source": "LinkedIn"
@@ -1595,18 +1547,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4471180342",
-    "company": "Denari",
-    "title": "Founding Forward Deployed Engineer",
-    "locations": [
-      "Madison, WI"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4471180342",
-    "sponsorship": "",
-    "posted": "2026-09-24",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4344652056",
     "company": "Reflection",
     "title": "Forward Deployed Engineer - AI Engineer",
@@ -1614,6 +1554,18 @@
       "New York, NY"
     ],
     "url": "https://www.linkedin.com/jobs/view/4344652056",
+    "sponsorship": "",
+    "posted": "2026-09-24",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4471682964",
+    "company": "Sia",
+    "title": "Forward Deployed Engineer",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4471682964",
     "sponsorship": "",
     "posted": "2026-09-24",
     "source": "LinkedIn"
@@ -1931,18 +1883,6 @@
     "source": "SimplifyJobs"
   },
   {
-    "id": "simplify-8373f031-9eb9-45a6-9012-e95eca490eff",
-    "company": "Southwest Airlines",
-    "title": "Associate Software Engineer - Direct College Hire",
-    "locations": [
-      "Dallas, TX"
-    ],
-    "url": "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Associate-Software-Engineer---Direct-College-Hire_R-2026-72886",
-    "sponsorship": "Other",
-    "posted": "2026-09-22",
-    "source": "SimplifyJobs"
-  },
-  {
     "id": "simplify-8a876071-7bef-4ba2-b9d2-84d0cf93584f",
     "company": "Microchip Technology",
     "title": "Product/Test Engineer 1 - Networking & Connectivity Solutions",
@@ -2070,18 +2010,6 @@
       "Austin, TX"
     ],
     "url": "https://jobs.eu.lever.co/cirrus/b4334931-aee2-40d9-a82e-ae6fb644cab0/apply",
-    "sponsorship": "Other",
-    "posted": "2026-09-21",
-    "source": "SimplifyJobs"
-  },
-  {
-    "id": "simplify-86139554-385a-4f87-8d17-427b8cf60ed9",
-    "company": "L3Harris Technologies",
-    "title": "Associate Software Engineering",
-    "locations": [
-      "Greenville, TX"
-    ],
-    "url": "https://jobs.l3harris.com/job/Greenville-Associate,-Software-Engineering-TX-75402/1431958600/?ats=successfactors",
     "sponsorship": "Other",
     "posted": "2026-09-21",
     "source": "SimplifyJobs"
@@ -3072,18 +3000,6 @@
       "Herndon, VA"
     ],
     "url": "https://careers-peraton.icims.com/jobs/170478/job?mobile=true&needsRedirect=false",
-    "sponsorship": "Other",
-    "posted": "2026-09-10",
-    "source": "SimplifyJobs"
-  },
-  {
-    "id": "simplify-9d7967bf-9168-4534-85c7-1b7cb6ebb568",
-    "company": "Johns Hopkins Applied Physics Laboratory",
-    "title": "Software Engineer New Grad - Multiple Teams",
-    "locations": [
-      "Laurel, MD"
-    ],
-    "url": "https://careers.jhuapl.edu/jobs/59817?icims=1",
     "sponsorship": "Other",
     "posted": "2026-09-10",
     "source": "SimplifyJobs"
@@ -4118,19 +4034,6 @@
     "source": "SimplifyJobs"
   },
   {
-    "id": "simplify-be2c7190-c561-4119-b5b4-43991b0e81c3",
-    "company": "General Motors",
-    "title": "Entry Level Hardware Design and Validation - Vehicle Software and Electronics Engineering",
-    "locations": [
-      "Milford, MI",
-      "Warren, MI"
-    ],
-    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Milford-Michigan-United-States-of-America/Entry-Level-Hardware-Design-and-Validation_JR-202618739",
-    "sponsorship": "Other",
-    "posted": "2026-09-01",
-    "source": "SimplifyJobs"
-  },
-  {
     "id": "simplify-5d90e270-511f-4fcd-9c2f-410f252cea8b",
     "company": "American Express",
     "title": "AI Engineer 1 - Enterprise Technology Services",
@@ -4246,19 +4149,6 @@
       "Washington, DC"
     ],
     "url": "https://boards.greenhouse.io/accenturefederalservices/jobs/4710190006",
-    "sponsorship": "Other",
-    "posted": "2026-09-01",
-    "source": "SimplifyJobs"
-  },
-  {
-    "id": "simplify-251dd790-b5bc-48d9-ab3e-9deb38e21b46",
-    "company": "General Motors",
-    "title": "Entry Level Software Design Release Engineer",
-    "locations": [
-      "Milford, MI",
-      "Warren, MI"
-    ],
-    "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/GM-Global-Technical-Center---Cole-Engineering-Center-Tower/Entry-Level-Software-Design-Release-Engineer_JR-202618509",
     "sponsorship": "Other",
     "posted": "2026-09-01",
     "source": "SimplifyJobs"
