@@ -1,5 +1,29 @@
 [
   {
+    "id": "linkedin-4470853155",
+    "company": "TalentHop",
+    "title": "Software Engineer - New Grad, 2027",
+    "locations": [
+      "United States"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4470853155",
+    "sponsorship": "",
+    "posted": "2026-09-28",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4472474849",
+    "company": "Dex",
+    "title": "Forward Deployed Engineer (up to $250k)",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4472474849",
+    "sponsorship": "",
+    "posted": "2026-09-28",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4471098588",
     "company": "Jobright.ai",
     "title": "Full Stack Software Engineer, New Grad",
@@ -19,18 +43,6 @@
       "United States"
     ],
     "url": "https://www.linkedin.com/jobs/view/4471306378",
-    "sponsorship": "",
-    "posted": "2026-09-27",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4470817572",
-    "company": "TalentHop",
-    "title": "Software Engineer - New Grad, 2027",
-    "locations": [
-      "United States"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4470817572",
     "sponsorship": "",
     "posted": "2026-09-27",
     "source": "LinkedIn"
@@ -127,6 +139,18 @@
       "San Francisco, CA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4453791036",
+    "sponsorship": "",
+    "posted": "2026-09-27",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4470594928",
+    "company": "Haystack",
+    "title": "Software Engineer - New Grad",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4470594928",
     "sponsorship": "",
     "posted": "2026-09-27",
     "source": "LinkedIn"
@@ -439,6 +463,18 @@
       "Bastrop, TX"
     ],
     "url": "https://www.linkedin.com/jobs/view/4454591302",
+    "sponsorship": "",
+    "posted": "2026-09-26",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4461404285",
+    "company": "IBM",
+    "title": "Entry Level Cloud Infrastructure Network Monitoring and Automation Software Engineer - San Jose, CA - 2027",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4461404285",
     "sponsorship": "",
     "posted": "2026-09-26",
     "source": "LinkedIn"
@@ -769,6 +805,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4472045929",
+    "company": "Honeywell Aerospace",
+    "title": "Software Engineer I",
+    "locations": [
+      "Phoenix, AZ"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4472045929",
+    "sponsorship": "",
+    "posted": "2026-09-25",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4463329874",
     "company": "Amazon",
     "title": "Software Development Engineer, Amazon Dedicated Cloud, Early Career - 2026",
@@ -805,13 +853,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4470068082",
-    "company": "Chewy",
-    "title": "Software Engineer I",
+    "id": "linkedin-4461919761",
+    "company": "Morgan Stanley",
+    "title": "Associate, Software Engineer",
     "locations": [
-      "Bellevue, WA"
+      "New York, NY"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4470068082",
+    "url": "https://www.linkedin.com/jobs/view/4461919761",
     "sponsorship": "",
     "posted": "2026-09-25",
     "source": "LinkedIn"
@@ -841,18 +889,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4470501333",
-    "company": "IBM",
-    "title": "Entry Level Software Developer 2027 - Austin",
-    "locations": [
-      "Austin, TX"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4470501333",
-    "sponsorship": "",
-    "posted": "2026-09-25",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4331580484",
     "company": "Medpace",
     "title": "Junior Software Engineer",
@@ -860,18 +896,6 @@
       "Denver, CO"
     ],
     "url": "https://www.linkedin.com/jobs/view/4331580484",
-    "sponsorship": "",
-    "posted": "2026-09-25",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4472045929",
-    "company": "Honeywell Aerospace",
-    "title": "Software Engineer I",
-    "locations": [
-      "Phoenix, AZ"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4472045929",
     "sponsorship": "",
     "posted": "2026-09-25",
     "source": "LinkedIn"
@@ -949,30 +973,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4470301029",
-    "company": "Turing",
-    "title": "Forward Deployed Engineer \u2014 Data Engineering & GenAI",
-    "locations": [
-      "Washington, DC"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4470301029",
-    "sponsorship": "",
-    "posted": "2026-09-25",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4470051543",
-    "company": "Google",
-    "title": "Forward Deployed Engineer III, Generative AI, Geo",
-    "locations": [
-      "New York, NY"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4470051543",
-    "sponsorship": "",
-    "posted": "2026-09-25",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4443900816",
     "company": "Deloitte",
     "title": "Palantir Associate Forward Deployed Engineer - GPS",
@@ -997,13 +997,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4470330203",
-    "company": "CoffeeSpace",
-    "title": "Forward Deployed Engineer ($150K\u2013$220K + Equity) Automating Healthcare Recruiting",
+    "id": "linkedin-4470320594",
+    "company": "Inventure",
+    "title": "Forward Deployed Engineer",
     "locations": [
-      "New York, United States"
+      "San Francisco, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4470330203",
+    "url": "https://www.linkedin.com/jobs/view/4470320594",
     "sponsorship": "",
     "posted": "2026-09-25",
     "source": "LinkedIn"
