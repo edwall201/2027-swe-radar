@@ -73,13 +73,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4465390987",
-    "company": "General Motors",
-    "title": "Software Engineer, AV Frameworks \u2013 Early Career",
+    "id": "linkedin-4434136634",
+    "company": "Palantir Technologies",
+    "title": "Software Engineer, New Grad",
     "locations": [
-      "Sunnyvale, CA"
+      "Denver, CO"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4465390987",
+    "url": "https://www.linkedin.com/jobs/view/4434136634",
     "sponsorship": "",
     "posted": "2026-10-01",
     "source": "LinkedIn"
@@ -109,6 +109,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4472598788",
+    "company": "Priceline",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "New York, United States"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4472598788",
+    "sponsorship": "",
+    "posted": "2026-10-01",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4474122195",
     "company": "Northrop Grumman",
     "title": "2027 Associate Software Engineer / Software Engineer",
@@ -116,6 +128,18 @@
       "Melbourne, FL"
     ],
     "url": "https://www.linkedin.com/jobs/view/4474122195",
+    "sponsorship": "",
+    "posted": "2026-10-01",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4462058112",
+    "company": "Stripe",
+    "title": "Software Engineer, New Grad",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4462058112",
     "sponsorship": "",
     "posted": "2026-10-01",
     "source": "LinkedIn"
@@ -145,6 +169,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4474514921",
+    "company": "AMETEK",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4474514921",
+    "sponsorship": "",
+    "posted": "2026-10-01",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4434149314",
     "company": "Palantir Technologies",
     "title": "Software Engineer, New Grad - Infrastructure",
@@ -164,18 +200,6 @@
       "Dallas, TX"
     ],
     "url": "https://www.linkedin.com/jobs/view/4436258780",
-    "sponsorship": "",
-    "posted": "2026-10-01",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4434136634",
-    "company": "Palantir Technologies",
-    "title": "Software Engineer, New Grad",
-    "locations": [
-      "Denver, CO"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4434136634",
     "sponsorship": "",
     "posted": "2026-10-01",
     "source": "LinkedIn"
@@ -212,18 +236,6 @@
       "Durham, NC"
     ],
     "url": "https://www.linkedin.com/jobs/view/4453489109",
-    "sponsorship": "",
-    "posted": "2026-10-01",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4462058112",
-    "company": "Stripe",
-    "title": "Software Engineer, New Grad",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4462058112",
     "sponsorship": "",
     "posted": "2026-10-01",
     "source": "LinkedIn"
@@ -277,13 +289,49 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4474344022",
-    "company": "MeeBoss",
-    "title": "Forward Deployed Engineer",
+    "id": "linkedin-4474372404",
+    "company": "ElevenLabs",
+    "title": "Forward Deployed Engineer - Software Engineer - North America",
     "locations": [
       "San Francisco, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4474344022",
+    "url": "https://www.linkedin.com/jobs/view/4474372404",
+    "sponsorship": "",
+    "posted": "2026-10-01",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4474368550",
+    "company": "ElevenLabs",
+    "title": "Forward Deployed Engineer - Software Engineer - North America",
+    "locations": [
+      "New York, United States"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4474368550",
+    "sponsorship": "",
+    "posted": "2026-10-01",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4474347945",
+    "company": "Quadric",
+    "title": "Forward Deployed Engineer",
+    "locations": [
+      "Burlingame, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4474347945",
+    "sponsorship": "",
+    "posted": "2026-10-01",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4373280392",
+    "company": "Baseten",
+    "title": "Forward Deployed Engineer",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4373280392",
     "sponsorship": "",
     "posted": "2026-10-01",
     "source": "LinkedIn"
@@ -325,13 +373,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4472913688",
-    "company": "Scout Global",
+    "id": "linkedin-4474344022",
+    "company": "MeeBoss",
     "title": "Forward Deployed Engineer",
     "locations": [
-      "New York, United States"
+      "San Francisco, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4472913688",
+    "url": "https://www.linkedin.com/jobs/view/4474344022",
     "sponsorship": "",
     "posted": "2026-10-01",
     "source": "LinkedIn"
@@ -686,18 +734,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4452446547",
-    "company": "ByteDance",
-    "title": "Software Engineer Graduate (AML-Engine-Orchestration) - 2027 Start",
-    "locations": [
-      "Seattle, WA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4452446547",
-    "sponsorship": "",
-    "posted": "2026-09-30",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4472311750",
     "company": "General Dynamics Mission Systems",
     "title": "Software Engineer Entry Level",
@@ -705,18 +741,6 @@
       "Middletown, RI"
     ],
     "url": "https://www.linkedin.com/jobs/view/4472311750",
-    "sponsorship": "",
-    "posted": "2026-09-30",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4474197293",
-    "company": "OneImaging",
-    "title": "Full Stack Associate Software Engineer (Miami Only)",
-    "locations": [
-      "Miami, FL"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4474197293",
     "sponsorship": "",
     "posted": "2026-09-30",
     "source": "LinkedIn"
@@ -746,6 +770,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4474197293",
+    "company": "OneImaging",
+    "title": "Full Stack Associate Software Engineer (Miami Only)",
+    "locations": [
+      "Miami, FL"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4474197293",
+    "sponsorship": "",
+    "posted": "2026-09-30",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4472634974",
     "company": "Oracle",
     "title": "February 2027 - Undergrad Software Engineer - Oracle Cloud Infrastructure (OCI) - Nashville, TN",
@@ -758,18 +794,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4442893738",
-    "company": "Rocket",
-    "title": "Software Engineer I",
-    "locations": [
-      "Detroit, MI"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4442893738",
-    "sponsorship": "",
-    "posted": "2026-09-30",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4472301642",
     "company": "EvenUp",
     "title": "Software Engineer (New Grad), AI Entities",
@@ -777,6 +801,18 @@
       "San Francisco, CA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4472301642",
+    "sponsorship": "",
+    "posted": "2026-09-30",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4450794697",
+    "company": "ByteDance",
+    "title": "Software Development Engineer Graduate (Intent-Based Networking) - 2027 Start",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4450794697",
     "sponsorship": "",
     "posted": "2026-09-30",
     "source": "LinkedIn"
@@ -842,18 +878,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4361668116",
-    "company": "ElevenLabs",
-    "title": "Forward Deployed Engineer - Software Engineer - North America",
-    "locations": [
-      "New York, United States"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4361668116",
-    "sponsorship": "",
-    "posted": "2026-09-30",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4443918024",
     "company": "Baseten",
     "title": "Forward Deployed Engineer",
@@ -861,6 +885,18 @@
       "United States"
     ],
     "url": "https://www.linkedin.com/jobs/view/4443918024",
+    "sponsorship": "",
+    "posted": "2026-09-30",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4472312071",
+    "company": "Burjline Builders",
+    "title": "AI Field Engineer / Forward Deployed Engineer (FDE)",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4472312071",
     "sponsorship": "",
     "posted": "2026-09-30",
     "source": "LinkedIn"
@@ -1280,18 +1316,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4417513151",
-    "company": "Eccalon, LLC",
-    "title": "Junior Software Engineer - onsite",
-    "locations": [
-      "Detroit, MI"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4417513151",
-    "sponsorship": "",
-    "posted": "2026-09-29",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4454703447",
     "company": "Veeva Systems",
     "title": "Associate Software Engineer - 2027 Start Dates",
@@ -1328,18 +1352,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4471925777",
-    "company": "Brivo",
-    "title": "Software Engineer- NEW GRAD",
-    "locations": [
-      "Bethesda, MD"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4471925777",
-    "sponsorship": "",
-    "posted": "2026-09-29",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4471288667",
     "company": "OneImaging",
     "title": "Full Stack Associate Software Engineer (UMiami Only)",
@@ -1364,6 +1376,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4471925777",
+    "company": "Brivo",
+    "title": "Software Engineer- NEW GRAD",
+    "locations": [
+      "Bethesda, MD"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4471925777",
+    "sponsorship": "",
+    "posted": "2026-09-29",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4473058992",
     "company": "Collins Aerospace",
     "title": "Software Engineer I (Onsite)",
@@ -1376,13 +1400,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4351877495",
-    "company": "Medpace",
-    "title": "Junior Software Engineer",
+    "id": "linkedin-4417513151",
+    "company": "Eccalon, LLC",
+    "title": "Junior Software Engineer - onsite",
     "locations": [
-      "Cincinnati, OH"
+      "Detroit, MI"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4351877495",
+    "url": "https://www.linkedin.com/jobs/view/4417513151",
     "sponsorship": "",
     "posted": "2026-09-29",
     "source": "LinkedIn"
@@ -1395,6 +1419,18 @@
       "Phoenix, AZ"
     ],
     "url": "https://www.linkedin.com/jobs/view/4471745712",
+    "sponsorship": "",
+    "posted": "2026-09-29",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4351877495",
+    "company": "Medpace",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "Cincinnati, OH"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4351877495",
     "sponsorship": "",
     "posted": "2026-09-29",
     "source": "LinkedIn"
@@ -1508,6 +1544,18 @@
     "source": "SimplifyJobs"
   },
   {
+    "id": "gh-andurilindustries-5136970007",
+    "company": "Anduril",
+    "title": "2027 Early Career Manufacturing Engineer",
+    "locations": [
+      "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Seattle, Washington, United States"
+    ],
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5136970007?gh_jid=5136970007",
+    "sponsorship": "",
+    "posted": "2026-09-28",
+    "source": "Greenhouse"
+  },
+  {
     "id": "linkedin-4460630451",
     "company": "Peraton",
     "title": "Cyber Software Engineering, Associate - Annapolis Junction, MD",
@@ -1515,30 +1563,6 @@
       "Annapolis Junction, MD"
     ],
     "url": "https://www.linkedin.com/jobs/view/4460630451",
-    "sponsorship": "",
-    "posted": "2026-09-28",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4464821341",
-    "company": "Peraton",
-    "title": "Software Engineering, Associate - Herndon, VA",
-    "locations": [
-      "Herndon, VA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4464821341",
-    "sponsorship": "",
-    "posted": "2026-09-28",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4470898831",
-    "company": "IBM",
-    "title": "Entry Level Software Developer 2027 - Durham",
-    "locations": [
-      "Durham, NC"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4470898831",
     "sponsorship": "",
     "posted": "2026-09-28",
     "source": "LinkedIn"
@@ -1578,6 +1602,18 @@
     "sponsorship": "Other",
     "posted": "2026-09-26",
     "source": "SimplifyJobs"
+  },
+  {
+    "id": "gh-andurilindustries-5162263007",
+    "company": "Anduril",
+    "title": "2027 Early Career Software Engineer ",
+    "locations": [
+      "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States"
+    ],
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5162263007?gh_jid=5162263007",
+    "sponsorship": "",
+    "posted": "2026-09-26",
+    "source": "Greenhouse"
   },
   {
     "id": "simplify-710de821-64c1-4cee-91fa-bb55f8498f3f",
@@ -1683,6 +1719,18 @@
       "Remote - US"
     ],
     "url": "https://www.samsara.com/company/careers/roles/7717258?gh_jid=7717258",
+    "sponsorship": "",
+    "posted": "2026-09-25",
+    "source": "Greenhouse"
+  },
+  {
+    "id": "gh-andurilindustries-5236601007",
+    "company": "Anduril",
+    "title": "Winter 2027 Mechanical Engineer Co-op",
+    "locations": [
+      "Ashville, Ohio, United States; Quincy, Massachusetts, United States"
+    ],
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236601007?gh_jid=5236601007",
     "sponsorship": "",
     "posted": "2026-09-25",
     "source": "Greenhouse"
@@ -1877,6 +1925,282 @@
     "sponsorship": "Other",
     "posted": "2026-09-24",
     "source": "SimplifyJobs"
+  },
+  {
+    "id": "gh-andurilindustries-4802172007",
+    "company": "Anduril",
+    "title": "2026 Early Career Electrical Engineer",
+    "locations": [
+      "Costa Mesa, California, United States; Fort Collins, Colorado, United States"
+    ],
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/4802172007?gh_jid=4802172007",
+    "sponsorship": "",
+    "posted": "2026-09-24",
+    "source": "Greenhouse"
+  },
+  {
+    "id": "gh-andurilindustries-5176254007",
+    "company": "Anduril",
+    "title": "2026 Early Career Manufacturing Engineer",
+    "locations": [
+      "Costa Mesa, California, United States; Irvine, California, United States; Santa Ana, California, United States"
+    ],
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5176254007?gh_jid=5176254007",
+    "sponsorship": "",
+    "posted": "2026-09-24",
+    "source": "Greenhouse"
+  },
+  {
+    "id": "gh-andurilindustries-4802167007",
+    "company": "Anduril",
+    "title": "2026 Early Career Mechanical Engineer",
+    "locations": [
+      "Costa Mesa, California, United States"
+    ],
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/4802167007?gh_jid=4802167007",
+    "sponsorship": "",
+    "posted": "2026-09-24",
+    "source": "Greenhouse"
+  },
+  {
+    "id": "gh-andurilindustries-4802146007",
+    "company": "Anduril",
+    "title": "2026 Early Career Software Engineer",
+    "locations": [
+      "Atlanta, Georgia, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Seattle, Washington, United States"
+    ],
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/4802146007?gh_jid=4802146007",
+    "sponsorship": "",
+    "posted": "2026-09-24",
+    "source": "Greenhouse"
+  },
+  {
+    "id": "gh-andurilindustries-5136925007",
+    "company": "Anduril",
+    "title": "2027 Early Career Electrical Engineer",
+    "locations": [
+      "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States"
+    ],
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5136925007?gh_jid=5136925007",
+    "sponsorship": "",
+    "posted": "2026-09-24",
+    "source": "Greenhouse"
+  },
+  {
+    "id": "gh-andurilindustries-5246141007",
+    "company": "Anduril",
+    "title": "2027 Early Career Firmware Engineer",
+    "locations": [
+      "Costa Mesa, California, United States"
+    ],
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5246141007?gh_jid=5246141007",
+    "sponsorship": "",
+    "posted": "2026-09-24",
+    "source": "Greenhouse"
+  },
+  {
+    "id": "gh-andurilindustries-5228868007",
+    "company": "Anduril",
+    "title": "2027 Early Career Flight Software Engineer",
+    "locations": [
+      "Costa Mesa, California, United States"
+    ],
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5228868007?gh_jid=5228868007",
+    "sponsorship": "",
+    "posted": "2026-09-24",
+    "source": "Greenhouse"
+  },
+  {
+    "id": "gh-andurilindustries-5246225007",
+    "company": "Anduril",
+    "title": "2027 Early Career Flight Test Engineer",
+    "locations": [
+      "Costa Mesa, California, United States"
+    ],
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5246225007?gh_jid=5246225007",
+    "sponsorship": "",
+    "posted": "2026-09-24",
+    "source": "Greenhouse"
+  },
+  {
+    "id": "gh-andurilindustries-5236921007",
+    "company": "Anduril",
+    "title": "2027 Early Career Industrial Engineer",
+    "locations": [
+      "Ashville, Ohio, United States"
+    ],
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236921007?gh_jid=5236921007",
+    "sponsorship": "",
+    "posted": "2026-09-24",
+    "source": "Greenhouse"
+  },
+  {
+    "id": "gh-andurilindustries-5136984007",
+    "company": "Anduril",
+    "title": "2027 Early Career Mechanical Engineer",
+    "locations": [
+      "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States"
+    ],
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5136984007?gh_jid=5136984007",
+    "sponsorship": "",
+    "posted": "2026-09-24",
+    "source": "Greenhouse"
+  },
+  {
+    "id": "gh-andurilindustries-5243880007",
+    "company": "Anduril",
+    "title": "Entry Level Systems Engineer, C2 Integration, Clearance Eligible",
+    "locations": [
+      "Costa Mesa, California, United States"
+    ],
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5243880007?gh_jid=5243880007",
+    "sponsorship": "",
+    "posted": "2026-09-24",
+    "source": "Greenhouse"
+  },
+  {
+    "id": "gh-andurilindustries-5241149007",
+    "company": "Anduril",
+    "title": "Entry Level Systems Engineer, C2 Networking, Clearance Eligible",
+    "locations": [
+      "Costa Mesa, California, United States"
+    ],
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5241149007?gh_jid=5241149007",
+    "sponsorship": "",
+    "posted": "2026-09-24",
+    "source": "Greenhouse"
+  },
+  {
+    "id": "gh-andurilindustries-5057206007",
+    "company": "Anduril",
+    "title": "Forward Deployed Engineer, Air Defense (FDE)",
+    "locations": [
+      "Costa Mesa, California, United States"
+    ],
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5057206007?gh_jid=5057206007",
+    "sponsorship": "",
+    "posted": "2026-09-24",
+    "source": "Greenhouse"
+  },
+  {
+    "id": "gh-andurilindustries-5174562007",
+    "company": "Anduril",
+    "title": "Mission Engineer, Air Dominance & Strike, Early Career",
+    "locations": [
+      "Costa Mesa, California, United States"
+    ],
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5174562007?gh_jid=5174562007",
+    "sponsorship": "",
+    "posted": "2026-09-24",
+    "source": "Greenhouse"
+  },
+  {
+    "id": "gh-andurilindustries-5241134007",
+    "company": "Anduril",
+    "title": "New Grad Systems Engineer, C2 Integration, Clearance Eligible",
+    "locations": [
+      "Costa Mesa, California, United States"
+    ],
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5241134007?gh_jid=5241134007",
+    "sponsorship": "",
+    "posted": "2026-09-24",
+    "source": "Greenhouse"
+  },
+  {
+    "id": "gh-andurilindustries-5236565007",
+    "company": "Anduril",
+    "title": "Winter 2027 Electrical Engineer Co-op",
+    "locations": [
+      "Costa Mesa, California, United States; Quincy, Massachusetts, United States"
+    ],
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236565007?gh_jid=5236565007",
+    "sponsorship": "",
+    "posted": "2026-09-24",
+    "source": "Greenhouse"
+  },
+  {
+    "id": "gh-andurilindustries-5236577007",
+    "company": "Anduril",
+    "title": "Winter 2027 EWIS Harness Engineer Co-op",
+    "locations": [
+      "Costa Mesa, California, United States"
+    ],
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236577007?gh_jid=5236577007",
+    "sponsorship": "",
+    "posted": "2026-09-24",
+    "source": "Greenhouse"
+  },
+  {
+    "id": "gh-andurilindustries-5236589007",
+    "company": "Anduril",
+    "title": "Winter 2027 Manufacturing Engineer Co-op",
+    "locations": [
+      "Lexington, Massachusetts, United States; Quincy, Massachusetts, United States"
+    ],
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236589007?gh_jid=5236589007",
+    "sponsorship": "",
+    "posted": "2026-09-24",
+    "source": "Greenhouse"
+  },
+  {
+    "id": "gh-andurilindustries-5236587007",
+    "company": "Anduril",
+    "title": "Winter 2027 Propulsion Engineer Co-op",
+    "locations": [
+      "Costa Mesa, California, United States"
+    ],
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236587007?gh_jid=5236587007",
+    "sponsorship": "",
+    "posted": "2026-09-24",
+    "source": "Greenhouse"
+  },
+  {
+    "id": "gh-andurilindustries-5236563007",
+    "company": "Anduril",
+    "title": "Winter 2027 Software Engineer Co-op",
+    "locations": [
+      "Quincy, Massachusetts, United States"
+    ],
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236563007?gh_jid=5236563007",
+    "sponsorship": "",
+    "posted": "2026-09-24",
+    "source": "Greenhouse"
+  },
+  {
+    "id": "gh-andurilindustries-5236599007",
+    "company": "Anduril",
+    "title": "Winter 2027 Systems Engineer Co-op",
+    "locations": [
+      "Quincy, Massachusetts, United States"
+    ],
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236599007?gh_jid=5236599007",
+    "sponsorship": "",
+    "posted": "2026-09-24",
+    "source": "Greenhouse"
+  },
+  {
+    "id": "gh-andurilindustries-5236583007",
+    "company": "Anduril",
+    "title": "Winter 2027 Test & Evaluation Engineer Co-op",
+    "locations": [
+      "Costa Mesa, California, United States"
+    ],
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236583007?gh_jid=5236583007",
+    "sponsorship": "",
+    "posted": "2026-09-24",
+    "source": "Greenhouse"
+  },
+  {
+    "id": "gh-andurilindustries-5236585007",
+    "company": "Anduril",
+    "title": "Winter 2027 Warhead Engineer Co-op",
+    "locations": [
+      "Costa Mesa, California, United States"
+    ],
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236585007?gh_jid=5236585007",
+    "sponsorship": "",
+    "posted": "2026-09-24",
+    "source": "Greenhouse"
   },
   {
     "id": "lever-palantir-a2e9ab0f-4dd1-4744-92b9-edc7ae393c58",
@@ -2308,18 +2632,6 @@
       "Buffalo, NY"
     ],
     "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Associate-Electrical-Design-Engineer_R-26-20194",
-    "sponsorship": "Other",
-    "posted": "2026-09-18",
-    "source": "SimplifyJobs"
-  },
-  {
-    "id": "simplify-d8c45b15-7f06-40ce-bdda-a337e771a2e6",
-    "company": "Noom",
-    "title": "Agentic Engineer New Grad",
-    "locations": [
-      "Princeton, NJ"
-    ],
-    "url": "https://www.noom.com/careers/job-listings/?gh_jid=8114573",
     "sponsorship": "Other",
     "posted": "2026-09-18",
     "source": "SimplifyJobs"
