@@ -96,6 +96,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4463987792",
+    "company": "IBM",
+    "title": "ELH Software Engineer / Agent Engineer - EDA - Austin 2027",
+    "locations": [
+      "Austin, TX"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4463987792",
+    "sponsorship": "",
+    "posted": "2026-10-03",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4473444460",
     "company": "CACI International Inc",
     "title": "Early Career NASA Space Reactor \u2013 1 Freedom Flight Software Development Engineer",
@@ -120,6 +132,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4466403132",
+    "company": "AssetMark",
+    "title": "Associate Engineer",
+    "locations": [
+      "Charlotte, NC"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4466403132",
+    "sponsorship": "",
+    "posted": "2026-10-03",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4466338010",
     "company": "REI Systems",
     "title": "Associate Software Engineer- Java",
@@ -127,6 +151,42 @@
       "Sterling, VA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4466338010",
+    "sponsorship": "",
+    "posted": "2026-10-03",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4466358564",
+    "company": "HealthStream",
+    "title": "Associate Developer",
+    "locations": [
+      "Nashville, TN"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4466358564",
+    "sponsorship": "",
+    "posted": "2026-10-03",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4456299517",
+    "company": "TSMC",
+    "title": "Software Engineer (New Graduate) - North America Software Center",
+    "locations": [
+      "Vancouver, WA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4456299517",
+    "sponsorship": "",
+    "posted": "2026-10-03",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4475076076",
+    "company": "ServiceNow",
+    "title": "Software Engineer, Core Infrastructure - Moveworks (New Grad)",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4475076076",
     "sponsorship": "",
     "posted": "2026-10-03",
     "source": "LinkedIn"
@@ -268,37 +328,37 @@
     "source": "SimplifyJobs"
   },
   {
-    "id": "linkedin-4438292999",
-    "company": "Confido",
-    "title": "New Grad Software Engineer",
+    "id": "linkedin-4473132980",
+    "company": "Lockheed Martin",
+    "title": "Software Engineer Asc - Early Career",
     "locations": [
-      "New York, NY"
+      "Littleton, CO"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4438292999",
+    "url": "https://www.linkedin.com/jobs/view/4473132980",
     "sponsorship": "",
     "posted": "2026-10-02",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4473509400",
-    "company": "Boston Scientific",
-    "title": "Software Engineer I",
+    "id": "linkedin-4474715608",
+    "company": "National Security Agency",
+    "title": "Software Engineer - Entry Level (MD, TX, CO)",
     "locations": [
-      "Maple Grove, MN"
+      "Fort Meade, MD"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4473509400",
+    "url": "https://www.linkedin.com/jobs/view/4474715608",
     "sponsorship": "",
     "posted": "2026-10-02",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4447003226",
-    "company": "Conduent",
-    "title": "Java Developer (Entry Level)",
+    "id": "linkedin-4473154045",
+    "company": "Lockheed Martin",
+    "title": "Software Engineer - Early Career",
     "locations": [
-      "Atlanta, GA"
+      "Riviera Beach, FL"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4447003226",
+    "url": "https://www.linkedin.com/jobs/view/4473154045",
     "sponsorship": "",
     "posted": "2026-10-02",
     "source": "LinkedIn"
@@ -352,6 +412,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4471132843",
+    "company": "Naval Nuclear Laboratory (FMP)",
+    "title": "Software Engineer, Entry Level",
+    "locations": [
+      "Niskayuna, NY"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4471132843",
+    "sponsorship": "",
+    "posted": "2026-10-02",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4401737123",
     "company": "Intuit",
     "title": "Software Engineer 1",
@@ -376,61 +448,37 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4471132843",
-    "company": "Naval Nuclear Laboratory (FMP)",
-    "title": "Software Engineer, Entry Level",
+    "id": "linkedin-4474740321",
+    "company": "Amazon",
+    "title": "Software Development Engineer, ROBOTICS, Early Career - 2027",
     "locations": [
-      "Niskayuna, NY"
+      "Bellevue, WA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4471132843",
+    "url": "https://www.linkedin.com/jobs/view/4474740321",
     "sponsorship": "",
     "posted": "2026-10-02",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4473154045",
-    "company": "Lockheed Martin",
-    "title": "Software Engineer - Early Career",
+    "id": "linkedin-4447003226",
+    "company": "Conduent",
+    "title": "Java Developer (Entry Level)",
     "locations": [
-      "Riviera Beach, FL"
+      "Atlanta, GA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4473154045",
+    "url": "https://www.linkedin.com/jobs/view/4447003226",
     "sponsorship": "",
     "posted": "2026-10-02",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4473132980",
-    "company": "Lockheed Martin",
-    "title": "Software Engineer Asc - Early Career",
+    "id": "linkedin-4473509400",
+    "company": "Boston Scientific",
+    "title": "Software Engineer I",
     "locations": [
-      "Littleton, CO"
+      "Maple Grove, MN"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4473132980",
-    "sponsorship": "",
-    "posted": "2026-10-02",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4473359325",
-    "company": "National Security Agency/Central Security Service",
-    "title": "Software Engineer - Entry Level (MD TX CO)",
-    "locations": [
-      "Denver, CO"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4473359325",
-    "sponsorship": "",
-    "posted": "2026-10-02",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4474715608",
-    "company": "National Security Agency",
-    "title": "Software Engineer - Entry Level (MD, TX, CO)",
-    "locations": [
-      "Fort Meade, MD"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4474715608",
+    "url": "https://www.linkedin.com/jobs/view/4473509400",
     "sponsorship": "",
     "posted": "2026-10-02",
     "source": "LinkedIn"
@@ -833,37 +881,25 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4462060032",
-    "company": "Stripe",
-    "title": "Software Engineer, New Grad",
+    "id": "linkedin-4465332476",
+    "company": "General Motors",
+    "title": "oftware Engineer, AV Launch \u2013 Early Career",
     "locations": [
-      "Seattle, WA"
+      "Sunnyvale, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4462060032",
+    "url": "https://www.linkedin.com/jobs/view/4465332476",
     "sponsorship": "",
     "posted": "2026-10-01",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4462058112",
-    "company": "Stripe",
-    "title": "Software Engineer, New Grad",
+    "id": "linkedin-4434143445",
+    "company": "Palantir Technologies",
+    "title": "Software Engineer, New Grad - Defense",
     "locations": [
-      "San Francisco, CA"
+      "New York, NY"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4462058112",
-    "sponsorship": "",
-    "posted": "2026-10-01",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4448277614",
-    "company": "TikTok",
-    "title": "Backend Software Engineer Graduate (TikTok-PGC-Digital Content Center) - 2027 Start",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4448277614",
+    "url": "https://www.linkedin.com/jobs/view/4434143445",
     "sponsorship": "",
     "posted": "2026-10-01",
     "source": "LinkedIn"
@@ -876,18 +912,6 @@
       "Plano, TX"
     ],
     "url": "https://www.linkedin.com/jobs/view/4472825269",
-    "sponsorship": "",
-    "posted": "2026-10-01",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4465332476",
-    "company": "General Motors",
-    "title": "oftware Engineer, AV Launch \u2013 Early Career",
-    "locations": [
-      "Sunnyvale, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4465332476",
     "sponsorship": "",
     "posted": "2026-10-01",
     "source": "LinkedIn"
@@ -917,13 +941,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4461919761",
-    "company": "Morgan Stanley",
-    "title": "Associate, Software Engineer",
+    "id": "linkedin-4456373787",
+    "company": "SpaceX",
+    "title": "New Graduate Engineer, Software (Application Software)",
     "locations": [
-      "New York, NY"
+      "Hawthorne, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4461919761",
+    "url": "https://www.linkedin.com/jobs/view/4456373787",
     "sponsorship": "",
     "posted": "2026-10-01",
     "source": "LinkedIn"
@@ -953,18 +977,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4474126131",
-    "company": "Northrop Grumman",
-    "title": "2027 - Associate Software Engineer - McClellan CA",
-    "locations": [
-      "McClellan Park, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4474126131",
-    "sponsorship": "",
-    "posted": "2026-10-01",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4434136634",
     "company": "Palantir Technologies",
     "title": "Software Engineer, New Grad",
@@ -989,25 +1001,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4456373787",
-    "company": "SpaceX",
-    "title": "New Graduate Engineer, Software (Application Software)",
+    "id": "linkedin-4465620059",
+    "company": "Cursor",
+    "title": "Software Engineer, New Grad 2027",
     "locations": [
-      "Hawthorne, CA"
+      "New York, United States"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4456373787",
-    "sponsorship": "",
-    "posted": "2026-10-01",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4434143445",
-    "company": "Palantir Technologies",
-    "title": "Software Engineer, New Grad - Defense",
-    "locations": [
-      "New York, NY"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4434143445",
+    "url": "https://www.linkedin.com/jobs/view/4465620059",
     "sponsorship": "",
     "posted": "2026-10-01",
     "source": "LinkedIn"
@@ -1471,18 +1471,6 @@
     "source": "SimplifyJobs"
   },
   {
-    "id": "simplify-5e53dcd6-2301-48d9-8010-f0ddb4a2a434",
-    "company": "Northrop Grumman",
-    "title": "Associate Software Engineer - McClellan CA",
-    "locations": [
-      "McClellan Park, CA"
-    ],
-    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-McClellan/XMLNAME-2027---Associate-Software-Engineer---McClellan-CA_R10253394",
-    "sponsorship": "Other",
-    "posted": "2026-09-29",
-    "source": "SimplifyJobs"
-  },
-  {
     "id": "simplify-9b3fedd9-3970-4a58-a273-097e63969794",
     "company": "Micron Technology",
     "title": "HBM SoC Design Engineer/Architect New Grad - HBM SoC Design Engineer/Architect",
@@ -1591,18 +1579,6 @@
       "Santa Clara, CA"
     ],
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--DGX-Cloud-AI-Infrastructure---New-College-Grad-2026_JR2026477",
-    "sponsorship": "Other",
-    "posted": "2026-09-29",
-    "source": "SimplifyJobs"
-  },
-  {
-    "id": "simplify-122de6b6-a5fb-47fe-a89c-8b620399e46b",
-    "company": "Applied Materials",
-    "title": "System Engineer New Grad - Material Characterization",
-    "locations": [
-      "Santa Clara, CA"
-    ],
-    "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/New-College-Grad-System-Engineer--Material-Characterization--PhD---Santa-Clara--CA-_R2629147",
     "sponsorship": "Other",
     "posted": "2026-09-29",
     "source": "SimplifyJobs"
