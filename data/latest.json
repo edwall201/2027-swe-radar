@@ -36,30 +36,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4478018338",
-    "company": "Cboe Global Markets",
-    "title": "Associate Software Engineer, Web",
-    "locations": [
-      "Kansas City, MO"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4478018338",
-    "sponsorship": "",
-    "posted": "2026-10-10",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4450365978",
-    "company": "Freeform",
-    "title": "Software Engineer (New Grad December 2026)",
-    "locations": [
-      "Los Angeles, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4450365978",
-    "sponsorship": "",
-    "posted": "2026-10-10",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4453740743",
     "company": "Applied Intuition",
     "title": "Embedded Software Engineer - New Grad (2027)",
@@ -96,25 +72,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4467980655",
-    "company": "Collins Aerospace",
-    "title": "Software Engineer I (Onsite)",
+    "id": "linkedin-4450365978",
+    "company": "Freeform",
+    "title": "Software Engineer (New Grad December 2026)",
     "locations": [
-      "St. Petersburg, FL"
+      "Los Angeles, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4467980655",
-    "sponsorship": "",
-    "posted": "2026-10-10",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4478066503",
-    "company": "Leon Recruitment",
-    "title": "Junior Software Engineer",
-    "locations": [
-      "Miami, FL"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4478066503",
+    "url": "https://www.linkedin.com/jobs/view/4450365978",
     "sponsorship": "",
     "posted": "2026-10-10",
     "source": "LinkedIn"
@@ -127,6 +91,18 @@
       "Jacksonville, FL"
     ],
     "url": "https://www.linkedin.com/jobs/view/4468078979",
+    "sponsorship": "",
+    "posted": "2026-10-10",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4467980655",
+    "company": "Collins Aerospace",
+    "title": "Software Engineer I (Onsite)",
+    "locations": [
+      "St. Petersburg, FL"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4467980655",
     "sponsorship": "",
     "posted": "2026-10-10",
     "source": "LinkedIn"
@@ -151,6 +127,42 @@
       "Lone Tree, CO"
     ],
     "url": "https://www.linkedin.com/jobs/view/4475280068",
+    "sponsorship": "",
+    "posted": "2026-10-10",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4478066503",
+    "company": "Leon Recruitment",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "Miami, FL"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4478066503",
+    "sponsorship": "",
+    "posted": "2026-10-10",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4478018338",
+    "company": "Cboe Global Markets",
+    "title": "Associate Software Engineer, Web",
+    "locations": [
+      "Kansas City, MO"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4478018338",
+    "sponsorship": "",
+    "posted": "2026-10-10",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4478092152",
+    "company": "BD",
+    "title": "Software Engineer I",
+    "locations": [
+      "Sparks, MD"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4478092152",
     "sponsorship": "",
     "posted": "2026-10-10",
     "source": "LinkedIn"
@@ -578,25 +590,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4477879368",
-    "company": "Choice Hotels International",
-    "title": "Software Engineer 1 \u2013 Finance Technology",
+    "id": "linkedin-4468876013",
+    "company": "Stripe",
+    "title": "Software Engineer, Early Career \u2014 Immediate Start",
     "locations": [
-      "Scottsdale, AZ"
+      "Seattle, WA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4477879368",
-    "sponsorship": "",
-    "posted": "2026-10-09",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4475264262",
-    "company": "TalentHop",
-    "title": "Software Engineer, New Grad | Remote - Full-time",
-    "locations": [
-      "United States"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4475264262",
+    "url": "https://www.linkedin.com/jobs/view/4468876013",
     "sponsorship": "",
     "posted": "2026-10-09",
     "source": "LinkedIn"
@@ -626,13 +626,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4468876013",
-    "company": "Stripe",
-    "title": "Software Engineer, Early Career \u2014 Immediate Start",
+    "id": "linkedin-4476854304",
+    "company": "GlobalFoundries",
+    "title": "Software Engineer (2027 New College Graduate)",
     "locations": [
-      "Seattle, WA"
+      "Austin, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4468876013",
+    "url": "https://www.linkedin.com/jobs/view/4476854304",
     "sponsorship": "",
     "posted": "2026-10-09",
     "source": "LinkedIn"
@@ -645,6 +645,18 @@
       "San Francisco, CA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4438463495",
+    "sponsorship": "",
+    "posted": "2026-10-09",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4477879368",
+    "company": "Choice Hotels International",
+    "title": "Software Engineer 1 \u2013 Finance Technology",
+    "locations": [
+      "Scottsdale, AZ"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4477879368",
     "sponsorship": "",
     "posted": "2026-10-09",
     "source": "LinkedIn"
@@ -674,13 +686,25 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4477890122",
+    "id": "linkedin-4477879693",
     "company": "Radiance Technologies",
     "title": "Junior Software Engineer",
     "locations": [
       "Dayton, OH"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4477890122",
+    "url": "https://www.linkedin.com/jobs/view/4477879693",
+    "sponsorship": "",
+    "posted": "2026-10-09",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4475228307",
+    "company": "Lockheed Martin",
+    "title": "Software Engineer Asc - Early Career",
+    "locations": [
+      "Littleton, CO"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4475228307",
     "sponsorship": "",
     "posted": "2026-10-09",
     "source": "LinkedIn"
@@ -1096,18 +1120,6 @@
     "source": "SimplifyJobs"
   },
   {
-    "id": "linkedin-4477648000",
-    "company": "Forage",
-    "title": "New Grad, Software Engineer",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4477648000",
-    "sponsorship": "",
-    "posted": "2026-10-08",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4475740088",
     "company": "Chalk",
     "title": "Software Engineer - New Grad",
@@ -1156,25 +1168,25 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4475714525",
-    "company": "IXL Learning",
-    "title": "Software Engineer, New Grad",
+    "id": "linkedin-4446630171",
+    "company": "TikTok USDS Joint Venture",
+    "title": "Software Engineer Graduate (Tech and Product, USDS) - 2027 Start",
     "locations": [
-      "San Mateo, CA"
+      "San Jose, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4475714525",
+    "url": "https://www.linkedin.com/jobs/view/4446630171",
     "sponsorship": "",
     "posted": "2026-10-08",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4477426034",
-    "company": "ASSYST",
-    "title": "Full Stack Developer (Entry Level)",
+    "id": "linkedin-4474845011",
+    "company": "Applied Materials",
+    "title": "New College Grad Software Engineer I (Bachelors - Santa Clara, CA)",
     "locations": [
-      "Sterling, VA"
+      "Santa Clara, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4477426034",
+    "url": "https://www.linkedin.com/jobs/view/4474845011",
     "sponsorship": "",
     "posted": "2026-10-08",
     "source": "LinkedIn"
@@ -1187,6 +1199,18 @@
       "Chicago, IL"
     ],
     "url": "https://www.linkedin.com/jobs/view/4448304463",
+    "sponsorship": "",
+    "posted": "2026-10-08",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4476977476",
+    "company": "Dexcom",
+    "title": "Software Development Engineer 1",
+    "locations": [
+      "San Diego, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4476977476",
     "sponsorship": "",
     "posted": "2026-10-08",
     "source": "LinkedIn"
@@ -1216,18 +1240,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4446630171",
-    "company": "TikTok USDS Joint Venture",
-    "title": "Software Engineer Graduate (Tech and Product, USDS) - 2027 Start",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4446630171",
-    "sponsorship": "",
-    "posted": "2026-10-08",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4459617796",
     "company": "Garmin",
     "title": "Software Engineer 1 - Aviation Backend Web",
@@ -1240,18 +1252,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4476946713",
-    "company": "Centric Software",
-    "title": "Software Engineer 1",
-    "locations": [
-      "Campbell, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4476946713",
-    "sponsorship": "",
-    "posted": "2026-10-08",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4458746537",
     "company": "Amazon",
     "title": "Software Development Engineer, Amazon Leo, Early Career - 2026",
@@ -1259,18 +1259,6 @@
       "Los Angeles, CA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4458746537",
-    "sponsorship": "",
-    "posted": "2026-10-08",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4476977476",
-    "company": "Dexcom",
-    "title": "Software Development Engineer 1",
-    "locations": [
-      "San Diego, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4476977476",
     "sponsorship": "",
     "posted": "2026-10-08",
     "source": "LinkedIn"
@@ -1300,30 +1288,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4459377249",
-    "company": "Rush University Medical Center",
-    "title": "Forward Deployed Engineer \u2013 AI & Healthcare Technology-27108",
-    "locations": [
-      "Chicago, IL"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4459377249",
-    "sponsorship": "",
-    "posted": "2026-10-08",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4474838802",
-    "company": "scalr",
-    "title": "Forward Deployed Engineer - AI",
-    "locations": [
-      "New York City Metropolitan Area"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4474838802",
-    "sponsorship": "",
-    "posted": "2026-10-08",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4392023585",
     "company": "Avathon",
     "title": "Forward Deployed AI Engineer",
@@ -1336,37 +1300,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4477424061",
-    "company": "FullStack",
-    "title": "Forward Deployed Engineer (TypeScript + AI) - Remote - USA",
+    "id": "linkedin-4459377249",
+    "company": "Rush University Medical Center",
+    "title": "Forward Deployed Engineer \u2013 AI & Healthcare Technology-27108",
     "locations": [
-      "Baton Rouge, LA"
+      "Chicago, IL"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4477424061",
-    "sponsorship": "",
-    "posted": "2026-10-08",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4475963663",
-    "company": "Sage Recruiting Inc.",
-    "title": "Forward Deployed Engineer",
-    "locations": [
-      "United States"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4475963663",
-    "sponsorship": "",
-    "posted": "2026-10-08",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4468314575",
-    "company": "TRM Labs",
-    "title": "Forward Deployed Engineer - US National Security",
-    "locations": [
-      "Washington, DC"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4468314575",
+    "url": "https://www.linkedin.com/jobs/view/4459377249",
     "sponsorship": "",
     "posted": "2026-10-08",
     "source": "LinkedIn"
@@ -1760,18 +1700,6 @@
     "sponsorship": "",
     "posted": "2026-10-07",
     "source": "Greenhouse"
-  },
-  {
-    "id": "linkedin-4474488373",
-    "company": "Chalk",
-    "title": "Software Engineer - New Grad",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4474488373",
-    "sponsorship": "",
-    "posted": "2026-10-07",
-    "source": "LinkedIn"
   },
   {
     "id": "simplify-55cfdca4-f693-4680-abca-5c927e3394e4",
