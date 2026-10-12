@@ -48,30 +48,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4438453689",
-    "company": "Netic",
-    "title": "Forward Deployed Engineer (FDE) - New Grad - 2026-2027",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4438453689",
-    "sponsorship": "",
-    "posted": "2026-10-11",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4354431733",
-    "company": "Picogrid",
-    "title": "Forward Deployed Engineer",
-    "locations": [
-      "El Segundo, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4354431733",
-    "sponsorship": "",
-    "posted": "2026-10-11",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4478302592",
     "company": "FlowGen Labs",
     "title": "Forward Deployed Engineer",
@@ -91,6 +67,30 @@
       "United States"
     ],
     "url": "https://www.linkedin.com/jobs/view/4447563359",
+    "sponsorship": "",
+    "posted": "2026-10-11",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4438453689",
+    "company": "Netic",
+    "title": "Forward Deployed Engineer (FDE) - New Grad - 2026-2027",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4438453689",
+    "sponsorship": "",
+    "posted": "2026-10-11",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4475661641",
+    "company": "Legora",
+    "title": "Junior/Mid-level Forward Deployed Engineer",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4475661641",
     "sponsorship": "",
     "posted": "2026-10-11",
     "source": "LinkedIn"
@@ -204,6 +204,30 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4475272446",
+    "company": "Sierra Nevada Corporation",
+    "title": "Software Engineer I",
+    "locations": [
+      "Dayton, OH"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4475272446",
+    "sponsorship": "",
+    "posted": "2026-10-10",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4449138344",
+    "company": "Roblox",
+    "title": "[2027] Software Engineer, Early Career",
+    "locations": [
+      "San Mateo, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4449138344",
+    "sponsorship": "",
+    "posted": "2026-10-10",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4450365978",
     "company": "Freeform",
     "title": "Software Engineer (New Grad December 2026)",
@@ -228,13 +252,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4449138344",
-    "company": "Roblox",
-    "title": "[2027] Software Engineer, Early Career",
+    "id": "linkedin-4475293639",
+    "company": "MANTECH",
+    "title": "Junior Software Developer",
     "locations": [
-      "San Mateo, CA"
+      "Miami, FL"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4449138344",
+    "url": "https://www.linkedin.com/jobs/view/4475293639",
     "sponsorship": "",
     "posted": "2026-10-10",
     "source": "LinkedIn"
@@ -674,18 +698,6 @@
     "source": "Greenhouse"
   },
   {
-    "id": "linkedin-4474852988",
-    "company": "NetJets",
-    "title": "Software Engineer, Associate (NJUS)",
-    "locations": [
-      "Columbus, OH"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4474852988",
-    "sponsorship": "",
-    "posted": "2026-10-09",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4468876013",
     "company": "Stripe",
     "title": "Software Engineer, Early Career \u2014 Immediate Start",
@@ -705,6 +717,18 @@
       "San Francisco, CA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4468875017",
+    "sponsorship": "",
+    "posted": "2026-10-09",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4438446984",
+    "company": "Netic",
+    "title": "Software Engineer (Agent Platform) - New Grad - 2026-2027",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4438446984",
     "sponsorship": "",
     "posted": "2026-10-09",
     "source": "LinkedIn"
@@ -746,13 +770,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4438446984",
-    "company": "Netic",
-    "title": "Software Engineer (Agent Platform) - New Grad - 2026-2027",
+    "id": "linkedin-4475254620",
+    "company": "IBM",
+    "title": "Entry Level Software Developer 2027 - SAN JOSE",
     "locations": [
-      "San Francisco, CA"
+      "San Jose, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4438446984",
+    "url": "https://www.linkedin.com/jobs/view/4475254620",
     "sponsorship": "",
     "posted": "2026-10-09",
     "source": "LinkedIn"
@@ -770,18 +794,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4475254620",
-    "company": "IBM",
-    "title": "Entry Level Software Developer 2027 - SAN JOSE",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4475254620",
-    "sponsorship": "",
-    "posted": "2026-10-09",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4476850582",
     "company": "Vizient",
     "title": "Associate Software Engineer",
@@ -794,18 +806,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4477872865",
-    "company": "Radiance Technologies",
-    "title": "Junior Software Engineer",
-    "locations": [
-      "Dayton, OH"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4477872865",
-    "sponsorship": "",
-    "posted": "2026-10-09",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4477879693",
     "company": "Radiance Technologies",
     "title": "Junior Software Engineer",
@@ -813,6 +813,18 @@
       "Dayton, OH"
     ],
     "url": "https://www.linkedin.com/jobs/view/4477879693",
+    "sponsorship": "",
+    "posted": "2026-10-09",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4474852988",
+    "company": "NetJets",
+    "title": "Software Engineer, Associate (NJUS)",
+    "locations": [
+      "Columbus, OH"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4474852988",
     "sponsorship": "",
     "posted": "2026-10-09",
     "source": "LinkedIn"
@@ -854,6 +866,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4477884136",
+    "company": "Collins Aerospace",
+    "title": "Software Engineer I (Onsite)",
+    "locations": [
+      "Richardson, TX"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4477884136",
+    "sponsorship": "",
+    "posted": "2026-10-09",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4474859672",
     "company": "Sierra Nevada Corporation",
     "title": "Software Engineer I",
@@ -861,18 +885,6 @@
       "Lone Tree, CO"
     ],
     "url": "https://www.linkedin.com/jobs/view/4474859672",
-    "sponsorship": "",
-    "posted": "2026-10-09",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4478062259",
-    "company": "Radiance Technologies",
-    "title": "Junior Software Engineer with Security Clearance",
-    "locations": [
-      "Dayton, OH"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4478062259",
     "sponsorship": "",
     "posted": "2026-10-09",
     "source": "LinkedIn"
@@ -1034,18 +1046,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4457999939",
-    "company": "LiveKit",
-    "title": "Forward Deployed Engineer, Spanish/English",
-    "locations": [
-      "Miami, FL"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4457999939",
-    "sponsorship": "",
-    "posted": "2026-10-09",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4476276018",
     "company": "Smartcat",
     "title": "Forward Deployed Engineer (US)",
@@ -1053,6 +1053,18 @@
       "United States"
     ],
     "url": "https://www.linkedin.com/jobs/view/4476276018",
+    "sponsorship": "",
+    "posted": "2026-10-09",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4419669931",
+    "company": "TENEX.AI",
+    "title": "Forward Deployed AI Engineer",
+    "locations": [
+      "Sarasota, FL"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4419669931",
     "sponsorship": "",
     "posted": "2026-10-09",
     "source": "LinkedIn"
@@ -1346,42 +1358,6 @@
     "sponsorship": "Other",
     "posted": "2026-10-08",
     "source": "SimplifyJobs"
-  },
-  {
-    "id": "linkedin-4474840946",
-    "company": "Arch",
-    "title": "Software Engineer | Early Careers, 2027 Start",
-    "locations": [
-      "New York, NY"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4474840946",
-    "sponsorship": "",
-    "posted": "2026-10-08",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4477458958",
-    "company": "BMO U.S.",
-    "title": "Software Developer ( Early Career )-15",
-    "locations": [
-      "Irving, TX"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4477458958",
-    "sponsorship": "",
-    "posted": "2026-10-08",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4477478177",
-    "company": "The SeventhHire LLC",
-    "title": "Forward Deployed Engineer",
-    "locations": [
-      "Chicago, IL"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4477478177",
-    "sponsorship": "",
-    "posted": "2026-10-08",
-    "source": "LinkedIn"
   },
   {
     "id": "simplify-a4191e18-6043-43f5-86de-22a03e3a89c1",
