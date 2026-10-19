@@ -1,5 +1,17 @@
 [
   {
+    "id": "simplify-22a0a05d-ff1a-4abe-a1be-ef55d7b01fa9",
+    "company": "VTG",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "Hanover, MD"
+    ],
+    "url": "https://careers.vtgdefense.com/jobs/9669?icims=1",
+    "sponsorship": "Other",
+    "posted": "2026-10-18",
+    "source": "SimplifyJobs"
+  },
+  {
     "id": "linkedin-4427579543",
     "company": "ReliaQuest",
     "title": "Associate Software Engineer",
@@ -31,6 +43,18 @@
       "New York, NY"
     ],
     "url": "https://www.linkedin.com/jobs/view/4462369311",
+    "sponsorship": "",
+    "posted": "2026-10-18",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4451251861",
+    "company": "IBM",
+    "title": "Associate Full Stack Developer 2027 - Digital Product",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4451251861",
     "sponsorship": "",
     "posted": "2026-10-18",
     "source": "LinkedIn"
@@ -84,18 +108,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4451251861",
-    "company": "IBM",
-    "title": "Associate Full Stack Developer 2027 - Digital Product",
-    "locations": [
-      "Chicago, IL"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4451251861",
-    "sponsorship": "",
-    "posted": "2026-10-18",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4453791036",
     "company": "Twitch",
     "title": "Software Engineer I, Payments",
@@ -103,6 +115,18 @@
       "San Francisco, CA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4453791036",
+    "sponsorship": "",
+    "posted": "2026-10-18",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4479952030",
+    "company": "Fonzi AI",
+    "title": "Forward Deployed Engineer",
+    "locations": [
+      "New York City Metropolitan Area"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4479952030",
     "sponsorship": "",
     "posted": "2026-10-18",
     "source": "LinkedIn"
@@ -127,6 +151,18 @@
       "San Francisco, CA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4480864729",
+    "sponsorship": "",
+    "posted": "2026-10-18",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4478228844",
+    "company": "Deel",
+    "title": "Forward Deployed Engineer - Akai",
+    "locations": [
+      "United States"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4478228844",
     "sponsorship": "",
     "posted": "2026-10-18",
     "source": "LinkedIn"
@@ -336,18 +372,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4479699234",
-    "company": "Fonzi AI",
-    "title": "Forward Deployed Engineer",
-    "locations": [
-      "New York City Metropolitan Area"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4479699234",
-    "sponsorship": "",
-    "posted": "2026-10-17",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4443795960",
     "company": "Deloitte",
     "title": "Palantir Associate Forward Deployed Engineer - GPS",
@@ -403,18 +427,6 @@
       "New York, NY"
     ],
     "url": "https://www.linkedin.com/jobs/view/4440117511",
-    "sponsorship": "",
-    "posted": "2026-10-17",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4443900816",
-    "company": "Deloitte",
-    "title": "Palantir Associate Forward Deployed Engineer - GPS",
-    "locations": [
-      "Chicago, IL"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4443900816",
     "sponsorship": "",
     "posted": "2026-10-17",
     "source": "LinkedIn"
@@ -765,6 +777,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4480511592",
+    "company": "T-Mobile",
+    "title": "Associate Engineer, Software - Mobile App Development",
+    "locations": [
+      "Frisco, TX"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4480511592",
+    "sponsorship": "",
+    "posted": "2026-10-16",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4479381952",
     "company": "Eccalon, LLC",
     "title": "Junior Software Engineer",
@@ -789,25 +813,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4477703205",
+    "id": "linkedin-4477399384",
     "company": "Lockheed Martin",
     "title": "Software Engineer Asc - Early Career",
     "locations": [
       "King of Prussia, PA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4477703205",
-    "sponsorship": "",
-    "posted": "2026-10-16",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4480511592",
-    "company": "T-Mobile",
-    "title": "Associate Engineer, Software - Mobile App Development",
-    "locations": [
-      "Frisco, TX"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4480511592",
+    "url": "https://www.linkedin.com/jobs/view/4477399384",
     "sponsorship": "",
     "posted": "2026-10-16",
     "source": "LinkedIn"
@@ -861,6 +873,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4477703205",
+    "company": "Lockheed Martin",
+    "title": "Software Engineer Asc - Early Career",
+    "locations": [
+      "King of Prussia, PA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4477703205",
+    "sponsorship": "",
+    "posted": "2026-10-16",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4463351090",
     "company": "Amazon",
     "title": "Software Development Engineer, Amazon Dedicated Cloud, Early Career - 2026, Amazon Dedicated Cloud (ADC)",
@@ -897,18 +921,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4480311282",
-    "company": "Booz Allen Hamilton",
-    "title": "Forward Deployed Engineer",
-    "locations": [
-      "Washington, DC"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4480311282",
-    "sponsorship": "",
-    "posted": "2026-10-16",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4480318015",
     "company": "Booz Allen Hamilton",
     "title": "Forward Deployed Engineer",
@@ -940,18 +952,6 @@
       "Redwood City, CA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4479383842",
-    "sponsorship": "",
-    "posted": "2026-10-16",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4480378126",
-    "company": "MeeBoss",
-    "title": "Forward Deployed Engineer",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4480378126",
     "sponsorship": "",
     "posted": "2026-10-16",
     "source": "LinkedIn"
