@@ -1,5 +1,65 @@
 [
   {
+    "id": "simplify-f0af7b08-4219-47f9-bdb7-9ff2e900dcc8",
+    "company": "Amazon",
+    "title": "Software Development Engineer 1 - AI/ML Network Infrastructure",
+    "locations": [
+      "Cupertino, CA"
+    ],
+    "url": "https://amazon.jobs/en/jobs/10490741/software-development-engineer-i-ai-ml-network-infrastructure-annapurna-labs",
+    "sponsorship": "Other",
+    "posted": "2026-10-22",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "linkedin-4480003078",
+    "company": "Johns Hopkins Applied Physics Laboratory",
+    "title": "2027 Graduate - Software Engineer - Applications, Analysis, and Services Group",
+    "locations": [
+      "Laurel, MD"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4480003078",
+    "sponsorship": "",
+    "posted": "2026-10-22",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4481187219",
+    "company": "Twitch",
+    "title": "Software Engineer I",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4481187219",
+    "sponsorship": "",
+    "posted": "2026-10-22",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4481315075",
+    "company": "Emonics LLC",
+    "title": "Associate Software Engineer",
+    "locations": [
+      "Jacksonville, FL"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4481315075",
+    "sponsorship": "",
+    "posted": "2026-10-22",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4479480768",
+    "company": "PenFed Credit Union",
+    "title": "Forward Deployed Engineer, AI Agentic Delivery",
+    "locations": [
+      "Washington DC-Baltimore Area"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4479480768",
+    "sponsorship": "",
+    "posted": "2026-10-22",
+    "source": "LinkedIn"
+  },
+  {
     "id": "simplify-26d84509-a16b-4556-99f7-18329fa61191",
     "company": "Amazon",
     "title": "Software Development Engineer 1 - AI/ML Network Infrastructure",
@@ -700,18 +760,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4482182262",
-    "company": "Collins Aerospace",
-    "title": "Software Engineer I (Onsite)",
-    "locations": [
-      "Fulton, MD"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4482182262",
-    "sponsorship": "",
-    "posted": "2026-10-21",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4417513151",
     "company": "Eccalon, LLC",
     "title": "Junior Software Engineer - onsite",
@@ -719,6 +767,18 @@
       "Detroit, MI"
     ],
     "url": "https://www.linkedin.com/jobs/view/4417513151",
+    "sponsorship": "",
+    "posted": "2026-10-21",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4481157244",
+    "company": "Ashby",
+    "title": "Software Engineer \u2013 2027 Graduate Program (August Start)",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4481157244",
     "sponsorship": "",
     "posted": "2026-10-21",
     "source": "LinkedIn"
@@ -743,6 +803,18 @@
       "Redwood City, CA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4479441664",
+    "sponsorship": "",
+    "posted": "2026-10-21",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4479435793",
+    "company": "FDE Times",
+    "title": "Forward Deployed Engineer - Federal, New Grad 2027",
+    "locations": [
+      "Tysons Corner, VA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4479435793",
     "sponsorship": "",
     "posted": "2026-10-21",
     "source": "LinkedIn"
@@ -820,13 +892,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4475895440",
-    "company": "Resmed",
-    "title": "Associate Android Developer",
+    "id": "linkedin-4482182262",
+    "company": "Collins Aerospace",
+    "title": "Software Engineer I (Onsite)",
     "locations": [
-      "San Diego, CA"
+      "Fulton, MD"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4475895440",
+    "url": "https://www.linkedin.com/jobs/view/4482182262",
     "sponsorship": "",
     "posted": "2026-10-21",
     "source": "LinkedIn"
@@ -848,7 +920,7 @@
     "company": "Chewy",
     "title": "Software Engineer I",
     "locations": [
-      "Boston, MA"
+      "Plantation, FL"
     ],
     "url": "https://www.linkedin.com/jobs/view/4482151999",
     "sponsorship": "",
@@ -863,18 +935,6 @@
       "Chicago, IL"
     ],
     "url": "https://www.linkedin.com/jobs/view/4436261665",
-    "sponsorship": "",
-    "posted": "2026-10-21",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4482024900",
-    "company": "T-Mobile",
-    "title": "Associate Engineer, Software - Mobile App Development",
-    "locations": [
-      "Bellevue, WA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4482024900",
     "sponsorship": "",
     "posted": "2026-10-21",
     "source": "LinkedIn"
@@ -935,6 +995,30 @@
       "San Francisco, CA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4452286868",
+    "sponsorship": "",
+    "posted": "2026-10-21",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4479435808",
+    "company": "FDE Times",
+    "title": "Forward Deployed Engineer, Enterprise AI",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4479435808",
+    "sponsorship": "",
+    "posted": "2026-10-21",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4479435816",
+    "company": "FDE Times",
+    "title": "Forward Deployed Engineer - Europe",
+    "locations": [
+      "Southern, WV"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4479435816",
     "sponsorship": "",
     "posted": "2026-10-21",
     "source": "LinkedIn"
@@ -1265,18 +1349,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4481742787",
-    "company": "Mimecast",
-    "title": "Software Engineer I",
-    "locations": [
-      "Minneapolis, MN"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4481742787",
-    "sponsorship": "",
-    "posted": "2026-10-20",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4361680893",
     "company": "General Dynamics Information Technology",
     "title": "Junior Software Developer (Active TS/SCI with Poly Required)",
@@ -1337,6 +1409,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4478686623",
+    "company": "Lockheed Martin",
+    "title": "Software Engineer Asc - Early Career",
+    "locations": [
+      "Herndon, VA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4478686623",
+    "sponsorship": "",
+    "posted": "2026-10-20",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4351877495",
     "company": "Medpace",
     "title": "Junior Software Engineer",
@@ -1361,18 +1445,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4478691348",
-    "company": "Lockheed Martin",
-    "title": "Software Engineer Asc - Early Career",
-    "locations": [
-      "Herndon, VA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4478691348",
-    "sponsorship": "",
-    "posted": "2026-10-20",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4481563708",
     "company": "Amazon",
     "title": "Software Development Engineer, Early Career - 2027 (US)",
@@ -1385,6 +1457,30 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4481570393",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Early Career - 2027 (US)",
+    "locations": [
+      "Austin, TX"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4481570393",
+    "sponsorship": "",
+    "posted": "2026-10-20",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4481742787",
+    "company": "Mimecast",
+    "title": "Software Engineer I, Front End",
+    "locations": [
+      "Minneapolis, MN"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4481742787",
+    "sponsorship": "",
+    "posted": "2026-10-20",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4481558846",
     "company": "Amazon",
     "title": "Software Development Engineer, Early Career - 2027 (US)",
@@ -1392,6 +1488,18 @@
       "Santa Clara, CA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4481558846",
+    "sponsorship": "",
+    "posted": "2026-10-20",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4478691348",
+    "company": "Lockheed Martin",
+    "title": "Software Engineer Asc - Early Career",
+    "locations": [
+      "Herndon, VA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4478691348",
     "sponsorship": "",
     "posted": "2026-10-20",
     "source": "LinkedIn"
@@ -1464,30 +1572,6 @@
       "New York, United States"
     ],
     "url": "https://www.linkedin.com/jobs/view/4478258578",
-    "sponsorship": "",
-    "posted": "2026-10-20",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4441846649",
-    "company": "Cognition",
-    "title": "Forward Deployed Engineer - Europe",
-    "locations": [
-      "Southern, WV"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4441846649",
-    "sponsorship": "",
-    "posted": "2026-10-20",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4478931098",
-    "company": "Cyabra",
-    "title": "Forward Deployed Engineer",
-    "locations": [
-      "New York, NY"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4478931098",
     "sponsorship": "",
     "posted": "2026-10-20",
     "source": "LinkedIn"
@@ -1777,25 +1861,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4479964359",
-    "company": "Emonics LLC",
-    "title": "Associate Software Engineer",
+    "id": "linkedin-4481216399",
+    "company": "EBSCO Information Services",
+    "title": "Software Dev Engineer I",
     "locations": [
-      "Columbus, OH"
+      "Birmingham, AL"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4479964359",
-    "sponsorship": "",
-    "posted": "2026-10-19",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4479949876",
-    "company": "Emonics LLC",
-    "title": "Full Stack Software Engineer - Entry Level",
-    "locations": [
-      "Salem, MA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4479949876",
+    "url": "https://www.linkedin.com/jobs/view/4481216399",
     "sponsorship": "",
     "posted": "2026-10-19",
     "source": "LinkedIn"
@@ -1837,25 +1909,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4481216399",
-    "company": "EBSCO Information Services",
-    "title": "Software Dev Engineer I",
+    "id": "linkedin-4481293693",
+    "company": "Runway",
+    "title": "Forward Deployed Engineer",
     "locations": [
-      "Birmingham, AL"
+      "United States"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4481216399",
-    "sponsorship": "",
-    "posted": "2026-10-19",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4455285337",
-    "company": "Parloa",
-    "title": "Forward Deployed Engineer - US",
-    "locations": [
-      "New York, NY"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4455285337",
+    "url": "https://www.linkedin.com/jobs/view/4481293693",
     "sponsorship": "",
     "posted": "2026-10-19",
     "source": "LinkedIn"
@@ -1880,18 +1940,6 @@
       "New York, United States"
     ],
     "url": "https://www.linkedin.com/jobs/view/4478263336",
-    "sponsorship": "",
-    "posted": "2026-10-19",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4481293693",
-    "company": "Runway",
-    "title": "Forward Deployed Engineer",
-    "locations": [
-      "United States"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4481293693",
     "sponsorship": "",
     "posted": "2026-10-19",
     "source": "LinkedIn"
@@ -2078,18 +2126,6 @@
       "NYC"
     ],
     "url": "https://bookofthemonth.applytojob.com/apply/GieKXw88SL/Associate-Product-Engineer",
-    "sponsorship": "Other",
-    "posted": "2026-10-16",
-    "source": "SimplifyJobs"
-  },
-  {
-    "id": "simplify-ffb877b3-213f-40b4-aad9-17cb2cd90278",
-    "company": "Huntington Ingalls Industries",
-    "title": "Software Engineer 1",
-    "locations": [
-      "Newport News, VA"
-    ],
-    "url": "https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-SOFTWARE-1-Virg/1440976000/?ats=successfactors",
     "sponsorship": "Other",
     "posted": "2026-10-16",
     "source": "SimplifyJobs"
@@ -2391,18 +2427,6 @@
       "St Charles, MO"
     ],
     "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Saint-Charles-MO/Entry-Level-Design-and-Analysis-Engineer--Support-Equipt-Design---Elect-_JR2026518227-1",
-    "sponsorship": "Other",
-    "posted": "2026-10-13",
-    "source": "SimplifyJobs"
-  },
-  {
-    "id": "simplify-4cde3e80-0447-49b4-a9a7-0cbb52511d19",
-    "company": "NVIDIA",
-    "title": "Formal Verification Engineer New Grad",
-    "locations": [
-      "Santa Clara, CA"
-    ],
-    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Formal-Verification-Engineer---New-College-Grad-2026_JR2007627",
     "sponsorship": "Other",
     "posted": "2026-10-13",
     "source": "SimplifyJobs"
@@ -6896,18 +6920,6 @@
     "source": "SimplifyJobs"
   },
   {
-    "id": "simplify-a424b4b3-571e-4a67-a90c-6c2f388a61a1",
-    "company": "L3Harris Technologies",
-    "title": "Associate Integration/Test Engineer",
-    "locations": [
-      "Greenville, TX"
-    ],
-    "url": "https://jobs.l3harris.com/job/Greenville-Associate,-IntegrationTest-Engineering-(Greenville,-TX)-TX-75402/1420469200/?ats=successfactors",
-    "sponsorship": "Other",
-    "posted": "2026-08-18",
-    "source": "SimplifyJobs"
-  },
-  {
     "id": "simplify-58d76026-06e1-4eda-b528-b3b0a38ec9d0",
     "company": "Voyager Technologies",
     "title": "Machine Learning Engineer - Associate",
@@ -8979,19 +8991,6 @@
       "Chicago, IL"
     ],
     "url": "https://careers-appliedsystems.icims.com/jobs/7318/job?mobile=true&needsRedirect=false",
-    "sponsorship": "Other",
-    "posted": "2026-07-06",
-    "source": "SimplifyJobs"
-  },
-  {
-    "id": "simplify-037965da-859d-4532-a3b3-45dc8fd6220f",
-    "company": "Amentum",
-    "title": "Entry Level Software Engineer",
-    "locations": [
-      "Fredericksburg, VA",
-      "Dahlgren, VA"
-    ],
-    "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0148259",
     "sponsorship": "Other",
     "posted": "2026-07-06",
     "source": "SimplifyJobs"
