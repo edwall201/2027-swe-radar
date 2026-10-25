@@ -96,18 +96,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4466403132",
-    "company": "AssetMark",
-    "title": "Associate Engineer",
-    "locations": [
-      "Charlotte, NC"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4466403132",
-    "sponsorship": "",
-    "posted": "2026-10-24",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4482659518",
     "company": "Lulius Innovation",
     "title": "Junior Software Developer",
@@ -115,6 +103,18 @@
       "Nevada, United States"
     ],
     "url": "https://www.linkedin.com/jobs/view/4482659518",
+    "sponsorship": "",
+    "posted": "2026-10-24",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4466403132",
+    "company": "AssetMark",
+    "title": "Associate Engineer",
+    "locations": [
+      "Charlotte, NC"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4466403132",
     "sponsorship": "",
     "posted": "2026-10-24",
     "source": "LinkedIn"
@@ -835,18 +835,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4480634342",
-    "company": "FDE Times",
-    "title": "Forward Deployed Software Engineer, New Grad - Warp Speed",
-    "locations": [
-      "New York, NY"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4480634342",
-    "sponsorship": "",
-    "posted": "2026-10-23",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4483132093",
     "company": "Trinzic",
     "title": "Junior Software Engineer",
@@ -1147,13 +1135,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4454131968",
-    "company": "Analog Devices",
+    "id": "linkedin-4482787919",
+    "company": "Kinaxis",
     "title": "Forward Deployed Engineer",
     "locations": [
-      "San Jose, CA"
+      "Atlanta, GA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4454131968",
+    "url": "https://www.linkedin.com/jobs/view/4482787919",
     "sponsorship": "",
     "posted": "2026-10-23",
     "source": "LinkedIn"
@@ -1166,18 +1154,6 @@
       "Chicago, IL"
     ],
     "url": "https://www.linkedin.com/jobs/view/4482797681",
-    "sponsorship": "",
-    "posted": "2026-10-23",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4482878803",
-    "company": "TribalScale",
-    "title": "Forward Deployed Full Stack Engineer (Active Secret Clearance)",
-    "locations": [
-      "New York, NY"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4482878803",
     "sponsorship": "",
     "posted": "2026-10-23",
     "source": "LinkedIn"
@@ -1628,6 +1604,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4479493964",
+    "company": "FDE Times",
+    "title": "Forward Deployed Software Engineer - Warp Speed",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4479493964",
+    "sponsorship": "",
+    "posted": "2026-10-22",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4443918024",
     "company": "Baseten",
     "title": "Forward Deployed Engineer",
@@ -1635,18 +1623,6 @@
       "United States"
     ],
     "url": "https://www.linkedin.com/jobs/view/4443918024",
-    "sponsorship": "",
-    "posted": "2026-10-22",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4482765838",
-    "company": "ECI",
-    "title": "AI Forward Deployed Engineer",
-    "locations": [
-      "New York, United States"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4482765838",
     "sponsorship": "",
     "posted": "2026-10-22",
     "source": "LinkedIn"
@@ -1833,18 +1809,6 @@
     "sponsorship": "Other",
     "posted": "2026-10-21",
     "source": "SimplifyJobs"
-  },
-  {
-    "id": "linkedin-4482182262",
-    "company": "Collins Aerospace",
-    "title": "Software Engineer I (Onsite)",
-    "locations": [
-      "Fulton, MD"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4482182262",
-    "sponsorship": "",
-    "posted": "2026-10-21",
-    "source": "LinkedIn"
   },
   {
     "id": "simplify-062331a8-f84b-4a25-9c39-ccabcb6a0371",
