@@ -1,5 +1,17 @@
 [
   {
+    "id": "linkedin-4482694167",
+    "company": "RemoteJobsOne",
+    "title": "Software Engineer, New Grad \u2013 Remote (Worldwide)",
+    "locations": [
+      "Jacksonville, FL"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4482694167",
+    "sponsorship": "",
+    "posted": "2026-10-25",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4438850428",
     "company": "Pylon",
     "title": "Software Engineer, New Grad",
@@ -12,6 +24,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4481406238",
+    "company": "Unissant",
+    "title": "Entry Level Full Stack Software Developer",
+    "locations": [
+      "Ashburn, VA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4481406238",
+    "sponsorship": "",
+    "posted": "2026-10-25",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4456299517",
     "company": "TSMC",
     "title": "Software Engineer (New Graduate) - North America Software Center",
@@ -19,6 +43,18 @@
       "Vancouver, WA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4456299517",
+    "sponsorship": "",
+    "posted": "2026-10-25",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4466338010",
+    "company": "REI Systems",
+    "title": "Associate Software Engineer- Java",
+    "locations": [
+      "Sterling, VA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4466338010",
     "sponsorship": "",
     "posted": "2026-10-25",
     "source": "LinkedIn"
@@ -1063,30 +1099,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4483162356",
-    "company": "Optum",
-    "title": "Associate Software Engineer",
-    "locations": [
-      "Eden Prairie, MN"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4483162356",
-    "sponsorship": "",
-    "posted": "2026-10-23",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4482793597",
-    "company": "Principal Financial Group",
-    "title": "Software Engineer I",
-    "locations": [
-      "Des Moines, IA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4482793597",
-    "sponsorship": "",
-    "posted": "2026-10-23",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4474371283",
     "company": "Pinterest",
     "title": "University Grad Software Engineer 2027 (USA)",
@@ -1142,6 +1154,18 @@
       "Seattle, WA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4446830554",
+    "sponsorship": "",
+    "posted": "2026-10-23",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4480080030",
+    "company": "Scout Global",
+    "title": "Founding Forward Deployed Engineer",
+    "locations": [
+      "New York, United States"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4480080030",
     "sponsorship": "",
     "posted": "2026-10-23",
     "source": "LinkedIn"
@@ -1226,18 +1250,6 @@
       "San Francisco, CA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4474372404",
-    "sponsorship": "",
-    "posted": "2026-10-23",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4480080030",
-    "company": "Scout Global",
-    "title": "Founding Forward Deployed Engineer",
-    "locations": [
-      "New York, United States"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4480080030",
     "sponsorship": "",
     "posted": "2026-10-23",
     "source": "LinkedIn"
@@ -1544,18 +1556,6 @@
     "source": "Ashby"
   },
   {
-    "id": "linkedin-4434143445",
-    "company": "Palantir Technologies",
-    "title": "Software Engineer, New Grad - Defense",
-    "locations": [
-      "New York, NY"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4434143445",
-    "sponsorship": "",
-    "posted": "2026-10-22",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4482759732",
     "company": "ScoutBetter",
     "title": "Software Engineer I(Twitch)",
@@ -1563,42 +1563,6 @@
       "Seattle, WA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4482759732",
-    "sponsorship": "",
-    "posted": "2026-10-22",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4453489109",
-    "company": "IBM",
-    "title": "Entry Level Software Developer 2027",
-    "locations": [
-      "Durham, NC"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4453489109",
-    "sponsorship": "",
-    "posted": "2026-10-22",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4473966128",
-    "company": "Raytheon",
-    "title": "Software Engineer/Developer I (Onsite)",
-    "locations": [
-      "Tewksbury, MA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4473966128",
-    "sponsorship": "",
-    "posted": "2026-10-22",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4482770654",
-    "company": "Raytheon",
-    "title": "Software/Developer Engineer I (Onsite)",
-    "locations": [
-      "Huntsville, AL"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4482770654",
     "sponsorship": "",
     "posted": "2026-10-22",
     "source": "LinkedIn"
@@ -1628,25 +1592,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4473954931",
+    "id": "linkedin-4482770654",
     "company": "Raytheon",
-    "title": "Software Engineer/Developer I (Onsite)",
+    "title": "Software/Developer Engineer I (Onsite)",
     "locations": [
-      "Woburn, MA"
+      "Huntsville, AL"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4473954931",
-    "sponsorship": "",
-    "posted": "2026-10-22",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4481359608",
-    "company": "Programmers.io",
-    "title": "Forward Deployed Engineer",
-    "locations": [
-      "Plano, TX"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4481359608",
+    "url": "https://www.linkedin.com/jobs/view/4482770654",
     "sponsorship": "",
     "posted": "2026-10-22",
     "source": "LinkedIn"
@@ -9449,18 +9401,6 @@
     "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-GOLETA-B01--6825-Cortona-Dr--BLDG-B01/XMLNAME-2026-Fulltime---Electronics-Design-Engineer-I---Onsite_01826209",
     "sponsorship": "Other",
     "posted": "2026-03-04",
-    "source": "SimplifyJobs"
-  },
-  {
-    "id": "simplify-c551daed-04ac-42cb-a745-9664938e00da",
-    "company": "Merative",
-    "title": "Software Engineering Associate",
-    "locations": [
-      "Greenwood Village, CO"
-    ],
-    "url": "https://jobs.smartrecruiters.com/TruvenHealthAnalyticsanIBMCompany/93930814",
-    "sponsorship": "Other",
-    "posted": "2026-02-27",
     "source": "SimplifyJobs"
   },
   {
