@@ -1,5 +1,139 @@
 [
   {
+    "id": "simplify-756f5acb-ee83-4d78-8f4b-7cbbdaff4b18",
+    "company": "Thoughtworks",
+    "title": "Software Developer New Grad",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "url": "https://www.thoughtworks.com/careers/jobs/8333235?gh_jid=8333235",
+    "sponsorship": "Other",
+    "posted": "2026-10-29",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-6f288574-280b-4364-8224-4e4a2586171e",
+    "company": "RTX",
+    "title": "Software Security Engineer 1",
+    "locations": [
+      "El Segundo, CA"
+    ],
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/Software-Security-Engineer-I_01885443",
+    "sponsorship": "Other",
+    "posted": "2026-10-29",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-d840c912-8132-4067-918d-723702757692",
+    "company": "Dell Technologies",
+    "title": "Test Engineer 1",
+    "locations": [
+      "Franklin, MA"
+    ],
+    "url": "https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/296584",
+    "sponsorship": "Other",
+    "posted": "2026-10-29",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-3fa19032-9a60-4980-aa90-789e3fd58171",
+    "company": "Dell Technologies",
+    "title": "Test Engineer 1",
+    "locations": [
+      "Franklin, MA"
+    ],
+    "url": "https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/296581",
+    "sponsorship": "Other",
+    "posted": "2026-10-29",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-dca9592e-b1b7-46c3-8d13-f62684d3eaea",
+    "company": "Analog Devices",
+    "title": "Associate Test Engineer",
+    "locations": [
+      "Austin, TX",
+      "San Jose, CA",
+      "United States"
+    ],
+    "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-CA-San-Jose-Rio-Robles/Associate-Test-Engineer_R268237",
+    "sponsorship": "Other",
+    "posted": "2026-10-29",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-a0303bf2-78ec-4e3f-88ed-874ac7a7aaca",
+    "company": "TSC",
+    "title": "Software Engineer 1",
+    "locations": [
+      "Plymouth, MA"
+    ],
+    "url": "https://tsc.wd12.myworkdayjobs.com/en-US/TSC-Careers/job/Plymouth-MA/Software-Engineer-I_JR2890",
+    "sponsorship": "Other",
+    "posted": "2026-10-29",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "gh-stripe-7230452",
+    "company": "Stripe",
+    "title": "Forward Deployed Engineer, Privy",
+    "locations": [
+      "New York Privy HQ"
+    ],
+    "url": "https://stripe.com/jobs/search?gh_jid=7230452",
+    "sponsorship": "",
+    "posted": "2026-10-29",
+    "source": "Greenhouse"
+  },
+  {
+    "id": "gh-stripe-8212508",
+    "company": "Stripe",
+    "title": "Software Engineer, Early Career \u2014 Immediate Start",
+    "locations": [
+      "San Francisco, Seattle, New York"
+    ],
+    "url": "https://stripe.com/jobs/search?gh_jid=8212508",
+    "sponsorship": "",
+    "posted": "2026-10-29",
+    "source": "Greenhouse"
+  },
+  {
+    "id": "gh-stripe-8128744",
+    "company": "Stripe",
+    "title": "Software Engineer, New Grad",
+    "locations": [
+      "San Francisco, Seattle, New York"
+    ],
+    "url": "https://stripe.com/jobs/search?gh_jid=8128744",
+    "sponsorship": "",
+    "posted": "2026-10-29",
+    "source": "Greenhouse"
+  },
+  {
+    "id": "linkedin-4448194736",
+    "company": "JPMorganChase",
+    "title": "2027 Software Engineer Program - Full-Time - United States - July Start",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4448194736",
+    "sponsorship": "",
+    "posted": "2026-10-29",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4459034091",
+    "company": "The Voleon Group",
+    "title": "Software Engineer - University Hire 2027",
+    "locations": [
+      "Berkeley, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4459034091",
+    "sponsorship": "",
+    "posted": "2026-10-29",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4484771421",
     "company": "Honeywell Aerospace",
     "title": "Software Engineer I - Middleware",
@@ -7,6 +141,114 @@
       "Phoenix, AZ"
     ],
     "url": "https://www.linkedin.com/jobs/view/4484771421",
+    "sponsorship": "",
+    "posted": "2026-10-29",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4446630171",
+    "company": "TikTok USDS Joint Venture",
+    "title": "Software Engineer Graduate (Tech and Product, USDS) - 2027 Start",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4446630171",
+    "sponsorship": "",
+    "posted": "2026-10-29",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4480080030",
+    "company": "Scout Global",
+    "title": "Founding Forward Deployed Engineer",
+    "locations": [
+      "New York, United States"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4480080030",
+    "sponsorship": "",
+    "posted": "2026-10-29",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4478258578",
+    "company": "Scout Global",
+    "title": "Forward Deployed Engineer",
+    "locations": [
+      "New York, United States"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4478258578",
+    "sponsorship": "",
+    "posted": "2026-10-29",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4484965739",
+    "company": "IFS",
+    "title": "Forward Deployed Engineer | IFS Copperleaf",
+    "locations": [
+      "Itasca, IL"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4484965739",
+    "sponsorship": "",
+    "posted": "2026-10-29",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4466864232",
+    "company": "Google",
+    "title": "Partner Forward Deployed Engineer IV, GenAI, Google Cloud",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4466864232",
+    "sponsorship": "",
+    "posted": "2026-10-29",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4319336681",
+    "company": "Cohere",
+    "title": "Forward Deployed Engineer, Agentic Platform",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4319336681",
+    "sponsorship": "",
+    "posted": "2026-10-29",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4440246798",
+    "company": "F2",
+    "title": "Forward Deployed Engineer",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4440246798",
+    "sponsorship": "",
+    "posted": "2026-10-29",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4457673049",
+    "company": "Figma",
+    "title": "Forward Deployed Engineer",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4457673049",
+    "sponsorship": "",
+    "posted": "2026-10-29",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4466867144",
+    "company": "Google",
+    "title": "Partner Forward Deployed Engineer IV, GenAI, Google Cloud",
+    "locations": [
+      "New York, United States"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4466867144",
     "sponsorship": "",
     "posted": "2026-10-29",
     "source": "LinkedIn"
@@ -120,6 +362,18 @@
     "source": "SimplifyJobs"
   },
   {
+    "id": "simplify-06049813-4f99-4972-9dc0-bfc69c3532ff",
+    "company": "Astronics",
+    "title": "Electrical Engineer 1",
+    "locations": [
+      "Clackamas County, OR"
+    ],
+    "url": "https://job-boards.greenhouse.io/astronicscorporation/jobs/4470247009",
+    "sponsorship": "Other",
+    "posted": "2026-10-28",
+    "source": "SimplifyJobs"
+  },
+  {
     "id": "gh-databricks-8546367002",
     "company": "Databricks",
     "title": "AI Engineer \u2013 Forward Deployed Engineering (AI FDE)",
@@ -180,6 +434,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4475144348",
+    "company": "Affirm",
+    "title": "Software Engineer, Early Career (NYC)",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4475144348",
+    "sponsorship": "",
+    "posted": "2026-10-28",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4468161569",
     "company": "Millennial Software",
     "title": "Entry Level Full Stack Developer- $65K-$116K + 15% 401k",
@@ -187,18 +453,6 @@
       "Chantilly, VA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4468161569",
-    "sponsorship": "",
-    "posted": "2026-10-28",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4467954206",
-    "company": "Komatsu",
-    "title": "Software Engineer I",
-    "locations": [
-      "Mesa, AZ"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4467954206",
     "sponsorship": "",
     "posted": "2026-10-28",
     "source": "LinkedIn"
@@ -228,18 +482,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4483840922",
-    "company": "Emonics LLC",
-    "title": "Backend Python Developer - Entry Level",
-    "locations": [
-      "Chicago, IL"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4483840922",
-    "sponsorship": "",
-    "posted": "2026-10-28",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4465927340",
     "company": "NOV",
     "title": "Associate Software Engineer - Pathway (June 2027 & January 2027)",
@@ -252,13 +494,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4475144348",
-    "company": "Affirm",
-    "title": "Software Engineer, Early Career (NYC)",
+    "id": "linkedin-4483840922",
+    "company": "Emonics LLC",
+    "title": "Backend Python Developer - Entry Level",
     "locations": [
-      "New York, NY"
+      "Chicago, IL"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4475144348",
+    "url": "https://www.linkedin.com/jobs/view/4483840922",
     "sponsorship": "",
     "posted": "2026-10-28",
     "source": "LinkedIn"
@@ -271,6 +513,30 @@
       "Cincinnati, OH"
     ],
     "url": "https://www.linkedin.com/jobs/view/4475159420",
+    "sponsorship": "",
+    "posted": "2026-10-28",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4482565497",
+    "company": "USAA",
+    "title": "Software Engineer - Entry Level",
+    "locations": [
+      "San Antonio, TX"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4482565497",
+    "sponsorship": "",
+    "posted": "2026-10-28",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4476379920",
+    "company": "Cursor",
+    "title": "Software Engineer, New Grad 2027",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4476379920",
     "sponsorship": "",
     "posted": "2026-10-28",
     "source": "LinkedIn"
@@ -300,37 +566,37 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4484472378",
-    "company": "Fonzi AI",
+    "id": "linkedin-4467954206",
+    "company": "Komatsu",
+    "title": "Software Engineer I",
+    "locations": [
+      "Mesa, AZ"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4467954206",
+    "sponsorship": "",
+    "posted": "2026-10-28",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4338954885",
+    "company": "Reducto",
     "title": "Forward Deployed Engineer",
     "locations": [
-      "New York City Metropolitan Area"
+      "San Francisco, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4484472378",
+    "url": "https://www.linkedin.com/jobs/view/4338954885",
     "sponsorship": "",
     "posted": "2026-10-28",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4419854286",
-    "company": "Deloitte",
-    "title": "Forward Deployed Engineer- Palantir",
+    "id": "linkedin-4484276665",
+    "company": "Quadric",
+    "title": "Forward Deployed Engineer",
     "locations": [
-      "Denver, CO"
+      "Burlingame, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4419854286",
-    "sponsorship": "",
-    "posted": "2026-10-28",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4480080030",
-    "company": "Scout Global",
-    "title": "Founding Forward Deployed Engineer",
-    "locations": [
-      "New York, United States"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4480080030",
+    "url": "https://www.linkedin.com/jobs/view/4484276665",
     "sponsorship": "",
     "posted": "2026-10-28",
     "source": "LinkedIn"
@@ -348,13 +614,49 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4478258578",
-    "company": "Scout Global",
-    "title": "Forward Deployed Engineer",
+    "id": "linkedin-4412714399",
+    "company": "Tamarind Bio",
+    "title": "Founding Forward Deployed Engineer",
     "locations": [
-      "New York, United States"
+      "San Francisco, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4478258578",
+    "url": "https://www.linkedin.com/jobs/view/4412714399",
+    "sponsorship": "",
+    "posted": "2026-10-28",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4482507048",
+    "company": "H Company",
+    "title": "Founding Forward Deployed Engineer - US",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4482507048",
+    "sponsorship": "",
+    "posted": "2026-10-28",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4446290483",
+    "company": "LangChain",
+    "title": "Deployed Engineer (Early Career-NYC)",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4446290483",
+    "sponsorship": "",
+    "posted": "2026-10-28",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4419854286",
+    "company": "Deloitte",
+    "title": "Forward Deployed Engineer- Palantir",
+    "locations": [
+      "Denver, CO"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4419854286",
     "sponsorship": "",
     "posted": "2026-10-28",
     "source": "LinkedIn"
@@ -732,6 +1034,19 @@
       "Dallas, TX"
     ],
     "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/b2660259-a5db-4530-95e6-20e48a41068d/application?embed=true",
+    "sponsorship": "Other",
+    "posted": "2026-10-27",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-fcd88c67-d6d6-41a6-9f32-1b0db5954dd6",
+    "company": "Salesforce",
+    "title": "Software Engineer New Grad",
+    "locations": [
+      "Indianapolis, IN",
+      "Dallas, TX"
+    ],
+    "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Indiana---Indianapolis/Software-Engineering-MTS_JR363598",
     "sponsorship": "Other",
     "posted": "2026-10-27",
     "source": "SimplifyJobs"
@@ -1145,13 +1460,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4482231976",
-    "company": "Databricks",
-    "title": "Software Engineer - New Grad (2027 Start)",
+    "id": "linkedin-4483282050",
+    "company": "General Dynamics Mission Systems",
+    "title": "Software Engineer Entry Level",
     "locations": [
-      "Bellevue, WA"
+      "Manassas, VA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4482231976",
+    "url": "https://www.linkedin.com/jobs/view/4483282050",
     "sponsorship": "",
     "posted": "2026-10-27",
     "source": "LinkedIn"
@@ -1205,13 +1520,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4459617796",
-    "company": "Garmin",
-    "title": "Software Engineer 1 - Aviation Backend Web",
+    "id": "linkedin-4482200520",
+    "company": "Lockheed Martin",
+    "title": "Software Engineer - Early Career",
     "locations": [
-      "Olathe, KS"
+      "Huntsville, AL"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4459617796",
+    "url": "https://www.linkedin.com/jobs/view/4482200520",
     "sponsorship": "",
     "posted": "2026-10-27",
     "source": "LinkedIn"
@@ -1229,6 +1544,30 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4459617796",
+    "company": "Garmin",
+    "title": "Software Engineer 1 - Aviation Backend Web",
+    "locations": [
+      "Olathe, KS"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4459617796",
+    "sponsorship": "",
+    "posted": "2026-10-27",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4482231976",
+    "company": "Databricks",
+    "title": "Software Engineer - New Grad (2027 Start)",
+    "locations": [
+      "Bellevue, WA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4482231976",
+    "sponsorship": "",
+    "posted": "2026-10-27",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4482253066",
     "company": "Databricks",
     "title": "Software Engineer - New Grad (2027 Start)",
@@ -1241,13 +1580,49 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4380944856",
-    "company": "TRM Labs",
-    "title": "University Grad \u2013 Product Engineer (2026-2027) - Los Angeles or San Francisco",
+    "id": "linkedin-4476105526",
+    "company": "Deloitte",
+    "title": "Banking Product Forward Deployed Engineer - Products & Platforms",
     "locations": [
-      "Los Angeles, CA"
+      "Arlington, VA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4380944856",
+    "url": "https://www.linkedin.com/jobs/view/4476105526",
+    "sponsorship": "",
+    "posted": "2026-10-27",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4476108426",
+    "company": "Deloitte",
+    "title": "Banking Product Forward Deployed Engineer - Products & Platforms",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4476108426",
+    "sponsorship": "",
+    "posted": "2026-10-27",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4467443969",
+    "company": "Venn",
+    "title": "Forward Deployed Engineer",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4467443969",
+    "sponsorship": "",
+    "posted": "2026-10-27",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4484223466",
+    "company": "TRM Labs",
+    "title": "Forward Deployed Engineer - US National Security",
+    "locations": [
+      "Washington, DC"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4484223466",
     "sponsorship": "",
     "posted": "2026-10-27",
     "source": "LinkedIn"
@@ -1265,6 +1640,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4447608357",
+    "company": "Cohere",
+    "title": "Forward Deployed Engineer, Agentic Platform",
+    "locations": [
+      "Boston, MA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4447608357",
+    "sponsorship": "",
+    "posted": "2026-10-27",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4478263336",
     "company": "UMATR",
     "title": "Forward Deployed Engineer - AI",
@@ -1272,18 +1659,6 @@
       "New York, United States"
     ],
     "url": "https://www.linkedin.com/jobs/view/4478263336",
-    "sponsorship": "",
-    "posted": "2026-10-27",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4484223466",
-    "company": "TRM Labs",
-    "title": "Forward Deployed Engineer - US National Security",
-    "locations": [
-      "Washington, DC"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4484223466",
     "sponsorship": "",
     "posted": "2026-10-27",
     "source": "LinkedIn"
@@ -1449,25 +1824,25 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4471378689",
-    "company": "Consumer Direct Care Network",
-    "title": "Software Engineer I",
+    "id": "linkedin-4483740812",
+    "company": "HNTB",
+    "title": "Returning New Grad Software Engineer I (For Current/Previous HNTB Interns ONLY)",
     "locations": [
-      "Missoula, MT"
+      "Tallahassee, FL"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4471378689",
+    "url": "https://www.linkedin.com/jobs/view/4483740812",
     "sponsorship": "",
     "posted": "2026-10-26",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4481803982",
-    "company": "IBM",
-    "title": "Entry Level Software Developer - 2027 - Lowell",
+    "id": "linkedin-4483748568",
+    "company": "HNTB",
+    "title": "Returning New Grad Software Engineer I (For Current/Previous HNTB Interns ONLY)",
     "locations": [
-      "Lowell, MA"
+      "Tampa, FL"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4481803982",
+    "url": "https://www.linkedin.com/jobs/view/4483748568",
     "sponsorship": "",
     "posted": "2026-10-26",
     "source": "LinkedIn"
@@ -1480,6 +1855,18 @@
       "Chantilly, VA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4480683200",
+    "sponsorship": "",
+    "posted": "2026-10-26",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4481803982",
+    "company": "IBM",
+    "title": "Entry Level Software Developer - 2027 - Lowell",
+    "locations": [
+      "Lowell, MA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4481803982",
     "sponsorship": "",
     "posted": "2026-10-26",
     "source": "LinkedIn"
@@ -1509,18 +1896,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4481456789",
-    "company": "Brivo",
-    "title": "Associate Engineer - Software",
-    "locations": [
-      "Austin, TX"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4481456789",
-    "sponsorship": "",
-    "posted": "2026-10-26",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4483234551",
     "company": "Tata Consultancy Services",
     "title": "Junior Software Engineer",
@@ -1528,114 +1903,6 @@
       "Santa Clara, CA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4483234551",
-    "sponsorship": "",
-    "posted": "2026-10-26",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4483186582",
-    "company": "ServiceNow",
-    "title": "Associate Software Engineer",
-    "locations": [
-      "Santa Clara, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4483186582",
-    "sponsorship": "",
-    "posted": "2026-10-26",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4483748568",
-    "company": "HNTB",
-    "title": "Returning New Grad Software Engineer I (For Current/Previous HNTB Interns ONLY)",
-    "locations": [
-      "Tampa, FL"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4483748568",
-    "sponsorship": "",
-    "posted": "2026-10-26",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4447617231",
-    "company": "Cohere",
-    "title": "Forward Deployed Engineer, Agentic Platform",
-    "locations": [
-      "Washington, DC"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4447617231",
-    "sponsorship": "",
-    "posted": "2026-10-26",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4484281327",
-    "company": "Sayari",
-    "title": "Forward Deployed Engineer II (Remote, US)",
-    "locations": [
-      "Washington, DC"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4484281327",
-    "sponsorship": "",
-    "posted": "2026-10-26",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4483216699",
-    "company": "Intelletec",
-    "title": "Forward Deployed Engineer",
-    "locations": [
-      "Washington DC-Baltimore Area"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4483216699",
-    "sponsorship": "",
-    "posted": "2026-10-26",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4402281473",
-    "company": "Nearform",
-    "title": "Forward Deployed Engineer",
-    "locations": [
-      "United States"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4402281473",
-    "sponsorship": "",
-    "posted": "2026-10-26",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4418852768",
-    "company": "OpenAI",
-    "title": "Forward Deployed Software Engineer, Gov",
-    "locations": [
-      "Seattle, WA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4418852768",
-    "sponsorship": "",
-    "posted": "2026-10-26",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4402758504",
-    "company": "Rowspace",
-    "title": "Forward Deployed Engineer",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4402758504",
-    "sponsorship": "",
-    "posted": "2026-10-26",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4419498793",
-    "company": "Assort Health",
-    "title": "Forward Deployed Engineer",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4419498793",
     "sponsorship": "",
     "posted": "2026-10-26",
     "source": "LinkedIn"
@@ -1651,18 +1918,6 @@
     "sponsorship": "",
     "posted": "2026-10-26",
     "source": "LinkedIn"
-  },
-  {
-    "id": "simplify-c14d3582-4d42-4e4b-8aca-7853fd8512e3",
-    "company": "Northrop Grumman",
-    "title": "Associate Embedded Software Engineer",
-    "locations": [
-      "Morrisville, NC"
-    ],
-    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-North-Carolina-Morrisville/XMLNAME-2027-Associate-Embedded-Software-Engineer---Morrisville-NC_R10257541",
-    "sponsorship": "Other",
-    "posted": "2026-10-25",
-    "source": "SimplifyJobs"
   },
   {
     "id": "simplify-2b5665cf-ffeb-4c91-adce-7d9357641676",
@@ -1969,42 +2224,6 @@
     "sponsorship": "Other",
     "posted": "2026-10-22",
     "source": "SimplifyJobs"
-  },
-  {
-    "id": "gh-stripe-7230452",
-    "company": "Stripe",
-    "title": "Forward Deployed Engineer, Privy",
-    "locations": [
-      "New York Privy HQ"
-    ],
-    "url": "https://stripe.com/jobs/search?gh_jid=7230452",
-    "sponsorship": "",
-    "posted": "2026-10-22",
-    "source": "Greenhouse"
-  },
-  {
-    "id": "gh-stripe-8212508",
-    "company": "Stripe",
-    "title": "Software Engineer, Early Career \u2014 Immediate Start",
-    "locations": [
-      "San Francisco, Seattle, New York"
-    ],
-    "url": "https://stripe.com/jobs/search?gh_jid=8212508",
-    "sponsorship": "",
-    "posted": "2026-10-22",
-    "source": "Greenhouse"
-  },
-  {
-    "id": "gh-stripe-8128744",
-    "company": "Stripe",
-    "title": "Software Engineer, New Grad",
-    "locations": [
-      "San Francisco, Seattle, New York"
-    ],
-    "url": "https://stripe.com/jobs/search?gh_jid=8128744",
-    "sponsorship": "",
-    "posted": "2026-10-22",
-    "source": "Greenhouse"
   },
   {
     "id": "gh-scaleai-4481921005",
@@ -2510,18 +2729,6 @@
       "United States"
     ],
     "url": "https://careers.planview.com/jobs/5080?icims=1",
-    "sponsorship": "Other",
-    "posted": "2026-10-16",
-    "source": "SimplifyJobs"
-  },
-  {
-    "id": "simplify-7de2cfb8-b775-4c6b-add1-669b08d92bfa",
-    "company": "Book of the Month",
-    "title": "Associate Product Engineer",
-    "locations": [
-      "NYC"
-    ],
-    "url": "https://bookofthemonth.applytojob.com/apply/GieKXw88SL/Associate-Product-Engineer",
     "sponsorship": "Other",
     "posted": "2026-10-16",
     "source": "SimplifyJobs"
@@ -3275,18 +3482,6 @@
       "San Diego, CA"
     ],
     "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/7540-Metropolitan-Dr-San-Diego-CA/Software-Engineer--Apps---I_8655",
-    "sponsorship": "Other",
-    "posted": "2026-10-08",
-    "source": "SimplifyJobs"
-  },
-  {
-    "id": "simplify-60fcabe8-a994-4e16-81d7-d07d913c4f68",
-    "company": "RTX",
-    "title": "Embedded Security Software Engineer 1",
-    "locations": [
-      "El Segundo, CA"
-    ],
-    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Embedded-Security-Software-Engineer--Onsite-_01881362",
     "sponsorship": "Other",
     "posted": "2026-10-08",
     "source": "SimplifyJobs"
@@ -4825,6 +5020,18 @@
       "Tucson, AZ"
     ],
     "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Electrical-Engineer-I---Test_01873950",
+    "sponsorship": "Other",
+    "posted": "2026-09-16",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-44732cdf-9042-4a73-9043-0c56b1cd3e1e",
+    "company": "AST SpaceMobile",
+    "title": "Associate Electrical Test Engineer",
+    "locations": [
+      "Midland, TX"
+    ],
+    "url": "https://ast-science.com/company/careers/?gh_jid=4734515005",
     "sponsorship": "Other",
     "posted": "2026-09-16",
     "source": "SimplifyJobs"
@@ -9077,6 +9284,30 @@
       "Costa Mesa, CA"
     ],
     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5136925007",
+    "sponsorship": "Other",
+    "posted": "2026-06-11",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-e8c065bb-38a4-449d-a3c5-01e4519c1fef",
+    "company": "Quantiq",
+    "title": "Software Developer New Grad",
+    "locations": [
+      "Austin, TX"
+    ],
+    "url": "https://job-boards.greenhouse.io/quantiq/jobs/4280650009",
+    "sponsorship": "Other",
+    "posted": "2026-06-11",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-614cdebd-f4ce-47ff-b32d-3f21d883493c",
+    "company": "Quantiq",
+    "title": "Hardware Developer New Grad",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "url": "https://job-boards.greenhouse.io/quantiq/jobs/4280673009",
     "sponsorship": "Other",
     "posted": "2026-06-11",
     "source": "SimplifyJobs"
