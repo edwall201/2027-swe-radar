@@ -1,33 +1,25 @@
 # 📡 2027 SWE Radar
 
 Automated daily scanner for **2027 new-grad software engineering** openings.
-Last scan: **2026-10-31** · Tracking **815** matching postings · 🆕 **15** new today
+Last scan: **2026-10-31** · Tracking **811** matching postings · 🆕 **5** new today
 Showing **US** postings, newest first.
 
 ## 🆕 New today
 
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
-| **Northrop Grumman** | Associate Software Engineer | Hollywood, MD | 2026-10-31 | [Link](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Hollywood/Associate-Software-Engineer---Hollywood--MD-_R10258018) |
-| **Bristol Myers Squibb** | Associate Engineer - Analytical AI Engineering | Princeton, NJ | 2026-10-31 | [Link](https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Princeton---NJ---US/Associate-Engineer--Analytical-AI-Engineering_R1608005) |
-| **Wolverine Trading** | Entry Level C++ Software Engineer | Chicago, IL | 2026-10-31 | [Link](https://www.linkedin.com/jobs/view/4467882411) |
-| **Recruitals** | Junior Software Engineer | Phoenix, AZ | 2026-10-31 | [Link](https://www.linkedin.com/jobs/view/4485686528) |
-| **Netic** | Software Engineer (Agent Platform) - New Grad - 2026-2027 | San Francisco, CA | 2026-10-31 | [Link](https://www.linkedin.com/jobs/view/4438446984) |
-| **Dark Matter Technologies** | Software Engineer I | Jacksonville, FL | 2026-10-31 | [Link](https://www.linkedin.com/jobs/view/4468078979) |
-| **Amazon** | Software Development Engineer (Database) Early Career- 2027 (US) | Austin, TX | 2026-10-31 | [Link](https://www.linkedin.com/jobs/view/4485677971) |
-| **Amazon** | Software Development Engineer (Database) Early Career- 2027 (US) | Boston, MA | 2026-10-31 | [Link](https://www.linkedin.com/jobs/view/4485694659) |
-| **Amazon** | Software Development Engineer (Database) Early Career- 2027 (US) | East Palo Alto, CA | 2026-10-31 | [Link](https://www.linkedin.com/jobs/view/4485689739) |
-| **Deloitte** | Palantir Associate Forward Deployed Engineer - GPS | Arlington, VA | 2026-10-31 | [Link](https://www.linkedin.com/jobs/view/4450663837) |
-| **Deloitte** | Palantir Forward Deployed Engineer - GPS | Arlington, VA | 2026-10-31 | [Link](https://www.linkedin.com/jobs/view/4450675516) |
-| **Northrop Grumman** | 2027 Associate Cyber Software Engineer - Pathways Program - Aurora CO | Aurora, CO | 2026-10-30 | [Link](https://www.linkedin.com/jobs/view/4485639523) |
-| **Cantor Fitzgerald** | Associate, Software Developer | New York, NY | 2026-10-30 | [Link](https://www.linkedin.com/jobs/view/4484895056) |
-| **Avathon** | Forward Deployed AI Engineer | Pleasanton, CA | 2026-10-30 | [Link](https://www.linkedin.com/jobs/view/4392023585) |
-| **NVIDIA** | ASIC Verification Engineer New Grad | Austin, TX; Santa Clara, CA | 2026-09-28 | [Link](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/ASIC-Verification-Engineer---New-College-Grad-2027_JR2026343) |
+| **Harvey** | Software Engineer, New Grad (2027) | San Francisco, CA | 2026-10-31 | [Link](https://www.linkedin.com/jobs/view/4485151618) |
+| **Harvey** | Software Engineer, New Grad (2027) | New York, United States | 2026-10-31 | [Link](https://www.linkedin.com/jobs/view/4485159566) |
+| **Johns Hopkins Applied Physics Laboratory** | 2027 Graduate - Software Systems Engineer | Laurel, MD | 2026-10-30 | [Link](https://www.linkedin.com/jobs/view/4483090877) |
+| **Urban Science** | Associate Software Engineer | Detroit, MI | 2026-10-30 | [Link](https://www.linkedin.com/jobs/view/4485100022) |
+| **Northrop Grumman** | 2027 Associate Software Engineer / Software Engineer - Huntsville AL | Huntsville, AL | 2026-10-29 | [Link](https://www.linkedin.com/jobs/view/4482583787) |
 
 ## 🎯 Explicit 2027 openings
 
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
+| Harvey | Software Engineer, New Grad (2027) | San Francisco, CA | 2026-10-31 | [Link](https://www.linkedin.com/jobs/view/4485151618) |
+| Harvey | Software Engineer, New Grad (2027) | New York, United States | 2026-10-31 | [Link](https://www.linkedin.com/jobs/view/4485159566) |
 | Netic | Software Engineer (Agent Platform) - New Grad - 2026-2027 | San Francisco, CA | 2026-10-31 | [Link](https://www.linkedin.com/jobs/view/4438446984) |
 | Amazon | Software Development Engineer (Database) Early Career- 2027 (US) | Austin, TX | 2026-10-31 | [Link](https://www.linkedin.com/jobs/view/4485677971) |
 | Amazon | Software Development Engineer (Database) Early Career- 2027 (US) | Boston, MA | 2026-10-31 | [Link](https://www.linkedin.com/jobs/view/4485694659) |
@@ -62,12 +54,12 @@ Showing **US** postings, newest first.
 | Northrop Grumman | 2027 Associate Cyber Software Engineer - Pathways Program - Aurora CO | Aurora, CO | 2026-10-30 | [Link](https://www.linkedin.com/jobs/view/4485639523) |
 | Netic | Full-Stack Software Engineer (Product) - New Grad - 2026-2027 | San Francisco, CA | 2026-10-30 | [Link](https://www.linkedin.com/jobs/view/4438463495) |
 | JPMorganChase | 2027 Software Engineer Program - Full-Time - United States - February Start | Chicago, IL | 2026-10-30 | [Link](https://www.linkedin.com/jobs/view/4448304463) |
-| TikTok USDS Joint Venture | Software Engineer Graduate (Tech and Product, USDS) - 2027 Start | San Jose, CA | 2026-10-29 | [Link](https://www.linkedin.com/jobs/view/4446630171) |
+| Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Software Systems Engineer | Laurel, MD | 2026-10-30 | [Link](https://www.linkedin.com/jobs/view/4483090877) |
 | The Voleon Group | Software Engineer - University Hire 2027 | New York, NY | 2026-10-29 | [Link](https://www.linkedin.com/jobs/view/4459019869) |
 | The Voleon Group | Software Engineer - University Hire 2027 | Berkeley, CA | 2026-10-29 | [Link](https://www.linkedin.com/jobs/view/4459034091) |
 | JPMorganChase | 2027 Software Engineer Program - Full-Time - United States - July Start | Chicago, IL | 2026-10-29 | [Link](https://www.linkedin.com/jobs/view/4448194736) |
-| BAE Systems, Inc. | 2027 Entry Level Software Engineer | San Diego, CA | 2026-10-28 | [Link](https://www.linkedin.com/jobs/view/4465215805) |
-| NOV | Associate Software Engineer - Pathway (June 2027 & January 2027) | Houston, TX | 2026-10-28 | [Link](https://www.linkedin.com/jobs/view/4465927340) |
+| Northrop Grumman | 2027 Associate Software Engineer / Software Engineer - Huntsville AL | Huntsville, AL | 2026-10-29 | [Link](https://www.linkedin.com/jobs/view/4482583787) |
+| TikTok USDS Joint Venture | Software Engineer Graduate (Tech and Product, USDS) - 2027 Start | San Jose, CA | 2026-10-29 | [Link](https://www.linkedin.com/jobs/view/4446630171) |
 | TikTok | Software Engineer Graduate - Data Ecosystem - 2027 Start | San Jose, CA | 2026-10-14 | [Link](https://lifeattiktok.com/search/7685769994391832837) |
 | C3.ai | Forward Deployed Engineer New Grad - 2027 | Redwood City, CA | 2026-09-14 | [Link](https://c3.ai/job-description/8804558002?gh_jid=8804558002) |
 | Anysphere | Software Engineer New Grad - 2027 | NYC | 2026-09-10 | [Link](https://jobs.ashbyhq.com/cursor/d0e5b41d-84ab-4887-bd3a-55589b11dd7b/application?embed=true) |
@@ -93,9 +85,11 @@ Showing **US** postings, newest first.
 | Northrop Grumman | Associate Software Engineer | Hollywood, MD | 2026-10-31 | [Link](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Hollywood/Associate-Software-Engineer---Hollywood--MD-_R10258018) |
 | Bristol Myers Squibb | Associate Engineer - Analytical AI Engineering | Princeton, NJ | 2026-10-31 | [Link](https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Princeton---NJ---US/Associate-Engineer--Analytical-AI-Engineering_R1608005) |
 | Wolverine Trading | Entry Level C++ Software Engineer | Chicago, IL | 2026-10-31 | [Link](https://www.linkedin.com/jobs/view/4467882411) |
+| Harvey | Software Engineer, New Grad (2027) | San Francisco, CA | 2026-10-31 | [Link](https://www.linkedin.com/jobs/view/4485151618) |
+| Harvey | Software Engineer, New Grad (2027) | New York, United States | 2026-10-31 | [Link](https://www.linkedin.com/jobs/view/4485159566) |
 | Recruitals | Junior Software Engineer | Phoenix, AZ | 2026-10-31 | [Link](https://www.linkedin.com/jobs/view/4485686528) |
-| Netic | Software Engineer (Agent Platform) - New Grad - 2026-2027 | San Francisco, CA | 2026-10-31 | [Link](https://www.linkedin.com/jobs/view/4438446984) |
 | Dark Matter Technologies | Software Engineer I | Jacksonville, FL | 2026-10-31 | [Link](https://www.linkedin.com/jobs/view/4468078979) |
+| Netic | Software Engineer (Agent Platform) - New Grad - 2026-2027 | San Francisco, CA | 2026-10-31 | [Link](https://www.linkedin.com/jobs/view/4438446984) |
 | Amazon | Software Development Engineer (Database) Early Career- 2027 (US) | Austin, TX | 2026-10-31 | [Link](https://www.linkedin.com/jobs/view/4485677971) |
 | Amazon | Software Development Engineer (Database) Early Career- 2027 (US) | Boston, MA | 2026-10-31 | [Link](https://www.linkedin.com/jobs/view/4485694659) |
 | Amazon | Software Development Engineer (Database) Early Career- 2027 (US) | East Palo Alto, CA | 2026-10-31 | [Link](https://www.linkedin.com/jobs/view/4485689739) |
@@ -153,14 +147,14 @@ Showing **US** postings, newest first.
 | Northrop Grumman | 2027 Associate Cyber Software Engineer - Pathways Program - Aurora CO | Aurora, CO | 2026-10-30 | [Link](https://www.linkedin.com/jobs/view/4485639523) |
 | Netic | Full-Stack Software Engineer (Product) - New Grad - 2026-2027 | San Francisco, CA | 2026-10-30 | [Link](https://www.linkedin.com/jobs/view/4438463495) |
 | JPMorganChase | 2027 Software Engineer Program - Full-Time - United States - February Start | Chicago, IL | 2026-10-30 | [Link](https://www.linkedin.com/jobs/view/4448304463) |
-| Sandisk | Associate Software Engineer - Consumer Application | Milpitas, CA | 2026-10-30 | [Link](https://www.linkedin.com/jobs/view/4478378313) |
+| Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Software Systems Engineer | Laurel, MD | 2026-10-30 | [Link](https://www.linkedin.com/jobs/view/4483090877) |
 | Lockheed Martin | Software Engineer - Early Career | Rockville, MD | 2026-10-30 | [Link](https://www.linkedin.com/jobs/view/4483469587) |
-| Cantor Fitzgerald | Associate, Software Developer | New York, NY | 2026-10-30 | [Link](https://www.linkedin.com/jobs/view/4484895056) |
+| Sandisk | Associate Software Engineer - Consumer Application | Milpitas, CA | 2026-10-30 | [Link](https://www.linkedin.com/jobs/view/4478378313) |
 | Intelliforce-IT Solutions Group, LLC. | Junior Software Engineer (Prime) | Annapolis Junction, MD | 2026-10-30 | [Link](https://www.linkedin.com/jobs/view/4485287461) |
+| Urban Science | Associate Software Engineer | Detroit, MI | 2026-10-30 | [Link](https://www.linkedin.com/jobs/view/4485100022) |
 | Reducto | Forward Deployed Engineer | San Francisco, CA | 2026-10-30 | [Link](https://www.linkedin.com/jobs/view/4338954885) |
 | Cohere | Forward Deployed Engineer, Agentic Platform | New York, NY | 2026-10-30 | [Link](https://www.linkedin.com/jobs/view/4423810353) |
 | Scout Global | Founding Forward Deployed Engineer | New York, United States | 2026-10-30 | [Link](https://www.linkedin.com/jobs/view/4480080030) |
-| Underdog: Verified engineers. Interview-ready. Searching confidentially. And companies apply to you | Forward Deployed Engineer | New York City Metropolitan Area | 2026-10-30 | [Link](https://www.linkedin.com/jobs/view/4483545968) |
 | Isembard | Forward Deployed Engineer | Dallas, TX | 2026-10-30 | [Link](https://www.linkedin.com/jobs/view/4483049959) |
 | NextPath Workforce Solutions | Forward Deployed Engineer & Agentic Workflow Engineer (6052) | Tampa, FL | 2026-10-30 | [Link](https://www.linkedin.com/jobs/view/4484806121) |
 | H Company | Founding Forward Deployed Engineer - US | San Francisco, CA | 2026-10-30 | [Link](https://www.linkedin.com/jobs/view/4457272927) |
@@ -196,17 +190,18 @@ Showing **US** postings, newest first.
 | Stripe | Software Engineer, New Grad | San Francisco, Seattle, New York | 2026-10-29 | [Link](https://stripe.com/jobs/search?gh_jid=8128744) |
 | IXL Learning | Software Engineer, New Grad | San Mateo, CA | 2026-10-29 | [Link](https://www.linkedin.com/jobs/view/4475714525) |
 | Principal Financial Group | Software Engineer I | Des Moines, IA | 2026-10-29 | [Link](https://www.linkedin.com/jobs/view/4485217469) |
-| TikTok USDS Joint Venture | Software Engineer Graduate (Tech and Product, USDS) - 2027 Start | San Jose, CA | 2026-10-29 | [Link](https://www.linkedin.com/jobs/view/4446630171) |
 | The Voleon Group | Software Engineer - University Hire 2027 | New York, NY | 2026-10-29 | [Link](https://www.linkedin.com/jobs/view/4459019869) |
 | The Voleon Group | Software Engineer - University Hire 2027 | Berkeley, CA | 2026-10-29 | [Link](https://www.linkedin.com/jobs/view/4459034091) |
 | JPMorganChase | 2027 Software Engineer Program - Full-Time - United States - July Start | Chicago, IL | 2026-10-29 | [Link](https://www.linkedin.com/jobs/view/4448194736) |
+| Northrop Grumman | 2027 Associate Software Engineer / Software Engineer - Huntsville AL | Huntsville, AL | 2026-10-29 | [Link](https://www.linkedin.com/jobs/view/4482583787) |
 | Northrop Grumman | Associate Software Engineer (BM/SRM) (26-464) | Huntsville, AL | 2026-10-29 | [Link](https://www.linkedin.com/jobs/view/4482590497) |
 | Collins Aerospace | Software Engineer I (Onsite) | San Jose, CA | 2026-10-29 | [Link](https://www.linkedin.com/jobs/view/4485246919) |
 | Garmin | Software Engineer 1 - Web Applications | Olathe, KS | 2026-10-29 | [Link](https://www.linkedin.com/jobs/view/4476799587) |
+| TikTok USDS Joint Venture | Software Engineer Graduate (Tech and Product, USDS) - 2027 Start | San Jose, CA | 2026-10-29 | [Link](https://www.linkedin.com/jobs/view/4446630171) |
 | Lockheed Martin | Software Engineer Asc - Early Career | King of Prussia, PA | 2026-10-29 | [Link](https://www.linkedin.com/jobs/view/4483052617) |
 | Trail | Forward Deployed Engineer | Palo Alto, CA | 2026-10-29 | [Link](https://www.linkedin.com/jobs/view/4485240274) |
-| Cohere | Forward Deployed Engineer, Agentic Platform | San Francisco, CA | 2026-10-29 | [Link](https://www.linkedin.com/jobs/view/4319336681) |
 | Blitzy | Forward Deployed Engineer | Cambridge, MA | 2026-10-29 | [Link](https://www.linkedin.com/jobs/view/4422100443) |
+| Cohere | Forward Deployed Engineer, Agentic Platform | San Francisco, CA | 2026-10-29 | [Link](https://www.linkedin.com/jobs/view/4319336681) |
 | StarTree | Software Engineer 1 | Remote in USA | 2026-10-28 | [Link](https://job-boards.greenhouse.io/startree/jobs/6235909004) |
 | Leidos | Junior Software Engineer | Bethesda, MD | 2026-10-28 | [Link](https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Jr-Software-Engineer_R-00195656) |
 | Tyson Foods | Data Engineer 1 | Springdale, AR | 2026-10-28 | [Link](https://tysonfoods.wd5.myworkdayjobs.com/TSN/job/Tyson-Emma---Springdale-Arkansas/Data-Engineer-I---Onsite-_R0492784-2) |
@@ -217,18 +212,11 @@ Showing **US** postings, newest first.
 | Rocket Lab Corporation | Harness Design Engineer 1 | Long Beach, CA | 2026-10-28 | [Link](https://job-boards.greenhouse.io/rocketlab/jobs/8055821003) |
 | Astronics | Electrical Engineer 1 | Clackamas County, OR | 2026-10-28 | [Link](https://job-boards.greenhouse.io/astronicscorporation/jobs/4470247009) |
 | Databricks | AI Engineer – Forward Deployed Engineering (AI FDE) | United States | 2026-10-28 | [Link](https://databricks.com/company/careers/open-positions/job?gh_jid=8546367002) |
-| Spatial Front, Inc | Associate Software Developer — Recent Graduates | Arlington, VA | 2026-10-28 | [Link](https://www.linkedin.com/jobs/view/4438972097) |
 | Service Insurance Companies | Software Engineer I | Austin, TX | 2026-10-28 | [Link](https://www.linkedin.com/jobs/view/4484131380) |
-| USAA | Software Engineer - Entry Level | Plano, TX | 2026-10-28 | [Link](https://www.linkedin.com/jobs/view/4482551898) |
-| BAE Systems, Inc. | 2027 Entry Level Software Engineer | San Diego, CA | 2026-10-28 | [Link](https://www.linkedin.com/jobs/view/4465215805) |
-| NOV | Associate Software Engineer - Pathway (June 2027 & January 2027) | Houston, TX | 2026-10-28 | [Link](https://www.linkedin.com/jobs/view/4465927340) |
 | Priceline | Junior Software Engineer | New York, United States | 2026-10-28 | [Link](https://www.linkedin.com/jobs/view/4484132721) |
 | USAA | Software Engineer - Entry Level | San Antonio, TX | 2026-10-28 | [Link](https://www.linkedin.com/jobs/view/4482565497) |
-| Choice Hotels International | Software Engineer 1, Mobile Apps - Kotlin exposure required | Scottsdale, AZ | 2026-10-28 | [Link](https://www.linkedin.com/jobs/view/4458581381) |
 | Fonzi AI | Founding Forward Deployed Engineer | New York City Metropolitan Area | 2026-10-28 | [Link](https://www.linkedin.com/jobs/view/4484146499) |
 | Fonzi AI | Forward Deployed Engineer | New York City Metropolitan Area | 2026-10-28 | [Link](https://www.linkedin.com/jobs/view/4484145486) |
-| Replit | Forward Deployed Engineer | Foster City, CA | 2026-10-28 | [Link](https://www.linkedin.com/jobs/view/4457403552) |
-| Dataminr | Forward Deployed Engineer | United States | 2026-10-28 | [Link](https://www.linkedin.com/jobs/view/4474462041) |
 | CrossCountry Consulting | Forward Deployed Software Engineer New Grad | NYC | 2026-10-27 | [Link](https://jobs.lever.co/crosscountry-consulting/f294b6dd-b2dc-46c5-9139-9ba93163ba5c/apply) |
 | CrossCountry Consulting | Forward Deployed Software Engineer New Grad | Chicago, IL | 2026-10-27 | [Link](https://jobs.lever.co/crosscountry-consulting/10ecb553-0393-4e7b-af5a-88a1947a0769/apply) |
 | CrossCountry Consulting | Forward Deployed Software Engineer New Grad | Chicago, IL | 2026-10-27 | [Link](https://jobs.lever.co/crosscountry-consulting/eb6ab6cf-6f93-486f-b4bf-6137bc67feb7/apply) |

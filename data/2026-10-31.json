@@ -48,6 +48,30 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4485151618",
+    "company": "Harvey",
+    "title": "Software Engineer, New Grad (2027)",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4485151618",
+    "sponsorship": "",
+    "posted": "2026-10-31",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4485159566",
+    "company": "Harvey",
+    "title": "Software Engineer, New Grad (2027)",
+    "locations": [
+      "New York, United States"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4485159566",
+    "sponsorship": "",
+    "posted": "2026-10-31",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4485686528",
     "company": "Recruitals",
     "title": "Junior Software Engineer",
@@ -60,18 +84,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4438446984",
-    "company": "Netic",
-    "title": "Software Engineer (Agent Platform) - New Grad - 2026-2027",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4438446984",
-    "sponsorship": "",
-    "posted": "2026-10-31",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4468078979",
     "company": "Dark Matter Technologies",
     "title": "Software Engineer I",
@@ -79,6 +91,18 @@
       "Jacksonville, FL"
     ],
     "url": "https://www.linkedin.com/jobs/view/4468078979",
+    "sponsorship": "",
+    "posted": "2026-10-31",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4438446984",
+    "company": "Netic",
+    "title": "Software Engineer (Agent Platform) - New Grad - 2026-2027",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4438446984",
     "sponsorship": "",
     "posted": "2026-10-31",
     "source": "LinkedIn"
@@ -769,13 +793,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4478378313",
-    "company": "Sandisk",
-    "title": "Associate Software Engineer - Consumer Application",
+    "id": "linkedin-4483090877",
+    "company": "Johns Hopkins Applied Physics Laboratory",
+    "title": "2027 Graduate - Software Systems Engineer",
     "locations": [
-      "Milpitas, CA"
+      "Laurel, MD"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4478378313",
+    "url": "https://www.linkedin.com/jobs/view/4483090877",
     "sponsorship": "",
     "posted": "2026-10-30",
     "source": "LinkedIn"
@@ -793,13 +817,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4484895056",
-    "company": "Cantor Fitzgerald",
-    "title": "Associate, Software Developer",
+    "id": "linkedin-4478378313",
+    "company": "Sandisk",
+    "title": "Associate Software Engineer - Consumer Application",
     "locations": [
-      "New York, NY"
+      "Milpitas, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4484895056",
+    "url": "https://www.linkedin.com/jobs/view/4478378313",
     "sponsorship": "",
     "posted": "2026-10-30",
     "source": "LinkedIn"
@@ -812,6 +836,18 @@
       "Annapolis Junction, MD"
     ],
     "url": "https://www.linkedin.com/jobs/view/4485287461",
+    "sponsorship": "",
+    "posted": "2026-10-30",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4485100022",
+    "company": "Urban Science",
+    "title": "Associate Software Engineer",
+    "locations": [
+      "Detroit, MI"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4485100022",
     "sponsorship": "",
     "posted": "2026-10-30",
     "source": "LinkedIn"
@@ -848,18 +884,6 @@
       "New York, United States"
     ],
     "url": "https://www.linkedin.com/jobs/view/4480080030",
-    "sponsorship": "",
-    "posted": "2026-10-30",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4483545968",
-    "company": "Underdog: Verified engineers. Interview-ready. Searching confidentially. And companies apply to you",
-    "title": "Forward Deployed Engineer",
-    "locations": [
-      "New York City Metropolitan Area"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4483545968",
     "sponsorship": "",
     "posted": "2026-10-30",
     "source": "LinkedIn"
@@ -1288,18 +1312,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4446630171",
-    "company": "TikTok USDS Joint Venture",
-    "title": "Software Engineer Graduate (Tech and Product, USDS) - 2027 Start",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4446630171",
-    "sponsorship": "",
-    "posted": "2026-10-29",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4459019869",
     "company": "The Voleon Group",
     "title": "Software Engineer - University Hire 2027",
@@ -1331,6 +1343,18 @@
       "Chicago, IL"
     ],
     "url": "https://www.linkedin.com/jobs/view/4448194736",
+    "sponsorship": "",
+    "posted": "2026-10-29",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4482583787",
+    "company": "Northrop Grumman",
+    "title": "2027 Associate Software Engineer / Software Engineer - Huntsville AL",
+    "locations": [
+      "Huntsville, AL"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4482583787",
     "sponsorship": "",
     "posted": "2026-10-29",
     "source": "LinkedIn"
@@ -1372,6 +1396,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4446630171",
+    "company": "TikTok USDS Joint Venture",
+    "title": "Software Engineer Graduate (Tech and Product, USDS) - 2027 Start",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4446630171",
+    "sponsorship": "",
+    "posted": "2026-10-29",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4483052617",
     "company": "Lockheed Martin",
     "title": "Software Engineer Asc - Early Career",
@@ -1396,18 +1432,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4319336681",
-    "company": "Cohere",
-    "title": "Forward Deployed Engineer, Agentic Platform",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4319336681",
-    "sponsorship": "",
-    "posted": "2026-10-29",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4422100443",
     "company": "Blitzy",
     "title": "Forward Deployed Engineer",
@@ -1415,6 +1439,18 @@
       "Cambridge, MA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4422100443",
+    "sponsorship": "",
+    "posted": "2026-10-29",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4319336681",
+    "company": "Cohere",
+    "title": "Forward Deployed Engineer, Agentic Platform",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4319336681",
     "sponsorship": "",
     "posted": "2026-10-29",
     "source": "LinkedIn"
@@ -1540,18 +1576,6 @@
     "source": "Greenhouse"
   },
   {
-    "id": "linkedin-4438972097",
-    "company": "Spatial Front, Inc",
-    "title": "Associate Software Developer \u2014 Recent Graduates",
-    "locations": [
-      "Arlington, VA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4438972097",
-    "sponsorship": "",
-    "posted": "2026-10-28",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4484131380",
     "company": "Service Insurance Companies",
     "title": "Software Engineer I",
@@ -1559,42 +1583,6 @@
       "Austin, TX"
     ],
     "url": "https://www.linkedin.com/jobs/view/4484131380",
-    "sponsorship": "",
-    "posted": "2026-10-28",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4482551898",
-    "company": "USAA",
-    "title": "Software Engineer - Entry Level",
-    "locations": [
-      "Plano, TX"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4482551898",
-    "sponsorship": "",
-    "posted": "2026-10-28",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4465215805",
-    "company": "BAE Systems, Inc.",
-    "title": "2027 Entry Level Software Engineer",
-    "locations": [
-      "San Diego, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4465215805",
-    "sponsorship": "",
-    "posted": "2026-10-28",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4465927340",
-    "company": "NOV",
-    "title": "Associate Software Engineer - Pathway (June 2027 & January 2027)",
-    "locations": [
-      "Houston, TX"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4465927340",
     "sponsorship": "",
     "posted": "2026-10-28",
     "source": "LinkedIn"
@@ -1624,18 +1612,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4458581381",
-    "company": "Choice Hotels International",
-    "title": "Software Engineer 1, Mobile Apps - Kotlin exposure required",
-    "locations": [
-      "Scottsdale, AZ"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4458581381",
-    "sponsorship": "",
-    "posted": "2026-10-28",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4484146499",
     "company": "Fonzi AI",
     "title": "Founding Forward Deployed Engineer",
@@ -1655,30 +1631,6 @@
       "New York City Metropolitan Area"
     ],
     "url": "https://www.linkedin.com/jobs/view/4484145486",
-    "sponsorship": "",
-    "posted": "2026-10-28",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4457403552",
-    "company": "Replit",
-    "title": "Forward Deployed Engineer",
-    "locations": [
-      "Foster City, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4457403552",
-    "sponsorship": "",
-    "posted": "2026-10-28",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4474462041",
-    "company": "Dataminr",
-    "title": "Forward Deployed Engineer",
-    "locations": [
-      "United States"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4474462041",
     "sponsorship": "",
     "posted": "2026-10-28",
     "source": "LinkedIn"
