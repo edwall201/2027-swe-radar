@@ -1,5 +1,17 @@
 [
   {
+    "id": "simplify-7fb700ca-fd7e-419b-ad41-9969c81c94b6",
+    "company": "Amazon",
+    "title": "Hardware Development Engineer 1 - Drone Engineering",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "url": "https://amazon.jobs/en/jobs/10593930/hardware-dev-engineer-i-prime-air-drone-engineering",
+    "sponsorship": "Other",
+    "posted": "2026-10-31",
+    "source": "SimplifyJobs"
+  },
+  {
     "id": "simplify-23eb3ce6-e1fc-472c-a546-e4b2a19212cd",
     "company": "Verizon Communications",
     "title": "Engineer 1 - Systems Engineering (Generative AI & Agentic Systems)",
@@ -620,18 +632,6 @@
       "Rockville, MD"
     ],
     "url": "https://www.linkedin.com/jobs/view/4483469587",
-    "sponsorship": "",
-    "posted": "2026-10-30",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4484895056",
-    "company": "Cantor Fitzgerald",
-    "title": "Associate, Software Developer",
-    "locations": [
-      "New York, NY"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4484895056",
     "sponsorship": "",
     "posted": "2026-10-30",
     "source": "LinkedIn"
@@ -1480,6 +1480,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4465927340",
+    "company": "NOV",
+    "title": "Associate Software Engineer - Pathway (June 2027 & January 2027)",
+    "locations": [
+      "Houston, TX"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4465927340",
+    "sponsorship": "",
+    "posted": "2026-10-28",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4465215805",
     "company": "BAE Systems, Inc.",
     "title": "2027 Entry Level Software Engineer",
@@ -1528,18 +1540,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4465927340",
-    "company": "NOV",
-    "title": "Associate Software Engineer - Pathway (June 2027 & January 2027)",
-    "locations": [
-      "Houston, TX"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4465927340",
-    "sponsorship": "",
-    "posted": "2026-10-28",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4484132721",
     "company": "Priceline",
     "title": "Junior Software Engineer",
@@ -1559,6 +1559,18 @@
       "Scottsdale, AZ"
     ],
     "url": "https://www.linkedin.com/jobs/view/4458581381",
+    "sponsorship": "",
+    "posted": "2026-10-28",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4475144348",
+    "company": "Affirm",
+    "title": "Software Engineer, Early Career (NYC)",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4475144348",
     "sponsorship": "",
     "posted": "2026-10-28",
     "source": "LinkedIn"
@@ -2753,18 +2765,6 @@
       "San Jose, CA"
     ],
     "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6224936004",
-    "sponsorship": "Other",
-    "posted": "2026-10-20",
-    "source": "SimplifyJobs"
-  },
-  {
-    "id": "simplify-963252de-9a8b-4252-96fc-c23cf2666ba3",
-    "company": "L3Harris Technologies",
-    "title": "Associate Software Engineer",
-    "locations": [
-      "Colorado Springs, CO"
-    ],
-    "url": "https://jobs.l3harris.com/job/Colorado-Springs-Associate,-Software-Engineer-CO-80916/1441835200/?ats=successfactors",
     "sponsorship": "Other",
     "posted": "2026-10-20",
     "source": "SimplifyJobs"
@@ -4132,6 +4132,18 @@
     "source": "SimplifyJobs"
   },
   {
+    "id": "simplify-d75e4831-45fb-4724-81c5-15fd96805076",
+    "company": "Peraton",
+    "title": "Artificial Intelligence/Machine Learning Engineer 1 - Top Secret/SCI w/Poly",
+    "locations": [
+      "Laurel, MD"
+    ],
+    "url": "https://peraton.jibeapply.com/jobs/171539?icims=1",
+    "sponsorship": "Other",
+    "posted": "2026-10-02",
+    "source": "SimplifyJobs"
+  },
+  {
     "id": "simplify-7e5f1121-5fb4-4ef7-a71e-727b0e183363",
     "company": "Amazon",
     "title": "Cloud Hardware Development Engineer 1 \u2013 Early Career",
@@ -4818,6 +4830,18 @@
     "source": "SimplifyJobs"
   },
   {
+    "id": "simplify-86b9a2cc-8f56-4ad1-b7a0-70772dcaa461",
+    "company": "Peraton",
+    "title": "Artificial Intelligence/Machine Learning Engineer 1",
+    "locations": [
+      "Laurel, MD"
+    ],
+    "url": "https://peraton.jibeapply.com/jobs/171011?icims=1",
+    "sponsorship": "Other",
+    "posted": "2026-09-22",
+    "source": "SimplifyJobs"
+  },
+  {
     "id": "simplify-e7950dc2-7cb6-4ca4-bb84-26ff7f459705",
     "company": "Cirrus Logic",
     "title": "Post-Silicon Validation Engineer New Grad - Mixed IC Validation",
@@ -5108,18 +5132,6 @@
     "source": "SimplifyJobs"
   },
   {
-    "id": "simplify-6fe0be80-d6e2-43ee-959c-906a18479dbb",
-    "company": "RTX",
-    "title": "Electrical Engineer 1",
-    "locations": [
-      "McKinney, TX"
-    ],
-    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/Electrical-Engineer-I--Onsite-_01867733",
-    "sponsorship": "Other",
-    "posted": "2026-09-15",
-    "source": "SimplifyJobs"
-  },
-  {
     "id": "simplify-e871e19b-75c1-4804-bc32-171c908a1c55",
     "company": "Analog Devices",
     "title": "Associate Analog Design Engineer",
@@ -5214,18 +5226,6 @@
       "Beverly, MA"
     ],
     "url": "https://axcelis.wd1.myworkdayjobs.com/axcelis/job/Beverly-MA/Eng-SW-Applications-I_11969",
-    "sponsorship": "Other",
-    "posted": "2026-09-15",
-    "source": "SimplifyJobs"
-  },
-  {
-    "id": "simplify-53ccbdf2-b041-4aea-b5ec-d091b05d3b48",
-    "company": "RTX",
-    "title": "Systems Engineer 1",
-    "locations": [
-      "Tewksbury, MA"
-    ],
-    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/Systems-Engineer-I_01874215",
     "sponsorship": "Other",
     "posted": "2026-09-15",
     "source": "SimplifyJobs"
@@ -5442,6 +5442,18 @@
       "Philadelphia, PA"
     ],
     "url": "https://job-boards.greenhouse.io/perpay/jobs/4034578007",
+    "sponsorship": "Other",
+    "posted": "2026-09-10",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-cb9e10b5-3524-40e2-a375-e126d098812e",
+    "company": "Peraton",
+    "title": "Software Engineering Associate",
+    "locations": [
+      "Herndon, VA"
+    ],
+    "url": "https://peraton.jibeapply.com/jobs/170478?icims=1",
     "sponsorship": "Other",
     "posted": "2026-09-10",
     "source": "SimplifyJobs"
@@ -6175,18 +6187,6 @@
     "source": "SimplifyJobs"
   },
   {
-    "id": "simplify-fe751f52-a6e4-4204-990f-387c8238183d",
-    "company": "NVIDIA",
-    "title": "Applied Systems Engineering Rotation Engineer New Grad",
-    "locations": [
-      "Santa Clara, CA"
-    ],
-    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Systems-Engineering-Rotation-Engineer---New-College-Graduate-2026_JR2024713",
-    "sponsorship": "Other",
-    "posted": "2026-09-01",
-    "source": "SimplifyJobs"
-  },
-  {
     "id": "simplify-32ecf2c9-7c90-4e62-8314-ba3518805f67",
     "company": "RTX",
     "title": "FPGA Electrical Engineer 1 - Multi-Product Power & Digital",
@@ -6831,6 +6831,18 @@
     "source": "SimplifyJobs"
   },
   {
+    "id": "simplify-7d4ee985-9d3b-40be-9364-3d7f5c9cee84",
+    "company": "Integration Innovation (i3)",
+    "title": "Entry Level Software Engineer",
+    "locations": [
+      "Huntsville, AL"
+    ],
+    "url": "https://i3-corps.jibeapply.com/jobs/5218?icims=1",
+    "sponsorship": "Other",
+    "posted": "2026-08-21",
+    "source": "SimplifyJobs"
+  },
+  {
     "id": "simplify-52d714b0-b625-4783-b857-83034faa144c",
     "company": "Freeform",
     "title": "Software Engineer New Grad - Summer 2027",
@@ -7380,18 +7392,6 @@
       "Boston, MA"
     ],
     "url": "https://specteraerospace.bamboohr.com/careers/125/",
-    "sponsorship": "Other",
-    "posted": "2026-08-13",
-    "source": "SimplifyJobs"
-  },
-  {
-    "id": "simplify-bf79ce83-617f-414c-a109-b3809235df00",
-    "company": "RTX",
-    "title": "Systems Engineer 1",
-    "locations": [
-      "Marlborough, MA"
-    ],
-    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA1--1001-Boston-Post-Rd--BLDG-1/Systems-Engineer-I_01866673",
     "sponsorship": "Other",
     "posted": "2026-08-13",
     "source": "SimplifyJobs"
