@@ -1,5 +1,29 @@
 [
   {
+    "id": "simplify-61e56b29-9b9f-481a-926e-c653983f3ff8",
+    "company": "Northrop Grumman",
+    "title": "Associate Software Engineer",
+    "locations": [
+      "Huntsville, AL"
+    ],
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Associate-Software-Engineer---Bellevue--NE-_R10258366",
+    "sponsorship": "Other",
+    "posted": "2026-11-01",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-076e4d7b-c105-4b49-866b-5ac1f12ec7b3",
+    "company": "Huntington Ingalls Industries",
+    "title": "Software Engineer 1",
+    "locations": [
+      "Newport News, VA"
+    ],
+    "url": "https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-SOFTWARE-1-Virg/1446380900/?ats=successfactors",
+    "sponsorship": "Other",
+    "posted": "2026-11-01",
+    "source": "SimplifyJobs"
+  },
+  {
     "id": "simplify-7fb700ca-fd7e-419b-ad41-9969c81c94b6",
     "company": "Amazon",
     "title": "Hardware Development Engineer 1 - Drone Engineering",
@@ -84,18 +108,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4438446984",
-    "company": "Netic",
-    "title": "Software Engineer (Agent Platform) - New Grad - 2026-2027",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4438446984",
-    "sponsorship": "",
-    "posted": "2026-10-31",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4485677971",
     "company": "Amazon",
     "title": "Software Development Engineer (Database) Early Career- 2027 (US)",
@@ -132,13 +144,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4450365978",
-    "company": "Freeform",
-    "title": "Software Engineer (New Grad December 2026)",
+    "id": "linkedin-4438446984",
+    "company": "Netic",
+    "title": "Software Engineer (Agent Platform) - New Grad - 2026-2027",
     "locations": [
-      "Los Angeles, CA"
+      "San Francisco, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4450365978",
+    "url": "https://www.linkedin.com/jobs/view/4438446984",
     "sponsorship": "",
     "posted": "2026-10-31",
     "source": "LinkedIn"
@@ -757,18 +769,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4485639523",
-    "company": "Northrop Grumman",
-    "title": "2027 Associate Cyber Software Engineer - Pathways Program - Aurora CO",
-    "locations": [
-      "Aurora, CO"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4485639523",
-    "sponsorship": "",
-    "posted": "2026-10-30",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4448304463",
     "company": "JPMorganChase",
     "title": "2027 Software Engineer Program - Full-Time - United States - February Start",
@@ -829,6 +829,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4485608199",
+    "company": "Nashville Record Pressing",
+    "title": "Junior Software Developer",
+    "locations": [
+      "Nashville, TN"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4485608199",
+    "sponsorship": "",
+    "posted": "2026-10-30",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4478378313",
     "company": "Sandisk",
     "title": "Associate Software Engineer - Consumer Application",
@@ -836,6 +848,18 @@
       "Milpitas, CA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4478378313",
+    "sponsorship": "",
+    "posted": "2026-10-30",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4476211085",
+    "company": "Twitch",
+    "title": "Software Engineer I",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4476211085",
     "sponsorship": "",
     "posted": "2026-10-30",
     "source": "LinkedIn"
@@ -908,18 +932,6 @@
       "New York City Metropolitan Area"
     ],
     "url": "https://www.linkedin.com/jobs/view/4485332362",
-    "sponsorship": "",
-    "posted": "2026-10-30",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4483747075",
-    "company": "Quadric",
-    "title": "Forward Deployed Engineer",
-    "locations": [
-      "United States"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4483747075",
     "sponsorship": "",
     "posted": "2026-10-30",
     "source": "LinkedIn"
@@ -1300,37 +1312,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4459019869",
-    "company": "The Voleon Group",
-    "title": "Software Engineer - University Hire 2027",
+    "id": "linkedin-4446630171",
+    "company": "TikTok USDS Joint Venture",
+    "title": "Software Engineer Graduate (Tech and Product, USDS) - 2027 Start",
     "locations": [
-      "New York, NY"
+      "San Jose, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4459019869",
-    "sponsorship": "",
-    "posted": "2026-10-29",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4459034091",
-    "company": "The Voleon Group",
-    "title": "Software Engineer - University Hire 2027",
-    "locations": [
-      "Berkeley, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4459034091",
-    "sponsorship": "",
-    "posted": "2026-10-29",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4483074285",
-    "company": "Applied Materials",
-    "title": "2027 Software Engineer New College Grad (Bachelor's) - Gloucester, MA",
-    "locations": [
-      "Gloucester, MA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4483074285",
+    "url": "https://www.linkedin.com/jobs/view/4446630171",
     "sponsorship": "",
     "posted": "2026-10-29",
     "source": "LinkedIn"
@@ -1348,49 +1336,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4482583787",
-    "company": "Northrop Grumman",
-    "title": "2027 Associate Software Engineer / Software Engineer - Huntsville AL",
+    "id": "linkedin-4483074285",
+    "company": "Applied Materials",
+    "title": "2027 Software Engineer New College Grad (Bachelor's) - Gloucester, MA",
     "locations": [
-      "Huntsville, AL"
+      "Gloucester, MA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4482583787",
-    "sponsorship": "",
-    "posted": "2026-10-29",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4446630171",
-    "company": "TikTok USDS Joint Venture",
-    "title": "Software Engineer Graduate (Tech and Product, USDS) - 2027 Start",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4446630171",
-    "sponsorship": "",
-    "posted": "2026-10-29",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4482590497",
-    "company": "Northrop Grumman",
-    "title": "Associate Software Engineer (BM/SRM) (26-464)",
-    "locations": [
-      "Huntsville, AL"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4482590497",
-    "sponsorship": "",
-    "posted": "2026-10-29",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4476799587",
-    "company": "Garmin",
-    "title": "Software Engineer 1 - Web Applications",
-    "locations": [
-      "Olathe, KS"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4476799587",
+    "url": "https://www.linkedin.com/jobs/view/4483074285",
     "sponsorship": "",
     "posted": "2026-10-29",
     "source": "LinkedIn"
@@ -1403,30 +1355,6 @@
       "Raleigh, NC"
     ],
     "url": "https://www.linkedin.com/jobs/view/4381470221",
-    "sponsorship": "",
-    "posted": "2026-10-29",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4483052617",
-    "company": "Lockheed Martin",
-    "title": "Software Engineer Asc - Early Career",
-    "locations": [
-      "King of Prussia, PA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4483052617",
-    "sponsorship": "",
-    "posted": "2026-10-29",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4482583791",
-    "company": "Northrop Grumman",
-    "title": "2027 Associate Software Engineer - Boulder CO",
-    "locations": [
-      "Boulder, CO"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4482583791",
     "sponsorship": "",
     "posted": "2026-10-29",
     "source": "LinkedIn"
@@ -4976,18 +4904,6 @@
     "source": "SimplifyJobs"
   },
   {
-    "id": "simplify-47a96922-379a-4165-bf1d-40ed463a6341",
-    "company": "ASSA ABLOY",
-    "title": "Associate Engineer",
-    "locations": [
-      "Berlin, CT"
-    ],
-    "url": "https://assaabloy.jobs2web.com/job/Berlin-Associate-Engineer-CT-06037/1438188233/?ats=successfactors",
-    "sponsorship": "Other",
-    "posted": "2026-09-17",
-    "source": "SimplifyJobs"
-  },
-  {
     "id": "simplify-60fb4a82-e6e7-4b2d-977d-988168533f66",
     "company": "AspenTech",
     "title": "Software Developer 1 - Asset Performance Management",
@@ -5704,54 +5620,6 @@
     "source": "SimplifyJobs"
   },
   {
-    "id": "simplify-a6080c21-a844-48d7-bcc9-8a240ddd19e1",
-    "company": "American Express",
-    "title": "Software Engineer 1 - Enterprise Technology Services",
-    "locations": [
-      "NYC"
-    ],
-    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012796",
-    "sponsorship": "Other",
-    "posted": "2026-09-02",
-    "source": "SimplifyJobs"
-  },
-  {
-    "id": "simplify-3ac23f64-3bc0-4c25-b393-ae5479c685a1",
-    "company": "American Express",
-    "title": "AI Engineer 1 - Enterprise Technology Services",
-    "locations": [
-      "NYC"
-    ],
-    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012987",
-    "sponsorship": "Other",
-    "posted": "2026-09-02",
-    "source": "SimplifyJobs"
-  },
-  {
-    "id": "simplify-8fe18f9d-3000-46c6-9efd-07b60d9fe92c",
-    "company": "American Express",
-    "title": "AI Engineer 1 - Enterprise Technology Services",
-    "locations": [
-      "Sunrise, FL"
-    ],
-    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012985",
-    "sponsorship": "Other",
-    "posted": "2026-09-02",
-    "source": "SimplifyJobs"
-  },
-  {
-    "id": "simplify-a05f7ff0-b31a-4040-8bf7-7524f288eb14",
-    "company": "American Express",
-    "title": "AI Engineer 1 - Enterprise Technology Services",
-    "locations": [
-      "NYC"
-    ],
-    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012982",
-    "sponsorship": "Other",
-    "posted": "2026-09-02",
-    "source": "SimplifyJobs"
-  },
-  {
     "id": "simplify-7ff44f5f-836a-4ac9-b33c-935e0b4281ae",
     "company": "American Express",
     "title": "Software Engineer 1 - Enterprise Technology Services",
@@ -5759,18 +5627,6 @@
       "Charlotte, NC"
     ],
     "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012869",
-    "sponsorship": "Other",
-    "posted": "2026-09-02",
-    "source": "SimplifyJobs"
-  },
-  {
-    "id": "simplify-40c50ca0-ce27-4a13-8cc4-4633271be5ef",
-    "company": "American Express",
-    "title": "AI Engineer 1 - Enterprise Technology Services",
-    "locations": [
-      "Sunrise, FL"
-    ],
-    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012988",
     "sponsorship": "Other",
     "posted": "2026-09-02",
     "source": "SimplifyJobs"
@@ -5942,78 +5798,6 @@
       "Laurel, MD"
     ],
     "url": "https://careers.jhuapl.edu/jobs/59848?icims=1",
-    "sponsorship": "Other",
-    "posted": "2026-09-01",
-    "source": "SimplifyJobs"
-  },
-  {
-    "id": "simplify-5d90e270-511f-4fcd-9c2f-410f252cea8b",
-    "company": "American Express",
-    "title": "AI Engineer 1 - Enterprise Technology Services",
-    "locations": [
-      "Palo Alto, CA"
-    ],
-    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013256",
-    "sponsorship": "Other",
-    "posted": "2026-09-01",
-    "source": "SimplifyJobs"
-  },
-  {
-    "id": "simplify-50450ca8-ee7c-4620-b0bc-1cc5d8fe2776",
-    "company": "American Express",
-    "title": "AI Engineer 1 - Enterprise Technology Services",
-    "locations": [
-      "Atlanta, GA"
-    ],
-    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013252",
-    "sponsorship": "Other",
-    "posted": "2026-09-01",
-    "source": "SimplifyJobs"
-  },
-  {
-    "id": "simplify-3bc45e91-ebb8-439d-a0f7-0e51c40fa3e0",
-    "company": "American Express",
-    "title": "AI Engineer 1 - Enterprise Technology Services",
-    "locations": [
-      "Atlanta, GA"
-    ],
-    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013258",
-    "sponsorship": "Other",
-    "posted": "2026-09-01",
-    "source": "SimplifyJobs"
-  },
-  {
-    "id": "simplify-0646eda8-3850-44d3-a96a-03c80fee29bd",
-    "company": "American Express",
-    "title": "Data Engineer 1 - Enterprise Technology Services",
-    "locations": [
-      "Phoenix, AZ"
-    ],
-    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013286",
-    "sponsorship": "Other",
-    "posted": "2026-09-01",
-    "source": "SimplifyJobs"
-  },
-  {
-    "id": "simplify-c75373db-769e-41df-b9a7-8f685cb4ba61",
-    "company": "American Express",
-    "title": "AI Engineer 1 - Enterprise Technology Services",
-    "locations": [
-      "Palo Alto, CA"
-    ],
-    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013253",
-    "sponsorship": "Other",
-    "posted": "2026-09-01",
-    "source": "SimplifyJobs"
-  },
-  {
-    "id": "simplify-20b23b0e-0297-4641-ae32-6db0fea0aef5",
-    "company": "American Express",
-    "title": "AI Engineer 1 - Graduate",
-    "locations": [
-      "Phoenix, AZ"
-    ],
-    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013255",
     "sponsorship": "Other",
     "posted": "2026-09-01",
     "source": "SimplifyJobs"
