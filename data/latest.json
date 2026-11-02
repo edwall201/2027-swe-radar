@@ -1,5 +1,17 @@
 [
   {
+    "id": "linkedin-4485420926",
+    "company": "Andromeda Systems Incorporated",
+    "title": "Junior Software Developer",
+    "locations": [
+      "Jacksonville, FL"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4485420926",
+    "sponsorship": "",
+    "posted": "2026-11-02",
+    "source": "LinkedIn"
+  },
+  {
     "id": "simplify-61e56b29-9b9f-481a-926e-c653983f3ff8",
     "company": "Northrop Grumman",
     "title": "Associate Software Engineer",
@@ -48,30 +60,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4448425773",
-    "company": "impact.com",
-    "title": "Associate Software Engineer",
-    "locations": [
-      "Santa Barbara, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4448425773",
-    "sponsorship": "",
-    "posted": "2026-11-01",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4449138344",
-    "company": "Roblox",
-    "title": "[2027] Software Engineer, Early Career",
-    "locations": [
-      "San Mateo, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4449138344",
-    "sponsorship": "",
-    "posted": "2026-11-01",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4354431733",
     "company": "Picogrid",
     "title": "Forward Deployed Engineer",
@@ -79,6 +67,18 @@
       "El Segundo, CA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4354431733",
+    "sponsorship": "",
+    "posted": "2026-11-01",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4486102460",
+    "company": "CoberonChronos",
+    "title": "Forward Deployed Engineer",
+    "locations": [
+      "New York City Metropolitan Area"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4486102460",
     "sponsorship": "",
     "posted": "2026-11-01",
     "source": "LinkedIn"
@@ -144,30 +144,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4485159566",
-    "company": "Harvey",
-    "title": "Software Engineer, New Grad (2027)",
-    "locations": [
-      "New York, United States"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4485159566",
-    "sponsorship": "",
-    "posted": "2026-10-31",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4438446984",
-    "company": "Netic",
-    "title": "Software Engineer (Agent Platform) - New Grad - 2026-2027",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4438446984",
-    "sponsorship": "",
-    "posted": "2026-10-31",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4485694659",
     "company": "Amazon",
     "title": "Software Development Engineer (Database) Early Career- 2027 (US)",
@@ -199,18 +175,6 @@
       "Austin, TX"
     ],
     "url": "https://www.linkedin.com/jobs/view/4485677971",
-    "sponsorship": "",
-    "posted": "2026-10-31",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4475293639",
-    "company": "MANTECH",
-    "title": "Junior Software Developer",
-    "locations": [
-      "Miami, FL"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4475293639",
     "sponsorship": "",
     "posted": "2026-10-31",
     "source": "LinkedIn"
@@ -252,13 +216,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4457999939",
+    "id": "linkedin-4458300931",
     "company": "LiveKit",
     "title": "Forward Deployed Engineer, Spanish/English",
     "locations": [
-      "Miami, FL"
+      "San Antonio, TX"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4457999939",
+    "url": "https://www.linkedin.com/jobs/view/4458300931",
     "sponsorship": "",
     "posted": "2026-10-31",
     "source": "LinkedIn"
@@ -817,18 +781,6 @@
     "source": "Greenhouse"
   },
   {
-    "id": "linkedin-4474852988",
-    "company": "NetJets",
-    "title": "Software Engineer, Associate (NJUS)",
-    "locations": [
-      "Columbus, OH"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4474852988",
-    "sponsorship": "",
-    "posted": "2026-10-30",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4484874293",
     "company": "Emonics LLC",
     "title": "Associate Software Engineer",
@@ -841,25 +793,25 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4448304463",
-    "company": "JPMorganChase",
-    "title": "2027 Software Engineer Program - Full-Time - United States - February Start",
+    "id": "linkedin-4474852988",
+    "company": "NetJets",
+    "title": "Software Engineer, Associate (NJUS)",
     "locations": [
-      "Chicago, IL"
+      "Columbus, OH"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4448304463",
+    "url": "https://www.linkedin.com/jobs/view/4474852988",
     "sponsorship": "",
     "posted": "2026-10-30",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4438463495",
-    "company": "Netic",
-    "title": "Full-Stack Software Engineer (Product) - New Grad - 2026-2027",
+    "id": "linkedin-4483433008",
+    "company": "TalentHop",
+    "title": "Software Engineer, New Grad | Remote - Full-time",
     "locations": [
-      "San Francisco, CA"
+      "United States"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4438463495",
+    "url": "https://www.linkedin.com/jobs/view/4483433008",
     "sponsorship": "",
     "posted": "2026-10-30",
     "source": "LinkedIn"
@@ -889,145 +841,37 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4483480205",
-    "company": "Lockheed Martin",
-    "title": "Software Engineer Asc - Early Career",
+    "id": "linkedin-4448304463",
+    "company": "JPMorganChase",
+    "title": "2027 Software Engineer Program - Full-Time - United States - February Start",
     "locations": [
-      "Fort Worth, TX"
+      "Chicago, IL"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4483480205",
+    "url": "https://www.linkedin.com/jobs/view/4448304463",
     "sponsorship": "",
     "posted": "2026-10-30",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4485639523",
-    "company": "Northrop Grumman",
-    "title": "2027 Associate Cyber Software Engineer - Pathways Program - Aurora CO",
-    "locations": [
-      "Aurora, CO"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4485639523",
-    "sponsorship": "",
-    "posted": "2026-10-30",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4483433008",
-    "company": "TalentHop",
-    "title": "Software Engineer, New Grad | Remote - Full-time",
-    "locations": [
-      "United States"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4483433008",
-    "sponsorship": "",
-    "posted": "2026-10-30",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4483090877",
-    "company": "Johns Hopkins Applied Physics Laboratory",
-    "title": "2027 Graduate - Software Systems Engineer",
-    "locations": [
-      "Laurel, MD"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4483090877",
-    "sponsorship": "",
-    "posted": "2026-10-30",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4485287461",
-    "company": "Intelliforce-IT Solutions Group, LLC.",
-    "title": "Junior Software Engineer (Prime)",
-    "locations": [
-      "Annapolis Junction, MD"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4485287461",
-    "sponsorship": "",
-    "posted": "2026-10-30",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4485100022",
-    "company": "Urban Science",
-    "title": "Associate Software Engineer",
-    "locations": [
-      "Detroit, MI"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4485100022",
-    "sponsorship": "",
-    "posted": "2026-10-30",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4483476326",
-    "company": "Lockheed Martin",
-    "title": "Software Engineer Asc - Early Career",
-    "locations": [
-      "Fort Worth, TX"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4483476326",
-    "sponsorship": "",
-    "posted": "2026-10-30",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4483482158",
-    "company": "Lockheed Martin",
-    "title": "Software Engineer Asc - Early Career",
-    "locations": [
-      "Fort Worth, TX"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4483482158",
-    "sponsorship": "",
-    "posted": "2026-10-30",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4476211085",
-    "company": "Twitch",
-    "title": "Software Engineer I",
+    "id": "linkedin-4438463495",
+    "company": "Netic",
+    "title": "Full-Stack Software Engineer (Product) - New Grad - 2026-2027",
     "locations": [
       "San Francisco, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4476211085",
+    "url": "https://www.linkedin.com/jobs/view/4438463495",
     "sponsorship": "",
     "posted": "2026-10-30",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4484895056",
-    "company": "Cantor Fitzgerald",
-    "title": "Associate, Software Developer",
+    "id": "linkedin-4483472490",
+    "company": "Lockheed Martin",
+    "title": "Software Engineer Asc - Early Career",
     "locations": [
-      "New York, NY"
+      "Fort Worth, TX"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4484895056",
-    "sponsorship": "",
-    "posted": "2026-10-30",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4458309239",
-    "company": "TeleTracking",
-    "title": "Software Engineer I",
-    "locations": [
-      "Pittsburgh, PA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4458309239",
-    "sponsorship": "",
-    "posted": "2026-10-30",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4485293694",
-    "company": "Northrop Grumman",
-    "title": "Associate Software Engineer - Pathways Program - Aurora CO",
-    "locations": [
-      "Aurora, CO"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4485293694",
+    "url": "https://www.linkedin.com/jobs/view/4483472490",
     "sponsorship": "",
     "posted": "2026-10-30",
     "source": "LinkedIn"
@@ -1081,25 +925,25 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4485332362",
-    "company": "Alexander Chapman",
-    "title": "Forward deployed engineer",
+    "id": "linkedin-4443079855",
+    "company": "Eulerity",
+    "title": "Forward Deployed Engineer",
     "locations": [
       "New York City Metropolitan Area"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4485332362",
+    "url": "https://www.linkedin.com/jobs/view/4443079855",
     "sponsorship": "",
     "posted": "2026-10-30",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4483747075",
-    "company": "Quadric",
+    "id": "linkedin-4485624747",
+    "company": "ResolveAI",
     "title": "Forward Deployed Engineer",
     "locations": [
-      "United States"
+      "New York, NY"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4483747075",
+    "url": "https://www.linkedin.com/jobs/view/4485624747",
     "sponsorship": "",
     "posted": "2026-10-30",
     "source": "LinkedIn"
@@ -1124,18 +968,6 @@
       "Redwood City, CA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4485349476",
-    "sponsorship": "",
-    "posted": "2026-10-30",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4484818473",
-    "company": "Archer",
-    "title": "Forward Deployed Software Engineer",
-    "locations": [
-      "Arlington, VA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4484818473",
     "sponsorship": "",
     "posted": "2026-10-30",
     "source": "LinkedIn"
@@ -1454,30 +1286,6 @@
     "sponsorship": "",
     "posted": "2026-10-29",
     "source": "Greenhouse"
-  },
-  {
-    "id": "linkedin-4485243258",
-    "company": "Morningstar",
-    "title": "Morningstar Development Program (MDP): Associate Software Engineer (Central Tech AI)",
-    "locations": [
-      "Chicago, IL"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4485243258",
-    "sponsorship": "",
-    "posted": "2026-10-29",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4485240274",
-    "company": "Trail",
-    "title": "Forward Deployed Engineer",
-    "locations": [
-      "Palo Alto, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4485240274",
-    "sponsorship": "",
-    "posted": "2026-10-29",
-    "source": "LinkedIn"
   },
   {
     "id": "simplify-22ce9849-b0be-4484-be20-b79a507e2c6f",
