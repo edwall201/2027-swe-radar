@@ -36,6 +36,104 @@
     "source": "SimplifyJobs"
   },
   {
+    "id": "simplify-e93752ca-2a48-4cd0-8e0c-5aa2860f28ad",
+    "company": "L3Harris Technologies",
+    "title": "Associate Software Engineer",
+    "locations": [
+      "Palm Bay, FL"
+    ],
+    "url": "https://jobs.l3harris.com/job/Palm-Bay-Associate,-Software-Engineer-FL-32905/1447658800/?ats=successfactors",
+    "sponsorship": "Other",
+    "posted": "2026-11-04",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-a53f9299-fee6-486c-a628-b8cca1cc9164",
+    "company": "L3Harris Technologies",
+    "title": "Associate Software Engineer",
+    "locations": [
+      "Palm Bay, FL"
+    ],
+    "url": "https://jobs.l3harris.com/job/Palm-Bay-Associate,-Software-Engineer-FL-32905/1447664100/?ats=successfactors",
+    "sponsorship": "Other",
+    "posted": "2026-11-04",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-8d2a6096-dea0-4da4-8fe9-28890ca32b29",
+    "company": "RTX",
+    "title": "Electrical Engineer 1 - Test Solutions",
+    "locations": [
+      "Andover, MA",
+      "Marlborough, MA",
+      "Tewksbury, MA"
+    ],
+    "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-MARLBOROUGH-MA1--1001-Boston-Post-Rd--BLDG-1/Electrical-Engineer-I---Test-Solutions---Onsite_01836498-1",
+    "sponsorship": "Other",
+    "posted": "2026-11-04",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "gh-databricks-8546367002",
+    "company": "Databricks",
+    "title": "AI Engineer \u2013 Forward Deployed Engineering (AI FDE)",
+    "locations": [
+      "United States"
+    ],
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8546367002",
+    "sponsorship": "",
+    "posted": "2026-11-04",
+    "source": "Greenhouse"
+  },
+  {
+    "id": "gh-samsara-7311761",
+    "company": "Samsara",
+    "title": "Associate Sales Engineer, SE Desk - Mid West",
+    "locations": [
+      "Remote - US"
+    ],
+    "url": "https://www.samsara.com/company/careers/roles/7311761?gh_jid=7311761",
+    "sponsorship": "",
+    "posted": "2026-11-04",
+    "source": "Greenhouse"
+  },
+  {
+    "id": "gh-samsara-7311741",
+    "company": "Samsara",
+    "title": "Associate Sales Engineer, SE Desk - Northeast",
+    "locations": [
+      "Remote - US"
+    ],
+    "url": "https://www.samsara.com/company/careers/roles/7311741?gh_jid=7311741",
+    "sponsorship": "",
+    "posted": "2026-11-04",
+    "source": "Greenhouse"
+  },
+  {
+    "id": "gh-samsara-7848351",
+    "company": "Samsara",
+    "title": "Associate Sales Engineer, SE Desk - Southeast",
+    "locations": [
+      "Remote - US"
+    ],
+    "url": "https://www.samsara.com/company/careers/roles/7848351?gh_jid=7848351",
+    "sponsorship": "",
+    "posted": "2026-11-04",
+    "source": "Greenhouse"
+  },
+  {
+    "id": "gh-samsara-7848363",
+    "company": "Samsara",
+    "title": "Associate Sales Engineer, SE Desk - TOLA",
+    "locations": [
+      "Remote - US"
+    ],
+    "url": "https://www.samsara.com/company/careers/roles/7848363?gh_jid=7848363",
+    "sponsorship": "",
+    "posted": "2026-11-04",
+    "source": "Greenhouse"
+  },
+  {
     "id": "linkedin-4485064507",
     "company": "TalentHop",
     "title": "Software Engineer, New Grad | Remote - Full-time",
@@ -43,6 +141,30 @@
       "United States"
     ],
     "url": "https://www.linkedin.com/jobs/view/4485064507",
+    "sponsorship": "",
+    "posted": "2026-11-04",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4460087902",
+    "company": "Whatnot",
+    "title": "Software Engineer, 2027 New Grad",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4460087902",
+    "sponsorship": "",
+    "posted": "2026-11-04",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4485514098",
+    "company": "Innovative Defense Technologies (IDT)",
+    "title": "Associate Software Engineer - JobID-0186",
+    "locations": [
+      "Mount Laurel, NJ"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4485514098",
     "sponsorship": "",
     "posted": "2026-11-04",
     "source": "LinkedIn"
@@ -84,6 +206,126 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4486803193",
+    "company": "Storm2",
+    "title": "Lead Forward Deployed Engineer",
+    "locations": [
+      "Washington, DC"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4486803193",
+    "sponsorship": "",
+    "posted": "2026-11-04",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4485501258",
+    "company": "Rise Technical",
+    "title": "Forward Deployed Engineer (AI / TypeScript)",
+    "locations": [
+      "Manhattan, NY"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4485501258",
+    "sponsorship": "",
+    "posted": "2026-11-04",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4483545968",
+    "company": "Underdog: Verified engineers. Interview-ready. Searching confidentially. And companies apply to you",
+    "title": "Forward Deployed Engineer",
+    "locations": [
+      "New York City Metropolitan Area"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4483545968",
+    "sponsorship": "",
+    "posted": "2026-11-04",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4487503173",
+    "company": "Xpertise Recruitment",
+    "title": "Forward Deployed Engineer - Healthcare AI",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4487503173",
+    "sponsorship": "",
+    "posted": "2026-11-04",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4485040310",
+    "company": "scalr",
+    "title": "Forward Deployed Engineer (Frontier AI)",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4485040310",
+    "sponsorship": "",
+    "posted": "2026-11-04",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4487524708",
+    "company": "Quadric",
+    "title": "Forward Deployed Engineer",
+    "locations": [
+      "United States"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4487524708",
+    "sponsorship": "",
+    "posted": "2026-11-04",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4487519861",
+    "company": "Quadric",
+    "title": "Forward Deployed Engineer",
+    "locations": [
+      "Burlingame, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4487519861",
+    "sponsorship": "",
+    "posted": "2026-11-04",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4487280646",
+    "company": "Nityo Infotech",
+    "title": "Junior Forward Deployed Engineer",
+    "locations": [
+      "Plano, TX"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4487280646",
+    "sponsorship": "",
+    "posted": "2026-11-04",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4467443969",
+    "company": "Venn",
+    "title": "Forward Deployed Engineer",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4467443969",
+    "sponsorship": "",
+    "posted": "2026-11-04",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4461236819",
+    "company": "Shield",
+    "title": "Forward Deployed Engineer, Autonomy (open level)",
+    "locations": [
+      "San Diego, TX"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4461236819",
+    "sponsorship": "",
+    "posted": "2026-11-04",
+    "source": "LinkedIn"
+  },
+  {
     "id": "simplify-5027c348-d0cf-4730-8787-7a1aabbc6611",
     "company": "Micron Technology",
     "title": "Engineer New Grad - Edge Systems Architecture",
@@ -103,18 +345,6 @@
       "Alpharetta, GA"
     ],
     "url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program_R120836",
-    "sponsorship": "Other",
-    "posted": "2026-11-03",
-    "source": "SimplifyJobs"
-  },
-  {
-    "id": "simplify-39162d49-754d-45d5-a795-e851860022d0",
-    "company": "Boston Scientific",
-    "title": "Software Engineer 1 - Engineering",
-    "locations": [
-      "Maple Grove, MN"
-    ],
-    "url": "https://bostonscientific.eightfold.ai/careers/job/563602813660387",
     "sponsorship": "Other",
     "posted": "2026-11-03",
     "source": "SimplifyJobs"
@@ -152,18 +382,6 @@
       "Tysons, VA"
     ],
     "url": "https://job-boards.greenhouse.io/alarmcom/jobs/8923631002",
-    "sponsorship": "Other",
-    "posted": "2026-11-03",
-    "source": "SimplifyJobs"
-  },
-  {
-    "id": "simplify-ae709a65-f904-4def-8b18-e1e6938af885",
-    "company": "Skyward",
-    "title": "Software Engineer \u2013 Entry Level",
-    "locations": [
-      "Stevens Point, WI"
-    ],
-    "url": "https://jobs.smartrecruiters.com/Skyward1/744000159491899",
     "sponsorship": "Other",
     "posted": "2026-11-03",
     "source": "SimplifyJobs"
@@ -303,40 +521,16 @@
     "source": "Greenhouse"
   },
   {
-    "id": "gh-andurilindustries-5155536007",
-    "company": "Anduril",
-    "title": "Forward Deployed Software Engineer, Connected Warfare (Active Clearance)",
+    "id": "linkedin-4484652851",
+    "company": "TikTok USDS Joint Venture",
+    "title": "Software Engineer Graduate (Search) - 2027 Start",
     "locations": [
-      "Honolulu, Hawaii, United States"
+      "Seattle, WA"
     ],
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5155536007?gh_jid=5155536007",
+    "url": "https://www.linkedin.com/jobs/view/4484652851",
     "sponsorship": "",
     "posted": "2026-11-03",
-    "source": "Greenhouse"
-  },
-  {
-    "id": "gh-andurilindustries-4263030007",
-    "company": "Anduril",
-    "title": "Forward Deployed Software Engineer, Connected Warfare (Active Clearance)",
-    "locations": [
-      "Seattle, Washington, United States"
-    ],
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/4263030007?gh_jid=4263030007",
-    "sponsorship": "",
-    "posted": "2026-11-03",
-    "source": "Greenhouse"
-  },
-  {
-    "id": "gh-andurilindustries-5283460007",
-    "company": "Anduril",
-    "title": "Forward Deployed Software Engineer, Connected Warfare (Active Clearance)",
-    "locations": [
-      "Colorado Springs, Colorado, United States"
-    ],
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5283460007?gh_jid=5283460007",
-    "sponsorship": "",
-    "posted": "2026-11-03",
-    "source": "Greenhouse"
+    "source": "LinkedIn"
   },
   {
     "id": "linkedin-4477565982",
@@ -351,13 +545,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4484652851",
-    "company": "TikTok USDS Joint Venture",
-    "title": "Software Engineer Graduate (Search) - 2027 Start",
+    "id": "linkedin-4486485457",
+    "company": "Verkada",
+    "title": "Backend Software Engineer - University Graduate 2027",
     "locations": [
-      "Seattle, WA"
+      "San Mateo, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4484652851",
+    "url": "https://www.linkedin.com/jobs/view/4486485457",
     "sponsorship": "",
     "posted": "2026-11-03",
     "source": "LinkedIn"
@@ -370,18 +564,6 @@
       "Nashville, TN"
     ],
     "url": "https://www.linkedin.com/jobs/view/4484639655",
-    "sponsorship": "",
-    "posted": "2026-11-03",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4486485457",
-    "company": "Verkada",
-    "title": "Backend Software Engineer - University Graduate 2027",
-    "locations": [
-      "San Mateo, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4486485457",
     "sponsorship": "",
     "posted": "2026-11-03",
     "source": "LinkedIn"
@@ -423,13 +605,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4484685714",
-    "company": "Lockheed Martin",
-    "title": "Software Engineer Asc- Early Career",
+    "id": "linkedin-4476069619",
+    "company": "BAE Systems, Inc.",
+    "title": "Entry Level Software Engineer",
     "locations": [
-      "Orlando, FL"
+      "San Diego, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4484685714",
+    "url": "https://www.linkedin.com/jobs/view/4476069619",
     "sponsorship": "",
     "posted": "2026-11-03",
     "source": "LinkedIn"
@@ -454,6 +636,18 @@
       "Clearwater, FL"
     ],
     "url": "https://www.linkedin.com/jobs/view/4487050498",
+    "sponsorship": "",
+    "posted": "2026-11-03",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4484685714",
+    "company": "Lockheed Martin",
+    "title": "Software Engineer Asc- Early Career",
+    "locations": [
+      "Orlando, FL"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4484685714",
     "sponsorship": "",
     "posted": "2026-11-03",
     "source": "LinkedIn"
@@ -495,18 +689,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4476069619",
-    "company": "BAE Systems, Inc.",
-    "title": "Entry Level Software Engineer",
-    "locations": [
-      "San Diego, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4476069619",
-    "sponsorship": "",
-    "posted": "2026-11-03",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4484679804",
     "company": "Lockheed Martin",
     "title": "Software Engineer - Early Career",
@@ -514,6 +696,18 @@
       "Huntsville, AL"
     ],
     "url": "https://www.linkedin.com/jobs/view/4484679804",
+    "sponsorship": "",
+    "posted": "2026-11-03",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4486304198",
+    "company": "RELX",
+    "title": "Tech Accelerate Graduate Program - Software Engineer I",
+    "locations": [
+      "Alpharetta, GA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4486304198",
     "sponsorship": "",
     "posted": "2026-11-03",
     "source": "LinkedIn"
@@ -531,6 +725,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4484697133",
+    "company": "Lockheed Martin",
+    "title": "Software Engineer - Early Career",
+    "locations": [
+      "Huntsville, AL"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4484697133",
+    "sponsorship": "",
+    "posted": "2026-11-03",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4485029488",
     "company": "Intact Insurance U.S.",
     "title": "Software Developer I (Hybrid)",
@@ -538,54 +744,6 @@
       "Canton, MA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4485029488",
-    "sponsorship": "",
-    "posted": "2026-11-03",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4420693565",
-    "company": "Deloitte",
-    "title": "Palantir Forward Deployed Engineer - GPS",
-    "locations": [
-      "Chicago, IL"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4420693565",
-    "sponsorship": "",
-    "posted": "2026-11-03",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4476714589",
-    "company": "Closr",
-    "title": "Forward Deployed Engineer",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4476714589",
-    "sponsorship": "",
-    "posted": "2026-11-03",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4486803193",
-    "company": "Storm2",
-    "title": "Lead Forward Deployed Engineer",
-    "locations": [
-      "Washington, DC"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4486803193",
-    "sponsorship": "",
-    "posted": "2026-11-03",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4480080030",
-    "company": "Scout Global",
-    "title": "Founding Forward Deployed Engineer",
-    "locations": [
-      "New York, United States"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4480080030",
     "sponsorship": "",
     "posted": "2026-11-03",
     "source": "LinkedIn"
@@ -603,6 +761,42 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4420693565",
+    "company": "Deloitte",
+    "title": "Palantir Forward Deployed Engineer - GPS",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4420693565",
+    "sponsorship": "",
+    "posted": "2026-11-03",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4420689730",
+    "company": "Deloitte",
+    "title": "Palantir Forward Deployed Engineer - GPS",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4420689730",
+    "sponsorship": "",
+    "posted": "2026-11-03",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4476714589",
+    "company": "Closr",
+    "title": "Forward Deployed Engineer",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4476714589",
+    "sponsorship": "",
+    "posted": "2026-11-03",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4461285885",
     "company": "Nuvo",
     "title": "New Grad Forward Deployed Engineer",
@@ -610,6 +804,78 @@
       "New York, NY"
     ],
     "url": "https://www.linkedin.com/jobs/view/4461285885",
+    "sponsorship": "",
+    "posted": "2026-11-03",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4338954885",
+    "company": "Reducto",
+    "title": "Forward Deployed Engineer",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4338954885",
+    "sponsorship": "",
+    "posted": "2026-11-03",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4478792596",
+    "company": "Amazon Web Services (AWS)",
+    "title": "Forward Deployed Engineer, AWS Forward Deployed Engineering",
+    "locations": [
+      "Arlington, VA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4478792596",
+    "sponsorship": "",
+    "posted": "2026-11-03",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4480080030",
+    "company": "Scout Global",
+    "title": "Founding Forward Deployed Engineer",
+    "locations": [
+      "New York, United States"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4480080030",
+    "sponsorship": "",
+    "posted": "2026-11-03",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4486060261",
+    "company": "Fonzi AI",
+    "title": "Forward Deployed Engineer",
+    "locations": [
+      "New York City Metropolitan Area"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4486060261",
+    "sponsorship": "",
+    "posted": "2026-11-03",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4486077362",
+    "company": "Intelletec",
+    "title": "Forward Deployed Engineer",
+    "locations": [
+      "Washington DC-Baltimore Area"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4486077362",
+    "sponsorship": "",
+    "posted": "2026-11-03",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4484625387",
+    "company": "AustinWorks",
+    "title": "Founding Forward Deployed Engineer",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4484625387",
     "sponsorship": "",
     "posted": "2026-11-03",
     "source": "LinkedIn"
@@ -669,18 +935,6 @@
       "Bedford, MA"
     ],
     "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bedford-Massachusetts-United-States/Associate-Data---AI-Engineer---Medical-Imaging--Bedford--MA-_594180",
-    "sponsorship": "Other",
-    "posted": "2026-11-02",
-    "source": "SimplifyJobs"
-  },
-  {
-    "id": "simplify-5c040685-d1e0-4cc2-8e72-620b4ed182d4",
-    "company": "Martin's Point Health Care",
-    "title": "Associate Enterprise Data Engineer",
-    "locations": [
-      "Portland, ME"
-    ],
-    "url": "https://martin.wd1.myworkdayjobs.com/mphc/job/Portland-ME/Associate-Enterprise-Data-Engineer---Remote_REQ-2026-384",
     "sponsorship": "Other",
     "posted": "2026-11-02",
     "source": "SimplifyJobs"
@@ -782,414 +1036,6 @@
     "source": "SimplifyJobs"
   },
   {
-    "id": "simplify-0bf5e13d-96ec-48a1-9fa0-02cdedbac143",
-    "company": "Lineage Logistics",
-    "title": "Associate Report Developer",
-    "locations": [
-      "Remote in USA"
-    ],
-    "url": "https://onelineage.wd1.myworkdayjobs.com/external/job/Novi-MI-Humboldt-Drive/Associate-Report-Developer_R0111033",
-    "sponsorship": "Other",
-    "posted": "2026-11-02",
-    "source": "SimplifyJobs"
-  },
-  {
-    "id": "gh-andurilindustries-4802172007",
-    "company": "Anduril",
-    "title": "2026 Early Career Electrical Engineer",
-    "locations": [
-      "Costa Mesa, California, United States; Fort Collins, Colorado, United States"
-    ],
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/4802172007?gh_jid=4802172007",
-    "sponsorship": "",
-    "posted": "2026-11-02",
-    "source": "Greenhouse"
-  },
-  {
-    "id": "gh-andurilindustries-5176254007",
-    "company": "Anduril",
-    "title": "2026 Early Career Manufacturing Engineer",
-    "locations": [
-      "Costa Mesa, California, United States; Irvine, California, United States; Santa Ana, California, United States"
-    ],
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5176254007?gh_jid=5176254007",
-    "sponsorship": "",
-    "posted": "2026-11-02",
-    "source": "Greenhouse"
-  },
-  {
-    "id": "gh-andurilindustries-4802167007",
-    "company": "Anduril",
-    "title": "2026 Early Career Mechanical Engineer",
-    "locations": [
-      "Costa Mesa, California, United States"
-    ],
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/4802167007?gh_jid=4802167007",
-    "sponsorship": "",
-    "posted": "2026-11-02",
-    "source": "Greenhouse"
-  },
-  {
-    "id": "gh-andurilindustries-4802146007",
-    "company": "Anduril",
-    "title": "2026 Early Career Software Engineer",
-    "locations": [
-      "Atlanta, Georgia, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Seattle, Washington, United States"
-    ],
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/4802146007?gh_jid=4802146007",
-    "sponsorship": "",
-    "posted": "2026-11-02",
-    "source": "Greenhouse"
-  },
-  {
-    "id": "gh-andurilindustries-5136925007",
-    "company": "Anduril",
-    "title": "2027 Early Career Electrical Engineer",
-    "locations": [
-      "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States"
-    ],
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5136925007?gh_jid=5136925007",
-    "sponsorship": "",
-    "posted": "2026-11-02",
-    "source": "Greenhouse"
-  },
-  {
-    "id": "gh-andurilindustries-5246141007",
-    "company": "Anduril",
-    "title": "2027 Early Career Firmware Engineer",
-    "locations": [
-      "Costa Mesa, California, United States"
-    ],
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5246141007?gh_jid=5246141007",
-    "sponsorship": "",
-    "posted": "2026-11-02",
-    "source": "Greenhouse"
-  },
-  {
-    "id": "gh-andurilindustries-5228868007",
-    "company": "Anduril",
-    "title": "2027 Early Career Flight Software Engineer",
-    "locations": [
-      "Costa Mesa, California, United States"
-    ],
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5228868007?gh_jid=5228868007",
-    "sponsorship": "",
-    "posted": "2026-11-02",
-    "source": "Greenhouse"
-  },
-  {
-    "id": "gh-andurilindustries-5246225007",
-    "company": "Anduril",
-    "title": "2027 Early Career Flight Test Engineer",
-    "locations": [
-      "Costa Mesa, California, United States"
-    ],
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5246225007?gh_jid=5246225007",
-    "sponsorship": "",
-    "posted": "2026-11-02",
-    "source": "Greenhouse"
-  },
-  {
-    "id": "gh-andurilindustries-5236921007",
-    "company": "Anduril",
-    "title": "2027 Early Career Industrial Engineer",
-    "locations": [
-      "Ashville, Ohio, United States"
-    ],
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236921007?gh_jid=5236921007",
-    "sponsorship": "",
-    "posted": "2026-11-02",
-    "source": "Greenhouse"
-  },
-  {
-    "id": "gh-andurilindustries-5136970007",
-    "company": "Anduril",
-    "title": "2027 Early Career Manufacturing Engineer",
-    "locations": [
-      "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Seattle, Washington, United States"
-    ],
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5136970007?gh_jid=5136970007",
-    "sponsorship": "",
-    "posted": "2026-11-02",
-    "source": "Greenhouse"
-  },
-  {
-    "id": "gh-andurilindustries-5136984007",
-    "company": "Anduril",
-    "title": "2027 Early Career Mechanical Engineer",
-    "locations": [
-      "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States"
-    ],
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5136984007?gh_jid=5136984007",
-    "sponsorship": "",
-    "posted": "2026-11-02",
-    "source": "Greenhouse"
-  },
-  {
-    "id": "gh-andurilindustries-5262324007",
-    "company": "Anduril",
-    "title": "2027 Early Career Quality Engineer",
-    "locations": [
-      "Ashville, Ohio, United States; Costa Mesa, California, United States; Irvine, California, United States; Quonset, Rhode Island, United States; Santa Ana, California, United States"
-    ],
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5262324007?gh_jid=5262324007",
-    "sponsorship": "",
-    "posted": "2026-11-02",
-    "source": "Greenhouse"
-  },
-  {
-    "id": "gh-andurilindustries-5162263007",
-    "company": "Anduril",
-    "title": "2027 Early Career Software Engineer ",
-    "locations": [
-      "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States"
-    ],
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5162263007?gh_jid=5162263007",
-    "sponsorship": "",
-    "posted": "2026-11-02",
-    "source": "Greenhouse"
-  },
-  {
-    "id": "gh-andurilindustries-5268564007",
-    "company": "Anduril",
-    "title": "2027 Early Career Supply Chain Engineer",
-    "locations": [
-      "Costa Mesa, California, United States"
-    ],
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5268564007?gh_jid=5268564007",
-    "sponsorship": "",
-    "posted": "2026-11-02",
-    "source": "Greenhouse"
-  },
-  {
-    "id": "gh-andurilindustries-5262340007",
-    "company": "Anduril",
-    "title": "2027 Early Career Systems Engineer",
-    "locations": [
-      "Boston, Massachusetts, United States; Boulder, Colorado, United States; Costa Mesa, California, United States; Foothill Ranch, California, United States; Huntsville, Alabama, United States; Reston, Virginia, United States; Seattle, Washington, United States; Washington, District of Columbia, United States"
-    ],
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5262340007?gh_jid=5262340007",
-    "sponsorship": "",
-    "posted": "2026-11-02",
-    "source": "Greenhouse"
-  },
-  {
-    "id": "gh-andurilindustries-5268704007",
-    "company": "Anduril",
-    "title": "2027 Early Career Warhead Engineer",
-    "locations": [
-      "Costa Mesa, California, United States"
-    ],
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5268704007?gh_jid=5268704007",
-    "sponsorship": "",
-    "posted": "2026-11-02",
-    "source": "Greenhouse"
-  },
-  {
-    "id": "gh-andurilindustries-5270855007",
-    "company": "Anduril",
-    "title": "2027 New Grad GNC Engineer",
-    "locations": [
-      "Costa Mesa, California, United States"
-    ],
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5270855007?gh_jid=5270855007",
-    "sponsorship": "",
-    "posted": "2026-11-02",
-    "source": "Greenhouse"
-  },
-  {
-    "id": "gh-andurilindustries-5269789007",
-    "company": "Anduril",
-    "title": "2027 New Grad Low Observables Engineer",
-    "locations": [
-      "Costa Mesa, California, United States"
-    ],
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5269789007?gh_jid=5269789007",
-    "sponsorship": "",
-    "posted": "2026-11-02",
-    "source": "Greenhouse"
-  },
-  {
-    "id": "gh-andurilindustries-5280611007",
-    "company": "Anduril",
-    "title": "Fall 2027 Manufacturing Engineer Co-op",
-    "locations": [
-      "Ashville, Ohio, United States; Quincy, Massachusetts, United States; Santa Ana, California, United States"
-    ],
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5280611007?gh_jid=5280611007",
-    "sponsorship": "",
-    "posted": "2026-11-02",
-    "source": "Greenhouse"
-  },
-  {
-    "id": "gh-andurilindustries-5057206007",
-    "company": "Anduril",
-    "title": "Forward Deployed Engineer, Air Defense (FDE)",
-    "locations": [
-      "Costa Mesa, California, United States"
-    ],
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5057206007?gh_jid=5057206007",
-    "sponsorship": "",
-    "posted": "2026-11-02",
-    "source": "Greenhouse"
-  },
-  {
-    "id": "gh-andurilindustries-5174562007",
-    "company": "Anduril",
-    "title": "Mission Engineer, Air Dominance & Strike, Early Career",
-    "locations": [
-      "Costa Mesa, California, United States"
-    ],
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5174562007?gh_jid=5174562007",
-    "sponsorship": "",
-    "posted": "2026-11-02",
-    "source": "Greenhouse"
-  },
-  {
-    "id": "gh-andurilindustries-5271686007",
-    "company": "Anduril",
-    "title": "Winter 2027 Business Operations Engineer Co-op",
-    "locations": [
-      "Ashville, Ohio, United States; Costa Mesa, California, United States"
-    ],
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5271686007?gh_jid=5271686007",
-    "sponsorship": "",
-    "posted": "2026-11-02",
-    "source": "Greenhouse"
-  },
-  {
-    "id": "gh-andurilindustries-5236565007",
-    "company": "Anduril",
-    "title": "Winter 2027 Electrical Engineer Co-op",
-    "locations": [
-      "Costa Mesa, California, United States; Quincy, Massachusetts, United States"
-    ],
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236565007?gh_jid=5236565007",
-    "sponsorship": "",
-    "posted": "2026-11-02",
-    "source": "Greenhouse"
-  },
-  {
-    "id": "gh-andurilindustries-5236577007",
-    "company": "Anduril",
-    "title": "Winter 2027 EWIS Harness Engineer Co-op",
-    "locations": [
-      "Costa Mesa, California, United States"
-    ],
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236577007?gh_jid=5236577007",
-    "sponsorship": "",
-    "posted": "2026-11-02",
-    "source": "Greenhouse"
-  },
-  {
-    "id": "gh-andurilindustries-5236589007",
-    "company": "Anduril",
-    "title": "Winter 2027 Manufacturing Engineer Co-op",
-    "locations": [
-      "Ashville, Ohio, United States; Lexington, Massachusetts, United States; Quincy, Massachusetts, United States"
-    ],
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236589007?gh_jid=5236589007",
-    "sponsorship": "",
-    "posted": "2026-11-02",
-    "source": "Greenhouse"
-  },
-  {
-    "id": "gh-andurilindustries-5236601007",
-    "company": "Anduril",
-    "title": "Winter 2027 Mechanical Engineer Co-op",
-    "locations": [
-      "Ashville, Ohio, United States; Quincy, Massachusetts, United States"
-    ],
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236601007?gh_jid=5236601007",
-    "sponsorship": "",
-    "posted": "2026-11-02",
-    "source": "Greenhouse"
-  },
-  {
-    "id": "gh-andurilindustries-5236587007",
-    "company": "Anduril",
-    "title": "Winter 2027 Propulsion Engineer Co-op",
-    "locations": [
-      "Costa Mesa, California, United States"
-    ],
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236587007?gh_jid=5236587007",
-    "sponsorship": "",
-    "posted": "2026-11-02",
-    "source": "Greenhouse"
-  },
-  {
-    "id": "gh-andurilindustries-5257571007",
-    "company": "Anduril",
-    "title": "Winter 2027 Quality & Test Engineer Co-op",
-    "locations": [
-      "Ashville, Ohio, United States; Santa Ana, California, United States"
-    ],
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5257571007?gh_jid=5257571007",
-    "sponsorship": "",
-    "posted": "2026-11-02",
-    "source": "Greenhouse"
-  },
-  {
-    "id": "gh-andurilindustries-5257693007",
-    "company": "Anduril",
-    "title": "Winter 2027 Reliability Engineer Co-op",
-    "locations": [
-      "Costa Mesa, California, United States"
-    ],
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5257693007?gh_jid=5257693007",
-    "sponsorship": "",
-    "posted": "2026-11-02",
-    "source": "Greenhouse"
-  },
-  {
-    "id": "gh-andurilindustries-5265127007",
-    "company": "Anduril",
-    "title": "Winter 2027 Research Engineer Co-op",
-    "locations": [
-      "Santa Ana, California, United States"
-    ],
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5265127007?gh_jid=5265127007",
-    "sponsorship": "",
-    "posted": "2026-11-02",
-    "source": "Greenhouse"
-  },
-  {
-    "id": "gh-andurilindustries-5271842007",
-    "company": "Anduril",
-    "title": "Winter 2027 Robotics Engineer Co-op",
-    "locations": [
-      "Quincy, Massachusetts, United States"
-    ],
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5271842007?gh_jid=5271842007",
-    "sponsorship": "",
-    "posted": "2026-11-02",
-    "source": "Greenhouse"
-  },
-  {
-    "id": "gh-andurilindustries-5236563007",
-    "company": "Anduril",
-    "title": "Winter 2027 Software Engineer Co-op",
-    "locations": [
-      "Quincy, Massachusetts, United States"
-    ],
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236563007?gh_jid=5236563007",
-    "sponsorship": "",
-    "posted": "2026-11-02",
-    "source": "Greenhouse"
-  },
-  {
-    "id": "gh-andurilindustries-5236599007",
-    "company": "Anduril",
-    "title": "Winter 2027 Systems Engineer Co-op",
-    "locations": [
-      "Quincy, Massachusetts, United States"
-    ],
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236599007?gh_jid=5236599007",
-    "sponsorship": "",
-    "posted": "2026-11-02",
-    "source": "Greenhouse"
-  },
-  {
     "id": "linkedin-4475740088",
     "company": "Chalk",
     "title": "Software Engineer - New Grad",
@@ -1214,18 +1060,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4485420926",
-    "company": "Andromeda Systems Incorporated",
-    "title": "Junior Software Developer",
-    "locations": [
-      "Jacksonville, FL"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4485420926",
-    "sponsorship": "",
-    "posted": "2026-11-02",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4484392156",
     "company": "Applied Materials",
     "title": "2027 Software Engineer New College Grad (Bachelor's) - Gloucester, MA",
@@ -1238,6 +1072,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4485420926",
+    "company": "Andromeda Systems Incorporated",
+    "title": "Junior Software Developer",
+    "locations": [
+      "Jacksonville, FL"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4485420926",
+    "sponsorship": "",
+    "posted": "2026-11-02",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4438453689",
     "company": "Netic",
     "title": "Forward Deployed Engineer (FDE) - New Grad - 2026-2027",
@@ -1245,6 +1091,18 @@
       "San Francisco, CA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4438453689",
+    "sponsorship": "",
+    "posted": "2026-11-02",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4486470501",
+    "company": "Qualtrics",
+    "title": "Software Development Engineer I - Data Platform",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4486470501",
     "sponsorship": "",
     "posted": "2026-11-02",
     "source": "LinkedIn"
@@ -1274,6 +1132,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4485744291",
+    "company": "forgd.ai",
+    "title": "Forward Deployed Engineer (FDE)",
+    "locations": [
+      "United States"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4485744291",
+    "sponsorship": "",
+    "posted": "2026-11-02",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4420909019",
     "company": "Deloitte",
     "title": "Palantir Forward Deployed Engineer - GPS",
@@ -1296,66 +1166,6 @@
     "sponsorship": "Other",
     "posted": "2026-11-01",
     "source": "SimplifyJobs"
-  },
-  {
-    "id": "linkedin-4471940242",
-    "company": "Brivo",
-    "title": "Software Engineer- NEW GRAD",
-    "locations": [
-      "Austin, TX"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4471940242",
-    "sponsorship": "",
-    "posted": "2026-11-01",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4449138344",
-    "company": "Roblox",
-    "title": "[2027] Software Engineer, Early Career",
-    "locations": [
-      "San Mateo, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4449138344",
-    "sponsorship": "",
-    "posted": "2026-11-01",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4486112144",
-    "company": "Northrop Grumman",
-    "title": "2027 Associate Software Engineer - Bellevue (NE)",
-    "locations": [
-      "Bellevue, NE"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4486112144",
-    "sponsorship": "",
-    "posted": "2026-11-01",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4468403021",
-    "company": "Dark Matter Technologies",
-    "title": "Software Engineer I",
-    "locations": [
-      "Sharon, PA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4468403021",
-    "sponsorship": "",
-    "posted": "2026-11-01",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4471925777",
-    "company": "Brivo",
-    "title": "Software Engineer- NEW GRAD",
-    "locations": [
-      "Bethesda, MD"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4471925777",
-    "sponsorship": "",
-    "posted": "2026-11-01",
-    "source": "LinkedIn"
   },
   {
     "id": "simplify-0e9101fd-5e85-4911-b076-604e6c2fc6ef",
@@ -1878,18 +1688,6 @@
     "source": "SimplifyJobs"
   },
   {
-    "id": "gh-databricks-8546367002",
-    "company": "Databricks",
-    "title": "AI Engineer \u2013 Forward Deployed Engineering (AI FDE)",
-    "locations": [
-      "United States"
-    ],
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8546367002",
-    "sponsorship": "",
-    "posted": "2026-10-28",
-    "source": "Greenhouse"
-  },
-  {
     "id": "simplify-9f9295eb-a51e-49d6-8755-2fbe6cd5e3fe",
     "company": "CrossCountry Consulting",
     "title": "Forward Deployed Software Engineer New Grad",
@@ -2214,18 +2012,6 @@
       "San Francisco, CA \u2022 New York, NY \u2022 United States"
     ],
     "url": "https://boards.greenhouse.io/figma/jobs/6158162004?gh_jid=6158162004",
-    "sponsorship": "",
-    "posted": "2026-10-27",
-    "source": "Greenhouse"
-  },
-  {
-    "id": "gh-samsara-7848351",
-    "company": "Samsara",
-    "title": "Associate Sales Engineer, SE Desk - Southeast",
-    "locations": [
-      "Remote - US"
-    ],
-    "url": "https://www.samsara.com/company/careers/roles/7848351?gh_jid=7848351",
     "sponsorship": "",
     "posted": "2026-10-27",
     "source": "Greenhouse"
@@ -2659,6 +2445,30 @@
     "source": "Greenhouse"
   },
   {
+    "id": "lever-palantir-b3d81928-6c26-432f-8a0a-36602c2eefcb",
+    "company": "Palantir",
+    "title": "Forward Deployed Software Engineer, Internship - Warp Speed",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://jobs.lever.co/palantir/b3d81928-6c26-432f-8a0a-36602c2eefcb",
+    "sponsorship": "",
+    "posted": "2026-10-22",
+    "source": "Lever"
+  },
+  {
+    "id": "lever-palantir-66b495eb-aaf9-4bf9-a759-41854534add7",
+    "company": "Palantir",
+    "title": "Forward Deployed Software Engineer, New Grad - Warp Speed",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://jobs.lever.co/palantir/66b495eb-aaf9-4bf9-a759-41854534add7",
+    "sponsorship": "",
+    "posted": "2026-10-22",
+    "source": "Lever"
+  },
+  {
     "id": "ashby-ramp-29a5da77-37f0-402a-92bc-072778e77ed8",
     "company": "Ramp",
     "title": "Software Engineer, Forward Deployed",
@@ -2980,6 +2790,18 @@
     "sponsorship": "Other",
     "posted": "2026-10-19",
     "source": "SimplifyJobs"
+  },
+  {
+    "id": "lever-palantir-90329118-d9b7-4b96-acdf-13377e3196ac",
+    "company": "Palantir",
+    "title": "Software Engineer, New Grad - Query Engines",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://jobs.lever.co/palantir/90329118-d9b7-4b96-acdf-13377e3196ac",
+    "sponsorship": "",
+    "posted": "2026-10-19",
+    "source": "Lever"
   },
   {
     "id": "simplify-22a0a05d-ff1a-4abe-a1be-ef55d7b01fa9",
@@ -3312,6 +3134,18 @@
     "source": "SimplifyJobs"
   },
   {
+    "id": "lever-palantir-29630180-0f10-4826-801f-12e226d3c7f1",
+    "company": "Palantir",
+    "title": "Forward Deployed Software Engineer - US Government",
+    "locations": [
+      "Laurel, MD"
+    ],
+    "url": "https://jobs.lever.co/palantir/29630180-0f10-4826-801f-12e226d3c7f1",
+    "sponsorship": "",
+    "posted": "2026-10-13",
+    "source": "Lever"
+  },
+  {
     "id": "simplify-1935c5df-770d-45f2-bbde-4d4a462ad5cb",
     "company": "Wolverine Trading",
     "title": "Early Career C++ Software Engineer",
@@ -3372,6 +3206,18 @@
     "sponsorship": "Other",
     "posted": "2026-10-12",
     "source": "SimplifyJobs"
+  },
+  {
+    "id": "lever-palantir-5b0f37e6-8569-4a62-9e38-c5a4edc67dcf",
+    "company": "Palantir",
+    "title": "Forward Deployed Software Engineer - US Government",
+    "locations": [
+      "Norfolk, VA"
+    ],
+    "url": "https://jobs.lever.co/palantir/5b0f37e6-8569-4a62-9e38-c5a4edc67dcf",
+    "sponsorship": "",
+    "posted": "2026-10-12",
+    "source": "Lever"
   },
   {
     "id": "simplify-c0e68386-5f91-485f-86a7-c92db1919740",
@@ -4419,42 +4265,6 @@
     "source": "SimplifyJobs"
   },
   {
-    "id": "gh-samsara-7311761",
-    "company": "Samsara",
-    "title": "Associate Sales Engineer, SE Desk - Mid West",
-    "locations": [
-      "Remote - US"
-    ],
-    "url": "https://www.samsara.com/company/careers/roles/7311761?gh_jid=7311761",
-    "sponsorship": "",
-    "posted": "2026-09-29",
-    "source": "Greenhouse"
-  },
-  {
-    "id": "gh-samsara-7311741",
-    "company": "Samsara",
-    "title": "Associate Sales Engineer, SE Desk - Northeast",
-    "locations": [
-      "Remote - US"
-    ],
-    "url": "https://www.samsara.com/company/careers/roles/7311741?gh_jid=7311741",
-    "sponsorship": "",
-    "posted": "2026-09-29",
-    "source": "Greenhouse"
-  },
-  {
-    "id": "gh-samsara-7848363",
-    "company": "Samsara",
-    "title": "Associate Sales Engineer, SE Desk - TOLA",
-    "locations": [
-      "Remote - US"
-    ],
-    "url": "https://www.samsara.com/company/careers/roles/7848363?gh_jid=7848363",
-    "sponsorship": "",
-    "posted": "2026-09-29",
-    "source": "Greenhouse"
-  },
-  {
     "id": "simplify-a3488e6f-c542-4279-9aef-97a3f424a008",
     "company": "RTX",
     "title": "Research Software Engineer 1",
@@ -4610,6 +4420,18 @@
     "sponsorship": "Other",
     "posted": "2026-09-24",
     "source": "SimplifyJobs"
+  },
+  {
+    "id": "lever-palantir-a2e9ab0f-4dd1-4744-92b9-edc7ae393c58",
+    "company": "Palantir",
+    "title": "Forward Deployed Software Engineer - US Government",
+    "locations": [
+      "Kitsap, WA"
+    ],
+    "url": "https://jobs.lever.co/palantir/a2e9ab0f-4dd1-4744-92b9-edc7ae393c58",
+    "sponsorship": "",
+    "posted": "2026-09-24",
+    "source": "Lever"
   },
   {
     "id": "simplify-2d23863f-49e1-4783-aab6-4f76106c7d8d",
@@ -4957,18 +4779,6 @@
       "Austin, TX"
     ],
     "url": "https://job-boards.greenhouse.io/map/jobs/8816124002",
-    "sponsorship": "Other",
-    "posted": "2026-09-17",
-    "source": "SimplifyJobs"
-  },
-  {
-    "id": "simplify-8475b72d-9c39-499b-b18d-a7ba42919fb2",
-    "company": "Micron Technology",
-    "title": "ASIC Digital Design Engineer New Grad",
-    "locations": [
-      "Minneapolis, MN"
-    ],
-    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Minneapolis-MN/New-College-Grad---Engineer--ASIC-Digital-Design_JR112164",
     "sponsorship": "Other",
     "posted": "2026-09-17",
     "source": "SimplifyJobs"
@@ -6053,16 +5863,16 @@
     "source": "SimplifyJobs"
   },
   {
-    "id": "simplify-54cabb56-5337-4344-9f40-9ad54dc468b3",
-    "company": "Micron Technology",
-    "title": "Product Test Engineer New Grad",
+    "id": "lever-palantir-701a9307-0619-45d3-b077-cabe9897cd12",
+    "company": "Palantir",
+    "title": "Forward Deployed Infrastructure Engineer, New Grad - US Government",
     "locations": [
-      "Boise, ID"
+      "Honolulu, HI"
     ],
-    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Product-Test-Engineer_JR109985",
-    "sponsorship": "Other",
-    "posted": "2026-08-30",
-    "source": "SimplifyJobs"
+    "url": "https://jobs.lever.co/palantir/701a9307-0619-45d3-b077-cabe9897cd12",
+    "sponsorship": "",
+    "posted": "2026-08-31",
+    "source": "Lever"
   },
   {
     "id": "simplify-3e1957cd-768a-47fc-9140-cae0d35bb273",
@@ -8349,6 +8159,18 @@
     "source": "SimplifyJobs"
   },
   {
+    "id": "lever-palantir-8f362a1f-1eff-4327-94c1-ff46e2101c69",
+    "company": "Palantir",
+    "title": "Forward Deployed Infrastructure Engineer, Internship - US Government",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "url": "https://jobs.lever.co/palantir/8f362a1f-1eff-4327-94c1-ff46e2101c69",
+    "sponsorship": "",
+    "posted": "2026-07-10",
+    "source": "Lever"
+  },
+  {
     "id": "simplify-896852cc-417e-4bba-ba7f-1e1cb726008d",
     "company": "NVIDIA",
     "title": "ASIC Design Engineer New Grad",
@@ -8459,6 +8281,18 @@
     "source": "SimplifyJobs"
   },
   {
+    "id": "lever-palantir-d5486403-c050-4920-b2e0-91b69b61ebb2",
+    "company": "Palantir",
+    "title": "Forward Deployed Software Engineer, Internship - Commercial",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "url": "https://jobs.lever.co/palantir/d5486403-c050-4920-b2e0-91b69b61ebb2",
+    "sponsorship": "",
+    "posted": "2026-06-30",
+    "source": "Lever"
+  },
+  {
     "id": "simplify-267d5473-4baf-4bba-ba9c-ccd65a1c0e30",
     "company": "Palantir",
     "title": "Forward Deployed Software Engineer New Grad - Commercial",
@@ -8543,6 +8377,18 @@
     "source": "SimplifyJobs"
   },
   {
+    "id": "lever-palantir-e500bcf3-19d8-4d3c-b340-4d76e4a55b40",
+    "company": "Palantir",
+    "title": "Forward Deployed Software Engineer, New Grad - Commercial",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "url": "https://jobs.lever.co/palantir/e500bcf3-19d8-4d3c-b340-4d76e4a55b40",
+    "sponsorship": "",
+    "posted": "2026-06-29",
+    "source": "Lever"
+  },
+  {
     "id": "simplify-83f79aa8-55d8-411d-bcce-9308b80af496",
     "company": "GlobalFoundries",
     "title": "New Graduate Heterogeneous Integration Engineer - Quantum Cryogenic 3D Packaging",
@@ -8590,6 +8436,30 @@
     "sponsorship": "Other",
     "posted": "2026-06-26",
     "source": "SimplifyJobs"
+  },
+  {
+    "id": "lever-palantir-95e0d2b0-437a-4096-a5c6-0f247f426c90",
+    "company": "Palantir",
+    "title": "Privacy & Civil Liberties Engineer - New Grad",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://jobs.lever.co/palantir/95e0d2b0-437a-4096-a5c6-0f247f426c90",
+    "sponsorship": "",
+    "posted": "2026-06-25",
+    "source": "Lever"
+  },
+  {
+    "id": "lever-palantir-75cc1c09-8ebd-44c8-b3bc-d122cd1fecb3",
+    "company": "Palantir",
+    "title": "Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "url": "https://jobs.lever.co/palantir/75cc1c09-8ebd-44c8-b3bc-d122cd1fecb3",
+    "sponsorship": "",
+    "posted": "2026-06-24",
+    "source": "Lever"
   },
   {
     "id": "simplify-c524550c-525b-4838-8898-17e6386a560e",
@@ -8698,6 +8568,18 @@
     "sponsorship": "Other",
     "posted": "2026-06-16",
     "source": "SimplifyJobs"
+  },
+  {
+    "id": "lever-palantir-7ea66860-ae93-4139-9388-b7284cb33f37",
+    "company": "Palantir",
+    "title": "Forward Deployed Software Engineer",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "url": "https://jobs.lever.co/palantir/7ea66860-ae93-4139-9388-b7284cb33f37",
+    "sponsorship": "",
+    "posted": "2026-06-16",
+    "source": "Lever"
   },
   {
     "id": "simplify-441c3d0c-ee76-4f06-85bc-5c015f9c7452",
@@ -8890,6 +8772,18 @@
     "source": "SimplifyJobs"
   },
   {
+    "id": "lever-palantir-be4ab5cb-9caa-4c2a-97b9-c73805fca4fc",
+    "company": "Palantir",
+    "title": "Forward Deployed Software Engineer - US Government - Federal Health and Civilian",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://jobs.lever.co/palantir/be4ab5cb-9caa-4c2a-97b9-c73805fca4fc",
+    "sponsorship": "",
+    "posted": "2026-05-07",
+    "source": "Lever"
+  },
+  {
     "id": "simplify-80d74961-722d-4792-ab7a-4f178e4e0e58",
     "company": "NVIDIA",
     "title": "Power Methodology and Modeling Engineer New Grad",
@@ -8912,6 +8806,18 @@
     "sponsorship": "U.S. Citizenship is Required",
     "posted": "2026-05-04",
     "source": "SimplifyJobs"
+  },
+  {
+    "id": "lever-palantir-0fccbe95-2520-4df3-8600-7897656c06a2",
+    "company": "Palantir",
+    "title": "Forward Deployed Infrastructure Engineer - US Government",
+    "locations": [
+      "Honolulu, HI"
+    ],
+    "url": "https://jobs.lever.co/palantir/0fccbe95-2520-4df3-8600-7897656c06a2",
+    "sponsorship": "",
+    "posted": "2026-05-04",
+    "source": "Lever"
   },
   {
     "id": "simplify-7481b6e9-8bb5-4030-9e88-eaa8ae4dccb2",
@@ -9111,6 +9017,30 @@
     "source": "SimplifyJobs"
   },
   {
+    "id": "lever-palantir-e6789b17-62fb-4226-a079-f8c17ff19e2d",
+    "company": "Palantir",
+    "title": "Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://jobs.lever.co/palantir/e6789b17-62fb-4226-a079-f8c17ff19e2d",
+    "sponsorship": "",
+    "posted": "2026-03-20",
+    "source": "Lever"
+  },
+  {
+    "id": "lever-palantir-5c7bb70c-83ea-43e7-8055-0c8f319f4333",
+    "company": "Palantir",
+    "title": "Year at Palantir - Forward Deployed Software Engineer, Internship - USG",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://jobs.lever.co/palantir/5c7bb70c-83ea-43e7-8055-0c8f319f4333",
+    "sponsorship": "",
+    "posted": "2026-03-20",
+    "source": "Lever"
+  },
+  {
     "id": "simplify-566e37cf-7620-4e64-90ea-d25a99bb5f19",
     "company": "N1",
     "title": "New Grad Software Engineer - Backend Rust",
@@ -9122,6 +9052,54 @@
     "sponsorship": "Other",
     "posted": "2026-03-19",
     "source": "SimplifyJobs"
+  },
+  {
+    "id": "lever-palantir-ac0dc094-2480-43c2-8495-26ade227ff4f",
+    "company": "Palantir",
+    "title": "Forward Deployed Software Engineer, Internship - France",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://jobs.lever.co/palantir/ac0dc094-2480-43c2-8495-26ade227ff4f",
+    "sponsorship": "",
+    "posted": "2026-03-10",
+    "source": "Lever"
+  },
+  {
+    "id": "lever-palantir-689e6869-01bc-40f1-b580-adb33a020065",
+    "company": "Palantir",
+    "title": "Forward Deployed Reliability Engineer",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://jobs.lever.co/palantir/689e6869-01bc-40f1-b580-adb33a020065",
+    "sponsorship": "",
+    "posted": "2026-02-10",
+    "source": "Lever"
+  },
+  {
+    "id": "lever-palantir-d83fac1c-353e-4b77-a586-3276b1090b6e",
+    "company": "Palantir",
+    "title": "Forward Deployed Software Engineer - US Government",
+    "locations": [
+      "Fayetteville, NC"
+    ],
+    "url": "https://jobs.lever.co/palantir/d83fac1c-353e-4b77-a586-3276b1090b6e",
+    "sponsorship": "",
+    "posted": "2026-01-12",
+    "source": "Lever"
+  },
+  {
+    "id": "lever-palantir-315f695d-04d1-4a9a-848e-cb2bec7a997e",
+    "company": "Palantir",
+    "title": "Forward Deployed Software Engineer, Internship - US Government",
+    "locations": [
+      "Honolulu, HI"
+    ],
+    "url": "https://jobs.lever.co/palantir/315f695d-04d1-4a9a-848e-cb2bec7a997e",
+    "sponsorship": "",
+    "posted": "2025-12-11",
+    "source": "Lever"
   },
   {
     "id": "ashby-openai-533c0fc9-b773-476d-9f96-a0528efbab0e",
@@ -9136,6 +9114,30 @@
     "source": "Ashby"
   },
   {
+    "id": "lever-palantir-33243fb5-6907-40c7-930c-968b25d825d0",
+    "company": "Palantir",
+    "title": "Forward Deployed Infrastructure Engineer, New Grad - US Government",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "url": "https://jobs.lever.co/palantir/33243fb5-6907-40c7-930c-968b25d825d0",
+    "sponsorship": "",
+    "posted": "2025-10-29",
+    "source": "Lever"
+  },
+  {
+    "id": "lever-palantir-91117724-9389-48dc-912f-98e48d4d45d8",
+    "company": "Palantir",
+    "title": "Forward Deployed Infrastructure Engineer, New Grad - US Government",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://jobs.lever.co/palantir/91117724-9389-48dc-912f-98e48d4d45d8",
+    "sponsorship": "",
+    "posted": "2025-10-29",
+    "source": "Lever"
+  },
+  {
     "id": "ashby-openai-db5a708d-1d7a-4aa3-8dd3-0d0423b6b69f",
     "company": "Openai",
     "title": "Forward Deployed Software Engineer, Gov",
@@ -9148,6 +9150,18 @@
     "source": "Ashby"
   },
   {
+    "id": "lever-palantir-7d75bed5-45d8-4876-840a-2d92ea79c98d",
+    "company": "Palantir",
+    "title": "Software Engineer, New Grad - Infrastructure",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "url": "https://jobs.lever.co/palantir/7d75bed5-45d8-4876-840a-2d92ea79c98d",
+    "sponsorship": "",
+    "posted": "2025-08-19",
+    "source": "Lever"
+  },
+  {
     "id": "ashby-notion-10437426-14c8-4c45-8075-67959ce80393",
     "company": "Notion",
     "title": "Forward Deployed Engineer, GTM, AMER",
@@ -9158,5 +9172,233 @@
     "sponsorship": "",
     "posted": "2025-08-07",
     "source": "Ashby"
+  },
+  {
+    "id": "lever-palantir-84131e3f-455e-47fc-9c11-898d95f09048",
+    "company": "Palantir",
+    "title": "Forward Deployed Software Engineer - US Government",
+    "locations": [
+      "San Diego, CA"
+    ],
+    "url": "https://jobs.lever.co/palantir/84131e3f-455e-47fc-9c11-898d95f09048",
+    "sponsorship": "",
+    "posted": "2025-07-29",
+    "source": "Lever"
+  },
+  {
+    "id": "lever-palantir-4abf26b4-795c-420a-bf22-1ab98db268b4",
+    "company": "Palantir",
+    "title": "Software Engineer, New Grad - Infrastructure",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://jobs.lever.co/palantir/4abf26b4-795c-420a-bf22-1ab98db268b4",
+    "sponsorship": "",
+    "posted": "2025-06-26",
+    "source": "Lever"
+  },
+  {
+    "id": "lever-palantir-4d5a144e-87ea-45e2-a68c-3fad590629af",
+    "company": "Palantir",
+    "title": "Software Engineer, New Grad - Production Infrastructure",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "url": "https://jobs.lever.co/palantir/4d5a144e-87ea-45e2-a68c-3fad590629af",
+    "sponsorship": "",
+    "posted": "2025-06-26",
+    "source": "Lever"
+  },
+  {
+    "id": "lever-palantir-e1a6c138-98bf-45e2-97f7-2c70371cc38a",
+    "company": "Palantir",
+    "title": "Software Engineer, New Grad - Production Infrastructure",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://jobs.lever.co/palantir/e1a6c138-98bf-45e2-97f7-2c70371cc38a",
+    "sponsorship": "",
+    "posted": "2025-06-26",
+    "source": "Lever"
+  },
+  {
+    "id": "lever-palantir-0a838e66-1ab0-4fc4-b4d3-4671c0352278",
+    "company": "Palantir",
+    "title": "Software Engineer, New Grad - Defense",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://jobs.lever.co/palantir/0a838e66-1ab0-4fc4-b4d3-4671c0352278",
+    "sponsorship": "",
+    "posted": "2025-06-19",
+    "source": "Lever"
+  },
+  {
+    "id": "lever-palantir-f362d7aa-360d-4059-ab38-f482742693b3",
+    "company": "Palantir",
+    "title": "Software Engineer, New Grad - Defense",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "url": "https://jobs.lever.co/palantir/f362d7aa-360d-4059-ab38-f482742693b3",
+    "sponsorship": "",
+    "posted": "2025-06-19",
+    "source": "Lever"
+  },
+  {
+    "id": "lever-palantir-2e6b0ac8-83e9-4be5-a3aa-cf319f751728",
+    "company": "Palantir",
+    "title": "Forward Deployed Software Engineer, New Grad - Commercial",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://jobs.lever.co/palantir/2e6b0ac8-83e9-4be5-a3aa-cf319f751728",
+    "sponsorship": "",
+    "posted": "2025-06-13",
+    "source": "Lever"
+  },
+  {
+    "id": "lever-palantir-13f99633-43b5-4459-8e84-25073f257c18",
+    "company": "Palantir",
+    "title": "Forward Deployed Software Engineer - Warp Speed",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://jobs.lever.co/palantir/13f99633-43b5-4459-8e84-25073f257c18",
+    "sponsorship": "",
+    "posted": "2025-02-07",
+    "source": "Lever"
+  },
+  {
+    "id": "lever-palantir-4cba9c95-d16f-440d-83e7-2352480f689f",
+    "company": "Palantir",
+    "title": "Forward Deployed Enablement Engineer - Customer Success",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://jobs.lever.co/palantir/4cba9c95-d16f-440d-83e7-2352480f689f",
+    "sponsorship": "",
+    "posted": "2024-11-13",
+    "source": "Lever"
+  },
+  {
+    "id": "lever-palantir-636fc05c-d348-4a06-be51-597cb9e07488",
+    "company": "Palantir",
+    "title": "Forward Deployed AI Engineer",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://jobs.lever.co/palantir/636fc05c-d348-4a06-be51-597cb9e07488",
+    "sponsorship": "",
+    "posted": "2024-03-22",
+    "source": "Lever"
+  },
+  {
+    "id": "lever-palantir-b57f08e9-546c-4b9b-8d21-db0ebbc11363",
+    "company": "Palantir",
+    "title": "Forward Deployed Infrastructure Engineer - US Government",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://jobs.lever.co/palantir/b57f08e9-546c-4b9b-8d21-db0ebbc11363",
+    "sponsorship": "",
+    "posted": "2023-09-14",
+    "source": "Lever"
+  },
+  {
+    "id": "lever-palantir-e0010393-c300-446f-bf67-fa2ef067f16f",
+    "company": "Palantir",
+    "title": "Forward Deployed Software Engineer, Internship - US Government",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://jobs.lever.co/palantir/e0010393-c300-446f-bf67-fa2ef067f16f",
+    "sponsorship": "",
+    "posted": "2022-06-30",
+    "source": "Lever"
+  },
+  {
+    "id": "lever-palantir-d1ac83d0-e923-42a5-8e6d-58dd0cab25ca",
+    "company": "Palantir",
+    "title": "Forward Deployed Software Engineer, New Grad - US Government",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://jobs.lever.co/palantir/d1ac83d0-e923-42a5-8e6d-58dd0cab25ca",
+    "sponsorship": "",
+    "posted": "2022-06-30",
+    "source": "Lever"
+  },
+  {
+    "id": "lever-palantir-ce8ca664-60dc-4f9a-8986-3c96673bcfdf",
+    "company": "Palantir",
+    "title": "Forward Deployed Software Engineer - US Government",
+    "locations": [
+      "Honolulu, HI"
+    ],
+    "url": "https://jobs.lever.co/palantir/ce8ca664-60dc-4f9a-8986-3c96673bcfdf",
+    "sponsorship": "",
+    "posted": "2022-04-07",
+    "source": "Lever"
+  },
+  {
+    "id": "lever-palantir-94984771-0704-446c-88c6-91ce748f6d92",
+    "company": "Palantir",
+    "title": "Software Engineer, New Grad",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://jobs.lever.co/palantir/94984771-0704-446c-88c6-91ce748f6d92",
+    "sponsorship": "",
+    "posted": "2021-07-01",
+    "source": "Lever"
+  },
+  {
+    "id": "lever-palantir-c34b424e-caf2-455a-b104-ae1096ccca29",
+    "company": "Palantir",
+    "title": "Software Engineer, New Grad",
+    "locations": [
+      "Denver, CO"
+    ],
+    "url": "https://jobs.lever.co/palantir/c34b424e-caf2-455a-b104-ae1096ccca29",
+    "sponsorship": "",
+    "posted": "2020-10-27",
+    "source": "Lever"
+  },
+  {
+    "id": "lever-palantir-e82b696e-a085-4bbf-8bcb-6d2c4f8cf2f7",
+    "company": "Palantir",
+    "title": "Forward Deployed Software Engineer - US Government",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://jobs.lever.co/palantir/e82b696e-a085-4bbf-8bcb-6d2c4f8cf2f7",
+    "sponsorship": "",
+    "posted": "2020-06-02",
+    "source": "Lever"
+  },
+  {
+    "id": "lever-palantir-4d29249a-d7e8-4c39-880d-3b35d7b2f6f6",
+    "company": "Palantir",
+    "title": "Forward Deployed Software Engineer, Internship - Commercial",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://jobs.lever.co/palantir/4d29249a-d7e8-4c39-880d-3b35d7b2f6f6",
+    "sponsorship": "",
+    "posted": "2016-02-24",
+    "source": "Lever"
+  },
+  {
+    "id": "lever-palantir-dab396d4-2f14-4796-aac0-0d82883dccf0",
+    "company": "Palantir",
+    "title": "Forward Deployed Software Engineer",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://jobs.lever.co/palantir/dab396d4-2f14-4796-aac0-0d82883dccf0",
+    "sponsorship": "",
+    "posted": "2014-01-23",
+    "source": "Lever"
   }
 ]
