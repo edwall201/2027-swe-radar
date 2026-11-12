@@ -1,76 +1,79 @@
 # 📡 2027 SWE Radar
 
 Automated daily scanner for **2027 new-grad software engineering** openings.
-Last scan: **2026-11-12** · Tracking **878** matching postings · 🆕 **18** new today
+Last scan: **2026-11-12** · Tracking **859** matching postings · 🆕 **47** new today
 Showing **US** postings, newest first.
 
 ## 🆕 New today
 
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
-| **ViaSat** | Associate Software Engineer | Carlsbad, CA | 2026-11-12 | [Link](https://careers.viasat.com/jobs/7147?icims=1&lang=en-us) |
-| **Shield AI** | Engineer 2 New Grad - Software - Perception | United States | 2026-11-12 | [Link](https://jobs.lever.co/shieldai/9017c8c2-2668-45d6-aff5-a7e348107c12/apply) |
-| **Bask Health** | Frontend Engineer New Grad | Remote in USA | 2026-11-12 | [Link](https://apply.workable.com/bask-health-1/j/95FB1074E4/apply) |
-| **L3Harris Technologies** | Associate Electrical Engineer | Ashburn, VA | 2026-11-12 | [Link](https://jobs.l3harris.com/job/Ashburn-Associate,-Electrical-Engineer-VA-20147/1450077500/?ats=successfactors) |
-| **TikTok** | Fullstack Software Engineer Graduate (Global E-commerce) - 2027 Start | Seattle, WA | 2026-11-12 | [Link](https://www.linkedin.com/jobs/view/4448274877) |
-| **Fatima Consultancy** | Junior Software Engineer | United States | 2026-11-12 | [Link](https://www.linkedin.com/jobs/view/4488295678) |
-| **Deloitte** | Anthropic Forward Deployed Engineer - GPS | Atlanta, GA | 2026-11-12 | [Link](https://www.linkedin.com/jobs/view/4418053297) |
-| **Deloitte** | Anthropic Forward Deployed Engineer - GPS | Chicago, IL | 2026-11-12 | [Link](https://www.linkedin.com/jobs/view/4418043933) |
-| **Shield AI** | Engineer 2 New Grad - Software - Perception | United States | 2026-11-11 | [Link](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/2aa92f37-7e2f-4c12-9f2c-1316e1a743a7/application?embed=true) |
-| **Shield AI** | Engineer 2 New Grad - Software - Autonomous Pilot Integration | Washington, DC | 2026-11-11 | [Link](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/a97fe80e-3ff6-427c-8789-2a7480326bc3/application?embed=true) |
-| **Shield AI** | Engineer 2 New Grad - Software - Perception | United States | 2026-11-11 | [Link](https://jobs.ashbyhq.com/shield/2aa92f37-7e2f-4c12-9f2c-1316e1a743a7/application?embed=true) |
-| **Shield AI** | Engineer 2 New Grad - Software - Autonomous Pilot Integration | Washington, DC | 2026-11-11 | [Link](https://jobs.ashbyhq.com/shield/a97fe80e-3ff6-427c-8789-2a7480326bc3/application?embed=true) |
-| **RTX** | Software Engineer 1 | Cedar Rapids, IA | 2026-11-11 | [Link](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-143--855-35Th-St-NE--BLDG-143/Software-Engineer-I--Onsite-_01888058) |
-| **RTX** | Associate Software Engineer 1 - CDS / Engine System Software | East Hartford, CT | 2026-11-11 | [Link](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Associate-Software-Engineer-I---CDS---Engine-System-Software--Onsite-_01884197) |
-| **BeaconFire Inc.** | Entry Level Java Developer | New York City Metropolitan Area | 2026-11-11 | [Link](https://www.linkedin.com/jobs/view/4486294244) |
-| **Scout Global** | Forward Deployed Engineer | New York, United States | 2026-11-11 | [Link](https://www.linkedin.com/jobs/view/4486239835) |
-| **Old Republic Title** | Associate Developer - C#/.NET | Orlando, FL | 2026-11-09 | [Link](https://www.linkedin.com/jobs/view/4487961638) |
-| **Northrop Grumman** | Associate Software Engineer | Boulder, CO | 2026-10-27 | [Link](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/XMLNAME-2027-Associate-Software-Engineer---Boulder-CO_R10257908) |
+| **Sierra Nevada Corporation** | Software Engineer 1 | Lone Tree, CO | 2026-11-12 | [Link](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-I--For-2026-Interns-Only-_R0031346) |
+| **RTX** | Digital Design Engineer 1 | Tucson, AZ | 2026-11-12 | [Link](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/Digital-Design-Engineer-I---onsite_01888918) |
+| **RTX** | Components Engineer 1 | El Segundo, CA | 2026-11-12 | [Link](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/Components-Engineer-I--Onsite-_01889186) |
+| **CDK Global** | Associate Database Engineer | Austin, TX | 2026-11-12 | [Link](https://cdk.wd1.myworkdayjobs.com/en-US/CDK/job/Austin-TX-USA/Associate-Database-Engineer_JR9386) |
+| **Johns Hopkins Applied Physics Laboratory** | Mission Modeling, Simulation & Software Engineer New Grad | Laurel, MD | 2026-11-12 | [Link](https://careers.jhuapl.edu/jobs/60029?icims=1&lang=en-us) |
+| **Emonics LLC** | Associate Software Engineer | Kansas City, MO | 2026-11-12 | [Link](https://www.linkedin.com/jobs/view/4489255256) |
+| **Veeva Systems** | Associate Software Engineer - 2027 Start Dates | Pleasanton, CA | 2026-11-12 | [Link](https://www.linkedin.com/jobs/view/4454704486) |
+| **Twitch** | Software Engineer I - Engagement Growth | Seattle, WA | 2026-11-12 | [Link](https://www.linkedin.com/jobs/view/4481187219) |
+| **Veeva Systems** | Associate Software Engineer - 2027 Start Dates | Boston, MA | 2026-11-12 | [Link](https://www.linkedin.com/jobs/view/4454489584) |
+| **BeaconFire Inc.** | Entry Level Java Developer | Delaware, United States | 2026-11-12 | [Link](https://www.linkedin.com/jobs/view/4486284410) |
+| **Brivo** | Software Engineer- NEW GRAD | Bethesda, MD | 2026-11-12 | [Link](https://www.linkedin.com/jobs/view/4488260889) |
+| **Salute Medical Transportation** | Junior Software Developer | San Antonio, TX | 2026-11-12 | [Link](https://www.linkedin.com/jobs/view/4490373134) |
+| **Brivo** | Associate Engineer - Software | Austin, TX | 2026-11-12 | [Link](https://www.linkedin.com/jobs/view/4488274349) |
+| **Palantir Technologies** | Software Engineer, New Grad - Defense | Washington, DC | 2026-11-12 | [Link](https://www.linkedin.com/jobs/view/4434155093) |
+| **Raytheon** | Software Engineer/Developer I (Onsite) | Tewksbury, MA | 2026-11-12 | [Link](https://www.linkedin.com/jobs/view/4473966128) |
+| **TypeSafe AI** | Forward Deployed Engineer | San Francisco, CA | 2026-11-12 | [Link](https://www.linkedin.com/jobs/view/4490088492) |
+| **Fonzi AI** | Founding Forward Deployed Engineer | New York City Metropolitan Area | 2026-11-12 | [Link](https://www.linkedin.com/jobs/view/4489252535) |
+| **Fonzi AI** | Forward Deployed Engineer | New York City Metropolitan Area | 2026-11-12 | [Link](https://www.linkedin.com/jobs/view/4489241933) |
+| **ResolveAI** | Forward Deployed Engineer | New York, NY | 2026-11-12 | [Link](https://www.linkedin.com/jobs/view/4490080723) |
+| **Underdog: Verified engineers. Interview-ready. Searching confidentially. And companies apply to you** | Forward Deployed Engineer | New York City Metropolitan Area | 2026-11-12 | [Link](https://www.linkedin.com/jobs/view/4488875089) |
+| **Doppel** | Forward Deployed Engineer (SF) | San Francisco, CA | 2026-11-12 | [Link](https://www.linkedin.com/jobs/view/4438137068) |
+| **PenFed Credit Union** | Forward Deployed Engineer, AI Agentic Delivery | Washington DC-Baltimore Area | 2026-11-12 | [Link](https://www.linkedin.com/jobs/view/4479480768) |
+| **Baseten** | Forward Deployed Engineer | United States | 2026-11-12 | [Link](https://www.linkedin.com/jobs/view/4443918024) |
+| **IBM** | Entry Level Software Developer-Different locations | Tucson, AZ | 2026-11-11 | [Link](https://www.linkedin.com/jobs/view/4488243122) |
+| **MITRE** | Associate Software Engineer | Bedford, MA | 2026-11-11 | [Link](https://www.linkedin.com/jobs/view/4489990443) |
+| **Garmin** | Software Engineer 1 (C++ MEC MapTech) | Olathe, KS | 2026-11-11 | [Link](https://www.linkedin.com/jobs/view/4482066164) |
+| **TikTok** | Backend Software Engineer Graduate (Global E-commerce) - 2027 Start | Seattle, WA | 2026-11-11 | [Link](https://www.linkedin.com/jobs/view/4448291147) |
+| **IBM** | Entry Level Software Developer-Different locations | Rochester, MN | 2026-11-11 | [Link](https://www.linkedin.com/jobs/view/4488231607) |
+| **Deloitte** | Snowflake Forward Deployed Engineer - GPS | Chicago, IL | 2026-11-11 | [Link](https://www.linkedin.com/jobs/view/4473084785) |
+| **Circadia Health** | Forward Deployed AI Engineer | El Segundo, CA | 2026-11-11 | [Link](https://www.linkedin.com/jobs/view/4488679590) |
+| **Method** | Forward Deployed Engineer | New York, NY | 2026-11-11 | [Link](https://www.linkedin.com/jobs/view/4490048004) |
+| **Virtue America** | Junior Software Developer | New Jersey, United States | 2026-11-10 | [Link](https://www.linkedin.com/jobs/view/4489624646) |
+| **Cursor** | Software Engineer, New Grad 2027 | San Francisco, CA | 2026-11-10 | [Link](https://www.linkedin.com/jobs/view/4489456585) |
+| **Amentum** | Junior Software Developer | Dahlgren, VA | 2026-11-10 | [Link](https://www.linkedin.com/jobs/view/4489647552) |
+| **Amazon** | Software Development Engineer, Early Career - 2027 (US) | Boston, MA | 2026-11-10 | [Link](https://www.linkedin.com/jobs/view/4481577190) |
+| **Reducto** | Forward Deployed Engineer | San Francisco, CA | 2026-11-10 | [Link](https://www.linkedin.com/jobs/view/4338954885) |
+| **Amazon Web Services (AWS)** | Forward Deployed Engineer, Forward Deployment Engineering | East Palo Alto, CA | 2026-11-10 | [Link](https://www.linkedin.com/jobs/view/4481564724) |
+| **Amazon Web Services (AWS)** | Forward Deployed Engineer, Forward Deployment Engineering | Seattle, WA | 2026-11-10 | [Link](https://www.linkedin.com/jobs/view/4481564725) |
+| **Baseten** | Forward Deployed Engineer | San Francisco, CA | 2026-11-10 | [Link](https://www.linkedin.com/jobs/view/4380546804) |
+| **Venn** | Forward Deployed Engineer | New York, NY | 2026-11-10 | [Link](https://www.linkedin.com/jobs/view/4467448241) |
+| **Amazon Web Services (AWS)** | Forward Deployed Engineer, Forward Deployment Engineering | New York, United States | 2026-11-10 | [Link](https://www.linkedin.com/jobs/view/4481560806) |
+| **Snowplow** | Forward Deployed Engineer | Massachusetts, United States | 2026-11-10 | [Link](https://www.linkedin.com/jobs/view/4487489816) |
+| **TP-Link Systems** | Early Career System Hardware Design Engineer | United States | 2026-10-14 | [Link](https://tplink.wd503.myworkdayjobs.com/External/job/US-10-Mauchly/XMLNAME-2026-Early-Career-System-Hardware-Design-Engineer_R26_0000000034-1) |
+| **Varsity Brands** | Software Engineer 1 | Farmers Branch, TX | 2026-10-05 | [Link](https://varsitybrands.wd503.myworkdayjobs.com/externalcareersite/job/TX---Farmers-Branch/Software-Engineer---Early-Career_JR113366-1) |
+| **Moog** | Associate Test Engineer | Santa Barbara, CA | 2026-09-17 | [Link](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Santa-Barbara-CA/Test-Engineer_R-26-20172) |
+| **Northrop Grumman** | Associate Software Engineer / Software Engineer | Melbourne, FL | 2026-07-30 | [Link](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027--Associate-Software-Engineer---Software-Engineer_R10243060) |
+| **Nextpower** | Forward Deployed Engineer - AI | Fremont, CA | 2026-07-24 | [Link](https://nextracker.wd5.myworkdayjobs.com/nextpower_careers/job/Fremont-South-Bldg-California---USA/Forward-Deployed-Engineer--AI-_NX-4260) |
 
 ## 🎯 Explicit 2027 openings
 
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
 | TikTok | Fullstack Software Engineer Graduate (Global E-commerce) - 2027 Start | Seattle, WA | 2026-11-12 | [Link](https://www.linkedin.com/jobs/view/4448274877) |
+| Veeva Systems | Associate Software Engineer - 2027 Start Dates | Pleasanton, CA | 2026-11-12 | [Link](https://www.linkedin.com/jobs/view/4454704486) |
+| Veeva Systems | Associate Software Engineer - 2027 Start Dates | Boston, MA | 2026-11-12 | [Link](https://www.linkedin.com/jobs/view/4454489584) |
 | TikTok | Software Engineer Graduate (Foundation Platform) - 2027 Start | San Jose, CA | 2026-11-11 | [Link](https://www.linkedin.com/jobs/view/4452901177) |
-| Anduril | 2027 New Grad Information Security Engineer | Costa Mesa, California, United States | 2026-11-10 | [Link](https://boards.greenhouse.io/andurilindustries/jobs/5270839007?gh_jid=5270839007) |
+| TikTok | Backend Software Engineer Graduate (Global E-commerce) - 2027 Start | Seattle, WA | 2026-11-11 | [Link](https://www.linkedin.com/jobs/view/4448291147) |
+| Cursor | Software Engineer, New Grad 2027 | San Francisco, CA | 2026-11-10 | [Link](https://www.linkedin.com/jobs/view/4489456585) |
 | Veeva Systems | Associate Software Engineer - 2027 Start Dates | Columbus, OH | 2026-11-10 | [Link](https://www.linkedin.com/jobs/view/4454703447) |
-| Freeform | Software Engineer (New Grad Summer 2027) | Los Angeles, CA | 2026-11-10 | [Link](https://www.linkedin.com/jobs/view/4455453920) |
 | Textron | 2027 Software Engineer I (Weapons) - Wilmington, MA | Wilmington, MA | 2026-11-10 | [Link](https://www.linkedin.com/jobs/view/4487804405) |
 | Amazon | Software Development Engineer, Early Career - 2027 (US) | Arlington, VA | 2026-11-10 | [Link](https://www.linkedin.com/jobs/view/4481563708) |
+| Amazon | Software Development Engineer, Early Career - 2027 (US) | Detroit, MI | 2026-11-10 | [Link](https://www.linkedin.com/jobs/view/4481572374) |
+| Amazon | Software Development Engineer, Early Career - 2027 (US) | Boston, MA | 2026-11-10 | [Link](https://www.linkedin.com/jobs/view/4481577190) |
 | Amazon | Software Development Engineer, Early Career - 2027 (US) | Austin, TX | 2026-11-10 | [Link](https://www.linkedin.com/jobs/view/4481570393) |
 | Amazon | Software Development Engineer, Early Career - 2027 (US) | Santa Clara, CA | 2026-11-10 | [Link](https://www.linkedin.com/jobs/view/4481558846) |
 | Amazon | Software Development Engineer, Early Career - 2027 (US) | Denver, CO | 2026-11-10 | [Link](https://www.linkedin.com/jobs/view/4481570391) |
-| Amazon | Software Development Engineer, Early Career - 2027 (US) | Detroit, MI | 2026-11-10 | [Link](https://www.linkedin.com/jobs/view/4481572374) |
-| Adobe | 2027 University Graduate - Software Engineer | New York, NY | 2026-11-09 | [Link](https://www.linkedin.com/jobs/view/4487688772) |
-| Adobe | 2027 University Graduate - Software Engineer | Seattle, WA | 2026-11-09 | [Link](https://www.linkedin.com/jobs/view/4487681875) |
-| Anduril | Winter 2027 Manufacturing Engineer Co-op | Ashville, Ohio, United States; Lexington, Massachusetts, United States; Quincy, Massachusetts, United States; Quonset, Rhode Island, United States | 2026-11-04 | [Link](https://boards.greenhouse.io/andurilindustries/jobs/5236589007?gh_jid=5236589007) |
-| Anduril | 2027 Early Career Electrical Engineer | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States | 2026-11-02 | [Link](https://boards.greenhouse.io/andurilindustries/jobs/5136925007?gh_jid=5136925007) |
-| Anduril | 2027 Early Career Firmware Engineer | Costa Mesa, California, United States | 2026-11-02 | [Link](https://boards.greenhouse.io/andurilindustries/jobs/5246141007?gh_jid=5246141007) |
-| Anduril | 2027 Early Career Flight Software Engineer | Costa Mesa, California, United States | 2026-11-02 | [Link](https://boards.greenhouse.io/andurilindustries/jobs/5228868007?gh_jid=5228868007) |
-| Anduril | 2027 Early Career Flight Test Engineer | Costa Mesa, California, United States | 2026-11-02 | [Link](https://boards.greenhouse.io/andurilindustries/jobs/5246225007?gh_jid=5246225007) |
-| Anduril | 2027 Early Career Industrial Engineer | Ashville, Ohio, United States | 2026-11-02 | [Link](https://boards.greenhouse.io/andurilindustries/jobs/5236921007?gh_jid=5236921007) |
-| Anduril | 2027 Early Career Manufacturing Engineer | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Seattle, Washington, United States | 2026-11-02 | [Link](https://boards.greenhouse.io/andurilindustries/jobs/5136970007?gh_jid=5136970007) |
-| Anduril | 2027 Early Career Mechanical Engineer | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States | 2026-11-02 | [Link](https://boards.greenhouse.io/andurilindustries/jobs/5136984007?gh_jid=5136984007) |
-| Anduril | 2027 Early Career Quality Engineer | Ashville, Ohio, United States; Costa Mesa, California, United States; Irvine, California, United States; Quonset, Rhode Island, United States; Santa Ana, California, United States | 2026-11-02 | [Link](https://boards.greenhouse.io/andurilindustries/jobs/5262324007?gh_jid=5262324007) |
-| Anduril | 2027 Early Career Software Engineer  | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States | 2026-11-02 | [Link](https://boards.greenhouse.io/andurilindustries/jobs/5162263007?gh_jid=5162263007) |
-| Anduril | 2027 Early Career Supply Chain Engineer | Costa Mesa, California, United States | 2026-11-02 | [Link](https://boards.greenhouse.io/andurilindustries/jobs/5268564007?gh_jid=5268564007) |
-| Anduril | 2027 Early Career Systems Engineer | Boston, Massachusetts, United States; Boulder, Colorado, United States; Costa Mesa, California, United States; Foothill Ranch, California, United States; Huntsville, Alabama, United States; Reston, Virginia, United States; Seattle, Washington, United States; Washington, District of Columbia, United States | 2026-11-02 | [Link](https://boards.greenhouse.io/andurilindustries/jobs/5262340007?gh_jid=5262340007) |
-| Anduril | 2027 Early Career Warhead Engineer | Costa Mesa, California, United States | 2026-11-02 | [Link](https://boards.greenhouse.io/andurilindustries/jobs/5268704007?gh_jid=5268704007) |
-| Anduril | 2027 New Grad GNC Engineer | Costa Mesa, California, United States | 2026-11-02 | [Link](https://boards.greenhouse.io/andurilindustries/jobs/5270855007?gh_jid=5270855007) |
-| Anduril | 2027 New Grad Low Observables Engineer | Costa Mesa, California, United States | 2026-11-02 | [Link](https://boards.greenhouse.io/andurilindustries/jobs/5269789007?gh_jid=5269789007) |
-| Anduril | Fall 2027 Manufacturing Engineer Co-op | Ashville, Ohio, United States; Quincy, Massachusetts, United States; Santa Ana, California, United States | 2026-11-02 | [Link](https://boards.greenhouse.io/andurilindustries/jobs/5280611007?gh_jid=5280611007) |
-| Anduril | Winter 2027 Business Operations Engineer Co-op | Ashville, Ohio, United States; Costa Mesa, California, United States | 2026-11-02 | [Link](https://boards.greenhouse.io/andurilindustries/jobs/5271686007?gh_jid=5271686007) |
-| Anduril | Winter 2027 Electrical Engineer Co-op | Costa Mesa, California, United States; Quincy, Massachusetts, United States | 2026-11-02 | [Link](https://boards.greenhouse.io/andurilindustries/jobs/5236565007?gh_jid=5236565007) |
-| Anduril | Winter 2027 EWIS Harness Engineer Co-op | Costa Mesa, California, United States | 2026-11-02 | [Link](https://boards.greenhouse.io/andurilindustries/jobs/5236577007?gh_jid=5236577007) |
-| Anduril | Winter 2027 Mechanical Engineer Co-op | Ashville, Ohio, United States; Quincy, Massachusetts, United States | 2026-11-02 | [Link](https://boards.greenhouse.io/andurilindustries/jobs/5236601007?gh_jid=5236601007) |
-| Anduril | Winter 2027 Propulsion Engineer Co-op | Costa Mesa, California, United States | 2026-11-02 | [Link](https://boards.greenhouse.io/andurilindustries/jobs/5236587007?gh_jid=5236587007) |
-| Anduril | Winter 2027 Quality & Test Engineer Co-op | Ashville, Ohio, United States; Santa Ana, California, United States | 2026-11-02 | [Link](https://boards.greenhouse.io/andurilindustries/jobs/5257571007?gh_jid=5257571007) |
-| Anduril | Winter 2027 Reliability Engineer Co-op | Costa Mesa, California, United States | 2026-11-02 | [Link](https://boards.greenhouse.io/andurilindustries/jobs/5257693007?gh_jid=5257693007) |
-| Anduril | Winter 2027 Research Engineer Co-op | Santa Ana, California, United States | 2026-11-02 | [Link](https://boards.greenhouse.io/andurilindustries/jobs/5265127007?gh_jid=5265127007) |
-| Anduril | Winter 2027 Robotics Engineer Co-op | Quincy, Massachusetts, United States | 2026-11-02 | [Link](https://boards.greenhouse.io/andurilindustries/jobs/5271842007?gh_jid=5271842007) |
-| Anduril | Winter 2027 Software Engineer Co-op | Quincy, Massachusetts, United States | 2026-11-02 | [Link](https://boards.greenhouse.io/andurilindustries/jobs/5236563007?gh_jid=5236563007) |
-| Anduril | Winter 2027 Systems Engineer Co-op | Quincy, Massachusetts, United States | 2026-11-02 | [Link](https://boards.greenhouse.io/andurilindustries/jobs/5236599007?gh_jid=5236599007) |
 | TikTok | Software Engineer Graduate - Data Ecosystem - 2027 Start | San Jose, CA | 2026-10-14 | [Link](https://lifeattiktok.com/search/7685769994391832837) |
 | Atlassian | Machine Learning Engineer - 2027 Graduate | Seattle, WA | 2026-09-24 | [Link](https://campus-americas.icims.com/jobs/25999/machine-learning-engineer%2c-2027-graduate-u.s./job) |
 | C3.ai | Forward Deployed Engineer New Grad - 2027 | Redwood City, CA | 2026-09-14 | [Link](https://c3.ai/job-description/8804558002?gh_jid=8804558002) |
@@ -95,22 +98,43 @@ Showing **US** postings, newest first.
 | Shield AI | Engineer 2 New Grad - Software - Perception | United States | 2026-11-12 | [Link](https://jobs.lever.co/shieldai/9017c8c2-2668-45d6-aff5-a7e348107c12/apply) |
 | Bask Health | Frontend Engineer New Grad | Remote in USA | 2026-11-12 | [Link](https://apply.workable.com/bask-health-1/j/95FB1074E4/apply) |
 | L3Harris Technologies | Associate Electrical Engineer | Ashburn, VA | 2026-11-12 | [Link](https://jobs.l3harris.com/job/Ashburn-Associate,-Electrical-Engineer-VA-20147/1450077500/?ats=successfactors) |
+| Sierra Nevada Corporation | Software Engineer 1 | Lone Tree, CO | 2026-11-12 | [Link](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-I--For-2026-Interns-Only-_R0031346) |
+| RTX | Digital Design Engineer 1 | Tucson, AZ | 2026-11-12 | [Link](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/Digital-Design-Engineer-I---onsite_01888918) |
+| RTX | Components Engineer 1 | El Segundo, CA | 2026-11-12 | [Link](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/Components-Engineer-I--Onsite-_01889186) |
+| CDK Global | Associate Database Engineer | Austin, TX | 2026-11-12 | [Link](https://cdk.wd1.myworkdayjobs.com/en-US/CDK/job/Austin-TX-USA/Associate-Database-Engineer_JR9386) |
+| Johns Hopkins Applied Physics Laboratory | Mission Modeling, Simulation & Software Engineer New Grad | Laurel, MD | 2026-11-12 | [Link](https://careers.jhuapl.edu/jobs/60029?icims=1&lang=en-us) |
 | TikTok | Fullstack Software Engineer Graduate (Global E-commerce) - 2027 Start | Seattle, WA | 2026-11-12 | [Link](https://www.linkedin.com/jobs/view/4448274877) |
 | ZipRecruiter | Software Engineer - New Grad | Santa Monica, CA | 2026-11-12 | [Link](https://www.linkedin.com/jobs/view/4470007969) |
-| Fatima Consultancy | Junior Software Engineer | United States | 2026-11-12 | [Link](https://www.linkedin.com/jobs/view/4488295678) |
+| Emonics LLC | Associate Software Engineer | Kansas City, MO | 2026-11-12 | [Link](https://www.linkedin.com/jobs/view/4489255256) |
+| Veeva Systems | Associate Software Engineer - 2027 Start Dates | Pleasanton, CA | 2026-11-12 | [Link](https://www.linkedin.com/jobs/view/4454704486) |
+| Twitch | Software Engineer I - Engagement Growth | Seattle, WA | 2026-11-12 | [Link](https://www.linkedin.com/jobs/view/4481187219) |
+| Veeva Systems | Associate Software Engineer - 2027 Start Dates | Boston, MA | 2026-11-12 | [Link](https://www.linkedin.com/jobs/view/4454489584) |
+| BeaconFire Inc. | Entry Level Java Developer | Delaware, United States | 2026-11-12 | [Link](https://www.linkedin.com/jobs/view/4486284410) |
+| Brivo | Software Engineer- NEW GRAD | Bethesda, MD | 2026-11-12 | [Link](https://www.linkedin.com/jobs/view/4488260889) |
+| Salute Medical Transportation | Junior Software Developer | San Antonio, TX | 2026-11-12 | [Link](https://www.linkedin.com/jobs/view/4490373134) |
+| BeaconFire Inc. | Entry Level Java Developer | New York City Metropolitan Area | 2026-11-12 | [Link](https://www.linkedin.com/jobs/view/4486294244) |
+| Brivo | Associate Engineer - Software | Austin, TX | 2026-11-12 | [Link](https://www.linkedin.com/jobs/view/4488274349) |
+| Palantir Technologies | Software Engineer, New Grad - Defense | Washington, DC | 2026-11-12 | [Link](https://www.linkedin.com/jobs/view/4434155093) |
+| Raytheon | Software Engineer/Developer I (Onsite) | Tewksbury, MA | 2026-11-12 | [Link](https://www.linkedin.com/jobs/view/4473966128) |
+| TypeSafe AI | Forward Deployed Engineer | San Francisco, CA | 2026-11-12 | [Link](https://www.linkedin.com/jobs/view/4490088492) |
+| Fonzi AI | Founding Forward Deployed Engineer | New York City Metropolitan Area | 2026-11-12 | [Link](https://www.linkedin.com/jobs/view/4489252535) |
+| Fonzi AI | Forward Deployed Engineer | New York City Metropolitan Area | 2026-11-12 | [Link](https://www.linkedin.com/jobs/view/4489241933) |
+| ResolveAI | Forward Deployed Engineer | New York, NY | 2026-11-12 | [Link](https://www.linkedin.com/jobs/view/4490080723) |
+| Underdog: Verified engineers. Interview-ready. Searching confidentially. And companies apply to you | Forward Deployed Engineer | New York City Metropolitan Area | 2026-11-12 | [Link](https://www.linkedin.com/jobs/view/4488875089) |
+| Doppel | Forward Deployed Engineer (SF) | San Francisco, CA | 2026-11-12 | [Link](https://www.linkedin.com/jobs/view/4438137068) |
+| PenFed Credit Union | Forward Deployed Engineer, AI Agentic Delivery | Washington DC-Baltimore Area | 2026-11-12 | [Link](https://www.linkedin.com/jobs/view/4479480768) |
+| Baseten | Forward Deployed Engineer | United States | 2026-11-12 | [Link](https://www.linkedin.com/jobs/view/4443918024) |
 | Deloitte | Anthropic Forward Deployed Engineer - GPS | Atlanta, GA | 2026-11-12 | [Link](https://www.linkedin.com/jobs/view/4418053297) |
 | Deloitte | Anthropic Forward Deployed Engineer - GPS | Chicago, IL | 2026-11-12 | [Link](https://www.linkedin.com/jobs/view/4418043933) |
+| Scout Global | Forward Deployed Engineer | New York, United States | 2026-11-12 | [Link](https://www.linkedin.com/jobs/view/4486239835) |
 | AST SpaceMobile | RF Test Engineer 1 | Midland, TX; Dallas, TX | 2026-11-11 | [Link](https://ast-science.com/company/careers/?gh_jid=4753267005) |
 | Amazon | Software Development Engineer Early Career - Amazon Dedicated Cloud | Seattle, WA; Jessup, MD | 2026-11-11 | [Link](https://amazon.jobs/en/jobs/10601956/software-development-engineer-amazon-dedicated-cloud-early-career-2027-amazon-dedicated-cloud-adc) |
 | SharkNinja | Forward Deployed Engineer - Entry Level - THE FIN | Needham, MA | 2026-11-11 | [Link](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4728305006) |
 | Salesforce | Software Engineering AMTS New Grad | Palo Alto, CA; Seattle, WA | 2026-11-11 | [Link](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR368047-1) |
 | Salesforce | Software Engineer New Grad | Palo Alto, CA; Seattle, WA | 2026-11-11 | [Link](https://salesforce.wd12.myworkdayjobs.com/Futureforce_NewGradRoles/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR368047) |
-| Intercontinental Exchange | Associate Software Developer | Jacksonville, FL | 2026-11-11 | [Link](https://ice.jibeapply.com/jobs/14039?icims=1&lang=en-us) |
-| RTX | Software Engineer 1 | Richardson, TX | 2026-11-11 | [Link](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineer-I--Onsite-_01885824) |
 | GlobalFoundries | AI Processor Hardware/Software Integration Engineer New Grad | Richardson, TX | 2026-11-11 | [Link](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/AI-Processor-Hardware-Software-Integration-Engineer--2027-New-College-Graduate-_JR-2604093) |
 | RTX | Software Engineer 1 | Fort Wayne, IN | 2026-11-11 | [Link](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineer-I--CMA-P1-1-_01888038) |
 | Northrop Grumman | Associate Software Engineer - Pathways | Boulder, CO | 2026-11-11 | [Link](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/XMLNAME-2027-Associate-Software-Engineer---Pathways---Boulder-CO_R10260171) |
-| Intercontinental Exchange | Associate Software Developer | Jacksonville, FL | 2026-11-11 | [Link](https://careers-ice.icims.com/jobs/14039/job?mobile=true&needsRedirect=false) |
 | Shield AI | Engineer 2 New Grad - Software - Autonomy Capabilities | United States | 2026-11-11 | [Link](https://jobs.lever.co/shieldai/d2050861-fd48-4ac6-9606-e1e502a817af/apply) |
 | Shield AI | Engineer 2 New Grad - Software - Autonomous Pilot Integration | Washington, DC | 2026-11-11 | [Link](https://jobs.lever.co/shieldai/d2beda9f-f7f1-46ca-86d6-5bbbd52fbe50/apply) |
 | Northrop Grumman | Associate Software Engineer - Pathways | Colorado Springs, CO | 2026-11-11 | [Link](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Associate-Software-Engineer---Pathways---Colorado-Springs_R10260174) |
@@ -128,18 +152,23 @@ Showing **US** postings, newest first.
 | Shield AI | Engineer 2 New Grad - Software - Autonomous Pilot Integration | Washington, DC | 2026-11-11 | [Link](https://jobs.ashbyhq.com/shield/a97fe80e-3ff6-427c-8789-2a7480326bc3/application?embed=true) |
 | RTX | Software Engineer 1 | Cedar Rapids, IA | 2026-11-11 | [Link](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-143--855-35Th-St-NE--BLDG-143/Software-Engineer-I--Onsite-_01888058) |
 | RTX | Associate Software Engineer 1 - CDS / Engine System Software | East Hartford, CT | 2026-11-11 | [Link](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Associate-Software-Engineer-I---CDS---Engine-System-Software--Onsite-_01884197) |
+| TikTok | Software Engineer Graduate (Foundation Platform) - 2027 Start | San Jose, CA | 2026-11-11 | [Link](https://www.linkedin.com/jobs/view/4452901177) |
+| IBM | Entry Level Software Developer-Different locations | Tucson, AZ | 2026-11-11 | [Link](https://www.linkedin.com/jobs/view/4488243122) |
 | Eccalon, LLC | Junior Software Engineer - onsite | Detroit, MI | 2026-11-11 | [Link](https://www.linkedin.com/jobs/view/4417513151) |
 | Collins Aerospace | Software Engineer I (Onsite) | Cedar Rapids, IA | 2026-11-11 | [Link](https://www.linkedin.com/jobs/view/4490048285) |
-| ICE | Associate Software Developer | Jacksonville, FL | 2026-11-11 | [Link](https://www.linkedin.com/jobs/view/4489988814) |
+| MITRE | Associate Software Engineer | Bedford, MA | 2026-11-11 | [Link](https://www.linkedin.com/jobs/view/4489990443) |
+| Garmin | Software Engineer 1 (C++ MEC MapTech) | Olathe, KS | 2026-11-11 | [Link](https://www.linkedin.com/jobs/view/4482066164) |
 | Self Financial, Inc. | Associate Software Engineer | Austin, TX | 2026-11-11 | [Link](https://www.linkedin.com/jobs/view/4490028932) |
 | CGI | Software Developer – Entry Level (January Start) | Knoxville, TN | 2026-11-11 | [Link](https://www.linkedin.com/jobs/view/4489691757) |
-| BeaconFire Inc. | Entry Level Java Developer | New York City Metropolitan Area | 2026-11-11 | [Link](https://www.linkedin.com/jobs/view/4486294244) |
-| TikTok | Software Engineer Graduate (Foundation Platform) - 2027 Start | San Jose, CA | 2026-11-11 | [Link](https://www.linkedin.com/jobs/view/4452901177) |
 | Applied Systems | Associate Software Engineer / Software Engineer | Chicago, IL | 2026-11-11 | [Link](https://www.linkedin.com/jobs/view/4436261665) |
+| TikTok | Backend Software Engineer Graduate (Global E-commerce) - 2027 Start | Seattle, WA | 2026-11-11 | [Link](https://www.linkedin.com/jobs/view/4448291147) |
+| IBM | Entry Level Software Developer-Different locations | Rochester, MN | 2026-11-11 | [Link](https://www.linkedin.com/jobs/view/4488231607) |
 | Fulcrum | Forward Deployed AI Engineer | San Francisco, CA | 2026-11-11 | [Link](https://www.linkedin.com/jobs/view/4452286868) |
-| ConductorAI | Forward Deployed Software Engineer | Washington, DC | 2026-11-11 | [Link](https://www.linkedin.com/jobs/view/4426903287) |
 | Programmers.io | Forward Deployed Engineer | Plano, TX | 2026-11-11 | [Link](https://www.linkedin.com/jobs/view/4489017139) |
-| Scout Global | Forward Deployed Engineer | New York, United States | 2026-11-11 | [Link](https://www.linkedin.com/jobs/view/4486239835) |
+| Deloitte | Snowflake Forward Deployed Engineer - GPS | Chicago, IL | 2026-11-11 | [Link](https://www.linkedin.com/jobs/view/4473084785) |
+| Circadia Health | Forward Deployed AI Engineer | El Segundo, CA | 2026-11-11 | [Link](https://www.linkedin.com/jobs/view/4488679590) |
+| ConductorAI | Forward Deployed Software Engineer | Washington, DC | 2026-11-11 | [Link](https://www.linkedin.com/jobs/view/4426903287) |
+| Method | Forward Deployed Engineer | New York, NY | 2026-11-11 | [Link](https://www.linkedin.com/jobs/view/4490048004) |
 | Multi Media | Software Engineer 1/2 | Remote in USA | 2026-11-10 | [Link](https://apply.workable.com/multimediallc/j/24DBCDDF27/apply#jobs) |
 | Longshot Space Technologies | Electrical Engineer 1 | Alameda, CA | 2026-11-10 | [Link](https://ats.rippling.com/longshot/jobs/4392677a-3d26-4049-845d-bb7fb04246fd) |
 | Johns Hopkins Applied Physics Laboratory | Engineer/Analyst New Grad - ISRT and BMC2 Applications | Laurel, MD | 2026-11-10 | [Link](https://careers.jhuapl.edu/jobs/59851?icims=1&lang=en-us) |
@@ -155,29 +184,32 @@ Showing **US** postings, newest first.
 | Abacus Insights | Associate Data Engineer | Remote in USA | 2026-11-10 | [Link](https://boards.greenhouse.io/abacusinsights/jobs/8917380002) |
 | Medtronic | Hardware Engineer 1 | Lafayette, CO | 2026-11-10 | [Link](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Lafayette-Colorado-United-States-of-America/Hardware-Engineer-I---ACM_R78082-1) |
 | RTX | Software Engineer 1 | Richardson, TX | 2026-11-10 | [Link](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineer-I--Onsite-_01888052) |
-| Anduril | 2027 New Grad Information Security Engineer | Costa Mesa, California, United States | 2026-11-10 | [Link](https://boards.greenhouse.io/andurilindustries/jobs/5270839007?gh_jid=5270839007) |
-| Anduril | Forward Deployed Software Engineer, JBLM (Active Clearance) | Tacoma, Washington, United States | 2026-11-10 | [Link](https://boards.greenhouse.io/andurilindustries/jobs/5286149007?gh_jid=5286149007) |
-| Emonics LLC | Associate Software Engineer | Miami, FL | 2026-11-10 | [Link](https://www.linkedin.com/jobs/view/4488373579) |
+| Virtue America | Junior Software Developer | New Jersey, United States | 2026-11-10 | [Link](https://www.linkedin.com/jobs/view/4489624646) |
+| Cursor | Software Engineer, New Grad 2027 | San Francisco, CA | 2026-11-10 | [Link](https://www.linkedin.com/jobs/view/4489456585) |
 | Veeva Systems | Associate Software Engineer - 2027 Start Dates | Columbus, OH | 2026-11-10 | [Link](https://www.linkedin.com/jobs/view/4454703447) |
-| Freeform | Software Engineer (New Grad Summer 2027) | Los Angeles, CA | 2026-11-10 | [Link](https://www.linkedin.com/jobs/view/4455453920) |
 | Textron | 2027 Software Engineer I (Weapons) - Wilmington, MA | Wilmington, MA | 2026-11-10 | [Link](https://www.linkedin.com/jobs/view/4487804405) |
 | MITRE | Associate Software Engineer | Bridgeport, WV | 2026-11-10 | [Link](https://www.linkedin.com/jobs/view/4489613883) |
-| Textron | Software Engineer I | Wilmington, MA | 2026-11-10 | [Link](https://www.linkedin.com/jobs/view/4487860281) |
-| Emonics LLC | Backend Python Developer - Entry Level | Portland, OR | 2026-11-10 | [Link](https://www.linkedin.com/jobs/view/4488368728) |
+| Amentum | Junior Software Developer | Dahlgren, VA | 2026-11-10 | [Link](https://www.linkedin.com/jobs/view/4489647552) |
 | Amazon | Software Development Engineer, Early Career - 2027 (US) | Arlington, VA | 2026-11-10 | [Link](https://www.linkedin.com/jobs/view/4481563708) |
-| Amazon | Software Development Engineer, Early Career - 2027 (US) | Austin, TX | 2026-11-10 | [Link](https://www.linkedin.com/jobs/view/4481570393) |
+| Amazon | Software Development Engineer, Early Career - 2027 (US) | Detroit, MI | 2026-11-10 | [Link](https://www.linkedin.com/jobs/view/4481572374) |
+| Amazon | Software Development Engineer, Early Career - 2027 (US) | Boston, MA | 2026-11-10 | [Link](https://www.linkedin.com/jobs/view/4481577190) |
+| EBSCO Information Services | Software Dev Engineer I | Birmingham, AL | 2026-11-10 | [Link](https://www.linkedin.com/jobs/view/4481216399) |
 | Medpace | Junior Software Engineer | Cincinnati, OH | 2026-11-10 | [Link](https://www.linkedin.com/jobs/view/4351877495) |
+| Amazon | Software Development Engineer, Early Career - 2027 (US) | Austin, TX | 2026-11-10 | [Link](https://www.linkedin.com/jobs/view/4481570393) |
 | BioSpace | Associate Software Engineer I | North Chicago, IL | 2026-11-10 | [Link](https://www.linkedin.com/jobs/view/4489429088) |
 | Ascend Analytics | Junior Software Engineer | Boulder, CO | 2026-11-10 | [Link](https://www.linkedin.com/jobs/view/4479762098) |
-| Honeywell Aerospace | Software Engineer I-Web Applications | Phoenix, AZ | 2026-11-10 | [Link](https://www.linkedin.com/jobs/view/4487828476) |
 | Amazon | Software Development Engineer, Early Career - 2027 (US) | Santa Clara, CA | 2026-11-10 | [Link](https://www.linkedin.com/jobs/view/4481558846) |
-| EBSCO Information Services | Software Dev Engineer I | Birmingham, AL | 2026-11-10 | [Link](https://www.linkedin.com/jobs/view/4481216399) |
 | Amazon | Software Development Engineer, Early Career - 2027 (US) | Denver, CO | 2026-11-10 | [Link](https://www.linkedin.com/jobs/view/4481570391) |
-| Amazon | Software Development Engineer, Early Career - 2027 (US) | Detroit, MI | 2026-11-10 | [Link](https://www.linkedin.com/jobs/view/4481572374) |
 | Sim | Forward Deployed Engineer | San Francisco, CA | 2026-11-10 | [Link](https://www.linkedin.com/jobs/view/4489400774) |
 | Harrison Clarke | Forward Deployed Engineer | SF | $250K + equity | San Francisco, CA | 2026-11-10 | [Link](https://www.linkedin.com/jobs/view/4489460734) |
+| Reducto | Forward Deployed Engineer | San Francisco, CA | 2026-11-10 | [Link](https://www.linkedin.com/jobs/view/4338954885) |
+| Amazon Web Services (AWS) | Forward Deployed Engineer, Forward Deployment Engineering | East Palo Alto, CA | 2026-11-10 | [Link](https://www.linkedin.com/jobs/view/4481564724) |
+| Amazon Web Services (AWS) | Forward Deployed Engineer, Forward Deployment Engineering | Seattle, WA | 2026-11-10 | [Link](https://www.linkedin.com/jobs/view/4481564725) |
+| Baseten | Forward Deployed Engineer | San Francisco, CA | 2026-11-10 | [Link](https://www.linkedin.com/jobs/view/4380546804) |
+| Venn | Forward Deployed Engineer | New York, NY | 2026-11-10 | [Link](https://www.linkedin.com/jobs/view/4467448241) |
+| Amazon Web Services (AWS) | Forward Deployed Engineer, Forward Deployment Engineering | New York, United States | 2026-11-10 | [Link](https://www.linkedin.com/jobs/view/4481560806) |
+| Snowplow | Forward Deployed Engineer | Massachusetts, United States | 2026-11-10 | [Link](https://www.linkedin.com/jobs/view/4487489816) |
 | Kyndryl | Associate Data Engineer | Frisco, TX | 2026-11-09 | [Link](https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/Dallas-USDALFRI-Frisco-AI-HUB/Data-Engineer_R-66870-1) |
-| AECOM | Software Developer 1 | Tallahassee, FL | 2026-11-09 | [Link](https://jobs.smartrecruiters.com/AECOM2/744000160723419) |
 | Whoop | Software Engineer 1 - Backend - Growth | Boston, MA | 2026-11-09 | [Link](https://jobs.ashbyhq.com/whoop/d31312c2-236a-45f1-8da7-61a7ca8d1622/application?embed=true) |
 | Mercury Insurance | Software Engineer 1 | Remote in USA | 2026-11-09 | [Link](https://careers-mercuryinsurance.icims.com/jobs/6943/job?mobile=true&needsRedirect=false) |
 | Wolverine Trading | C++ Software Engineer New Grad | Chicago, IL | 2026-11-09 | [Link](https://wolve.pinpointhq.com/en/postings/33228344-bcc7-4bcd-b3cb-22b60aaee82c?ats=pinpointhq) |
@@ -187,24 +219,14 @@ Showing **US** postings, newest first.
 | Rocket Lab Corporation | Software Engineer 1 - Robotics | Pasadena, CA | 2026-11-09 | [Link](https://job-boards.greenhouse.io/rocketlab/jobs/8057246003) |
 | Old Republic Title | Associate Developer - C#/.Net | Orlando, FL | 2026-11-09 | [Link](https://oldrepublic.wd1.myworkdayjobs.com/oldrepublictitle/job/FL-Orlando-6545-Corporate-Ctr-Blvd/Associate-Developer---C--NET_R-4410) |
 | RTX | Test and Validation Engineer 1 | Andover, MA | 2026-11-09 | [Link](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-ANDOVER-AN1--350-Lowell-St--AN1-ESSEX-BLDG/Test-and-Validation-Engineer-I_01888408) |
-| Northrop Grumman | Associate Electronics Engineer/Electronics Engineer | San Diego, CA | 2026-11-09 | [Link](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Associate-Electronics-Engineer-Electronics-Engineer_R10259867) |
 | Kyndryl | Early Career Consult Program - Associate Data Engineer | Frisco, TX | 2026-11-09 | [Link](https://kyndryl.wd5.myworkdayjobs.com/en-US/KyndrylProfessionalCareers/job/Dallas-USDALFRI-Frisco-AI-HUB/Data-Engineer_R-66870) |
 | Northrop Grumman | Associate Electronics Engineer/Electronics Engineer | San Diego, CA | 2026-11-09 | [Link](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Associate-Electronics-Engineer-Electronics-Engineer_R10259833-1) |
 | RTX | Embedded Software Engineer 1 | Goleta, CA | 2026-11-09 | [Link](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-GOLETA-H01--6380-Hollister-Ave--BLDG-H01/Embedded-Software-Engineer-I--Onsite-_01888147) |
 | RTX | Embedded Security Software Engineer 1 | Goleta, CA | 2026-11-09 | [Link](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-GOLETA-H01--6380-Hollister-Ave--BLDG-H01/Embedded-Security-Software-Engineer-I--Onsite-_01888154) |
-| RTX | Software Engineer 1 | Cedar Rapids, IA | 2026-11-09 | [Link](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineer-I--Onsite-_01888514) |
 | Microchip Technology | Engineer 1 - Device/Test - Parametric/Etest | Colorado Springs, CO | 2026-11-09 | [Link](https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/CO---Colorado-Springs---East-Cheyenne-Mountain-Blvd/Engineer-I--Device-Test--Parametric-Etest-_R4730-26) |
-| Anduril | Early Career RF Mission Systems Engineer, Air Dominance & Strike | Costa Mesa, California, United States | 2026-11-09 | [Link](https://boards.greenhouse.io/andurilindustries/jobs/5290310007?gh_jid=5290310007) |
-| Wolverine Trading | New Grad C++ Software Engineer | Chicago, IL | 2026-11-09 | [Link](https://www.linkedin.com/jobs/view/4487929243) |
-| Adobe | 2027 University Graduate - Software Engineer | New York, NY | 2026-11-09 | [Link](https://www.linkedin.com/jobs/view/4487688772) |
-| Spatial Front, Inc | Associate Software Developer — Recent Graduates | Arlington, VA | 2026-11-09 | [Link](https://www.linkedin.com/jobs/view/4438972097) |
-| Adobe | 2027 University Graduate - Software Engineer | Seattle, WA | 2026-11-09 | [Link](https://www.linkedin.com/jobs/view/4487681875) |
-| Old Republic Title | Associate Developer - C#/.NET | Orlando, FL | 2026-11-09 | [Link](https://www.linkedin.com/jobs/view/4487961638) |
-| Identity Digital Inc. | Software Engineer I | Bellevue, WA | 2026-11-09 | [Link](https://www.linkedin.com/jobs/view/4478492921) |
 | CSI | Software Engineer I – C#/.NET | Hybrid – Paducah, KY | Paducah, KY | 2026-11-09 | [Link](https://www.linkedin.com/jobs/view/4489149421) |
-| SpaceX | New Graduate Engineer, Software - '26/'27 (Starlink) | Redmond, WA | 2026-11-09 | [Link](https://www.linkedin.com/jobs/view/4454588318) |
-| Cisive | Associate Software Developer | Headquarters, KY | 2026-11-09 | [Link](https://www.linkedin.com/jobs/view/4486788055) |
 | WHOOP | Software Engineer I (Backend, Growth) | Boston, MA | 2026-11-09 | [Link](https://www.linkedin.com/jobs/view/4489146199) |
+| Identity Digital Inc. | Software Engineer I | Bellevue, WA | 2026-11-09 | [Link](https://www.linkedin.com/jobs/view/4478492921) |
 | Shield AI | Software Engineer 1 New Grad - Software - Autonomy Capabilities | United States | 2026-11-08 | [Link](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/955d48ad-9380-4621-91f4-51f3f093ac10/application?embed=true) |
 | Shield AI | Engineer 1 New Grad - Software - Autonomous Pilot Integration | Washington, DC | 2026-11-08 | [Link](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/29917792-e504-4cb5-9e70-9d74212d3b1f/application?embed=true) |
 | Shield AI | Engineer 1 New Grad - Software - Perception | Washington, DC | 2026-11-08 | [Link](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/e4ac2482-6da7-4ab9-bab8-7bccbf3f6ae7/application?embed=true) |
@@ -233,7 +255,6 @@ Showing **US** postings, newest first.
 | Shield AI | Electrical Engineer New Grad | San Diego, CA | 2026-11-06 | [Link](https://jobs.ashbyhq.com/shield/b2660259-a5db-4530-95e6-20e48a41068d/application?embed=true) |
 | Databricks | AI Engineer – Forward Deployed Engineering (AI FDE) | United States | 2026-11-06 | [Link](https://databricks.com/company/careers/open-positions/job?gh_jid=8546367002) |
 | Samsara | Security Operations Engineer I | Remote - CA | 2026-11-06 | [Link](https://www.samsara.com/company/careers/roles/8353283?gh_jid=8353283) |
-| Anduril | Associate Mechanical Engineer, Actuators | Costa Mesa, California, United States | 2026-11-06 | [Link](https://boards.greenhouse.io/andurilindustries/jobs/5286571007?gh_jid=5286571007) |
 | Openai | Forward Deployed Engineer (FDE), Life Sciences - NYC | New York City | 2026-11-06 | [Link](https://jobs.ashbyhq.com/openai/a12c3c93-51df-437d-862f-4892367fea32) |
 | Amazon | Software Developer Engineer 1 - Security Platform | Seattle, WA; Irvine, CA | 2026-11-05 | [Link](https://amazon.jobs/en/jobs/10597112/software-dev-engineer-i-security-platform) |
 | Paccar | Associate System Integration and Test Engineer | Mount Vernon, WA | 2026-11-05 | [Link](https://jobs.paccar.com/job/Mount-Vernon-Associate-System-Integration-and-Test-Engineer-WA-98273-9671/1454445133/?ats=successfactors) |
@@ -274,7 +295,6 @@ Showing **US** postings, newest first.
 | Draper | Software Engineer 1 | Cambridge, MA | 2026-11-04 | [Link](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Software-Flight-Engr_JR003108) |
 | Vizient | Associate Software Engineer | Irving, TX | 2026-11-04 | [Link](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/Associate-Software-Engineer--Hybrid-_35731R-1) |
 | Empower Pharmacy | Associate Software Engineer - Full Stack | Houston, TX | 2026-11-04 | [Link](https://careers.empowerpharmacy.com/jobs/?gh_jid=4479712009) |
-| Anduril | Winter 2027 Manufacturing Engineer Co-op | Ashville, Ohio, United States; Lexington, Massachusetts, United States; Quincy, Massachusetts, United States; Quonset, Rhode Island, United States | 2026-11-04 | [Link](https://boards.greenhouse.io/andurilindustries/jobs/5236589007?gh_jid=5236589007) |
 | Micron Technology | Engineer New Grad - Edge Systems Architecture | Boise, ID | 2026-11-03 | [Link](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad--Engineer--Edge-Systems-Architecture_JR116433) |
 | LexisNexis Risk Solutions | Software Engineer 1 New Grad - Software Engineer I | Alpharetta, GA | 2026-11-03 | [Link](https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program_R120836) |
 | RELX | Software Engineer 1 New Grad - Software Engineer I | Alpharetta, GA | 2026-11-03 | [Link](https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program_R120836-1) |
@@ -286,45 +306,11 @@ Showing **US** postings, newest first.
 | Shield AI | Electrical Engineer New Grad | Seattle, WA | 2026-11-03 | [Link](https://jobs.ashbyhq.com/shield/88fb99dc-26b8-4937-92a9-b8d13ce4e0f0/application?embed=true) |
 | Northwood Space | Lifecycle Electrical Engineer New Grad | LA; Torrance, CA | 2026-11-03 | [Link](https://jobs.ashbyhq.com/NorthwoodSpace/ca559bda-f67e-4bbd-a9d8-4737b5fe02e0/application?embed=true) |
 | Stripe | Forward Deployed Engineer, Privy | New York Privy HQ | 2026-11-03 | [Link](https://stripe.com/jobs/search?gh_jid=7230452) |
-| Anduril | Forward Deployed Software Engineer, Connected Warfare (Active Clearance) | Seattle, Washington, United States | 2026-11-03 | [Link](https://boards.greenhouse.io/andurilindustries/jobs/4263030007?gh_jid=4263030007) |
-| Anduril | Forward Deployed Software Engineer, Connected Warfare (Active Clearance) | Honolulu, Hawaii, United States | 2026-11-03 | [Link](https://boards.greenhouse.io/andurilindustries/jobs/5155536007?gh_jid=5155536007) |
-| Anduril | Forward Deployed Software Engineer, Connected Warfare (Active Clearance) | Colorado Springs, Colorado, United States | 2026-11-03 | [Link](https://boards.greenhouse.io/andurilindustries/jobs/5283460007?gh_jid=5283460007) |
 | Google | Software Engineer 2 – Early Career | Palo Alto, CA; Madison, WI | 2026-11-02 | [Link](https://www.google.com/about/careers/applications/jobs/results/109116638069957318) |
 | Qualcomm | Associate Calibration Engineer - Calibration Engineering | San Diego, CA | 2026-11-02 | [Link](https://qualcomm.eightfold.ai/careers/job/446721831785) |
 | RTX | Electrical Engineer 1 | Tucson, AZ | 2026-11-02 | [Link](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/AEGS-Pro-Electrical-Engineer-I--On-Site-_01886301) |
 | Proper Voltage | Associate Electrical Engineer | Carlsbad, CA | 2026-11-02 | [Link](https://ats.rippling.com/proper-voltage/jobs/7d272a91-31f4-4532-ba1d-9bbdc54672b4) |
 | General Dynamics Mission Systems | Entry Level Engineer | United States | 2026-11-02 | [Link](https://careers-gdms.icims.com/jobs/76784/job?mobile=true&needsRedirect=false) |
-| Anduril | 2026 Early Career Electrical Engineer | Costa Mesa, California, United States; Fort Collins, Colorado, United States | 2026-11-02 | [Link](https://boards.greenhouse.io/andurilindustries/jobs/4802172007?gh_jid=4802172007) |
-| Anduril | 2026 Early Career Manufacturing Engineer | Costa Mesa, California, United States; Irvine, California, United States; Santa Ana, California, United States | 2026-11-02 | [Link](https://boards.greenhouse.io/andurilindustries/jobs/5176254007?gh_jid=5176254007) |
-| Anduril | 2026 Early Career Mechanical Engineer | Costa Mesa, California, United States | 2026-11-02 | [Link](https://boards.greenhouse.io/andurilindustries/jobs/4802167007?gh_jid=4802167007) |
-| Anduril | 2027 Early Career Electrical Engineer | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States | 2026-11-02 | [Link](https://boards.greenhouse.io/andurilindustries/jobs/5136925007?gh_jid=5136925007) |
-| Anduril | 2027 Early Career Firmware Engineer | Costa Mesa, California, United States | 2026-11-02 | [Link](https://boards.greenhouse.io/andurilindustries/jobs/5246141007?gh_jid=5246141007) |
-| Anduril | 2027 Early Career Flight Software Engineer | Costa Mesa, California, United States | 2026-11-02 | [Link](https://boards.greenhouse.io/andurilindustries/jobs/5228868007?gh_jid=5228868007) |
-| Anduril | 2027 Early Career Flight Test Engineer | Costa Mesa, California, United States | 2026-11-02 | [Link](https://boards.greenhouse.io/andurilindustries/jobs/5246225007?gh_jid=5246225007) |
-| Anduril | 2027 Early Career Industrial Engineer | Ashville, Ohio, United States | 2026-11-02 | [Link](https://boards.greenhouse.io/andurilindustries/jobs/5236921007?gh_jid=5236921007) |
-| Anduril | 2027 Early Career Manufacturing Engineer | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Seattle, Washington, United States | 2026-11-02 | [Link](https://boards.greenhouse.io/andurilindustries/jobs/5136970007?gh_jid=5136970007) |
-| Anduril | 2027 Early Career Mechanical Engineer | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States | 2026-11-02 | [Link](https://boards.greenhouse.io/andurilindustries/jobs/5136984007?gh_jid=5136984007) |
-| Anduril | 2027 Early Career Quality Engineer | Ashville, Ohio, United States; Costa Mesa, California, United States; Irvine, California, United States; Quonset, Rhode Island, United States; Santa Ana, California, United States | 2026-11-02 | [Link](https://boards.greenhouse.io/andurilindustries/jobs/5262324007?gh_jid=5262324007) |
-| Anduril | 2027 Early Career Software Engineer  | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States | 2026-11-02 | [Link](https://boards.greenhouse.io/andurilindustries/jobs/5162263007?gh_jid=5162263007) |
-| Anduril | 2027 Early Career Supply Chain Engineer | Costa Mesa, California, United States | 2026-11-02 | [Link](https://boards.greenhouse.io/andurilindustries/jobs/5268564007?gh_jid=5268564007) |
-| Anduril | 2027 Early Career Systems Engineer | Boston, Massachusetts, United States; Boulder, Colorado, United States; Costa Mesa, California, United States; Foothill Ranch, California, United States; Huntsville, Alabama, United States; Reston, Virginia, United States; Seattle, Washington, United States; Washington, District of Columbia, United States | 2026-11-02 | [Link](https://boards.greenhouse.io/andurilindustries/jobs/5262340007?gh_jid=5262340007) |
-| Anduril | 2027 Early Career Warhead Engineer | Costa Mesa, California, United States | 2026-11-02 | [Link](https://boards.greenhouse.io/andurilindustries/jobs/5268704007?gh_jid=5268704007) |
-| Anduril | 2027 New Grad GNC Engineer | Costa Mesa, California, United States | 2026-11-02 | [Link](https://boards.greenhouse.io/andurilindustries/jobs/5270855007?gh_jid=5270855007) |
-| Anduril | 2027 New Grad Low Observables Engineer | Costa Mesa, California, United States | 2026-11-02 | [Link](https://boards.greenhouse.io/andurilindustries/jobs/5269789007?gh_jid=5269789007) |
-| Anduril | Fall 2027 Manufacturing Engineer Co-op | Ashville, Ohio, United States; Quincy, Massachusetts, United States; Santa Ana, California, United States | 2026-11-02 | [Link](https://boards.greenhouse.io/andurilindustries/jobs/5280611007?gh_jid=5280611007) |
-| Anduril | Forward Deployed Engineer, Air Defense (FDE) | Costa Mesa, California, United States | 2026-11-02 | [Link](https://boards.greenhouse.io/andurilindustries/jobs/5057206007?gh_jid=5057206007) |
-| Anduril | Mission Engineer, Air Dominance & Strike, Early Career | Costa Mesa, California, United States | 2026-11-02 | [Link](https://boards.greenhouse.io/andurilindustries/jobs/5174562007?gh_jid=5174562007) |
-| Anduril | Winter 2027 Business Operations Engineer Co-op | Ashville, Ohio, United States; Costa Mesa, California, United States | 2026-11-02 | [Link](https://boards.greenhouse.io/andurilindustries/jobs/5271686007?gh_jid=5271686007) |
-| Anduril | Winter 2027 Electrical Engineer Co-op | Costa Mesa, California, United States; Quincy, Massachusetts, United States | 2026-11-02 | [Link](https://boards.greenhouse.io/andurilindustries/jobs/5236565007?gh_jid=5236565007) |
-| Anduril | Winter 2027 EWIS Harness Engineer Co-op | Costa Mesa, California, United States | 2026-11-02 | [Link](https://boards.greenhouse.io/andurilindustries/jobs/5236577007?gh_jid=5236577007) |
-| Anduril | Winter 2027 Mechanical Engineer Co-op | Ashville, Ohio, United States; Quincy, Massachusetts, United States | 2026-11-02 | [Link](https://boards.greenhouse.io/andurilindustries/jobs/5236601007?gh_jid=5236601007) |
-| Anduril | Winter 2027 Propulsion Engineer Co-op | Costa Mesa, California, United States | 2026-11-02 | [Link](https://boards.greenhouse.io/andurilindustries/jobs/5236587007?gh_jid=5236587007) |
-| Anduril | Winter 2027 Quality & Test Engineer Co-op | Ashville, Ohio, United States; Santa Ana, California, United States | 2026-11-02 | [Link](https://boards.greenhouse.io/andurilindustries/jobs/5257571007?gh_jid=5257571007) |
-| Anduril | Winter 2027 Reliability Engineer Co-op | Costa Mesa, California, United States | 2026-11-02 | [Link](https://boards.greenhouse.io/andurilindustries/jobs/5257693007?gh_jid=5257693007) |
-| Anduril | Winter 2027 Research Engineer Co-op | Santa Ana, California, United States | 2026-11-02 | [Link](https://boards.greenhouse.io/andurilindustries/jobs/5265127007?gh_jid=5265127007) |
-| Anduril | Winter 2027 Robotics Engineer Co-op | Quincy, Massachusetts, United States | 2026-11-02 | [Link](https://boards.greenhouse.io/andurilindustries/jobs/5271842007?gh_jid=5271842007) |
-| Anduril | Winter 2027 Software Engineer Co-op | Quincy, Massachusetts, United States | 2026-11-02 | [Link](https://boards.greenhouse.io/andurilindustries/jobs/5236563007?gh_jid=5236563007) |
-| Anduril | Winter 2027 Systems Engineer Co-op | Quincy, Massachusetts, United States | 2026-11-02 | [Link](https://boards.greenhouse.io/andurilindustries/jobs/5236599007?gh_jid=5236599007) |
 | Bristol Myers Squibb | Associate Engineer - Analytical AI Engineering | Princeton, NJ | 2026-10-31 | [Link](https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Princeton---NJ---US/Associate-Engineer--Analytical-AI-Engineering_R1608005) |
 | TSC | Software Engineer 1 | Huntsville, AL | 2026-10-30 | [Link](https://tsc.wd12.myworkdayjobs.com/en-US/TSC-Careers/job/Huntsville-AL-Discovery/Software-Engineer-I_JR2897) |
 | BodySpec | Junior Software Engineer | Austin, TX | 2026-10-30 | [Link](https://bodyspec.applytojob.com/apply/YsrsS9yEg7/Junior-Developer) |
@@ -336,7 +322,6 @@ Showing **US** postings, newest first.
 | Broadcom | Physical Design Engineer New Grad - ASIC Products Division (APD) | San Jose, CA | 2026-10-30 | [Link](https://broadcom.wd1.myworkdayjobs.com/external_career/job/USA-CA-San-Jose-Innovation-Drive/Physical-Design-Engineer_R027516) |
 | SAIC | Systems Engineer Associate | Panama City Beach, FL | 2026-10-30 | [Link](https://eihu.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2618656) |
 | Urban Science | Associate Software Engineer | Detroit, MI | 2026-10-30 | [Link](https://careers-urbanscience.icims.com/jobs/5234/job?mobile=true&needsRedirect=false) |
-| Dell Technologies | Test Engineer 1 | Franklin, MA | 2026-10-29 | [Link](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/296581) |
 | Analog Devices | Associate Test Engineer | Austin, TX; San Jose, CA | 2026-10-29 | [Link](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-CA-San-Jose-Rio-Robles/Associate-Test-Engineer_R268237) |
 | Exelixis | Associate Engineer - AI and Agentics | Alameda, CA | 2026-10-29 | [Link](https://exelixis.wd1.myworkdayjobs.com/exel/job/Alameda-CA/Associate-Engineer--AI-and-Agentics_JR7183) |
 | Intelliforce-IT Solutions Group | Junior Software Engineer - Prime | Annapolis Junction, MD | 2026-10-29 | [Link](https://intelliforceitsolutionsgroup.applytojob.com/apply/vrH8MYXO9u/Junior-Software-Engineer-Prime) |
@@ -458,6 +443,7 @@ Showing **US** postings, newest first.
 | TikTok | Research Engineer New Grad - Realtime Codec Optimizations-Video Codec | San Diego, CA | 2026-10-14 | [Link](https://lifeattiktok.com/search/7670335888371927349) |
 | Moog | Associate Electrical Engineer / Electronic Design Engineer | Phoenix, AZ | 2026-10-14 | [Link](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Phoenix-AZ/Eng--Design--Electronic_R-26-20419) |
 | RTX | Software Engineer 1 - Next Gen Systems | Cedar Rapids, IA | 2026-10-14 | [Link](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-112--400-Collins-Rd-NE--BLDG-112/Software-Engineer-I---Next-Gen-Systems---Onsite_01881673) |
+| TP-Link Systems | Early Career System Hardware Design Engineer | United States | 2026-10-14 | [Link](https://tplink.wd503.myworkdayjobs.com/External/job/US-10-Mauchly/XMLNAME-2026-Early-Career-System-Hardware-Design-Engineer_R26_0000000034-1) |
 | Dexcom | Hardware Engineer 1 | San Diego, CA | 2026-10-13 | [Link](https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/San-Diego-California/Hardware-Engineer-1_JR119889-1) |
 | KLA | Software Engineer 1 | Ann Arbor, MI | 2026-10-13 | [Link](https://kla.wd1.myworkdayjobs.com/annarbor/job/Ann-Arbor-MI/Engr--Software-1_2642057) |
 | Sierra Space | Software Engineer 1 - Flight Software | Centennial, CO; Louisville, CO | 2026-10-13 | [Link](https://sierraspace.wd1.myworkdayjobs.com/en-US/Sierra_Space_External_Career_Site/job/Louisville-CO/Software-Engineer-I---Flight-Software_R26390-1) |
@@ -500,7 +486,6 @@ Showing **US** postings, newest first.
 | Freeform | FPGA Engineer New Grad | LA | 2026-10-07 | [Link](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/8016243003) |
 | IXL Learning | Software Engineer New Grad | San Mateo, CA | 2026-10-07 | [Link](https://www.ixl.com/company/jobs?gh_jid=8862043002) |
 | SpruceID | Full-Stack Software Engineer New Grad | Remote in USA | 2026-10-07 | [Link](https://jobs.ashbyhq.com/spruceid/3d182b7f-482e-45b2-8668-f04f0b5fda8e/application?embed=true) |
-| RTX | Embedded Software Developer 1 | El Segundo, CA | 2026-10-07 | [Link](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Embedded-Software-Developer-I---Onsite-_01880909) |
 | RTX | Production Support Engineer 1 | Plano, TX | 2026-10-07 | [Link](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-PLANO-465--465-Independence-Pkwy--INDEPENDENCE/Production-Support-Engineer-I---Onsite_01876984) |
 | CACI | Entry Level C# Software Engineer | Virginia Beach, VA | 2026-10-07 | [Link](https://caci.wd1.myworkdayjobs.com/external/job/Virginia-Beach-VA-US/Entry-Level-C--Software-Engineer_333249) |
 | General Dynamics Mission Systems | Embedded Software Engineer Entry Level | Bloomington, MN | 2026-10-07 | [Link](https://careers-gdms.icims.com/jobs/75161/job?mobile=true&needsRedirect=false) |
@@ -524,6 +509,7 @@ Showing **US** postings, newest first.
 | ID.me | Software Development Engineer 2 New Grad - Life Hub - Super App | Mountain View, CA | 2026-10-05 | [Link](https://job-boards.greenhouse.io/idme/jobs/8011095003) |
 | Resmed | Associate Android Developer | San Diego, CA | 2026-10-05 | [Link](https://resmed.wd3.myworkdayjobs.com/en-US/ResMed_External_Careers/job/San-Diego-CA-United-States/Associate-Android-Developer_JR_053888-1) |
 | Hewlett Packard Enterprise | Graduate Systems/Software Engineer 1 | Bloomington, MN | 2026-10-05 | [Link](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Bloomington-Minnesota-United-States-of-America/Graduate-Systems-Software-Engineer-I_1213439) |
+| Varsity Brands | Software Engineer 1 | Farmers Branch, TX | 2026-10-05 | [Link](https://varsitybrands.wd503.myworkdayjobs.com/externalcareersite/job/TX---Farmers-Branch/Software-Engineer---Early-Career_JR113366-1) |
 | Micron Technology | Semiconductor Design Engineer New Grad - DRAM Products Group | Boise, ID | 2026-10-04 | [Link](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Semiconductor-Design-Engineer--DRAM-Products-Group_JR114119) |
 | Hewlett Packard Enterprise | Electrical Hardware Engineer 1 Graduate | Chippewa Falls, WI | 2026-10-04 | [Link](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Chippewa-Falls-Wisconsin-United-States-of-America/Electrical-Hardware-Engineer-I---Graduate_1213428) |
 | Amazon | Software Development Engineer – Early Career - Amazon Dedicated Cloud - ADC | Seattle, WA; Jessup, MD | 2026-10-02 | [Link](https://amazon.jobs/en/jobs/10529546/software-development-engineer-amazon-dedicated-cloud-early-career-2026-amazon-dedicated-cloud-adc) |
@@ -539,8 +525,6 @@ Showing **US** postings, newest first.
 | Frontier Technology | Associate Software Developer | Norfolk, VA | 2026-09-30 | [Link](https://careers-ftidefense.icims.com/jobs/7097/job?mobile=true&needsRedirect=false) |
 | Frontier Technology | Associate Software Developer | Norfolk, VA | 2026-09-30 | [Link](https://careers-ftidefense.icims.com/jobs/7096/job?mobile=true&needsRedirect=false) |
 | iManage | Applied AI Engineer New Grad | Chicago, IL | 2026-09-30 | [Link](https://imanagecom.applytojob.com/apply/2sEdqwy08T/Applied-AI-Engineer-New-Or-Recent-Grad) |
-| RTX | Software Engineer/Developer 1 | Woburn, MA | 2026-09-30 | [Link](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Software-Engineer-Developer-I--Onsite-_01879028) |
-| RTX | Software Engineer/Developer 1 | Marlborough, MA | 2026-09-30 | [Link](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-Developer-I---Onsite-_01879030) |
 | RTX | Software Engineer/Developer 1 | Tewksbury, MA | 2026-09-30 | [Link](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Engineer-Developer-I---Onsite-_01879022) |
 | RTX | Software Engineer 1 | Cedar Rapids, IA | 2026-09-30 | [Link](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineer-I--Onsite-_01879214) |
 | RTX | Embedded Software Engineer 1 | East Hartford, CT | 2026-09-30 | [Link](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Embedded-Software-Engineer-I--Onsite-_01878013) |
@@ -591,6 +575,7 @@ Showing **US** postings, newest first.
 | VML | Associate Data Engineer | Austin, TX | 2026-09-17 | [Link](https://job-boards.greenhouse.io/map/jobs/8816124002) |
 | Meow | Software Engineer New Grad | NYC | 2026-09-17 | [Link](https://jobs.ashbyhq.com/meow/56e3b840-11a0-4e98-baca-44e8e26b5218/application?embed=true) |
 | Badger Meter | Engineer 1 - Hydro Lab | Milwaukee, WI | 2026-09-17 | [Link](https://badgermeter.wd5.myworkdayjobs.com/US_CareerSite/job/US---WI---Milwaukee-HQ/Engineer-I--Hydro-Lab_4456) |
+| Moog | Associate Test Engineer | Santa Barbara, CA | 2026-09-17 | [Link](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Santa-Barbara-CA/Test-Engineer_R-26-20172) |
 | Headlands Tech Holdings | C++ Software Developer New Grad | Chicago, IL | 2026-09-16 | [Link](https://job-boards.greenhouse.io/headlandstechnologiesllc/jobs/4336806009) |
 | RTX | Electrical Computer-Aided Design Engineer 1 | Huntsville, AL | 2026-09-16 | [Link](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-315--315-Bob-Heath-Dr--BOB-HEATH/ECAD-Engineer-I---Onsite_01834011) |
 | RTX | Receiver – Exciter - & Processing Architecture Software Engineer I | Marlborough, MA | 2026-09-16 | [Link](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Receiver--Exciter----Processing-Architecture-Software-Engineer-I---Onsite_01873475) |
@@ -778,7 +763,6 @@ Showing **US** postings, newest first.
 | TikTok | Software Engineer Graduate - Global E-commerce-Search - 2027 Start | Seattle, WA | 2026-08-06 | [Link](https://lifeattiktok.com/search/7670558992960358661) |
 | ByteDance | Backend Inference Runtime Engineer New Grad - AML Inference | San Jose, CA | 2026-08-06 | [Link](https://jobs.bytedance.com/en/position/7669789046777940229/detail) |
 | Garmin | Embedded Software Engineer 1 | Chandler, AZ | 2026-08-06 | [Link](https://careers.garmin.com/jobs/19134?icims=1) |
-| Veeva Systems | Associate Software Engineer - Engineering Development Program | Columbus, OH | 2026-08-06 | [Link](https://jobs.lever.co/veeva/907dccc7-0052-41e9-920b-28e5ba6aaba9/apply) |
 | Veeva Systems | Associate Software Engineer | Pleasanton, CA | 2026-08-06 | [Link](https://jobs.lever.co/veeva/8fe22df0-02b4-453d-919c-c8998cf913f6/apply) |
 | Veeva Systems | Associate Software Engineer - Engineering Development Program | Boston, MA | 2026-08-06 | [Link](https://jobs.lever.co/veeva/52ba79af-1086-457d-b5d2-8e184f111ffd/apply) |
 | Solace Health | Associate Product Engineer | Redwood City, CA | 2026-08-06 | [Link](https://jobs.ashbyhq.com/solace/db008474-d93e-41a7-939e-8d5825eb0d0f/application?embed=true) |
@@ -840,12 +824,14 @@ Showing **US** postings, newest first.
 | RTX | FPGA Engineer 1 | Huntsville, AL | 2026-07-31 | [Link](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-315--315-Bob-Heath-Dr--BOB-HEATH/FPGA-Engineer-I_01863350-1) |
 | Chicago Trading Company | Associate Engineer | Chicago, IL; NYC | 2026-07-31 | [Link](https://job-boards.greenhouse.io/ctccampusboard/jobs/4709991005) |
 | Oracle | Systems Software Engineer 1 | United States | 2026-07-30 | [Link](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/340728) |
+| Northrop Grumman | Associate Software Engineer / Software Engineer | Melbourne, FL | 2026-07-30 | [Link](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027--Associate-Software-Engineer---Software-Engineer_R10243060) |
 | Cincinnati Children’s Hospital and Medical Center | Software Developer 1 - Psychiatry | Cincinnati, OH | 2026-07-29 | [Link](https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Burnet-Campus/Developer-I_JR223867) |
 | NewsBreak | Applied AI Engineer New Grad - Advertising Agents | Mountain View, CA | 2026-07-28 | [Link](https://job-boards.greenhouse.io/newsbreak/jobs/4700278006) |
 | Tavern Research | Engineer 1 - Digital Engagement | Chicago, IL | 2026-07-28 | [Link](https://ats.rippling.com/tavernresearch/jobs/328ac66c-4c82-4598-8101-3d9fa64bd436) |
 | Ramp | Software Engineer, Forward Deployed, AI Solutions | New York, NY (HQ) | 2026-07-28 | [Link](https://jobs.ashbyhq.com/ramp/b614563f-3ce6-4dca-b5ba-0e5a6c8bda27) |
 | Bot Auto | Algorithm Engineer New Grad - Deep Learning & Vision | Houston, TX | 2026-07-27 | [Link](https://job-boards.greenhouse.io/botauto/jobs/5371947008) |
 | NVIDIA | GPU Verification Engineer New Grad | Westford, MA | 2026-07-24 | [Link](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-MA-Westford/GPU-Verification-Engineer---New-College-Grad-2026_JR2022102) |
+| Nextpower | Forward Deployed Engineer - AI | Fremont, CA | 2026-07-24 | [Link](https://nextracker.wd5.myworkdayjobs.com/nextpower_careers/job/Fremont-South-Bldg-California---USA/Forward-Deployed-Engineer--AI-_NX-4260) |
 | Bridger | Early Career Product Engineer | NYC | 2026-07-23 | [Link](https://jobs.ashbyhq.com/bridger/5a4a77e4-31a0-40c6-8e3d-9b5c6205943f/application?embed=true) |
 | Cerebras | Kernel Engineer New Grad | United States | 2026-07-23 | [Link](https://jobs.ashbyhq.com/cerebras/9c7da4b8-446b-4bf2-8d07-23241590bf2e/application?embed=true) |
 | Appian | Associate Application Engineer | McLean, VA | 2026-07-23 | [Link](https://job-boards.greenhouse.io/appian/jobs/8035372) |
@@ -865,11 +851,9 @@ Showing **US** postings, newest first.
 | InstaLILY | Software Engineer 1 - General | NYC | 2026-07-14 | [Link](https://job-boards.greenhouse.io/instalilyai/jobs/4271757009) |
 | Hudson River Trading | Algorithm Developer New Grad - Quant Researcher | NYC | 2026-07-13 | [Link](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052050) |
 | Old Mission | Software Engineer New Grad | Chicago, IL | 2026-07-13 | [Link](https://jobs.ashbyhq.com/old-mission-capital/78e433a8-cd5f-404d-8f58-3fcb61e9837d/application?embed=true) |
-| Palantir | Forward Deployed Infrastructure Engineer, Internship - US Government | Palo Alto, CA | 2026-07-10 | [Link](https://jobs.lever.co/palantir/8f362a1f-1eff-4327-94c1-ff46e2101c69) |
 | NVIDIA | ASIC Design Engineer New Grad | Santa Clara, CA | 2026-07-09 | [Link](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Design-Engineer---New-College-Grad-2026_JR2020309) |
 | Micron Technology | Design Engineer New Grad - Design Engineer - DRAM Technology and Products | Boise, ID | 2026-07-09 | [Link](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Design-Engineer--DRAM-Technology-and-Products_JR105519) |
 | Peraton | Junior Software Engineer | Annapolis Junction, MD | 2026-07-09 | [Link](https://careers-peraton.icims.com/jobs/168379/job?mobile=true&needsRedirect=false) |
-| Rivian | Early Career Validation Engineer - Vehicle Hardware | Irvine, CA | 2026-07-08 | [Link](https://careers.rivian.com/jobs/32131?icims=1) |
 | NewsBreak | Newsbreak Venture New Grad - AI Growth Intelligence Engineer | Mountain View, CA | 2026-07-07 | [Link](https://job-boards.greenhouse.io/newsbreak/jobs/4694899006) |
 | Cerebras | Software Engineer New Grad | Sunnyvale, CA | 2026-07-07 | [Link](https://jobs.ashbyhq.com/cerebras/987d7f64-c957-4c8f-b89d-2f9d64738507/application) |
 | Cerebras | Software Engineer New Grad | Sunnyvale, CA | 2026-07-07 | [Link](https://jobs.ashbyhq.com/cerebras/99c289fa-8fc6-49f7-b7e8-78ac4e9d99ac/application) |
