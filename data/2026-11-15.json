@@ -12,18 +12,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4491222646",
-    "company": "Northrop Grumman",
-    "title": "2027 - Associate Software Engineer - McClellan CA",
-    "locations": [
-      "McClellan Park, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4491222646",
-    "sponsorship": "",
-    "posted": "2026-11-15",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4475057365",
     "company": "ByteDance",
     "title": "Software Engineer Graduate (AML-Engine-Orchestration) - 2027 Start",
@@ -60,25 +48,25 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4466403132",
-    "company": "AssetMark",
-    "title": "Associate Engineer",
+    "id": "linkedin-4489395730",
+    "company": "Amphenol",
+    "title": "Junior Software Engineer (IT)",
     "locations": [
-      "Charlotte, NC"
+      "Liberty Lake, WA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4466403132",
+    "url": "https://www.linkedin.com/jobs/view/4489395730",
     "sponsorship": "",
     "posted": "2026-11-15",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4456299517",
-    "company": "TSMC",
-    "title": "Software Engineer (New Graduate) - North America Software Center",
+    "id": "linkedin-4491222646",
+    "company": "Northrop Grumman",
+    "title": "2027 - Associate Software Engineer - McClellan CA",
     "locations": [
-      "Vancouver, WA"
+      "McClellan Park, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4456299517",
+    "url": "https://www.linkedin.com/jobs/view/4491222646",
     "sponsorship": "",
     "posted": "2026-11-15",
     "source": "LinkedIn"
@@ -96,6 +84,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4490246196",
+    "company": "Fonzi AI",
+    "title": "Founding Forward Deployed Engineer",
+    "locations": [
+      "New York City Metropolitan Area"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4490246196",
+    "sponsorship": "",
+    "posted": "2026-11-15",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4389433465",
     "company": "Sift",
     "title": "Forward Deployed Engineer",
@@ -103,30 +103,6 @@
       "Marina del Rey, CA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4389433465",
-    "sponsorship": "",
-    "posted": "2026-11-15",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4419937957",
-    "company": "Assort Health",
-    "title": "Forward Deployed Engineer",
-    "locations": [
-      "New York, NY"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4419937957",
-    "sponsorship": "",
-    "posted": "2026-11-15",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4464844639",
-    "company": "Applied Intuition",
-    "title": "Forward Deployed Software Engineer",
-    "locations": [
-      "Sunnyvale, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4464844639",
     "sponsorship": "",
     "posted": "2026-11-15",
     "source": "LinkedIn"
@@ -324,18 +300,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4489895561",
-    "company": "Fonzi AI",
-    "title": "Founding Forward Deployed Engineer",
-    "locations": [
-      "New York City Metropolitan Area"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4489895561",
-    "sponsorship": "",
-    "posted": "2026-11-14",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4454132241",
     "company": "H Company",
     "title": "Founding Forward Deployed Engineer - US",
@@ -379,18 +343,6 @@
       "San Jose, CA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4454131968",
-    "sponsorship": "",
-    "posted": "2026-11-14",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4434892830",
-    "company": "Avoca",
-    "title": "Forward Deployed Product Engineer",
-    "locations": [
-      "New York, NY"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4434892830",
     "sponsorship": "",
     "posted": "2026-11-14",
     "source": "LinkedIn"
@@ -638,6 +590,18 @@
     "source": "LinkedIn"
   },
   {
+    "id": "linkedin-4489824786",
+    "company": "Amphenol Network Solutions",
+    "title": "Junior Software Engineer (IT)",
+    "locations": [
+      "Liberty Lake, WA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4489824786",
+    "sponsorship": "",
+    "posted": "2026-11-13",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4490706604",
     "company": "Northrop Grumman",
     "title": "2027 Associate Software Engineer - Pathways - Boulder CO",
@@ -669,6 +633,18 @@
       "San Jose, CA"
     ],
     "url": "https://www.linkedin.com/jobs/view/4448277614",
+    "sponsorship": "",
+    "posted": "2026-11-13",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4484422174",
+    "company": "Viasat",
+    "title": "Embedded Software Engineer, Early Career",
+    "locations": [
+      "Carlsbad, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4484422174",
     "sponsorship": "",
     "posted": "2026-11-13",
     "source": "LinkedIn"
@@ -734,37 +710,25 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4489824786",
-    "company": "Amphenol Network Solutions",
-    "title": "Junior Software Engineer (IT)",
-    "locations": [
-      "Liberty Lake, WA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4489824786",
-    "sponsorship": "",
-    "posted": "2026-11-13",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4488976324",
+    "id": "linkedin-4488977308",
     "company": "Lockheed Martin",
     "title": "Software Engineer - Early Career",
     "locations": [
       "Fort Worth, TX"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4488976324",
+    "url": "https://www.linkedin.com/jobs/view/4488977308",
     "sponsorship": "",
     "posted": "2026-11-13",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4488967701",
+    "id": "linkedin-4488976469",
     "company": "Lockheed Martin",
     "title": "Software Engineer Asc - Early Career",
     "locations": [
       "Marietta, GA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4488967701",
+    "url": "https://www.linkedin.com/jobs/view/4488976469",
     "sponsorship": "",
     "posted": "2026-11-13",
     "source": "LinkedIn"
@@ -789,42 +753,6 @@
       "Lone Tree, CO"
     ],
     "url": "https://www.linkedin.com/jobs/view/4488980645",
-    "sponsorship": "",
-    "posted": "2026-11-13",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4456373787",
-    "company": "SpaceX",
-    "title": "New Graduate Engineer, Software (Application Software)",
-    "locations": [
-      "Hawthorne, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4456373787",
-    "sponsorship": "",
-    "posted": "2026-11-13",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4488977251",
-    "company": "Lockheed Martin",
-    "title": "Software Engineer Asc - Early Career",
-    "locations": [
-      "Marietta, GA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4488977251",
-    "sponsorship": "",
-    "posted": "2026-11-13",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4488977308",
-    "company": "Lockheed Martin",
-    "title": "Software Engineer - Early Career",
-    "locations": [
-      "Fort Worth, TX"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4488977308",
     "sponsorship": "",
     "posted": "2026-11-13",
     "source": "LinkedIn"
@@ -921,30 +849,6 @@
       "New York City Metropolitan Area"
     ],
     "url": "https://www.linkedin.com/jobs/view/4490784292",
-    "sponsorship": "",
-    "posted": "2026-11-13",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4482766427",
-    "company": "Ramp",
-    "title": "Software Engineer, Forward Deployed, Enterprise Product",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4482766427",
-    "sponsorship": "",
-    "posted": "2026-11-13",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4488875089",
-    "company": "Underdog: Verified engineers. Interview-ready. Searching confidentially. And companies apply to you",
-    "title": "Forward Deployed Engineer",
-    "locations": [
-      "New York City Metropolitan Area"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4488875089",
     "sponsorship": "",
     "posted": "2026-11-13",
     "source": "LinkedIn"
@@ -1156,18 +1060,6 @@
     "source": "SimplifyJobs"
   },
   {
-    "id": "linkedin-4489510195",
-    "company": "General Dynamics Mission Systems",
-    "title": "Platform Services Software Engineer Entry Level sign-on & referral bonus",
-    "locations": [
-      "Scottsdale, AZ"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4489510195",
-    "sponsorship": "",
-    "posted": "2026-11-12",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4484392156",
     "company": "Applied Materials",
     "title": "2027 Software Engineer New College Grad (Bachelor's) - Gloucester, MA",
@@ -1180,25 +1072,25 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4488260889",
-    "company": "Brivo",
-    "title": "Software Engineer- NEW GRAD",
+    "id": "linkedin-4489510195",
+    "company": "General Dynamics Mission Systems",
+    "title": "Platform Services Software Engineer Entry Level sign-on & referral bonus",
     "locations": [
-      "Bethesda, MD"
+      "Scottsdale, AZ"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4488260889",
+    "url": "https://www.linkedin.com/jobs/view/4489510195",
     "sponsorship": "",
     "posted": "2026-11-12",
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4487524708",
-    "company": "Quadric",
-    "title": "Forward Deployed Engineer",
+    "id": "linkedin-4489503084",
+    "company": "CCR Technologies",
+    "title": "Associate Software Developer",
     "locations": [
-      "United States"
+      "Cedar Rapids, IA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4487524708",
+    "url": "https://www.linkedin.com/jobs/view/4489503084",
     "sponsorship": "",
     "posted": "2026-11-12",
     "source": "LinkedIn"
