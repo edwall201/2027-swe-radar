@@ -1,5 +1,77 @@
 [
   {
+    "id": "simplify-2324a810-93c9-490d-bf45-95f28f9dda1f",
+    "company": "Datalab USA",
+    "title": "Production Programmer \u2013 Entry Level SQL Developer",
+    "locations": [
+      "Germantown, MD"
+    ],
+    "url": "https://jobs.lever.co/datalabusa/df8bf76b-2626-4bb2-b4f2-dbefb165228a/apply",
+    "sponsorship": "Other",
+    "posted": "2026-11-24",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-63544628-eb67-4de6-ba3c-597d09cbf355",
+    "company": "Serko",
+    "title": "Software Engineer 1",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "url": "https://apply.workable.com/serko-ltd/j/2BD3D4F4DE/apply",
+    "sponsorship": "Other",
+    "posted": "2026-11-24",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "linkedin-4494028723",
+    "company": "Emonics LLC",
+    "title": "Software Engineer I",
+    "locations": [
+      "Kings County, NY"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4494028723",
+    "sponsorship": "",
+    "posted": "2026-11-24",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4484652851",
+    "company": "TikTok USDS Joint Venture",
+    "title": "Software Engineer Graduate (Search) - 2027 Start",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4484652851",
+    "sponsorship": "",
+    "posted": "2026-11-24",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4486485457",
+    "company": "Verkada",
+    "title": "Backend Software Engineer - University Graduate 2027",
+    "locations": [
+      "San Mateo, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4486485457",
+    "sponsorship": "",
+    "posted": "2026-11-24",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4494375437",
+    "company": "Emonics LLC",
+    "title": "Associate Full Stack Developer",
+    "locations": [
+      "Wichita, KS"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4494375437",
+    "sponsorship": "",
+    "posted": "2026-11-24",
+    "source": "LinkedIn"
+  },
+  {
     "id": "linkedin-4489613883",
     "company": "MITRE",
     "title": "Associate Software Engineer",
@@ -12,13 +84,97 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4354431733",
-    "company": "Picogrid",
+    "id": "linkedin-4493989314",
+    "company": "Serko",
+    "title": "Software Engineer 1",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4493989314",
+    "sponsorship": "",
+    "posted": "2026-11-24",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4493990292",
+    "company": "Serko",
+    "title": "Software Engineer 1",
+    "locations": [
+      "Washington, PA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4493990292",
+    "sponsorship": "",
+    "posted": "2026-11-24",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4420909019",
+    "company": "Deloitte",
+    "title": "Palantir Forward Deployed Engineer - GPS",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4420909019",
+    "sponsorship": "",
+    "posted": "2026-11-24",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4490274055",
+    "company": "EdgeVerve",
+    "title": "Forward Deployed Engineer (FDE)",
+    "locations": [
+      "New York, United States"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4490274055",
+    "sponsorship": "",
+    "posted": "2026-11-24",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4461285885",
+    "company": "Nuvo",
+    "title": "New Grad Forward Deployed Engineer",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4461285885",
+    "sponsorship": "",
+    "posted": "2026-11-24",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4486239835",
+    "company": "Scout Global",
     "title": "Forward Deployed Engineer",
     "locations": [
-      "El Segundo, CA"
+      "New York, United States"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4354431733",
+    "url": "https://www.linkedin.com/jobs/view/4486239835",
+    "sponsorship": "",
+    "posted": "2026-11-24",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4493989327",
+    "company": "Dex",
+    "title": "Forward Deployed Engineer (up to $250k)",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4493989327",
+    "sponsorship": "",
+    "posted": "2026-11-24",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4485775057",
+    "company": "Kastle",
+    "title": "Forward Deployed Engineer",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4485775057",
     "sponsorship": "",
     "posted": "2026-11-24",
     "source": "LinkedIn"
@@ -96,18 +252,6 @@
     "source": "Greenhouse"
   },
   {
-    "id": "linkedin-4494028723",
-    "company": "Emonics LLC",
-    "title": "Software Engineer I",
-    "locations": [
-      "Kings County, NY"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4494028723",
-    "sponsorship": "",
-    "posted": "2026-11-23",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4492633053",
     "company": "Eccalon, LLC",
     "title": "Junior Software Engineer",
@@ -132,13 +276,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4494012604",
-    "company": "Emonics LLC",
-    "title": "Associate Full Stack Developer",
+    "id": "linkedin-4493657027",
+    "company": "ByteDance",
+    "title": "Backend Development Engineer Graduate (Infrastructure Platform Delivery) - 2027 Start",
     "locations": [
-      "DuPage County, IL"
+      "San Jose, CA"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4494012604",
+    "url": "https://www.linkedin.com/jobs/view/4493657027",
     "sponsorship": "",
     "posted": "2026-11-23",
     "source": "LinkedIn"
@@ -168,18 +312,6 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4493657027",
-    "company": "ByteDance",
-    "title": "Backend Development Engineer Graduate (Infrastructure Platform Delivery) - 2027 Start",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4493657027",
-    "sponsorship": "",
-    "posted": "2026-11-23",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4458437054",
     "company": "Nebius",
     "title": "Forward Deployed Engineer, Ecosystem - Tavily",
@@ -187,90 +319,6 @@
       "New York, United States"
     ],
     "url": "https://www.linkedin.com/jobs/view/4458437054",
-    "sponsorship": "",
-    "posted": "2026-11-23",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4471220267",
-    "company": "WithCoverage",
-    "title": "Forward Deployed Engineer, Growth",
-    "locations": [
-      "New York, NY"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4471220267",
-    "sponsorship": "",
-    "posted": "2026-11-23",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4492623608",
-    "company": "Fonzi AI",
-    "title": "Founding Forward Deployed Engineer",
-    "locations": [
-      "New York City Metropolitan Area"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4492623608",
-    "sponsorship": "",
-    "posted": "2026-11-23",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4493799918",
-    "company": "Fonzi AI",
-    "title": "Forward Deployed Engineer",
-    "locations": [
-      "New York City Metropolitan Area"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4493799918",
-    "sponsorship": "",
-    "posted": "2026-11-23",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4486239835",
-    "company": "Scout Global",
-    "title": "Forward Deployed Engineer",
-    "locations": [
-      "New York, United States"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4486239835",
-    "sponsorship": "",
-    "posted": "2026-11-23",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4492845506",
-    "company": "Circadia Health",
-    "title": "Forward Deployed AI Engineer",
-    "locations": [
-      "Salt Lake City, UT"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4492845506",
-    "sponsorship": "",
-    "posted": "2026-11-23",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4493621288",
-    "company": "matcha.fm",
-    "title": "Forward deployed engineer - Remote Worldwide",
-    "locations": [
-      "United States"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4493621288",
-    "sponsorship": "",
-    "posted": "2026-11-23",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4493945442",
-    "company": "SPECTRAFORCE",
-    "title": "Forward Deployed Engineer",
-    "locations": [
-      "New York City Metropolitan Area"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4493945442",
     "sponsorship": "",
     "posted": "2026-11-23",
     "source": "LinkedIn"
@@ -295,6 +343,66 @@
       "Washington DC-Baltimore Area"
     ],
     "url": "https://www.linkedin.com/jobs/view/4493909942",
+    "sponsorship": "",
+    "posted": "2026-11-23",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4493914191",
+    "company": "Digivance Solutions",
+    "title": "Forward Deployed Engineer",
+    "locations": [
+      "California, United States"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4493914191",
+    "sponsorship": "",
+    "posted": "2026-11-23",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4410358373",
+    "company": "HappyRobot",
+    "title": "Forward Deployed Engineer",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4410358373",
+    "sponsorship": "",
+    "posted": "2026-11-23",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4447563359",
+    "company": "Roboflow",
+    "title": "Forward Deployed Engineer",
+    "locations": [
+      "United States"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4447563359",
+    "sponsorship": "",
+    "posted": "2026-11-23",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4488017866",
+    "company": "Henderson Scott",
+    "title": "Forward Deployed Engineer",
+    "locations": [
+      "New York City Metropolitan Area"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4488017866",
+    "sponsorship": "",
+    "posted": "2026-11-23",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "linkedin-4493621288",
+    "company": "matcha.fm",
+    "title": "Forward deployed engineer - Remote Worldwide",
+    "locations": [
+      "United States"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/4493621288",
     "sponsorship": "",
     "posted": "2026-11-23",
     "source": "LinkedIn"
@@ -336,13 +444,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4449138344",
-    "company": "Roblox",
-    "title": "[2027] Software Engineer, Early Career",
+    "id": "linkedin-4431898401",
+    "company": "Esri",
+    "title": "Software Development Engineer I",
     "locations": [
-      "San Mateo, CA"
+      "St Louis, MO"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4449138344",
+    "url": "https://www.linkedin.com/jobs/view/4431898401",
     "sponsorship": "",
     "posted": "2026-11-22",
     "source": "LinkedIn"
@@ -384,13 +492,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4355909369",
-    "company": "Cognition",
-    "title": "Forward Deployed Engineer - Federal",
+    "id": "linkedin-4458300931",
+    "company": "LiveKit",
+    "title": "Forward Deployed Engineer, Spanish/English",
     "locations": [
-      "Washington, DC"
+      "San Antonio, TX"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4355909369",
+    "url": "https://www.linkedin.com/jobs/view/4458300931",
     "sponsorship": "",
     "posted": "2026-11-22",
     "source": "LinkedIn"
@@ -432,30 +540,6 @@
     "source": "SimplifyJobs"
   },
   {
-    "id": "linkedin-4467882411",
-    "company": "Wolverine Trading",
-    "title": "Entry Level C++ Software Engineer",
-    "locations": [
-      "Chicago, IL"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4467882411",
-    "sponsorship": "",
-    "posted": "2026-11-21",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4474852988",
-    "company": "NetJets",
-    "title": "Software Engineer, Associate (NJUS)",
-    "locations": [
-      "Columbus, OH"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4474852988",
-    "sponsorship": "",
-    "posted": "2026-11-21",
-    "source": "LinkedIn"
-  },
-  {
     "id": "linkedin-4485694659",
     "company": "Amazon",
     "title": "Software Development Engineer (Database) Early Career- 2027 (US)",
@@ -468,49 +552,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4449761985",
-    "company": "Peraton",
-    "title": "Software Engineer - Cloud, Lead Associate - TS/SCI w/poly",
-    "locations": [
-      "Laurel, MD"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4449761985",
-    "sponsorship": "",
-    "posted": "2026-11-21",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4485677971",
-    "company": "Amazon",
-    "title": "Software Development Engineer (Database) Early Career- 2027 (US)",
-    "locations": [
-      "Austin, TX"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4485677971",
-    "sponsorship": "",
-    "posted": "2026-11-21",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4485649024",
-    "company": "Built",
-    "title": "Innovation Software Engineer 1",
-    "locations": [
-      "Nashville, TN"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4485649024",
-    "sponsorship": "",
-    "posted": "2026-11-21",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4493276955",
-    "company": "Secureframe",
-    "title": "Software Engineer, New Grad",
+    "id": "linkedin-4484895056",
+    "company": "Cantor Fitzgerald",
+    "title": "Associate, Software Developer",
     "locations": [
       "New York, NY"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4493276955",
+    "url": "https://www.linkedin.com/jobs/view/4484895056",
     "sponsorship": "",
     "posted": "2026-11-21",
     "source": "LinkedIn"
@@ -528,13 +576,13 @@
     "source": "LinkedIn"
   },
   {
-    "id": "linkedin-4492871312",
-    "company": "Affirm",
-    "title": "Software Engineer I, Backend (Streaming Infra)",
+    "id": "linkedin-4485677971",
+    "company": "Amazon",
+    "title": "Software Development Engineer (Database) Early Career- 2027 (US)",
     "locations": [
-      "Salt Lake City, UT"
+      "Austin, TX"
     ],
-    "url": "https://www.linkedin.com/jobs/view/4492871312",
+    "url": "https://www.linkedin.com/jobs/view/4485677971",
     "sponsorship": "",
     "posted": "2026-11-21",
     "source": "LinkedIn"
@@ -559,78 +607,6 @@
       "Pensacola, FL"
     ],
     "url": "https://www.linkedin.com/jobs/view/4493283870",
-    "sponsorship": "",
-    "posted": "2026-11-21",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4492861797",
-    "company": "Affirm",
-    "title": "Software Engineer I, Backend (Streaming Infra)",
-    "locations": [
-      "Detroit, MI"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4492861797",
-    "sponsorship": "",
-    "posted": "2026-11-21",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4490088492",
-    "company": "TypeSafe AI",
-    "title": "Forward Deployed Engineer",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4490088492",
-    "sponsorship": "",
-    "posted": "2026-11-21",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4450663837",
-    "company": "Deloitte",
-    "title": "Palantir Associate Forward Deployed Engineer - GPS",
-    "locations": [
-      "Arlington, VA"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4450663837",
-    "sponsorship": "",
-    "posted": "2026-11-21",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4423810353",
-    "company": "Cohere",
-    "title": "Forward Deployed Engineer, Agentic Platform",
-    "locations": [
-      "New York, NY"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4423810353",
-    "sponsorship": "",
-    "posted": "2026-11-21",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4457999939",
-    "company": "LiveKit",
-    "title": "Forward Deployed Engineer, Spanish/English",
-    "locations": [
-      "Miami, FL"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4457999939",
-    "sponsorship": "",
-    "posted": "2026-11-21",
-    "source": "LinkedIn"
-  },
-  {
-    "id": "linkedin-4490413092",
-    "company": "Epic Placements",
-    "title": "Forward Deployed Engineer",
-    "locations": [
-      "New York, NY"
-    ],
-    "url": "https://www.linkedin.com/jobs/view/4490413092",
     "sponsorship": "",
     "posted": "2026-11-21",
     "source": "LinkedIn"
@@ -1143,18 +1119,6 @@
     "source": "SimplifyJobs"
   },
   {
-    "id": "simplify-87235934-6062-4c59-ae25-377ea9397e49",
-    "company": "Boston Scientific",
-    "title": "Health AI Engineer 1 - Data Science & Business Intelligence",
-    "locations": [
-      "Marlborough, MA"
-    ],
-    "url": "https://bostonscientific.eightfold.ai/careers/job/563602813942507",
-    "sponsorship": "Other",
-    "posted": "2026-11-18",
-    "source": "SimplifyJobs"
-  },
-  {
     "id": "simplify-2e4cef90-d98e-4e0c-a8a1-e785d4cdb9ea",
     "company": "Garmin",
     "title": "Test Software Engineer 1 - Aviation",
@@ -1179,13 +1143,14 @@
     "source": "SimplifyJobs"
   },
   {
-    "id": "simplify-300a3078-84ab-4ba2-a881-d74186eb9064",
-    "company": "GrayMatter Robotics",
-    "title": "Forward Deployed Engineer",
+    "id": "simplify-20ddf038-1fb9-4dd1-8fea-ff90c3309e1c",
+    "company": "Schneider Electric",
+    "title": "Engineer I - Software",
     "locations": [
-      "Remote in USA"
+      "Westmont, IL",
+      "Chicago, IL"
     ],
-    "url": "https://jobs.ashbyhq.com/graymatter-robotics/7f806a1c-2874-4a0b-a64c-d8e8e87822bf/application?embed=true",
+    "url": "https://se.jibeapply.com/jobs/141336?icims=1&lang=en-us",
     "sponsorship": "Other",
     "posted": "2026-11-18",
     "source": "SimplifyJobs"
@@ -1611,6 +1576,18 @@
     "source": "Greenhouse"
   },
   {
+    "id": "gh-andurilindustries-5155536007",
+    "company": "Anduril",
+    "title": "Forward Deployed Software Engineer, Connected Warfare (Active Clearance)",
+    "locations": [
+      "Honolulu, Hawaii, United States"
+    ],
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5155536007?gh_jid=5155536007",
+    "sponsorship": "",
+    "posted": "2026-11-16",
+    "source": "Greenhouse"
+  },
+  {
     "id": "gh-andurilindustries-5283460007",
     "company": "Anduril",
     "title": "Forward Deployed Software Engineer, Connected Warfare (Active Clearance)",
@@ -1630,18 +1607,6 @@
       "Seattle, Washington, United States"
     ],
     "url": "https://boards.greenhouse.io/andurilindustries/jobs/4263030007?gh_jid=4263030007",
-    "sponsorship": "",
-    "posted": "2026-11-16",
-    "source": "Greenhouse"
-  },
-  {
-    "id": "gh-andurilindustries-5155536007",
-    "company": "Anduril",
-    "title": "Forward Deployed Software Engineer, Connected Warfare (Active Clearance)",
-    "locations": [
-      "Honolulu, Hawaii, United States"
-    ],
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5155536007?gh_jid=5155536007",
     "sponsorship": "",
     "posted": "2026-11-16",
     "source": "Greenhouse"
@@ -1983,6 +1948,19 @@
     "source": "SimplifyJobs"
   },
   {
+    "id": "simplify-554f65c8-7189-448f-98c8-ddc4539f0066",
+    "company": "DMC Engineering",
+    "title": "Entry Level Software Engineer",
+    "locations": [
+      "Seattle, WA",
+      "Chicago, IL"
+    ],
+    "url": "https://job-boards.greenhouse.io/dmcengineering_campus/jobs/5397642008",
+    "sponsorship": "Other",
+    "posted": "2026-11-12",
+    "source": "SimplifyJobs"
+  },
+  {
     "id": "simplify-794be3df-1425-488c-b884-a8d29f0732f1",
     "company": "Amazon",
     "title": "Software Development Engineer Early Career - Amazon Dedicated Cloud",
@@ -2172,6 +2150,19 @@
       "Bloomington, MN"
     ],
     "url": "https://job-boards.greenhouse.io/edmentum/jobs/6255572004",
+    "sponsorship": "Other",
+    "posted": "2026-11-11",
+    "source": "SimplifyJobs"
+  },
+  {
+    "id": "simplify-f633b964-2b4e-4cc9-909b-0de4e42c4cc6",
+    "company": "Shield AI",
+    "title": "Engineer 2 New Grad - Software - Autonomy Capabilities",
+    "locations": [
+      "Arlington County, Arlington, VA",
+      "San Diego, CA"
+    ],
+    "url": "https://jobs.ashbyhq.com/shield/24de5a65-86ce-4269-ad26-0a3e85b42eec/application?embed=true",
     "sponsorship": "Other",
     "posted": "2026-11-11",
     "source": "SimplifyJobs"
@@ -3677,6 +3668,30 @@
     "source": "SimplifyJobs"
   },
   {
+    "id": "lever-palantir-b3d81928-6c26-432f-8a0a-36602c2eefcb",
+    "company": "Palantir",
+    "title": "Forward Deployed Software Engineer, Internship - Warp Speed",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://jobs.lever.co/palantir/b3d81928-6c26-432f-8a0a-36602c2eefcb",
+    "sponsorship": "",
+    "posted": "2026-10-22",
+    "source": "Lever"
+  },
+  {
+    "id": "lever-palantir-66b495eb-aaf9-4bf9-a759-41854534add7",
+    "company": "Palantir",
+    "title": "Forward Deployed Software Engineer, New Grad - Warp Speed",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://jobs.lever.co/palantir/66b495eb-aaf9-4bf9-a759-41854534add7",
+    "sponsorship": "",
+    "posted": "2026-10-22",
+    "source": "Lever"
+  },
+  {
     "id": "ashby-ramp-09360e92-fc95-4ba6-9611-dfefd60b13ce",
     "company": "Ramp",
     "title": "Software Engineer, Forward Deployed, Enterprise Product",
@@ -3937,6 +3952,18 @@
     "sponsorship": "Other",
     "posted": "2026-10-19",
     "source": "SimplifyJobs"
+  },
+  {
+    "id": "lever-palantir-90329118-d9b7-4b96-acdf-13377e3196ac",
+    "company": "Palantir",
+    "title": "Software Engineer, New Grad - Query Engines",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://jobs.lever.co/palantir/90329118-d9b7-4b96-acdf-13377e3196ac",
+    "sponsorship": "",
+    "posted": "2026-10-19",
+    "source": "Lever"
   },
   {
     "id": "simplify-22a0a05d-ff1a-4abe-a1be-ef55d7b01fa9",
@@ -4209,6 +4236,18 @@
     "source": "SimplifyJobs"
   },
   {
+    "id": "lever-palantir-29630180-0f10-4826-801f-12e226d3c7f1",
+    "company": "Palantir",
+    "title": "Forward Deployed Software Engineer - US Government",
+    "locations": [
+      "Laurel, MD"
+    ],
+    "url": "https://jobs.lever.co/palantir/29630180-0f10-4826-801f-12e226d3c7f1",
+    "sponsorship": "",
+    "posted": "2026-10-13",
+    "source": "Lever"
+  },
+  {
     "id": "simplify-bb65ac0a-307a-4a41-976e-1baeafd3355f",
     "company": "STR",
     "title": "Associate Embedded Systems Emulation Engineer",
@@ -4257,6 +4296,18 @@
     "sponsorship": "Other",
     "posted": "2026-10-12",
     "source": "SimplifyJobs"
+  },
+  {
+    "id": "lever-palantir-5b0f37e6-8569-4a62-9e38-c5a4edc67dcf",
+    "company": "Palantir",
+    "title": "Forward Deployed Software Engineer - US Government",
+    "locations": [
+      "Norfolk, VA"
+    ],
+    "url": "https://jobs.lever.co/palantir/5b0f37e6-8569-4a62-9e38-c5a4edc67dcf",
+    "sponsorship": "",
+    "posted": "2026-10-12",
+    "source": "Lever"
   },
   {
     "id": "simplify-7aabe808-d12f-4399-b2f0-e348094fa171",
@@ -5030,6 +5081,18 @@
     "sponsorship": "Other",
     "posted": "2026-09-24",
     "source": "SimplifyJobs"
+  },
+  {
+    "id": "lever-palantir-a2e9ab0f-4dd1-4744-92b9-edc7ae393c58",
+    "company": "Palantir",
+    "title": "Forward Deployed Software Engineer - US Government",
+    "locations": [
+      "Kitsap, WA"
+    ],
+    "url": "https://jobs.lever.co/palantir/a2e9ab0f-4dd1-4744-92b9-edc7ae393c58",
+    "sponsorship": "",
+    "posted": "2026-09-24",
+    "source": "Lever"
   },
   {
     "id": "simplify-2d23863f-49e1-4783-aab6-4f76106c7d8d",
@@ -6144,6 +6207,18 @@
     "source": "SimplifyJobs"
   },
   {
+    "id": "lever-palantir-701a9307-0619-45d3-b077-cabe9897cd12",
+    "company": "Palantir",
+    "title": "Forward Deployed Infrastructure Engineer, New Grad - US Government",
+    "locations": [
+      "Honolulu, HI"
+    ],
+    "url": "https://jobs.lever.co/palantir/701a9307-0619-45d3-b077-cabe9897cd12",
+    "sponsorship": "",
+    "posted": "2026-08-31",
+    "source": "Lever"
+  },
+  {
     "id": "simplify-54cabb56-5337-4344-9f40-9ad54dc468b3",
     "company": "Micron Technology",
     "title": "Product Test Engineer New Grad",
@@ -7025,31 +7100,6 @@
       "Charlotte, NC"
     ],
     "url": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/New-Grad-2027---Software-Engineering_R-052475",
-    "sponsorship": "Other",
-    "posted": "2026-08-10",
-    "source": "SimplifyJobs"
-  },
-  {
-    "id": "simplify-22f4cbf0-ea63-4e72-9fba-4319ef8415c3",
-    "company": "Blue Origin",
-    "title": "Software Development Engineer 1 - Early Career",
-    "locations": [
-      "Seattle, WA"
-    ],
-    "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Software-Development-Engineer-I---Early-Career--2026-Starts-_R70051",
-    "sponsorship": "Other",
-    "posted": "2026-08-10",
-    "source": "SimplifyJobs"
-  },
-  {
-    "id": "simplify-e6df433c-3d96-4836-87d4-845481845c1b",
-    "company": "Blue Origin",
-    "title": "Avionics / Embedded Software Engineer 1 - Early Career",
-    "locations": [
-      "LA",
-      "Kent, WA"
-    ],
-    "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Avionics---Embedded-Software-Engineer-I---Early-Career--2026-Starts-_R70055",
     "sponsorship": "Other",
     "posted": "2026-08-10",
     "source": "SimplifyJobs"
@@ -8347,6 +8397,18 @@
     "source": "SimplifyJobs"
   },
   {
+    "id": "lever-palantir-e500bcf3-19d8-4d3c-b340-4d76e4a55b40",
+    "company": "Palantir",
+    "title": "Forward Deployed Software Engineer, New Grad - Commercial",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "url": "https://jobs.lever.co/palantir/e500bcf3-19d8-4d3c-b340-4d76e4a55b40",
+    "sponsorship": "",
+    "posted": "2026-06-29",
+    "source": "Lever"
+  },
+  {
     "id": "simplify-83f79aa8-55d8-411d-bcce-9308b80af496",
     "company": "GlobalFoundries",
     "title": "New Graduate Heterogeneous Integration Engineer - Quantum Cryogenic 3D Packaging",
@@ -8394,6 +8456,30 @@
     "sponsorship": "Other",
     "posted": "2026-06-26",
     "source": "SimplifyJobs"
+  },
+  {
+    "id": "lever-palantir-95e0d2b0-437a-4096-a5c6-0f247f426c90",
+    "company": "Palantir",
+    "title": "Privacy & Civil Liberties Engineer - New Grad",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://jobs.lever.co/palantir/95e0d2b0-437a-4096-a5c6-0f247f426c90",
+    "sponsorship": "",
+    "posted": "2026-06-25",
+    "source": "Lever"
+  },
+  {
+    "id": "lever-palantir-75cc1c09-8ebd-44c8-b3bc-d122cd1fecb3",
+    "company": "Palantir",
+    "title": "Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "url": "https://jobs.lever.co/palantir/75cc1c09-8ebd-44c8-b3bc-d122cd1fecb3",
+    "sponsorship": "",
+    "posted": "2026-06-24",
+    "source": "Lever"
   },
   {
     "id": "simplify-c524550c-525b-4838-8898-17e6386a560e",
@@ -8478,6 +8564,18 @@
     "sponsorship": "Other",
     "posted": "2026-06-16",
     "source": "SimplifyJobs"
+  },
+  {
+    "id": "lever-palantir-7ea66860-ae93-4139-9388-b7284cb33f37",
+    "company": "Palantir",
+    "title": "Forward Deployed Software Engineer",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "url": "https://jobs.lever.co/palantir/7ea66860-ae93-4139-9388-b7284cb33f37",
+    "sponsorship": "",
+    "posted": "2026-06-16",
+    "source": "Lever"
   },
   {
     "id": "simplify-441c3d0c-ee76-4f06-85bc-5c015f9c7452",
@@ -8646,6 +8744,18 @@
     "source": "SimplifyJobs"
   },
   {
+    "id": "lever-palantir-be4ab5cb-9caa-4c2a-97b9-c73805fca4fc",
+    "company": "Palantir",
+    "title": "Forward Deployed Software Engineer - US Government - Federal Health and Civilian",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://jobs.lever.co/palantir/be4ab5cb-9caa-4c2a-97b9-c73805fca4fc",
+    "sponsorship": "",
+    "posted": "2026-05-07",
+    "source": "Lever"
+  },
+  {
     "id": "simplify-80d74961-722d-4792-ab7a-4f178e4e0e58",
     "company": "NVIDIA",
     "title": "Power Methodology and Modeling Engineer New Grad",
@@ -8668,6 +8778,18 @@
     "sponsorship": "U.S. Citizenship is Required",
     "posted": "2026-05-04",
     "source": "SimplifyJobs"
+  },
+  {
+    "id": "lever-palantir-0fccbe95-2520-4df3-8600-7897656c06a2",
+    "company": "Palantir",
+    "title": "Forward Deployed Infrastructure Engineer - US Government",
+    "locations": [
+      "Honolulu, HI"
+    ],
+    "url": "https://jobs.lever.co/palantir/0fccbe95-2520-4df3-8600-7897656c06a2",
+    "sponsorship": "",
+    "posted": "2026-05-04",
+    "source": "Lever"
   },
   {
     "id": "simplify-eae3b99e-8a7e-4960-9ce5-b8afaa1e5fce",
@@ -8770,6 +8892,78 @@
     "source": "SimplifyJobs"
   },
   {
+    "id": "lever-palantir-e6789b17-62fb-4226-a079-f8c17ff19e2d",
+    "company": "Palantir",
+    "title": "Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://jobs.lever.co/palantir/e6789b17-62fb-4226-a079-f8c17ff19e2d",
+    "sponsorship": "",
+    "posted": "2026-03-20",
+    "source": "Lever"
+  },
+  {
+    "id": "lever-palantir-5c7bb70c-83ea-43e7-8055-0c8f319f4333",
+    "company": "Palantir",
+    "title": "Year at Palantir - Forward Deployed Software Engineer, Internship - USG",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://jobs.lever.co/palantir/5c7bb70c-83ea-43e7-8055-0c8f319f4333",
+    "sponsorship": "",
+    "posted": "2026-03-20",
+    "source": "Lever"
+  },
+  {
+    "id": "lever-palantir-ac0dc094-2480-43c2-8495-26ade227ff4f",
+    "company": "Palantir",
+    "title": "Forward Deployed Software Engineer, Internship - France",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://jobs.lever.co/palantir/ac0dc094-2480-43c2-8495-26ade227ff4f",
+    "sponsorship": "",
+    "posted": "2026-03-10",
+    "source": "Lever"
+  },
+  {
+    "id": "lever-palantir-689e6869-01bc-40f1-b580-adb33a020065",
+    "company": "Palantir",
+    "title": "Forward Deployed Reliability Engineer",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://jobs.lever.co/palantir/689e6869-01bc-40f1-b580-adb33a020065",
+    "sponsorship": "",
+    "posted": "2026-02-10",
+    "source": "Lever"
+  },
+  {
+    "id": "lever-palantir-d83fac1c-353e-4b77-a586-3276b1090b6e",
+    "company": "Palantir",
+    "title": "Forward Deployed Software Engineer - US Government",
+    "locations": [
+      "Fayetteville, NC"
+    ],
+    "url": "https://jobs.lever.co/palantir/d83fac1c-353e-4b77-a586-3276b1090b6e",
+    "sponsorship": "",
+    "posted": "2026-01-12",
+    "source": "Lever"
+  },
+  {
+    "id": "lever-palantir-315f695d-04d1-4a9a-848e-cb2bec7a997e",
+    "company": "Palantir",
+    "title": "Forward Deployed Software Engineer, Internship - US Government",
+    "locations": [
+      "Honolulu, HI"
+    ],
+    "url": "https://jobs.lever.co/palantir/315f695d-04d1-4a9a-848e-cb2bec7a997e",
+    "sponsorship": "",
+    "posted": "2025-12-11",
+    "source": "Lever"
+  },
+  {
     "id": "ashby-openai-533c0fc9-b773-476d-9f96-a0528efbab0e",
     "company": "Openai",
     "title": "Forward Deployed Software Engineer - NYC",
@@ -8780,6 +8974,30 @@
     "sponsorship": "",
     "posted": "2025-12-10",
     "source": "Ashby"
+  },
+  {
+    "id": "lever-palantir-33243fb5-6907-40c7-930c-968b25d825d0",
+    "company": "Palantir",
+    "title": "Forward Deployed Infrastructure Engineer, New Grad - US Government",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "url": "https://jobs.lever.co/palantir/33243fb5-6907-40c7-930c-968b25d825d0",
+    "sponsorship": "",
+    "posted": "2025-10-29",
+    "source": "Lever"
+  },
+  {
+    "id": "lever-palantir-91117724-9389-48dc-912f-98e48d4d45d8",
+    "company": "Palantir",
+    "title": "Forward Deployed Infrastructure Engineer, New Grad - US Government",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://jobs.lever.co/palantir/91117724-9389-48dc-912f-98e48d4d45d8",
+    "sponsorship": "",
+    "posted": "2025-10-29",
+    "source": "Lever"
   },
   {
     "id": "ashby-openai-db5a708d-1d7a-4aa3-8dd3-0d0423b6b69f",
@@ -8794,6 +9012,18 @@
     "source": "Ashby"
   },
   {
+    "id": "lever-palantir-7d75bed5-45d8-4876-840a-2d92ea79c98d",
+    "company": "Palantir",
+    "title": "Software Engineer, New Grad - Infrastructure",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "url": "https://jobs.lever.co/palantir/7d75bed5-45d8-4876-840a-2d92ea79c98d",
+    "sponsorship": "",
+    "posted": "2025-08-19",
+    "source": "Lever"
+  },
+  {
     "id": "ashby-notion-10437426-14c8-4c45-8075-67959ce80393",
     "company": "Notion",
     "title": "Forward Deployed Engineer, GTM, AMER",
@@ -8804,5 +9034,221 @@
     "sponsorship": "",
     "posted": "2025-08-07",
     "source": "Ashby"
+  },
+  {
+    "id": "lever-palantir-84131e3f-455e-47fc-9c11-898d95f09048",
+    "company": "Palantir",
+    "title": "Forward Deployed Software Engineer - US Government",
+    "locations": [
+      "San Diego, CA"
+    ],
+    "url": "https://jobs.lever.co/palantir/84131e3f-455e-47fc-9c11-898d95f09048",
+    "sponsorship": "",
+    "posted": "2025-07-29",
+    "source": "Lever"
+  },
+  {
+    "id": "lever-palantir-4abf26b4-795c-420a-bf22-1ab98db268b4",
+    "company": "Palantir",
+    "title": "Software Engineer, New Grad - Infrastructure",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://jobs.lever.co/palantir/4abf26b4-795c-420a-bf22-1ab98db268b4",
+    "sponsorship": "",
+    "posted": "2025-06-26",
+    "source": "Lever"
+  },
+  {
+    "id": "lever-palantir-4d5a144e-87ea-45e2-a68c-3fad590629af",
+    "company": "Palantir",
+    "title": "Software Engineer, New Grad - Production Infrastructure",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "url": "https://jobs.lever.co/palantir/4d5a144e-87ea-45e2-a68c-3fad590629af",
+    "sponsorship": "",
+    "posted": "2025-06-26",
+    "source": "Lever"
+  },
+  {
+    "id": "lever-palantir-e1a6c138-98bf-45e2-97f7-2c70371cc38a",
+    "company": "Palantir",
+    "title": "Software Engineer, New Grad - Production Infrastructure",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://jobs.lever.co/palantir/e1a6c138-98bf-45e2-97f7-2c70371cc38a",
+    "sponsorship": "",
+    "posted": "2025-06-26",
+    "source": "Lever"
+  },
+  {
+    "id": "lever-palantir-0a838e66-1ab0-4fc4-b4d3-4671c0352278",
+    "company": "Palantir",
+    "title": "Software Engineer, New Grad - Defense",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://jobs.lever.co/palantir/0a838e66-1ab0-4fc4-b4d3-4671c0352278",
+    "sponsorship": "",
+    "posted": "2025-06-19",
+    "source": "Lever"
+  },
+  {
+    "id": "lever-palantir-f362d7aa-360d-4059-ab38-f482742693b3",
+    "company": "Palantir",
+    "title": "Software Engineer, New Grad - Defense",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "url": "https://jobs.lever.co/palantir/f362d7aa-360d-4059-ab38-f482742693b3",
+    "sponsorship": "",
+    "posted": "2025-06-19",
+    "source": "Lever"
+  },
+  {
+    "id": "lever-palantir-2e6b0ac8-83e9-4be5-a3aa-cf319f751728",
+    "company": "Palantir",
+    "title": "Forward Deployed Software Engineer, New Grad - Commercial",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://jobs.lever.co/palantir/2e6b0ac8-83e9-4be5-a3aa-cf319f751728",
+    "sponsorship": "",
+    "posted": "2025-06-13",
+    "source": "Lever"
+  },
+  {
+    "id": "lever-palantir-13f99633-43b5-4459-8e84-25073f257c18",
+    "company": "Palantir",
+    "title": "Forward Deployed Software Engineer - Warp Speed",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://jobs.lever.co/palantir/13f99633-43b5-4459-8e84-25073f257c18",
+    "sponsorship": "",
+    "posted": "2025-02-07",
+    "source": "Lever"
+  },
+  {
+    "id": "lever-palantir-4cba9c95-d16f-440d-83e7-2352480f689f",
+    "company": "Palantir",
+    "title": "Forward Deployed Enablement Engineer - Customer Success",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://jobs.lever.co/palantir/4cba9c95-d16f-440d-83e7-2352480f689f",
+    "sponsorship": "",
+    "posted": "2024-11-13",
+    "source": "Lever"
+  },
+  {
+    "id": "lever-palantir-636fc05c-d348-4a06-be51-597cb9e07488",
+    "company": "Palantir",
+    "title": "Forward Deployed AI Engineer",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://jobs.lever.co/palantir/636fc05c-d348-4a06-be51-597cb9e07488",
+    "sponsorship": "",
+    "posted": "2024-03-22",
+    "source": "Lever"
+  },
+  {
+    "id": "lever-palantir-b57f08e9-546c-4b9b-8d21-db0ebbc11363",
+    "company": "Palantir",
+    "title": "Forward Deployed Infrastructure Engineer - US Government",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://jobs.lever.co/palantir/b57f08e9-546c-4b9b-8d21-db0ebbc11363",
+    "sponsorship": "",
+    "posted": "2023-09-14",
+    "source": "Lever"
+  },
+  {
+    "id": "lever-palantir-e0010393-c300-446f-bf67-fa2ef067f16f",
+    "company": "Palantir",
+    "title": "Forward Deployed Software Engineer, Internship - US Government",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://jobs.lever.co/palantir/e0010393-c300-446f-bf67-fa2ef067f16f",
+    "sponsorship": "",
+    "posted": "2022-06-30",
+    "source": "Lever"
+  },
+  {
+    "id": "lever-palantir-d1ac83d0-e923-42a5-8e6d-58dd0cab25ca",
+    "company": "Palantir",
+    "title": "Forward Deployed Software Engineer, New Grad - US Government",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://jobs.lever.co/palantir/d1ac83d0-e923-42a5-8e6d-58dd0cab25ca",
+    "sponsorship": "",
+    "posted": "2022-06-30",
+    "source": "Lever"
+  },
+  {
+    "id": "lever-palantir-ce8ca664-60dc-4f9a-8986-3c96673bcfdf",
+    "company": "Palantir",
+    "title": "Forward Deployed Software Engineer - US Government",
+    "locations": [
+      "Honolulu, HI"
+    ],
+    "url": "https://jobs.lever.co/palantir/ce8ca664-60dc-4f9a-8986-3c96673bcfdf",
+    "sponsorship": "",
+    "posted": "2022-04-07",
+    "source": "Lever"
+  },
+  {
+    "id": "lever-palantir-94984771-0704-446c-88c6-91ce748f6d92",
+    "company": "Palantir",
+    "title": "Software Engineer, New Grad",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://jobs.lever.co/palantir/94984771-0704-446c-88c6-91ce748f6d92",
+    "sponsorship": "",
+    "posted": "2021-07-01",
+    "source": "Lever"
+  },
+  {
+    "id": "lever-palantir-c34b424e-caf2-455a-b104-ae1096ccca29",
+    "company": "Palantir",
+    "title": "Software Engineer, New Grad",
+    "locations": [
+      "Denver, CO"
+    ],
+    "url": "https://jobs.lever.co/palantir/c34b424e-caf2-455a-b104-ae1096ccca29",
+    "sponsorship": "",
+    "posted": "2020-10-27",
+    "source": "Lever"
+  },
+  {
+    "id": "lever-palantir-e82b696e-a085-4bbf-8bcb-6d2c4f8cf2f7",
+    "company": "Palantir",
+    "title": "Forward Deployed Software Engineer - US Government",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://jobs.lever.co/palantir/e82b696e-a085-4bbf-8bcb-6d2c4f8cf2f7",
+    "sponsorship": "",
+    "posted": "2020-06-02",
+    "source": "Lever"
+  },
+  {
+    "id": "lever-palantir-dab396d4-2f14-4796-aac0-0d82883dccf0",
+    "company": "Palantir",
+    "title": "Forward Deployed Software Engineer",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://jobs.lever.co/palantir/dab396d4-2f14-4796-aac0-0d82883dccf0",
+    "sponsorship": "",
+    "posted": "2014-01-23",
+    "source": "Lever"
   }
 ]
